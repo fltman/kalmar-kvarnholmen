@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "sha256": {
+    "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91970263.uasset": "22f6bbf013b4e6b4b9550c65035c3fff85f972f88f963c13b08ced1a56fbc5aa",
+    "Unreal/Content/Kalmar/Meshes/SM_Building_91846946.uasset": "bb1ab62e4622ebe0c8398ddcab8877ec7cd4db6084a5633342dc5344a50ddde7",
+    "Unreal/Content/Kalmar/Meshes/SM_Building_92379254.uasset": "52f53e20e01deacde0f7a862dad6dce22b87d128b3f4c2af25f85261d530c2f7",
+    "Unreal/Content/Kalmar/Meshes/SM_Building_92379269.uasset": "698020e620523806f0fc4140089b146ce9747474e410a87966917e9a6fb2a8c6",
+    "Unreal/Content/Kalmar/Meshes/SM_Building_92379288.uasset": "3c9cf21af7c792a27275cd5c1368f7c7e04a872be0408c515edf63ccafae6898",
+    "Unreal/Content/Kalmar/Meshes/SM_Building_91970290.uasset": "cf62120bd7413419a35c2b3ab7379568cf8e4a99edc754ce863c337a0c78fd7b",
+    "Unreal/Content/Kalmar/Materials/M_Street20_DarkPlinth.uasset": "12f847f432a708ea99a76aea42b8a75beea2a5d0e664760b754c77ee1c3127e1",
+    "Unreal/Content/Kalmar/Materials/M_Street20_HoneyWood.uasset": "870af746bacb2335fb15fd116727550a756c64ff72616c61955792ba9f036f05",
+    "Unreal/Content/Kalmar/Materials/M_Street20_Ochre.uasset": "be4d4168f4de25952421fb06520494047f2973b2d41d418465e7ccc642b362fc",
+    "Unreal/Content/Kalmar/Materials/M_Street20_RedFrame.uasset": "1349468acbc51d087058522028b34a473d90af4b1b685ea44a6974261dadea88",
+    "Unreal/Content/Kalmar/Materials/M_Street20_Burgundy.uasset": "60644b99a6de5f2fa1dbd84301ef41e9e2f210058b7ebfd82f1447500567c5a7",
+    "Unreal/Content/Kalmar/Materials/M_Street20_CreamWood.uasset": "3d6b362f71e2a1c991f248c9944f2b3af5e5e9796c9b6c6b79d85d533f353489",
+    "Unreal/Content/Kalmar/Materials/M_Street20_Limestone.uasset": "aa97fe3da7ecb73c64457288ff599fd3261bbe5c11f1c83100d61ba4d7fe0e92",
+    "Unreal/Content/Kalmar/Materials/M_Street20_Orange.uasset": "41f43b668f5efa6412f24eb12a06c6856e9a012a63918bf989666adf5421c5e3",
+    "Unreal/Content/Kalmar/Materials/M_Street20_Pale.uasset": "a9f84a90b4ec842ab373852fcc79be6ad870b39f3cb99d544011c42bddfa8592",
+    "Unreal/Content/Kalmar/Materials/M_Street20_GreyFrame.uasset": "077147d77086b077dad71f6420a720c3fbc182c21ebcd979c66ec72baacf5a6e",
+    "Unreal/Content/Kalmar/Maps/Stortorget.umap": "8823aa54fee29d99dd7f450211ac9dee5264f21519242ef2c51c6aab78870395"
+  }
+}

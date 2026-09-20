@@ -37,3 +37,7 @@ exports/textures/
 references/polyhaven*/*.png
 references/polyhaven*/*.jpg
 references/polyhaven*/*.exr
+
+references/street20/*.jpg
+references/street20/*.png
+references/street20/*.html

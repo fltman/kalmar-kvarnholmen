@@ -1,0 +1,88 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_91970263": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 21066,
+      "polygons": 22690,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_91846946": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 14521,
+      "polygons": 16277,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92379254": {
+      "mikk_zero_loops_before_export_repair": 1,
+      "vertices": 16359,
+      "polygons": 8435,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 1,
+        "Binormals": 1
+      }
+    },
+    "SM_Building_92379269": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 25631,
+      "polygons": 12099,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92379288": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 22069,
+      "polygons": 10225,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_91970290": {
+      "mikk_zero_loops_before_export_repair": 5,
+      "vertices": 15492,
+      "polygons": 9506,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 5,
+        "Binormals": 5
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_91970263",
+    "SM_Building_91846946",
+    "SM_Building_92379254",
+    "SM_Building_92379269",
+    "SM_Building_92379288",
+    "SM_Building_91970290"
+  ],
+  "cameras": [
+    "91_Storgatan_South20",
+    "92_Storgatan_Orange20",
+    "93_Kullzenska20",
+    "94_Areskogska20",
+    "95_Norra_Langgatan20",
+    "96_Larmgatan20",
+    "97_Kaggensgatan20"
+  ]
+}

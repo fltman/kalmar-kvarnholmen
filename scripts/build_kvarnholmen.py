@@ -152,3 +152,7 @@ if (R/'source/district17.json').exists():
 if (R/'source/pass18.json').exists():
  exec(compile((R/'scripts/build_pass18.py').read_text(),'build_pass18.py','exec'))
  district_names=list(dict.fromkeys(district_names+pass18_names));district_cameras+=pass18_cameras
+
+# Preserve the reference-specific Storgatan and northern street corners.
+exec(compile((R/'scripts/build_street20.py').read_text(),'build_street20.py','exec'))
+district_names=list(dict.fromkeys(district_names+street20_names));district_cameras+=street20_cameras
