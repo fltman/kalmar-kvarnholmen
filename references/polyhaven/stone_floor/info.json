@@ -1,0 +1,55 @@
+{
+  "date_published": 1678320000,
+  "name": "Stone Floor",
+  "type": 1,
+  "staging": null,
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "dimensions": [
+    1849.9999046325684,
+    1849.9999046325684
+  ],
+  "info": null,
+  "tags": [
+    "rough",
+    "old",
+    "uneven",
+    "worn",
+    "brown",
+    "dirty",
+    "dry",
+    "rock",
+    "floor",
+    "pathway",
+    "paving",
+    "stone",
+    "cobblestone"
+  ],
+  "categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "rock",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "582d5abd87d939a6a15b53b816bd82027b04ad1e",
+  "description": "Free 8K texture of old brown cobblestone floor, rough uneven worn stones with dry dirt-filled joints and subtle grime for a weathered paved surface.",
+  "attributes": {
+    "surface_use": "floor",
+    "condition": [
+      "worn"
+    ],
+    "origin": "man_made",
+    "setting": "outdoor"
+  },
+  "category_id": "5aa99c3f-7783-51e3-90d1-2c496368ad24",
+  "category": "Stone/Cobblestone & Paving/Cut Setts & Pavers",
+  "img_version": "ae9298d4",
+  "download_count": 9959,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_floor.png?width=256&height=256&v=ae9298d4"
+}

@@ -1,0 +1,136 @@
+{
+  "M_Landmark_Rubble": {
+    "asset": "stone_wall",
+    "metres": 2.8,
+    "tint": null,
+    "macro": 0.2,
+    "damp": 0.23
+  },
+  "M_Landmark_Ashlar": {
+    "asset": "stone_wall_02",
+    "metres": 2.0,
+    "tint": [
+      177,
+      173,
+      157
+    ],
+    "macro": 0.1,
+    "damp": 0.12
+  },
+  "M_Landmark_BrickRed": {
+    "asset": "brick_wall_001",
+    "metres": 3.0,
+    "tint": null,
+    "macro": 0.12,
+    "damp": 0.08
+  },
+  "M_Landmark_BrickBuff": {
+    "asset": "brick_wall_003",
+    "metres": 4.0,
+    "tint": [
+      184,
+      166,
+      121
+    ],
+    "macro": 0.12,
+    "damp": 0.08
+  },
+  "M_Landmark_Cream": {
+    "asset": "plastered_wall_02",
+    "metres": 2.23,
+    "tint": [
+      220,
+      209,
+      180
+    ],
+    "macro": 0.07,
+    "damp": 0.08
+  },
+  "M_Landmark_Turf": {
+    "asset": "sparse_grass",
+    "metres": 2.0,
+    "tint": null,
+    "macro": 0.22,
+    "damp": 0
+  },
+  "M_Town_TileRed": {
+    "asset": "clay_roof_tiles_02",
+    "metres": 2.5,
+    "tint": null,
+    "macro": 0.13,
+    "damp": 0
+  },
+  "M_Storgatan_Setts": {
+    "asset": "cobblestone_floor_08",
+    "metres": 2.0,
+    "tint": [
+      137,
+      136,
+      125
+    ],
+    "macro": 0.15,
+    "damp": 0
+  },
+  "M_Kvarnholmen_Asphalt": {
+    "asset": "asphalt_02",
+    "metres": 3.0,
+    "tint": null,
+    "macro": 0.12,
+    "damp": 0
+  },
+  "M_Polish_BridgeWood": {
+    "asset": "wood_planks_grey",
+    "metres": 1.5,
+    "tint": [
+      118,
+      105,
+      84
+    ],
+    "macro": 0.13,
+    "damp": 0.1
+  },
+  "M_Town_Ivory": {
+    "asset": "plastered_wall_02",
+    "metres": 2.23,
+    "tint": [
+      219,
+      213,
+      193
+    ],
+    "macro": 0.07,
+    "damp": 0.1
+  },
+  "M_Town_Lime": {
+    "asset": "plastered_wall_02",
+    "metres": 2.23,
+    "tint": [
+      183,
+      188,
+      169
+    ],
+    "macro": 0.07,
+    "damp": 0.1
+  },
+  "M_Town_Yellow": {
+    "asset": "plastered_wall_02",
+    "metres": 2.23,
+    "tint": [
+      204,
+      186,
+      139
+    ],
+    "macro": 0.07,
+    "damp": 0.1
+  },
+  "M_Town_Rose": {
+    "asset": "plastered_wall_02",
+    "metres": 2.23,
+    "tint": [
+      192,
+      149,
+      128
+    ],
+    "macro": 0.07,
+    "damp": 0.1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "resolution": 2048,
+  "sources": [
+    "https://polyhaven.com/a/white_plaster_02",
+    "https://polyhaven.com/a/marble_01"
+  ],
+  "license": "CC0",
+  "unused_download": "stone_floor; rejected because its joints and weathering do not match the church interior",
+  "normal_convention": "OpenGL",
+  "plaster_tile_metres": 2,
+  "marble_sample_crop": [
+    0.35,
+    0.3,
+    0.63,
+    0.63
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ChurchCutStone": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.04847501218318939,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchWindowPaint": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.00800000037997961,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchWindowGlass": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.13000476360321045,
+    "normal_convention": "OpenGL +Y"
+  }
+}

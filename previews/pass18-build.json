@@ -1,0 +1,561 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_91285823": {
+      "mikk_zero_loops_before_export_repair": 47,
+      "vertices": 475505,
+      "polygons": 560763,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 47,
+        "Binormals": 47
+      }
+    },
+    "SM_Kvarnholmen_House_91285828": {
+      "mikk_zero_loops_before_export_repair": 20,
+      "vertices": 264977,
+      "polygons": 311997,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 20,
+        "Binormals": 20
+      }
+    },
+    "SM_Kvarnholmen_House_91285833": {
+      "mikk_zero_loops_before_export_repair": 113,
+      "vertices": 249687,
+      "polygons": 295057,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 113,
+        "Binormals": 113
+      }
+    },
+    "SM_Kvarnholmen_House_91846944": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 444570,
+      "polygons": 525014,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_House_91846928": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 92312,
+      "polygons": 121218,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Port_Vasterport": {
+      "mikk_zero_loops_before_export_repair": 2,
+      "vertices": 4478,
+      "polygons": 5918,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2,
+        "Binormals": 2
+      }
+    },
+    "SM_Kvarnholmen_Port_Jordbroporten": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 5112,
+      "polygons": 7800,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Port_Kavaljersporten": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 5818,
+      "polygons": 9648,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92412866": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 6286,
+      "polygons": 10056,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92412857": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 4467,
+      "polygons": 6805,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92412842": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 8500,
+      "polygons": 13088,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92412870": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 11398,
+      "polygons": 17314,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_House_91846934": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 39833,
+      "polygons": 56861,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Building_92379310": {
+      "mikk_zero_loops_before_export_repair": 3,
+      "vertices": 67437,
+      "polygons": 23643,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 3,
+        "Binormals": 3
+      }
+    },
+    "SM_Building_92379312": {
+      "mikk_zero_loops_before_export_repair": 3,
+      "vertices": 60305,
+      "polygons": 62827,
+      "reprojected_polygons": 1,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 3,
+        "Binormals": 3
+      }
+    },
+    "SM_Kvarnholmen_Surface18_35773127": {
+      "mikk_zero_loops_before_export_repair": 61,
+      "vertices": 8379,
+      "polygons": 3595,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 61,
+        "Binormals": 61
+      }
+    },
+    "SM_Kvarnholmen_Surface18_35773130": {
+      "mikk_zero_loops_before_export_repair": 34,
+      "vertices": 1129,
+      "polygons": 485,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 34,
+        "Binormals": 34
+      }
+    },
+    "SM_Kvarnholmen_Surface18_36194480": {
+      "mikk_zero_loops_before_export_repair": 6,
+      "vertices": 483,
+      "polygons": 209,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 6,
+        "Binormals": 6
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640264": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 798,
+      "polygons": 1190,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640265": {
+      "mikk_zero_loops_before_export_repair": 7,
+      "vertices": 1881,
+      "polygons": 2671,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 7,
+        "Binormals": 7
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640266": {
+      "mikk_zero_loops_before_export_repair": 5,
+      "vertices": 1548,
+      "polygons": 2252,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 5,
+        "Binormals": 5
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640267": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 2175,
+      "polygons": 3245,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640268": {
+      "mikk_zero_loops_before_export_repair": 31,
+      "vertices": 7515,
+      "polygons": 10877,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 31,
+        "Binormals": 31
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640269": {
+      "mikk_zero_loops_before_export_repair": 23,
+      "vertices": 4998,
+      "polygons": 7210,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 23,
+        "Binormals": 23
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640270": {
+      "mikk_zero_loops_before_export_repair": 25,
+      "vertices": 6126,
+      "polygons": 9042,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 25,
+        "Binormals": 25
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640271": {
+      "mikk_zero_loops_before_export_repair": 10,
+      "vertices": 3864,
+      "polygons": 5712,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 10,
+        "Binormals": 10
+      }
+    },
+    "SM_Kvarnholmen_Surface18_37640272": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 510,
+      "polygons": 758,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_38033726": {
+      "mikk_zero_loops_before_export_repair": 22,
+      "vertices": 2127,
+      "polygons": 2977,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 22,
+        "Binormals": 22
+      }
+    },
+    "SM_Kvarnholmen_Surface18_38033727": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 492,
+      "polygons": 696,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_90965001": {
+      "mikk_zero_loops_before_export_repair": 36,
+      "vertices": 5994,
+      "polygons": 8270,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 36,
+        "Binormals": 36
+      }
+    },
+    "SM_Kvarnholmen_Surface18_90977182": {
+      "mikk_zero_loops_before_export_repair": 4,
+      "vertices": 1029,
+      "polygons": 1323,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 4,
+        "Binormals": 4
+      }
+    },
+    "SM_Kvarnholmen_Surface18_91846932": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 582,
+      "polygons": 866,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_91970281": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 22,
+      "polygons": 10,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_92379274": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 36,
+      "polygons": 16,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_128278527": {
+      "mikk_zero_loops_before_export_repair": 1,
+      "vertices": 229,
+      "polygons": 101,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 1,
+        "Binormals": 1
+      }
+    },
+    "SM_Kvarnholmen_Surface18_128278553": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 6,
+      "polygons": 2,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_143758083": {
+      "mikk_zero_loops_before_export_repair": 1,
+      "vertices": 65,
+      "polygons": 29,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 1,
+        "Binormals": 1
+      }
+    },
+    "SM_Kvarnholmen_Surface18_143758087": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 486,
+      "polygons": 722,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_1415046340": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 30,
+      "polygons": 38,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_1415046341": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 6,
+      "polygons": 2,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_1498513076": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 9,
+      "polygons": 3,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Surface18_1498513077": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 9,
+      "polygons": 3,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Vall_Sodra": {
+      "mikk_zero_loops_before_export_repair": 2,
+      "vertices": 2208,
+      "polygons": 952,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2,
+        "Binormals": 2
+      }
+    },
+    "SM_Kvarnholmen_Vall_Regeringen": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 43,
+      "polygons": 19,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Vall_CarolusPhilippus": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 22,
+      "polygons": 10,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_91285823",
+    "SM_Kvarnholmen_House_91285828",
+    "SM_Kvarnholmen_House_91285833",
+    "SM_Kvarnholmen_House_91846944",
+    "SM_Kvarnholmen_House_91846928",
+    "SM_Kvarnholmen_Port_Vasterport",
+    "SM_Kvarnholmen_Port_Jordbroporten",
+    "SM_Kvarnholmen_Port_Kavaljersporten",
+    "SM_Building_92412866",
+    "SM_Building_92412857",
+    "SM_Building_92412842",
+    "SM_Building_92412870",
+    "SM_Kvarnholmen_House_91846934",
+    "SM_Building_92379310",
+    "SM_Building_92379312",
+    "SM_Kvarnholmen_Surface18_35773127",
+    "SM_Kvarnholmen_Surface18_35773130",
+    "SM_Kvarnholmen_Surface18_36194480",
+    "SM_Kvarnholmen_Surface18_37640264",
+    "SM_Kvarnholmen_Surface18_37640265",
+    "SM_Kvarnholmen_Surface18_37640266",
+    "SM_Kvarnholmen_Surface18_37640267",
+    "SM_Kvarnholmen_Surface18_37640268",
+    "SM_Kvarnholmen_Surface18_37640269",
+    "SM_Kvarnholmen_Surface18_37640270",
+    "SM_Kvarnholmen_Surface18_37640271",
+    "SM_Kvarnholmen_Surface18_37640272",
+    "SM_Kvarnholmen_Surface18_38033726",
+    "SM_Kvarnholmen_Surface18_38033727",
+    "SM_Kvarnholmen_Surface18_90965001",
+    "SM_Kvarnholmen_Surface18_90977182",
+    "SM_Kvarnholmen_Surface18_91846932",
+    "SM_Kvarnholmen_Surface18_91970281",
+    "SM_Kvarnholmen_Surface18_92379274",
+    "SM_Kvarnholmen_Surface18_128278527",
+    "SM_Kvarnholmen_Surface18_128278553",
+    "SM_Kvarnholmen_Surface18_143758083",
+    "SM_Kvarnholmen_Surface18_143758087",
+    "SM_Kvarnholmen_Surface18_1415046340",
+    "SM_Kvarnholmen_Surface18_1415046341",
+    "SM_Kvarnholmen_Surface18_1498513076",
+    "SM_Kvarnholmen_Surface18_1498513077",
+    "SM_Kvarnholmen_Vall_Sodra",
+    "SM_Kvarnholmen_Vall_Regeringen",
+    "SM_Kvarnholmen_Vall_CarolusPhilippus"
+  ],
+  "cameras": [
+    "78_Riskvarnen",
+    "79_Riskvarnen_West",
+    "80_Varmbadhuset",
+    "81_Badhusportal",
+    "82_Jordbroporten",
+    "83_Kavaljeren",
+    "84_Vasterport",
+    "85_Witt_Rear",
+    "86_Barometern",
+    "87_Torget_Husgrans",
+    "88_Markytor",
+    "89_Gerdas"
+  ]
+}

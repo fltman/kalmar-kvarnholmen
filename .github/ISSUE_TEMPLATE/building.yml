@@ -1,0 +1,25 @@
+name: Building correction
+description: Report an inaccurate or missing building detail
+title: "[Building] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Building or address
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs correcting?
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Dated reference links or your own photographs
+      description: Please identify the source and license. Avoid uploading photos you cannot redistribute.
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Current model screenshots and approximate camera location

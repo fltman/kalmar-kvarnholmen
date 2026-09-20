@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2942773 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="4309189922" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6593861" lon="16.3571330"/>
+ <node id="4309189923" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6597687" lon="16.3604050"/>
+ <node id="4309189924" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6598550" lon="16.3613886"/>
+ <node id="4309189925" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6600728" lon="16.3610935"/>
+ <node id="4309189926" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6601072" lon="16.3647689"/>
+ <node id="4309189927" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6602981" lon="16.3659592"/>
+ <node id="4309189929" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6604595" lon="16.3628456"/>
+ <node id="4309189937" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6615569" lon="16.3569617"/>
+ <node id="4309189938" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6618144" lon="16.3701752"/>
+ <node id="4309189939" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6618833" lon="16.3571144"/>
+ <node id="4309189940" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6621143" lon="16.3577790"/>
+ <node id="4309189942" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6621746" lon="16.3573594"/>
+ <node id="4309189945" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6633838" lon="16.3590051"/>
+ <node id="4309189948" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6641255" lon="16.3724637"/>
+ <node id="4309189953" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6647257" lon="16.3581911"/>
+ <node id="4309189955" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6651392" lon="16.3730310"/>
+ <node id="4309189957" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6657225" lon="16.3735862"/>
+ <node id="4309189959" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6659338" lon="16.3593769"/>
+ <node id="4309189964" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6667016" lon="16.3642735"/>
+ <node id="4309189965" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6667474" lon="16.3636967"/>
+ <node id="4309189967" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6670820" lon="16.3662668"/>
+ <node id="4309189969" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6674835" lon="16.3725479"/>
+ <node id="4309189970" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6675187" lon="16.3703944"/>
+ <node id="4309189971" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:10Z" user="izzor" uid="12294" lat="56.6675609" lon="16.3687280"/>
+ <way id="431693896" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:11Z" user="izzor" uid="12294">
+  <nd ref="4309189957"/>
+  <nd ref="4309189955"/>
+  <nd ref="4309189948"/>
+  <nd ref="4309189938"/>
+  <nd ref="4309189927"/>
+  <nd ref="4309189926"/>
+  <nd ref="4309189929"/>
+  <nd ref="4309189924"/>
+  <nd ref="4309189925"/>
+  <nd ref="4309189923"/>
+  <nd ref="4309189922"/>
+ </way>
+ <way id="431693910" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:12Z" user="izzor" uid="12294">
+  <nd ref="4309189939"/>
+  <nd ref="4309189937"/>
+  <nd ref="4309189922"/>
+ </way>
+ <way id="431693914" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:12Z" user="izzor" uid="12294">
+  <nd ref="4309189967"/>
+  <nd ref="4309189971"/>
+  <nd ref="4309189970"/>
+ </way>
+ <way id="431693915" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:12Z" user="izzor" uid="12294">
+  <nd ref="4309189957"/>
+  <nd ref="4309189969"/>
+  <nd ref="4309189970"/>
+ </way>
+ <way id="431693931" visible="true" version="1" changeset="40820421" timestamp="2016-07-18T14:39:12Z" user="izzor" uid="12294">
+  <nd ref="4309189967"/>
+  <nd ref="4309189964"/>
+  <nd ref="4309189965"/>
+  <nd ref="4309189959"/>
+  <nd ref="4309189953"/>
+  <nd ref="4309189945"/>
+  <nd ref="4309189940"/>
+  <nd ref="4309189942"/>
+  <nd ref="4309189939"/>
+ </way>
+ <relation id="6422397" visible="true" version="2" changeset="130072958" timestamp="2022-12-14T12:00:19Z" user="Larske" uid="3904130">
+  <member type="way" ref="431693931" role="outer"/>
+  <member type="way" ref="431693914" role="outer"/>
+  <member type="way" ref="431693915" role="outer"/>
+  <member type="way" ref="431693896" role="outer"/>
+  <member type="way" ref="431693910" role="outer"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Kvarnholmen"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q112275643"/>
+ </relation>
+</osm>

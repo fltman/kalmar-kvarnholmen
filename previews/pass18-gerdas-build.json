@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Building_92379312": {
+      "mikk_zero_loops_before_export_repair": 11,
+      "vertices": 61167,
+      "polygons": 63651,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 11,
+        "Binormals": 11
+      }
+    }
+  },
+  "changed": [
+    "SM_Building_92379312"
+  ],
+  "cameras": [
+    "89_Gerdas",
+    "90_Gerdas_Portal"
+  ]
+}

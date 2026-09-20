@@ -1,0 +1,92 @@
+{
+  "TownIvory": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.06944884359836578
+  },
+  "TownLime": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.06944884359836578
+  },
+  "TownYellow": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.06944884359836578
+  },
+  "TownRose": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.06944884359836578
+  },
+  "TownStone": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.06944884359836578
+  },
+  "TownPaintWhite": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.015808112919330597
+  },
+  "TownPaintBlue": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.015808112919330597
+  },
+  "TownPaintGreen": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.015808112919330597
+  },
+  "TownPaintBrown": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.015808112919330597
+  },
+  "TownPanel": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.2987119787343944
+  },
+  "TownTileRed": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 4.427232769790685
+  },
+  "TownTileDark": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 4.427232769790685
+  },
+  "TownMetalRed": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.02440803125500679
+  },
+  "TownMetalGrey": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.023425646126270294
+  },
+  "TownGlass": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "normal_convention": "OpenGL +Y",
+    "height_rms_mm": 0.039999984204769135
+  }
+}

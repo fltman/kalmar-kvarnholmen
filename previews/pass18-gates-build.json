@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_Port_Vasterport": {
+      "mikk_zero_loops_before_export_repair": 2,
+      "vertices": 4478,
+      "polygons": 5918,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2,
+        "Binormals": 2
+      }
+    },
+    "SM_Kvarnholmen_Port_Jordbroporten": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 5112,
+      "polygons": 7800,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kvarnholmen_Port_Kavaljersporten": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 5818,
+      "polygons": 9648,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_Port_Vasterport",
+    "SM_Kvarnholmen_Port_Jordbroporten",
+    "SM_Kvarnholmen_Port_Kavaljersporten"
+  ],
+  "cameras": []
+}

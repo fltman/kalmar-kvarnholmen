@@ -1,0 +1,1025 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Kvarnholmen_House_91285823": [
+      {
+        "expected": "M_Pass18_BrickRed",
+        "actual": "M_Pass18_BrickRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Lime",
+        "actual": "M_Town_Lime",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BathCream",
+        "actual": "M_Pass18_BathCream",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BrickBuff",
+        "actual": "M_Pass18_BrickBuff",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_GreenJoinery",
+        "actual": "M_Pass18_GreenJoinery",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_House_91285828": [
+      {
+        "expected": "M_Pass18_BrickRed",
+        "actual": "M_Pass18_BrickRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BathCream",
+        "actual": "M_Pass18_BathCream",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BrickBuff",
+        "actual": "M_Pass18_BrickBuff",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_GreenJoinery",
+        "actual": "M_Pass18_GreenJoinery",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_House_91285833": [
+      {
+        "expected": "M_Pass18_BrickRed",
+        "actual": "M_Pass18_BrickRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BathCream",
+        "actual": "M_Pass18_BathCream",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BrickBuff",
+        "actual": "M_Pass18_BrickBuff",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_GreenJoinery",
+        "actual": "M_Pass18_GreenJoinery",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_House_91846944": [
+      {
+        "expected": "M_Pass18_BrickRed",
+        "actual": "M_Pass18_BrickRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BathCream",
+        "actual": "M_Pass18_BathCream",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BrickBuff",
+        "actual": "M_Pass18_BrickBuff",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_GreenJoinery",
+        "actual": "M_Pass18_GreenJoinery",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_House_91846928": [
+      {
+        "expected": "M_Pass18_BathCream",
+        "actual": "M_Pass18_BathCream",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_GreenJoinery",
+        "actual": "M_Pass18_GreenJoinery",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_TileRed",
+        "actual": "M_Town_TileRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Port_Vasterport": [
+      {
+        "expected": "M_Landmark_Rubble",
+        "actual": "M_Landmark_Rubble",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_BrickRed",
+        "actual": "M_Pass18_BrickRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Polish_BridgeWood",
+        "actual": "M_Polish_BridgeWood",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Port_Jordbroporten": [
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Port_Kavaljersporten": [
+      {
+        "expected": "M_Landmark_Rubble",
+        "actual": "M_Landmark_Rubble",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      }
+    ],
+    "SM_Building_92412866": [
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintGreen",
+        "actual": "M_Town_PaintGreen",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintBlue",
+        "actual": "M_Town_PaintBlue",
+        "passed": true
+      }
+    ],
+    "SM_Building_92412857": [
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Yellow",
+        "actual": "M_Town_Yellow",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintGreen",
+        "actual": "M_Town_PaintGreen",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_TileRed",
+        "actual": "M_Town_TileRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Gold",
+        "actual": "M_Gold",
+        "passed": true
+      }
+    ],
+    "SM_Building_92412842": [
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_TileRed",
+        "actual": "M_Town_TileRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Gold",
+        "actual": "M_Gold",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintBlue",
+        "actual": "M_Town_PaintBlue",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintBrown",
+        "actual": "M_Town_PaintBrown",
+        "passed": true
+      }
+    ],
+    "SM_Building_92412870": [
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Yellow",
+        "actual": "M_Town_Yellow",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_TileRed",
+        "actual": "M_Town_TileRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintGreen",
+        "actual": "M_Town_PaintGreen",
+        "passed": true
+      },
+      {
+        "expected": "M_Gold",
+        "actual": "M_Gold",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_House_91846934": [
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Sodra_Cream",
+        "actual": "M_Sodra_Cream",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintBrown",
+        "actual": "M_Town_PaintBrown",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Gold",
+        "actual": "M_Gold",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      }
+    ],
+    "SM_Building_92379310": [
+      {
+        "expected": "M_Foundation",
+        "actual": "M_Foundation",
+        "passed": true
+      },
+      {
+        "expected": "M_District17_Rose",
+        "actual": "M_District17_Rose",
+        "passed": true
+      },
+      {
+        "expected": "M_Terracotta",
+        "actual": "M_Terracotta",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_Gold",
+        "actual": "M_Gold",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_Ashlar",
+        "actual": "M_Pass18_Ashlar",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Copper",
+        "actual": "M_Town_Copper",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_35773127": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_35773130": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_36194480": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640264": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640265": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640266": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640267": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640268": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640269": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640270": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640271": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_37640272": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_38033726": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_38033727": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_90965001": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_90977182": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_91846932": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_91970281": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_92379274": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_128278527": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_128278553": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_143758083": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_143758087": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_1415046340": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      },
+      {
+        "expected": "M_Pass18_ParkingPaint",
+        "actual": "M_Pass18_ParkingPaint",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_1415046341": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_1498513076": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Surface18_1498513077": [
+      {
+        "expected": "M_Kvarnholmen_Asphalt",
+        "actual": "M_Kvarnholmen_Asphalt",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Vall_Sodra": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Landmark_Rubble",
+        "actual": "M_Landmark_Rubble",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Vall_Regeringen": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Landmark_Rubble",
+        "actual": "M_Landmark_Rubble",
+        "passed": true
+      }
+    ],
+    "SM_Kvarnholmen_Vall_CarolusPhilippus": [
+      {
+        "expected": "M_Pass18_Grass",
+        "actual": "M_Pass18_Grass",
+        "passed": true
+      },
+      {
+        "expected": "M_Landmark_Rubble",
+        "actual": "M_Landmark_Rubble",
+        "passed": true
+      }
+    ],
+    "SM_Building_92379312": [
+      {
+        "expected": "M_Town_Stone",
+        "actual": "M_Town_Stone",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Ivory",
+        "actual": "M_Town_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_TileRed",
+        "actual": "M_Town_TileRed",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintWhite",
+        "actual": "M_Town_PaintWhite",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_Glass",
+        "actual": "M_Town_Glass",
+        "passed": true
+      },
+      {
+        "expected": "M_Iron",
+        "actual": "M_Iron",
+        "passed": true
+      },
+      {
+        "expected": "M_District17_Ivory",
+        "actual": "M_District17_Ivory",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_MetalGrey",
+        "actual": "M_Town_MetalGrey",
+        "passed": true
+      },
+      {
+        "expected": "M_Gold",
+        "actual": "M_Gold",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintBrown",
+        "actual": "M_Town_PaintBrown",
+        "passed": true
+      },
+      {
+        "expected": "M_District17_RedJoinery",
+        "actual": "M_District17_RedJoinery",
+        "passed": true
+      },
+      {
+        "expected": "M_Town_PaintGreen",
+        "actual": "M_Town_PaintGreen",
+        "passed": true
+      }
+    ]
+  }
+}

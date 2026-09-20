@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "gate": "Vasterport",
+      "offset": -0.65,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Vasterport",
+      "offset": 0,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Vasterport",
+      "offset": 0.65,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Jordbroporten",
+      "offset": -2.9,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Jordbroporten",
+      "offset": -2.1,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Jordbroporten",
+      "offset": -1.3,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Jordbroporten",
+      "offset": 1.3,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Jordbroporten",
+      "offset": 2.1,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Jordbroporten",
+      "offset": 2.9,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Kavaljersporten",
+      "offset": -0.65,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Kavaljersporten",
+      "offset": 0,
+      "capsule_clear": true,
+      "floor_present": true
+    },
+    {
+      "gate": "Kavaljersporten",
+      "offset": 0.65,
+      "capsule_clear": true,
+      "floor_present": true
+    }
+  ]
+}

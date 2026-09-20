@@ -1,0 +1,9 @@
+import unreal as u,json
+from pathlib import Path
+R=Path(__file__).resolve().parents[3];specs=json.loads((R/'source/polish15-material-specs.json').read_text());out={}
+for name,s in specs.items():
+ m=u.load_asset('/Game/Kalmar/Materials/'+name);normal=u.MaterialEditingLibrary.get_material_property_input_node(m,u.MaterialProperty.MP_NORMAL);rough=u.MaterialEditingLibrary.get_material_property_input_node(m,u.MaterialProperty.MP_ROUGHNESS);ao=u.MaterialEditingLibrary.get_material_property_input_node(m,u.MaterialProperty.MP_AMBIENT_OCCLUSION);base=u.MaterialEditingLibrary.get_material_property_input_node(m,u.MaterialProperty.MP_BASE_COLOR)
+ tex=normal.texture if isinstance(normal,u.MaterialExpressionTextureSample) else None
+ checks={'normal_connected':tex is not None,'normal_name':bool(tex and tex.get_name()=='T_'+s['texture']+'_Normal'),'normal_linear':bool(tex and not tex.get_editor_property('srgb')),'normal_green_flipped':bool(tex and tex.get_editor_property('flip_green_channel')),'normal_compression':bool(tex and 'NORMALMAP' in str(tex.get_editor_property('compression_settings'))),'roughness_connected':isinstance(rough,u.MaterialExpressionTextureSample),'roughness_linear':bool(isinstance(rough,u.MaterialExpressionTextureSample) and not rough.texture.get_editor_property('srgb')),'ao_connected':isinstance(ao,u.MaterialExpressionTextureSample) if s.get('polish15') else True,'color_connected':base is not None}
+ stats=u.MaterialEditingLibrary.get_statistics(m);out[name]={'checks':checks,'texture_samplers':stats.get_editor_property('num_samplers'),'shader_types':u.MaterialEditingLibrary.get_num_shader_types(m)}
+status='passed' if all(all(v['checks'].values()) for v in out.values()) else 'failed';(R/'previews/polish15-materials.json').write_text(json.dumps({'status':status,'materials':out},indent=2))

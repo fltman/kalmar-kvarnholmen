@@ -1,0 +1,62 @@
+{
+  "norra-langgatan-84-i-kalmar": {
+    "url": "https://www.kalmarkusten.se/platser/norra-langgatan-84-i-kalmar/",
+    "images": [
+      "/site/assets/files/2345/at3a8447-repslagaren-27.jpg"
+    ],
+    "local": [
+      "references/district17/norra-langgatan-84-i-kalmar.jpg"
+    ],
+    "maps": [
+      "https://www.google.com/maps?q=56.6661,16.3704"
+    ]
+  },
+  "fiskargatan-3-i-kalmar": {
+    "url": "https://www.kalmarkusten.se/platser/fiskargatan-3-i-kalmar/",
+    "images": [
+      "/site/assets/files/2346/at3a8449-skoflickaren-3.jpg"
+    ],
+    "local": [
+      "references/district17/fiskargatan-3-i-kalmar.jpg"
+    ],
+    "maps": [
+      "https://www.google.com/maps?q=56.6662,16.3683"
+    ]
+  },
+  "fastigheten-bokbindaren-10-i-korsningen-proviantgatan-norra-langgatan-i-kalmar": {
+    "url": "https://www.kalmarkusten.se/platser/fastigheten-bokbindaren-10-i-korsningen-proviantgatan-norra-langgatan-i-kalmar/",
+    "images": [
+      "/site/assets/files/2339/at3a8434-bokbindaren-10.jpg"
+    ],
+    "local": [
+      "references/district17/fastigheten-bokbindaren-10-i-korsningen-proviantgatan-norra-langgatan-i-kalmar.jpg"
+    ],
+    "maps": [
+      "https://www.google.com/maps?q=56.6655,16.3675"
+    ]
+  },
+  "gesallen-23-i-korsningen-fiskargatan-kaggensgatan-i-kalmar": {
+    "url": "https://www.kalmarkusten.se/platser/gesallen-23-i-korsningen-fiskargatan-kaggensgatan-i-kalmar/",
+    "images": [
+      "/site/assets/files/2408/at3a8681-gesallen-23.jpg"
+    ],
+    "local": [
+      "references/district17/gesallen-23-i-korsningen-fiskargatan-kaggensgatan-i-kalmar.jpg"
+    ],
+    "maps": [
+      "https://www.google.com/maps?q=56.6646,16.3619"
+    ]
+  },
+  "olandsgatan-27": {
+    "url": "https://www.kalmarkusten.se/platser/olandsgatan-27/",
+    "images": [
+      "/site/assets/files/1030/at3a1622-borgm_staren-5.jpg"
+    ],
+    "local": [
+      "references/district17/olandsgatan-27.jpg"
+    ],
+    "maps": [
+      "https://www.google.com/maps?q=56.6631,16.3668"
+    ]
+  }
+}

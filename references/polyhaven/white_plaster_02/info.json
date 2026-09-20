@@ -1,0 +1,51 @@
+{
+  "type": 1,
+  "tags": [
+    "smooth",
+    "flat",
+    "even"
+  ],
+  "date_published": 1531287574,
+  "name": "White Plaster 02",
+  "old_id": 147,
+  "categories": [
+    "plaster-concrete",
+    "wall",
+    "man made",
+    "outdoor",
+    "indoor",
+    "clean",
+    "floor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "scale": "1.5M x 1.5M",
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "20953239",
+    "77433244"
+  ],
+  "files_hash": "508068441dd24eb06ef6d269a43f6ea7c8bade6b",
+  "description": "Free 8K plaster texture: smooth, flat white plaster with a soft matte finish, fine micro-roughness and subtle dirt speckling across the surface.",
+  "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+  "category": "Concrete/Plaster & Stucco/Bare Plaster",
+  "attributes": {
+    "surface_use": "wall",
+    "condition": [
+      "clean"
+    ],
+    "origin": "man_made",
+    "setting": "either"
+  },
+  "img_version": "fa5c48d2",
+  "download_count": 227004,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_plaster_02.png?width=256&height=256&v=fa5c48d2"
+}

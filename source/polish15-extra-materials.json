@@ -1,0 +1,14 @@
+{
+  "M_Kvarnholmen_Water": {
+    "color": [
+      0.013,
+      0.054,
+      0.058
+    ],
+    "roughness": 0.25,
+    "metallic": 0,
+    "texture": "Polish15Water",
+    "uv_scale": 0.125,
+    "normal_strength": 1.0
+  }
+}

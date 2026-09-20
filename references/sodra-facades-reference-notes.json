@@ -1,0 +1,26 @@
+{
+  "pass": 13,
+  "sources": [
+    {
+      "url": "https://www.google.com/maps/@56.6637154,16.3669605,3a,90y,270h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgIDqjcPufQ!2e10",
+      "capture": "April 2021",
+      "contributor": "Alex Karpsson",
+      "observations": "Hotel brown panels, granite columns and continuous metal canopy; north corner plaster and broad ground windows."
+    },
+    {
+      "url": "https://www.google.com/maps/@56.6641998,16.3684139,3a,90y,150h,90t/data=!3m4!1e1!3m2!1swwIlR2svk8lTZ1l5PvuLIQ!2e0",
+      "capture": "April 2025",
+      "contributor": "Google Street View",
+      "observations": "White three-storey frontage with grouped rectangular windows, dark plinth, east garage and flat-topped dormers. Narrow red gabled house with four sash windows and yellow gate west. Low half-timbered house to east."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:SWE_Kalmar,_Södra_Långgatan_2022.jpg",
+      "local": "references/sodra-langgatan-2022.jpg",
+      "capture": "7 June 2022",
+      "contributor": "-wuppertaler",
+      "license": "CC BY-SA 4.0",
+      "observations": "North frontage cream plaster with pilasters, western gable, ochre timber intermediate part and taller greenish eastern facade, rear red metal upper storey."
+    }
+  ],
+  "limitations": "Photo-informed architectural interpretation. Heights, hidden elevations, exact subdivisions and ornamental profiles estimated. No Google images used as textures."
+}

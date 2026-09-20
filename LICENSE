@@ -1,0 +1,14 @@
+Kalmar Kvarnholmen uses separate licenses for code, original art, and data.
+
+Original Python code, tools and configuration: MIT (LICENSES/MIT.txt).
+Original 3D models, authored scene content, original textures and documentation:
+Creative Commons Attribution 4.0 International (LICENSES/CC-BY-4.0.txt).
+Copyright (c) 2026 Anders Bjarby and contributors, to the extent copyright applies.
+
+OpenStreetMap data and derived geographic databases retain ODbL 1.0 terms.
+Poly Haven source textures retain CC0 terms.
+Epic Games template assets retain their original Unreal Engine license; they
+are not covered by the project's MIT or CC BY grants.
+
+Read THIRD_PARTY.md for scope, attribution, exceptions, and source links.
+No license to third-party trademarks or logos is granted by this project.

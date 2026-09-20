@@ -1,0 +1,8 @@
+from pathlib import Path
+import json,datetime
+R=Path(__file__).resolve().parents[1];P=R/'previews';read=lambda f:json.loads((P/f).read_text())
+files={'build':'sodra-facades-build.json','import':'sodra-facades-refine-import.json','scope':'sodra-facades-scope.json','render':'sodra-facades-render-audit.json','collision':'sodra-facades-collision.json','walk':'sodra-facades-pie-walk.json'}
+d={k:read(v) for k,v in files.items()};fbx=read('sodra-facades-fbx-audit.json')
+checks={k:v['status']=='passed' for k,v in d.items()};checks['fbx_frames']=all(v['vectors'] and not v['near_zero'] and not v['nonfinite'] for m in fbx.values() for v in m.values())
+report={'status':'passed' if all(checks.values()) else 'review_required','time':datetime.datetime.now().isoformat(),'scope':'First photo-informed facade pass: five existing building objects along Södra Långgatan.','checks':checks,'changed':d['build']['changed'],'preserved_assets':d['scope']['existing_assets_preserved'],'new_materials':d['scope']['new_materials'],'ground_samples':d['collision']['floor_samples'],'capsule_segments':d['collision']['capsule_segments'],'verified_detours_around_existing_lamps':len(d['collision']['verified_detours']),'walk_metres':d['walk']['route_length_m'],'notes':['Interpreted dimensions and obscured elevations; no survey accuracy claim','Back upper-storey volumes, exact dormer division, planting and some fine details deferred','No new performance benchmark or packaged gameplay test'],'preview':'previews/75_Sodra_Timber_Houses.png','reports':files}
+(P/'sodra-facades-delivery.json').write_text(json.dumps(report,indent=2,ensure_ascii=False));print(json.dumps({'status':report['status'],'checks':checks,'walk_metres':report['walk_metres']},indent=2))

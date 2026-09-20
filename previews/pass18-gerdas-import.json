@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "time": 1789877906.598185,
+  "meshes": [
+    {
+      "name": "SM_Building_92379312",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "ChurchOchre": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 5.011600494384766,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchLime": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 1.7312802076339722,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchAshlar": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 7.113894462585449,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchRubble": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 24.04950860947056,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchCopper": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 6.589932441711426,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchRoof": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 6.589932441711426,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchPew": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.5833249092102051,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchDoor": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.5833249092102051,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchOak": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.5833249092102051,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchMarble": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.09103356301784515,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchFloor": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.5973602533340454,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchFloorB": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.5973602533340454,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchGilding": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_range_mm": 0.25488200783729553,
+    "normal_convention": "OpenGL +Y"
+  }
+}

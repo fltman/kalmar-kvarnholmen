@@ -1,0 +1,27 @@
+# Attribution and third-party material
+
+## Our work
+
+Original models, authored scene content, original texture work, and documentation are available under **CC BY 4.0**. Original code is **MIT**. Suggested credit:
+
+> Kalmar Kvarnholmen by Anders Bjarby and contributors, CC BY 4.0. Geographic data © OpenStreetMap contributors, ODbL 1.0. https://github.com/fltman/kalmar-kvarnholmen
+
+Retain that credit and indicate your changes when redistributing the original art. This is an AI-assisted, procedurally authored reconstruction. Architectural proportions, ornament and many facades are approximations. No endorsement by the depicted businesses, photographers, City of Kalmar, or heritage institutions is implied.
+
+## Geographic data — OpenStreetMap
+
+`references/*.osm` and geographic databases in `source/*.json` derived from those extracts contain **© OpenStreetMap contributors** data, available under the [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/). See [OSM copyright](https://www.openstreetmap.org/copyright). Retain attribution; derivative databases retain ODbL obligations. The raw extracts and transformation scripts are provided alongside the resulting scene. Our license does not replace the database license.
+
+## Surface scans — Poly Haven
+
+`references/polyhaven*/` contains source maps and metadata for **CC0** textures from [Poly Haven](https://polyhaven.com/license). Derived maps in `exports/textures/` retain these source credits; our original modifications are covered by CC BY 4.0 without restricting reuse of the underlying CC0 originals. Metadata JSON and `references/polish15-notes.md` identify each asset and author, including Rob Tuytel's White Plaster 02 and Marble 01. These scans are material references, not scans of the Kalmar buildings.
+
+## Unreal template assets — Epic Games
+
+`Unreal/Content/FirstPerson/`, `Unreal/Content/Characters/` and `Unreal/Content/Input/` originate in Epic Games' installed First Person template, with project adaptations. They remain subject to the [Unreal Engine EULA](https://www.unrealengine.com/eula/unreal), including its Examples provisions (sections 1 and 5(b)); they are **not** relicensed under MIT or CC BY. Unreal Engine itself, its editor, binaries and source are not included. Install your own licensed engine to open the Unreal project. The original Blender architecture and textures can be used independently of Unreal.
+
+## Reference photographs and omitted altar image
+
+Research photographs, PDFs, Google Street View captures and cached webpages are not included. Source links and visual-study notes are retained in `REFERENCES.md` and `references/*-notes.md`. They are references, not texture licenses.
+
+The earlier private working scene used Bernt Fransson's *Kalmar Domkyrka Altartavlan 041.JPG*, CC BY-SA 4.0. That photo and its Unreal texture asset are **excluded** from this public edition because Unreal's EULA identifies CC BY-SA as a non-compatible license. The canvas is a neutral material pending an independently compatible contribution. No replacement historical painting is invented. The existing attribution remains in historical research notes solely to record what changed.

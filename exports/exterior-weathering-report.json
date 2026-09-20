@@ -1,0 +1,32 @@
+{
+  "ChurchCopperFine": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.16217908263206482,
+    "normal_convention": "OpenGL +Y",
+    "roughness_range": [
+      0.6891522407531738,
+      0.8216489553451538
+    ]
+  },
+  "ChurchRoofFine": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.04471232369542122,
+    "normal_convention": "OpenGL +Y",
+    "roughness_range": [
+      0.5699999928474426,
+      0.7504565119743347
+    ]
+  },
+  "ChurchPierStone": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.14796280406062523,
+    "normal_convention": "OpenGL +Y",
+    "roughness_range": [
+      0.5983008148935778,
+      0.8694143523985021
+    ]
+  }
+}

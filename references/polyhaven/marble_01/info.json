@@ -1,0 +1,49 @@
+{
+  "type": 1,
+  "tags": [
+    "marble",
+    "smooth",
+    "even",
+    "tiles"
+  ],
+  "date_published": 1540420244,
+  "name": "Marble 01",
+  "old_id": 169,
+  "categories": [
+    "floor",
+    "man made",
+    "indoor",
+    "clean",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "sponsors": [
+    "3267566",
+    "7934315"
+  ],
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "11a4d204569907b76e1c4f7ef06a8b3fa90b5930",
+  "description": "Free 8K marble texture of smooth, even cream-beige tiles with subtle veining and low sheen, clean indoor floor and wall material.",
+  "category_id": "332a7c92-1556-5937-b7a9-8a0f52d20df4",
+  "category": "Stone/Slabs & Tiles/Marble",
+  "attributes": {
+    "surface_use": "floor",
+    "origin": "man_made",
+    "setting": "indoor",
+    "condition": [
+      "clean"
+    ]
+  },
+  "img_version": "57534022",
+  "download_count": 313630,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_01.png?width=256&height=256&v=57534022"
+}

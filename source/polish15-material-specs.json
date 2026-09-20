@@ -1,0 +1,280 @@
+{
+  "M_Landmark_Rubble": {
+    "color": [
+      0.3,
+      0.3,
+      0.25
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15LandmarkRubble",
+    "uv_scale": 1.4285714285714286,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.2,
+      "damp": 0.23,
+      "physical_tile_metres": 2.8,
+      "source": "https://polyhaven.com/a/stone_wall"
+    }
+  },
+  "M_Landmark_Ashlar": {
+    "color": [
+      0.38,
+      0.36,
+      0.29
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15LandmarkAshlar",
+    "uv_scale": 2.0,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.1,
+      "damp": 0.12,
+      "physical_tile_metres": 2.0,
+      "source": "https://polyhaven.com/a/stone_wall_02"
+    }
+  },
+  "M_Landmark_BrickRed": {
+    "color": [
+      0.38,
+      0.16,
+      0.09
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15LandmarkBrickRed",
+    "uv_scale": 1.3333333333333333,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.12,
+      "damp": 0.08,
+      "physical_tile_metres": 3.0,
+      "source": "https://polyhaven.com/a/brick_wall_001"
+    }
+  },
+  "M_Landmark_BrickBuff": {
+    "color": [
+      0.54,
+      0.45,
+      0.28
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15LandmarkBrickBuff",
+    "uv_scale": 1.0,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.12,
+      "damp": 0.08,
+      "physical_tile_metres": 4.0,
+      "source": "https://polyhaven.com/a/brick_wall_003"
+    }
+  },
+  "M_Landmark_Cream": {
+    "color": [
+      0.7,
+      0.61,
+      0.38
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15LandmarkCream",
+    "uv_scale": 1.7937219730941705,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.07,
+      "damp": 0.08,
+      "physical_tile_metres": 2.23,
+      "source": "https://polyhaven.com/a/plastered_wall_02"
+    }
+  },
+  "M_Landmark_Turf": {
+    "color": [
+      0.08,
+      0.11,
+      0.035
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15LandmarkTurf",
+    "uv_scale": 2.0,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.22,
+      "damp": 0,
+      "physical_tile_metres": 2.0,
+      "source": "https://polyhaven.com/a/sparse_grass"
+    }
+  },
+  "M_Town_TileRed": {
+    "color": [
+      0.33,
+      0.105,
+      0.047
+    ],
+    "roughness": 0.78,
+    "metallic": 0,
+    "texture": "Polish15TownTileRed",
+    "uv_scale": 1.6,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.13,
+      "damp": 0,
+      "physical_tile_metres": 2.5,
+      "source": "https://polyhaven.com/a/clay_roof_tiles_02"
+    }
+  },
+  "M_Storgatan_Setts": {
+    "color": [
+      0.35,
+      0.33,
+      0.28
+    ],
+    "roughness": 0.8,
+    "metallic": 0,
+    "texture": "Polish15StorgatanSetts",
+    "uv_scale": 2.0,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.15,
+      "damp": 0,
+      "physical_tile_metres": 2.0,
+      "source": "https://polyhaven.com/a/cobblestone_floor_08"
+    }
+  },
+  "M_Kvarnholmen_Asphalt": {
+    "color": [
+      0.06,
+      0.065,
+      0.07
+    ],
+    "roughness": 0.9,
+    "metallic": 0,
+    "texture": "Polish15KvarnholmenAsphalt",
+    "uv_scale": 1.3333333333333333,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.12,
+      "damp": 0,
+      "physical_tile_metres": 3.0,
+      "source": "https://polyhaven.com/a/asphalt_02"
+    }
+  },
+  "M_Polish_BridgeWood": {
+    "color": [
+      0.25,
+      0.22,
+      0.17
+    ],
+    "roughness": 0.82,
+    "metallic": 0,
+    "texture": "Polish15PolishBridgeWood",
+    "uv_scale": 2.6666666666666665,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.13,
+      "damp": 0.1,
+      "physical_tile_metres": 1.5,
+      "source": "https://polyhaven.com/a/wood_planks_grey"
+    }
+  },
+  "M_Town_Ivory": {
+    "color": [
+      0.68,
+      0.65,
+      0.55
+    ],
+    "roughness": 0.79,
+    "metallic": 0,
+    "texture": "Polish15TownIvory",
+    "uv_scale": 1.7937219730941705,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.07,
+      "damp": 0.1,
+      "physical_tile_metres": 2.23,
+      "source": "https://polyhaven.com/a/plastered_wall_02"
+    }
+  },
+  "M_Town_Lime": {
+    "color": [
+      0.57,
+      0.57,
+      0.49
+    ],
+    "roughness": 0.79,
+    "metallic": 0,
+    "texture": "Polish15TownLime",
+    "uv_scale": 1.7937219730941705,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.07,
+      "damp": 0.1,
+      "physical_tile_metres": 2.23,
+      "source": "https://polyhaven.com/a/plastered_wall_02"
+    }
+  },
+  "M_Town_Yellow": {
+    "color": [
+      0.63,
+      0.43,
+      0.19
+    ],
+    "roughness": 0.79,
+    "metallic": 0,
+    "texture": "Polish15TownYellow",
+    "uv_scale": 1.7937219730941705,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.07,
+      "damp": 0.1,
+      "physical_tile_metres": 2.23,
+      "source": "https://polyhaven.com/a/plastered_wall_02"
+    }
+  },
+  "M_Town_Rose": {
+    "color": [
+      0.49,
+      0.32,
+      0.25
+    ],
+    "roughness": 0.79,
+    "metallic": 0,
+    "texture": "Polish15TownRose",
+    "uv_scale": 1.7937219730941705,
+    "normal_strength": 1.0,
+    "polish15": {
+      "ao": true,
+      "macro": 0.07,
+      "damp": 0.1,
+      "physical_tile_metres": 2.23,
+      "source": "https://polyhaven.com/a/plastered_wall_02"
+    }
+  },
+  "M_Kvarnholmen_Water": {
+    "color": [
+      0.013,
+      0.054,
+      0.058
+    ],
+    "roughness": 0.25,
+    "metallic": 0,
+    "texture": "Polish15Water",
+    "uv_scale": 0.125,
+    "normal_strength": 1.0
+  }
+}

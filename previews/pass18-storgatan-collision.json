@@ -1,0 +1,232 @@
+{
+  "status": "passed",
+  "time": "2026-09-20T06:19:51.714587",
+  "checks": {
+    "ground_continuous": true,
+    "character_capsule_clear": true
+  },
+  "scope": "All scene collision included, including street furniture. 34cm radius / 88cm half-height capsule along the 269m route; ground rays every 5m.",
+  "ground_samples": [
+    {
+      "x": -36,
+      "ground_present": true
+    },
+    {
+      "x": -41,
+      "ground_present": true
+    },
+    {
+      "x": -46,
+      "ground_present": true
+    },
+    {
+      "x": -51,
+      "ground_present": true
+    },
+    {
+      "x": -56,
+      "ground_present": true
+    },
+    {
+      "x": -61,
+      "ground_present": true
+    },
+    {
+      "x": -66,
+      "ground_present": true
+    },
+    {
+      "x": -71,
+      "ground_present": true
+    },
+    {
+      "x": -76,
+      "ground_present": true
+    },
+    {
+      "x": -81,
+      "ground_present": true
+    },
+    {
+      "x": -86,
+      "ground_present": true
+    },
+    {
+      "x": -91,
+      "ground_present": true
+    },
+    {
+      "x": -96,
+      "ground_present": true
+    },
+    {
+      "x": -101,
+      "ground_present": true
+    },
+    {
+      "x": -106,
+      "ground_present": true
+    },
+    {
+      "x": -111,
+      "ground_present": true
+    },
+    {
+      "x": -116,
+      "ground_present": true
+    },
+    {
+      "x": -121,
+      "ground_present": true
+    },
+    {
+      "x": -126,
+      "ground_present": true
+    },
+    {
+      "x": -131,
+      "ground_present": true
+    },
+    {
+      "x": -136,
+      "ground_present": true
+    },
+    {
+      "x": -141,
+      "ground_present": true
+    },
+    {
+      "x": -146,
+      "ground_present": true
+    },
+    {
+      "x": -151,
+      "ground_present": true
+    },
+    {
+      "x": -156,
+      "ground_present": true
+    },
+    {
+      "x": -161,
+      "ground_present": true
+    },
+    {
+      "x": -166,
+      "ground_present": true
+    },
+    {
+      "x": -171,
+      "ground_present": true
+    },
+    {
+      "x": -176,
+      "ground_present": true
+    },
+    {
+      "x": -181,
+      "ground_present": true
+    },
+    {
+      "x": -186,
+      "ground_present": true
+    },
+    {
+      "x": -191,
+      "ground_present": true
+    },
+    {
+      "x": -196,
+      "ground_present": true
+    },
+    {
+      "x": -201,
+      "ground_present": true
+    },
+    {
+      "x": -206,
+      "ground_present": true
+    },
+    {
+      "x": -211,
+      "ground_present": true
+    },
+    {
+      "x": -216,
+      "ground_present": true
+    },
+    {
+      "x": -221,
+      "ground_present": true
+    },
+    {
+      "x": -226,
+      "ground_present": true
+    },
+    {
+      "x": -231,
+      "ground_present": true
+    },
+    {
+      "x": -236,
+      "ground_present": true
+    },
+    {
+      "x": -241,
+      "ground_present": true
+    },
+    {
+      "x": -246,
+      "ground_present": true
+    },
+    {
+      "x": -251,
+      "ground_present": true
+    },
+    {
+      "x": -256,
+      "ground_present": true
+    },
+    {
+      "x": -261,
+      "ground_present": true
+    },
+    {
+      "x": -266,
+      "ground_present": true
+    },
+    {
+      "x": -271,
+      "ground_present": true
+    },
+    {
+      "x": -276,
+      "ground_present": true
+    },
+    {
+      "x": -281,
+      "ground_present": true
+    },
+    {
+      "x": -286,
+      "ground_present": true
+    },
+    {
+      "x": -291,
+      "ground_present": true
+    },
+    {
+      "x": -296,
+      "ground_present": true
+    },
+    {
+      "x": -301,
+      "ground_present": true
+    },
+    {
+      "x": -306,
+      "ground_present": true
+    }
+  ],
+  "obstruction": null
+}

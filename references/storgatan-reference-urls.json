@@ -1,0 +1,24 @@
+{
+  "larmtorget-east-2022": {
+    "page": "https://commons.wikimedia.org/wiki/File:Larmtorget_Storgatan_Kalmar_Sweden_May_2022.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Larmtorget_Storgatan_Kalmar_Sweden_May_2022.jpg"
+  },
+  "larmtorget-theatre-2022": {
+    "page": "https://commons.wikimedia.org/wiki/File:Larmtorget_in_Kalmar_Sweden_with_Vasabrunnen_and_Kalmar_Theatre_May_2022.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Larmtorget_in_Kalmar_Sweden_with_Vasabrunnen_and_Kalmar_Theatre_May_2022.jpg"
+  },
+  "frimurare-2022": {
+    "page": "https://commons.wikimedia.org/wiki/File:Frimurarehuset_Larmtorget_Kalmar_Sweden_May_2022_01.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Frimurarehuset_Larmtorget_Kalmar_Sweden_May_2022_01.jpg"
+  },
+  "streetview-east-2020": {
+    "page": "https://www.google.com/maps/@56.6637895,16.3645886,3a,90y,240h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgIDy3beo4wE!2e10",
+    "attribution": "Joakim Nilsson, June 2020, Google Maps contributor panorama",
+    "used": "street facade rhythm, commercial glazing, roofline and paving; visual reference only"
+  },
+  "streetview-middle-2020": {
+    "page": "https://www.google.com/maps/@56.6632644,16.3627861,3a,90y,240h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgIDy3de_1AE!2e10",
+    "attribution": "Joakim Nilsson, June 2020, Google Maps contributor panorama",
+    "used": "views west and east, trimmed trees, planters, benches and varied building heights; visual reference only"
+  }
+}

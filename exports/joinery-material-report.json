@@ -1,0 +1,35 @@
+{
+  "ChurchPew": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.009487038478255272,
+    "roughness_range": [
+      0.33000001311302185,
+      0.4699999988079071
+    ],
+    "normal_max_tilt_degrees": 0.6148487329483032,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchPewInset": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.009487038478255272,
+    "roughness_range": [
+      0.33000001311302185,
+      0.4699999988079071
+    ],
+    "normal_max_tilt_degrees": 0.6148487329483032,
+    "normal_convention": "OpenGL +Y"
+  },
+  "ChurchPewTrim": {
+    "resolution": 2048,
+    "tile_metres": 4,
+    "height_rms_mm": 0.009487038478255272,
+    "roughness_range": [
+      0.33000001311302185,
+      0.4699999988079071
+    ],
+    "normal_max_tilt_degrees": 0.6148487329483032,
+    "normal_convention": "OpenGL +Y"
+  }
+}

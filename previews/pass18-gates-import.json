@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "time": 1789878153.6075609,
+  "meshes": [
+    {
+      "name": "SM_Kvarnholmen_Port_Vasterport",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Kvarnholmen_Port_Jordbroporten",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Kvarnholmen_Port_Kavaljersporten",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ]
+}

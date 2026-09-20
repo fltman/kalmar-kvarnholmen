@@ -1,0 +1,22 @@
+[
+  {
+    "source": "SM_Kalmar_Domkyrka",
+    "parts": 53,
+    "vertices_before": 522124
+  },
+  {
+    "source": "SM_Domkyrka_Interior_Architecture",
+    "parts": 66,
+    "vertices_before": 153100
+  },
+  {
+    "source": "SM_Domkyrka_Pews",
+    "parts": 24,
+    "vertices_before": 819640
+  },
+  {
+    "source": "SM_Domkyrka_Ionic_Details",
+    "parts": 10,
+    "vertices_before": 47296
+  }
+]

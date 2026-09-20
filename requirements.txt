@@ -1,0 +1,3 @@
+numpy>=2.0,<3
+Pillow>=10,<13
+shapely>=2.1,<3

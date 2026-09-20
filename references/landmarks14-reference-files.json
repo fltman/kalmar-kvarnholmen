@@ -1,0 +1,42 @@
+[
+  {
+    "key": "trip-a",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "key": "trip-b",
+    "file": "references/landmarks14-trip-b.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalmar%2C_Fiskaregatan%2C_Tripp-trapp-trull-husen%2C_2015b.jpg",
+    "bytes": 1072183
+  },
+  {
+    "key": "bath-a",
+    "file": "references/landmarks14-bath-a.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalmar%2C_Gamla_varmbadhuset%2C_Kvarnholmen%2C_2015a.jpg",
+    "bytes": 1094026
+  },
+  {
+    "key": "bath-b",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "key": "bath-portal",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "key": "mill-a",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "key": "mill-c",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "key": "mill-d",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "key": "mill-harbour",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  }
+]
