@@ -31,9 +31,11 @@ Download the pinned release assets. Run Blender with `--background --python scri
 - Four-street traversal passes 239 ground samples and 216 character-width capsule segments without obstructions; the Köpmantorget passage also passes its capsule sweep and 17 ground samples.
 - Repeated working builds are identical, and the separately rebuilt public Blender scene matches all four geometry hashes.
 - The public Unreal world contains 715 actors with no missing mesh or material references. Its neutral altar remains independent of the research photograph.
-- Six Unreal street-level views were inspected. The final pale-corner roof correction was checked separately in Blender, then reimported and buffer-validated in Unreal; a fresh Unreal screenshot of that last correction remains pending because the review callback lost its world reference after a map reload. The callback now refreshes that reference after scripted map changes.
+- Six Unreal street-level views were inspected. The final pale-corner roof correction was also checked in Blender, reimported and buffer-validated in Unreal, then visually verified in Unreal after restarting the computer. The saved Blender scene and all sixteen changed Unreal files matched the published v0.1.4 checksums before reopening. The review callback refreshes its world reference after scripted map changes.
 - The office roof follows the neighbour's notch, and the pale corner roof is clipped to the chamfer without the former projecting gutter fragments.
 
 High-triangle collision warnings remain in the wider city; this pass validates traversability and surfaces, not packaged-game performance.
 
-![Final chamfered corner, isolated Blender check](images/street22-corner-blender.png)
+![Final chamfered corner, verified in Unreal after restart](images/street22-corner-unreal.png)
+
+![Isolated Blender check](images/street22-corner-blender.png)
