@@ -49,3 +49,6 @@ references/street21/*.html
 references/street22/*.jpg
 references/street22/*.png
 references/street22/*.html
+
+# Local media rendering intermediates and dispatcher messages.
+/media/

@@ -38,6 +38,10 @@ In Unreal, press **Play**, then click the viewport. Use **WASD**, mouse look, an
 
 The earlier correction pass distinguishes Riskvarnen from Ångkvarnen, replaces Gerdas' generic frontage, separates the overlapping Stortorget frontages, restores Barometern's entrance, articulates Witt's rear, and adds mapped green and parking surfaces. The [portal detail pass](docs/REFINEMENT_19.md) improves Gerdas’ carved portal and timber door, and Varmbadhuset’s gables, copper caps and entrance. The [first street pass](docs/REFINEMENT_20.md) refines six houses, including Kullzénska and Areskogska at the Norra Långgatan corners, plus Storgatan shopfronts and glass oriels. The [northern street pass](docs/REFINEMENT_21.md) adds seven individually authored facades and wings, including the Köpmantorget passage and Gallerian’s north entrance. The latest [Kaggensgatan and Larmgatan pass](docs/REFINEMENT_22.md) refines four more buildings and wings toward Fiskaregatan, including brickwork, projecting windows and recessed shops. See [known limitations](docs/KNOWN_ISSUES.md).
 
+## Render images and flythroughs
+
+The [media export workflow](docs/MEDIA.md) prepares 343 building views and two flythroughs. It renders lossless stills at 1920 × 1080 and film frames at 1920 × 1080, using Cinematic settings and 64 spatial samples. The scripts build an offline searchable gallery and verified H.264 films. Generated media is kept outside Git.
+
 ## Contribute
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). Local knowledge is especially valuable: correct window counts, roof profiles, entrances, building heights and properly licensed close-up references. Small, documented improvements to one building are easier to review than an island-wide regeneration.

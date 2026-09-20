@@ -1,0 +1,380 @@
+{
+  "91285833": {
+    "location": [
+      277,
+      -57,
+      15
+    ],
+    "target": [
+      277,
+      -90,
+      11
+    ],
+    "fov": 86,
+    "view": "Upphöjd vy"
+  },
+  "91072716": {
+    "location": [
+      -395,
+      76,
+      16
+    ],
+    "target": [
+      -331,
+      122,
+      31
+    ],
+    "fov": 85,
+    "view": "Upphöjd vy"
+  },
+  "91846980": {
+    "location": [
+      -285,
+      35,
+      19
+    ],
+    "target": [
+      -300,
+      35,
+      6
+    ],
+    "fov": 88,
+    "view": "Upphöjd vy"
+  },
+  "92204155": {
+    "location": [
+      -276,
+      -6,
+      6
+    ],
+    "target": [
+      -276,
+      4.4,
+      5
+    ],
+    "fov": 100,
+    "view": "Gatunivå"
+  },
+  "SM_Storgatan_Frimurarehotellet": {
+    "location": [
+      -308,
+      4,
+      2.0
+    ],
+    "target": [
+      -350,
+      -30,
+      9.0
+    ],
+    "fov": 61.92751306414704,
+    "view": "Sparad fasadkamera"
+  },
+  "90859896": {
+    "location": [
+      210,
+      63,
+      7
+    ],
+    "target": [
+      210,
+      72,
+      5
+    ],
+    "fov": 102,
+    "view": "Upphöjd vy"
+  },
+  "91970385": {
+    "location": [
+      -58,
+      71,
+      6
+    ],
+    "target": [
+      -58,
+      62,
+      5.5
+    ],
+    "fov": 100,
+    "view": "Gatunivå"
+  },
+  "92204192": {
+    "location": [
+      -276.3,
+      139,
+      4.8
+    ],
+    "target": [
+      -276.3,
+      147,
+      4.8
+    ],
+    "fov": 96,
+    "view": "Gatunivå"
+  },
+  "92204165": {
+    "location": [
+      -270.3,
+      139,
+      5.2
+    ],
+    "target": [
+      -270.3,
+      147,
+      5.2
+    ],
+    "fov": 96,
+    "view": "Gatunivå"
+  },
+  "91926324": {
+    "location": [
+      151.5,
+      -7,
+      5.5
+    ],
+    "target": [
+      151.5,
+      2,
+      5.5
+    ],
+    "fov": 96,
+    "view": "Gatunivå"
+  },
+  "91926352": {
+    "location": [
+      130,
+      -16,
+      21
+    ],
+    "target": [
+      130,
+      11,
+      6
+    ],
+    "fov": 88,
+    "view": "Upphöjd vy"
+  },
+  "91970270": {
+    "location": [
+      -54,
+      -20,
+      24
+    ],
+    "target": [
+      -54,
+      6,
+      7
+    ],
+    "fov": 88,
+    "view": "Upphöjd vy"
+  },
+  "92204194": {
+    "location": [
+      -214,
+      1,
+      6
+    ],
+    "target": [
+      -214,
+      -8,
+      5.5
+    ],
+    "fov": 105,
+    "view": "Gatunivå"
+  },
+  "92379269": {
+    "location": [
+      -98,
+      -1,
+      6.5
+    ],
+    "target": [
+      -98,
+      -9,
+      6
+    ],
+    "fov": 104,
+    "view": "Upphöjd vy"
+  },
+  "SM_Calmar_Stadshotell": {
+    "location": [
+      18,
+      -12,
+      3
+    ],
+    "target": [
+      60,
+      -24,
+      12
+    ],
+    "fov": 68,
+    "view": "Sparad fasadkamera"
+  },
+  "SM_Kalmar_Domkyrka_Part00": {
+    "location": [
+      -20,
+      -12,
+      6
+    ],
+    "target": [
+      8,
+      35,
+      17
+    ],
+    "fov": 82,
+    "view": "Sparad fasadkamera"
+  },
+  "91846934": {
+    "location": [
+      68,
+      -168,
+      12
+    ],
+    "target": [
+      78,
+      -125,
+      6
+    ],
+    "fov": 76,
+    "view": "Upphöjd vy"
+  },
+  "91846952": {
+    "location": [
+      169,
+      -76,
+      4
+    ],
+    "target": [
+      169,
+      -83,
+      3
+    ],
+    "fov": 100,
+    "view": "Gatunivå"
+  },
+  "92412838": {
+    "location": [
+      25,
+      -112,
+      28
+    ],
+    "target": [
+      23,
+      -61,
+      6
+    ],
+    "fov": 88,
+    "view": "Upphöjd vy"
+  },
+  "92379307": {
+    "location": [
+      -29,
+      -35,
+      6
+    ],
+    "target": [
+      -39,
+      -35,
+      5.5
+    ],
+    "fov": 100,
+    "view": "Gatunivå"
+  },
+  "92379313": {
+    "location": [
+      -72.9,
+      -40.9,
+      38
+    ],
+    "target": [
+      -73.4,
+      -83,
+      7
+    ],
+    "fov": 84,
+    "view": "Upphöjd vy"
+  },
+  "38033725": {
+    "location": [
+      -210,
+      -230,
+      78
+    ],
+    "target": [
+      -205,
+      -315,
+      8
+    ],
+    "fov": 100,
+    "view": "Upphöjd vy"
+  },
+  "92204197": {
+    "location": [
+      -199,
+      1,
+      6
+    ],
+    "target": [
+      -199,
+      -8,
+      5.5
+    ],
+    "fov": 100,
+    "view": "Gatunivå"
+  },
+  "91846928": {
+    "location": [
+      370,
+      -114,
+      18
+    ],
+    "target": [
+      402,
+      -78,
+      10
+    ],
+    "fov": 75,
+    "view": "Upphöjd vy"
+  },
+  "92204203": {
+    "location": [
+      -209,
+      -18,
+      24
+    ],
+    "target": [
+      -208,
+      9,
+      6
+    ],
+    "fov": 86,
+    "view": "Upphöjd vy"
+  },
+  "91970305": {
+    "location": [
+      -27,
+      39,
+      7
+    ],
+    "target": [
+      -38.7,
+      39,
+      6
+    ],
+    "fov": 100,
+    "view": "Upphöjd vy"
+  },
+  "91970388": {
+    "location": [
+      57.5,
+      115.5,
+      7
+    ],
+    "target": [
+      48.6,
+      115.5,
+      6
+    ],
+    "fov": 104,
+    "view": "Upphöjd vy"
+  }
+}
