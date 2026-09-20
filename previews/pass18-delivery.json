@@ -1,0 +1,21 @@
+{
+  "pass18-build": "passed",
+  "pass18-import": "passed",
+  "pass18-render-audit": "passed",
+  "pass18-bindings": "passed",
+  "pass18-materials": "passed",
+  "pass18-collision": "passed",
+  "pass18-storgatan-collision": "passed",
+  "pass18-gates": "passed",
+  "pass18-pie-walk": "passed",
+  "pass18-gerdas-import": "passed",
+  "pass18-gates-import": "passed",
+  "pass18-fbx-audit": "passed",
+  "status": "passed",
+  "limitations": [
+    "Photo-informed dimensions and stylised carvings",
+    "Vasterport tunnel remains straight approximation",
+    "Parking bay layouts inferred; vegetation remains simple",
+    "AAA performance and fidelity not achieved"
+  ]
+}
