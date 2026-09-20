@@ -30,7 +30,7 @@ def view(name):
   level.set_level_viewport_camera_info(cam.get_actor_location(),cam.get_actor_rotation(),key);level.set_level_viewport_fov(cam.camera_component.field_of_view,key);level.editor_set_game_view(True,key)
  level.editor_invalidate_viewports()
 def tick(dt):
- global queue,index,state,start,stamp,handle,perf,samples,actors
+ global queue,index,state,start,stamp,handle,perf,samples,actors,world
  try:
   request=R/'previews/hero-review-request.json'
   if request.exists() and request.stat().st_mtime!=stamp:
@@ -56,7 +56,7 @@ def tick(dt):
      (R/'previews/hero-review-command-error.txt').write_text(traceback.format_exc())
      queue=[];index=0
      return
-    actors=ae.get_all_level_actors()
+    actors=ae.get_all_level_actors();world=ue.get_editor_world()
    if d.get('surface_repair'):
     path=R/'Unreal/Content/Python/repair_exterior_uv.py'
     exec(compile(path.read_text(),str(path),'exec'),{'__file__':str(path)})

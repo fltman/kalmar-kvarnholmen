@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_92204184": {
+      "mikk_zero_loops_before_export_repair": 146,
+      "vertices": 29112,
+      "polygons": 51974,
+      "reprojected_polygons": 339,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 146,
+        "Binormals": 146
+      }
+    },
+    "SM_Kvarnholmen_House_92204157": {
+      "mikk_zero_loops_before_export_repair": 13,
+      "vertices": 33513,
+      "polygons": 24649,
+      "reprojected_polygons": 246,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 13,
+        "Binormals": 13
+      }
+    },
+    "SM_Kvarnholmen_House_92204172": {
+      "mikk_zero_loops_before_export_repair": 36,
+      "vertices": 34766,
+      "polygons": 60732,
+      "reprojected_polygons": 296,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 36,
+        "Binormals": 36
+      }
+    },
+    "SM_Kvarnholmen_House_92204173": {
+      "mikk_zero_loops_before_export_repair": 4398,
+      "vertices": 343061,
+      "polygons": 130123,
+      "reprojected_polygons": 2727,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 4398,
+        "Binormals": 4398
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_92204184",
+    "SM_Kvarnholmen_House_92204157",
+    "SM_Kvarnholmen_House_92204172",
+    "SM_Kvarnholmen_House_92204173"
+  ],
+  "cameras": [
+    "106_KaggensCorner22",
+    "107_KaggensOffice22",
+    "108_LarmBrick22",
+    "109_LarmCorner22",
+    "110_ShoppingCorner22",
+    "111_KaggensNorth22"
+  ]
+}

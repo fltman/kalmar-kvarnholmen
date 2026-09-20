@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "materials": {
+    "M_Street22_Clinker": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_PaleOchre": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_OfficeRender": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_Aggregate": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_RoseAggregate": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_Timber": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_DarkMetal": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Street22_BlueCanvas": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    }
+  }
+}

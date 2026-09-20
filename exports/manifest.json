@@ -5977,23 +5977,6 @@
       "polygons": 9856
     },
     {
-      "name": "SM_Kvarnholmen_House_92204157",
-      "file": "meshes/SM_Kvarnholmen_House_92204157.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Yellow",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Iron",
-        "M_Town_Stone",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 10731,
-      "polygons": 15039
-    },
-    {
       "name": "SM_Kvarnholmen_House_92204158",
       "file": "meshes/SM_Kvarnholmen_House_92204158.fbx",
       "category": "Kvarnholmen/Completed facades",
@@ -6096,23 +6079,6 @@
       "polygons": 10551
     },
     {
-      "name": "SM_Kvarnholmen_House_92204172",
-      "file": "meshes/SM_Kvarnholmen_House_92204172.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Yellow",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Town_Stone",
-        "M_Iron",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 14906,
-      "polygons": 21100
-    },
-    {
       "name": "SM_Kvarnholmen_House_92204174",
       "file": "meshes/SM_Kvarnholmen_House_92204174.fbx",
       "category": "Kvarnholmen/Completed facades",
@@ -6196,23 +6162,6 @@
       ],
       "vertices": 5732,
       "polygons": 8176
-    },
-    {
-      "name": "SM_Kvarnholmen_House_92204184",
-      "file": "meshes/SM_Kvarnholmen_House_92204184.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Rose",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Town_Stone",
-        "M_Iron",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 8519,
-      "polygons": 12295
     },
     {
       "name": "SM_Kvarnholmen_House_92204187",
@@ -9499,33 +9448,6 @@
       "polygons": 26887
     },
     {
-      "name": "SM_Kvarnholmen_House_92204173",
-      "file": "meshes/SM_Kvarnholmen_House_92204173.fbx",
-      "category": "Kvarnholmen/Northern street facades",
-      "materials": [
-        "M_District17_Lime",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Town_Stone",
-        "M_Iron",
-        "M_Gold",
-        "M_Street21_PanelBlue",
-        "M_Street20_GreyFrame",
-        "M_Street21_Concrete",
-        "M_Street21_PanelGrey",
-        "M_Town_PaintBrown",
-        "M_Street21_PanelGreen",
-        "M_Town_PaintGreen",
-        "M_Street21_PanelRed",
-        "M_Street20_Burgundy",
-        "M_Town_TileRed",
-        "M_Street20_Pale"
-      ],
-      "vertices": 219555,
-      "polygons": 124337
-    },
-    {
       "name": "SM_Kvarnholmen_House_92204200",
       "file": "meshes/SM_Kvarnholmen_House_92204200.fbx",
       "category": "Kvarnholmen/Northern street facades",
@@ -9600,6 +9522,103 @@
       ],
       "vertices": 26002,
       "polygons": 15558
+    },
+    {
+      "name": "SM_Kvarnholmen_House_92204184",
+      "file": "meshes/SM_Kvarnholmen_House_92204184.fbx",
+      "category": "Kvarnholmen/Kaggensgatan and Larmgatan",
+      "materials": [
+        "M_Street22_PaleOchre",
+        "M_Town_Glass",
+        "M_Town_PaintWhite",
+        "M_Iron",
+        "M_Town_MetalGrey",
+        "M_Street20_DarkPlinth",
+        "M_Street22_Timber",
+        "M_Street21_WarmCream",
+        "M_Town_MetalRed",
+        "M_Street21_Concrete",
+        "M_Town_Stone",
+        "M_Town_TileRed"
+      ],
+      "vertices": 29112,
+      "polygons": 51974
+    },
+    {
+      "name": "SM_Kvarnholmen_House_92204157",
+      "file": "meshes/SM_Kvarnholmen_House_92204157.fbx",
+      "category": "Kvarnholmen/Kaggensgatan and Larmgatan",
+      "materials": [
+        "M_District17_Yellow",
+        "M_Town_PaintWhite",
+        "M_Town_Glass",
+        "M_Town_MetalGrey",
+        "M_Iron",
+        "M_Town_Stone",
+        "M_Gold",
+        "M_Town_TileRed",
+        "M_Street22_OfficeRender",
+        "M_Street20_DarkPlinth",
+        "M_Street22_DarkMetal",
+        "M_Street21_Concrete",
+        "M_Street20_GreyFrame",
+        "M_Street21_WarmCream",
+        "M_Street22_BlueCanvas",
+        "M_Street21_White"
+      ],
+      "vertices": 33513,
+      "polygons": 24649
+    },
+    {
+      "name": "SM_Kvarnholmen_House_92204172",
+      "file": "meshes/SM_Kvarnholmen_House_92204172.fbx",
+      "category": "Kvarnholmen/Kaggensgatan and Larmgatan",
+      "materials": [
+        "M_Street21_White",
+        "M_Street20_DarkPlinth",
+        "M_Street22_Clinker",
+        "M_Town_Glass",
+        "M_Street22_Timber",
+        "M_Town_MetalGrey",
+        "M_Street21_Concrete",
+        "M_Town_Stone",
+        "M_Street21_WarmCream",
+        "M_Street22_BlueCanvas",
+        "M_Street22_DarkMetal",
+        "M_District17_Yellow"
+      ],
+      "vertices": 34766,
+      "polygons": 60732
+    },
+    {
+      "name": "SM_Kvarnholmen_House_92204173",
+      "file": "meshes/SM_Kvarnholmen_House_92204173.fbx",
+      "category": "Kvarnholmen/Kaggensgatan and Larmgatan",
+      "materials": [
+        "M_District17_Lime",
+        "M_Town_PaintWhite",
+        "M_Town_Glass",
+        "M_Town_MetalGrey",
+        "M_Town_Stone",
+        "M_Iron",
+        "M_Gold",
+        "M_Town_PaintBrown",
+        "M_Town_PaintGreen",
+        "M_Street20_Burgundy",
+        "M_Town_TileRed",
+        "M_Street20_Pale",
+        "M_Street21_PanelBlue",
+        "M_Street20_GreyFrame",
+        "M_Street21_Concrete",
+        "M_Street21_PanelGrey",
+        "M_Street21_PanelGreen",
+        "M_Street21_PanelRed",
+        "M_Street22_Aggregate",
+        "M_Street22_DarkMetal",
+        "M_Street22_RoseAggregate"
+      ],
+      "vertices": 343061,
+      "polygons": 130123
     }
   ],
   "materials": {
@@ -11371,6 +11390,142 @@
         1.0,
         1.0
       ]
+    },
+    "M_Street22_Clinker": {
+      "color": [
+        0.43,
+        0.235,
+        0.155
+      ],
+      "roughness": 0.78,
+      "metallic": 0,
+      "texture": "Street22Clinker",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "M_Street22_PaleOchre": {
+      "color": [
+        0.66,
+        0.6,
+        0.43
+      ],
+      "roughness": 0.84,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9705882352941176,
+        0.923076923076923,
+        0.7818181818181817
+      ]
+    },
+    "M_Street22_OfficeRender": {
+      "color": [
+        0.61,
+        0.53,
+        0.37
+      ],
+      "roughness": 0.85,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8970588235294117,
+        0.8153846153846154,
+        0.6727272727272726
+      ]
+    },
+    "M_Street22_Aggregate": {
+      "color": [
+        0.44,
+        0.4,
+        0.3
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.1578947368421053,
+        1.1267605633802817,
+        0.9677419354838709
+      ]
+    },
+    "M_Street22_RoseAggregate": {
+      "color": [
+        0.5,
+        0.29,
+        0.22
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.3157894736842106,
+        0.8169014084507042,
+        0.7096774193548387
+      ]
+    },
+    "M_Street22_Timber": {
+      "color": [
+        0.31,
+        0.2,
+        0.105
+      ],
+      "roughness": 0.58,
+      "metallic": 0,
+      "texture": "TownPaintBrown",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.631578947368421,
+        1.9047619047619049,
+        1.6153846153846152
+      ]
+    },
+    "M_Street22_DarkMetal": {
+      "color": [
+        0.1,
+        0.12,
+        0.11
+      ],
+      "roughness": 0.44,
+      "metallic": 0.45,
+      "texture": "TownMetalGrey",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8695652173913043,
+        0.8,
+        0.8333333333333333
+      ]
+    },
+    "M_Street22_BlueCanvas": {
+      "color": [
+        0.035,
+        0.12,
+        0.32
+      ],
+      "roughness": 0.9,
+      "metallic": 0,
+      "texture": "TownPanel",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.061403508771929835,
+        0.20689655172413793,
+        0.653061224489796
+      ]
     }
   },
   "cameras": [
@@ -12843,8 +12998,92 @@
         3.4
       ],
       "lens": 29
+    },
+    {
+      "name": "106_KaggensCorner22",
+      "location": [
+        -186.4,
+        144.0,
+        2.1
+      ],
+      "target": [
+        -174,
+        131.8,
+        5.3
+      ],
+      "lens": 20
+    },
+    {
+      "name": "107_KaggensOffice22",
+      "location": [
+        -189.7,
+        104.7,
+        2.0
+      ],
+      "target": [
+        -179.7,
+        103.1,
+        4.9
+      ],
+      "lens": 14
+    },
+    {
+      "name": "108_LarmBrick22",
+      "location": [
+        -292.8,
+        106.0,
+        2.0
+      ],
+      "target": [
+        -284.3,
+        118.5,
+        5.9
+      ],
+      "lens": 18
+    },
+    {
+      "name": "109_LarmCorner22",
+      "location": [
+        -290.6,
+        145.0,
+        2.0
+      ],
+      "target": [
+        -279,
+        133.3,
+        6.3
+      ],
+      "lens": 20
+    },
+    {
+      "name": "110_ShoppingCorner22",
+      "location": [
+        -183.4,
+        143.9,
+        2.0
+      ],
+      "target": [
+        -196.6,
+        130.9,
+        5.8
+      ],
+      "lens": 19
+    },
+    {
+      "name": "111_KaggensNorth22",
+      "location": [
+        -185.1,
+        98.0,
+        1.85
+      ],
+      "target": [
+        -183.7,
+        133.6,
+        4.2
+      ],
+      "lens": 26
     }
   ],
-  "total_vertices": 9383828,
-  "total_polygons": 11416064
+  "total_vertices": 9570569,
+  "total_polygons": 11510771
 }

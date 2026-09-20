@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "floor_samples": 239,
+  "floor_failures": [],
+  "capsule_segments": 216,
+  "obstructions": [],
+  "streets": {
+    "Norra Långgatan": {
+      "floor_samples": 70,
+      "floor_failures": 0,
+      "capsule_segments": 64,
+      "obstructions": 0
+    },
+    "Storgatan": {
+      "floor_samples": 53,
+      "floor_failures": 0,
+      "capsule_segments": 51,
+      "obstructions": 0
+    },
+    "Larmgatan": {
+      "floor_samples": 59,
+      "floor_failures": 0,
+      "capsule_segments": 52,
+      "obstructions": 0
+    },
+    "Kaggensgatan": {
+      "floor_samples": 57,
+      "floor_failures": 0,
+      "capsule_segments": 49,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-20T11:02:17.439158",
+  "passages": [
+    {
+      "name": "Kopmantorget",
+      "clear": true,
+      "grounded": true,
+      "hit": null
+    }
+  ],
+  "verified_detours": [],
+  "unresolved_obstructions": []
+}

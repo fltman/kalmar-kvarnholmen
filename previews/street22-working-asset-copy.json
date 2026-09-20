@@ -1,0 +1,70 @@
+{
+  "direction": "validated public scene to working project on disk",
+  "active_working_editor_still_has_previous_map_loaded": true,
+  "files": [
+    {
+      "path": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204184.uasset",
+      "sha256": "2259b91f5a577631bb303ba84555927422b9fc027124c969b6ccbd77d06fbde6"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204157.uasset",
+      "sha256": "ab5a27753a60899878cb2e69452fbb0353408daf9118158898e197642099a73a"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204172.uasset",
+      "sha256": "afc07e283c68dd8bc5012dfb8da20927ab1017aea913bac4a20a3ecf8bb58ab8"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204173.uasset",
+      "sha256": "632f0c883cba0f917d87bd452a3c7c2a758ec36481881bce0a614e4889516a16"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_OfficeRender.uasset",
+      "sha256": "e7e2474e919ef16eb532583a2c22267e2af27c3e9d5f1d48cf726913a8865ac4"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_Timber.uasset",
+      "sha256": "2c759aa8a7f9b4aaf497d3f86db73d1e9270e0272d9632e4e05ff28cdc325144"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_Clinker.uasset",
+      "sha256": "49ccc552f4bd1168fb6136c2b9d0dbcfa2d25de4b3166fb2d7ce792b02abd9ab"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_PaleOchre.uasset",
+      "sha256": "c736ff7578a191875557ce666cc0c40895a27257547eff94719d1fc1eab6b5b1"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_Aggregate.uasset",
+      "sha256": "9f9275608630c22be0905d657fcd7df9a69fa031bdd2dbe268c5178f4a78589f"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_RoseAggregate.uasset",
+      "sha256": "275470589832de697969a33c0ae770ee1932e9f7116f0edef3809921c9806c48"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_BlueCanvas.uasset",
+      "sha256": "c261e4c10d7ac0967b53c13829c539c881a5ab5e6be9e7f3df3e30a5f378531f"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Materials/M_Street22_DarkMetal.uasset",
+      "sha256": "a1edf2b224d6d962b09d4f39ad94ef80aa73f177962a42c10de9a32eaa104d8c"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Textures/T_Street22Clinker_Roughness.uasset",
+      "sha256": "d00e881630a974c4200e383ed748faffd947e1d252875e9942ce44618e8f910e"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Textures/T_Street22Clinker_Normal.uasset",
+      "sha256": "3788a937f3fa95a76ca60751ebb4457a0870e6fafa83adcc188df868c44e3c20"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Textures/T_Street22Clinker_BaseColor.uasset",
+      "sha256": "b44117775b1a1962353fdbde826a9b3cc074fd866d69c70d1f551f8c5b491ef7"
+    },
+    {
+      "path": "Unreal/Content/Kalmar/Maps/Stortorget.umap",
+      "sha256": "b0de0a6e9d9262ff6888ba05e0903bfedb184d089bff679973c8fa8174da65bd"
+    }
+  ]
+}
