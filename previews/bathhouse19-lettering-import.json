@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "time": 1789880598.8963032,
+  "meshes": [
+    {
+      "name": "SM_Kvarnholmen_House_91846928",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ],
+  "validation_context": "Live development editor/export; packaged Unreal assets are byte-identical (refinement19-asset-copy.json)."
+}

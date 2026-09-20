@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "time": 1789879995.98173,
+  "meshes": [
+    {
+      "name": "SM_Building_92379312",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ],
+  "validation_context": "Live development editor/export; packaged Unreal assets are byte-identical (refinement19-asset-copy.json)."
+}

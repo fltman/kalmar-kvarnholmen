@@ -1,0 +1,12 @@
+{
+  "method": "Copy the seven saved assets validated in the live development editor; remaining public world/materials retained. Public map dependencies checked separately.",
+  "sha256": {
+    "Unreal/Content/Kalmar/Meshes/SM_Building_92379312.uasset": "31ac97b29f99e889c27cb3d40bf7f85f473a2cf197d88206f07370b5e337e5fe",
+    "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91846928.uasset": "c4b20b955ba06908cf0d7142485996a93b9d7ade1d99faa91ce18e98f0792244",
+    "Unreal/Content/Kalmar/Materials/M_Portal19_Stone.uasset": "e5aec3fcbff61d76f276294e2fd86b9c6eeeed2752514cfeae6b75f8ed04d1be",
+    "Unreal/Content/Kalmar/Materials/M_Portal19_Engraving.uasset": "a02ac884a9a1c228e47809189f4b83e4b036bed98727036d0570db8ab866de61",
+    "Unreal/Content/Kalmar/Textures/T_Portal19Stone_BaseColor.uasset": "6b74bc660de3e3e1570365d5399ddc0b840a512a26651dff06e1fafa67c22196",
+    "Unreal/Content/Kalmar/Textures/T_Portal19Stone_Normal.uasset": "2446e3d177e2129bf85cf6cb705274a165c579d1d9c32c2a8d5c8b9473f7e109",
+    "Unreal/Content/Kalmar/Textures/T_Portal19Stone_Roughness.uasset": "8241fdef114d7523e53b1efeb3815d9a0d647118bb96e616a24f567fa9cba34d"
+  }
+}

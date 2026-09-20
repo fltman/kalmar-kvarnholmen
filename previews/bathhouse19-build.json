@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_91846928": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 127685,
+      "polygons": 204847,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_91846928"
+  ],
+  "cameras": []
+}

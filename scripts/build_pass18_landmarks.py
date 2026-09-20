@@ -94,8 +94,9 @@ for xx in [xc-1.85,xc+1.85]:m.box((xx,y0-.85,4.8),(.22,1.45,1.1),P18['BathCream'
 for q in [-1.7,-1.1,-.55,0,.55,1.1,1.7]:facade_box(m,xc,y0,q,1.55,4.83,.20,.22,.84,P18['BathCream'],0)
 facade_box(m,xc,y0,0,1.55,5.33,4.05,.34,.16,P18['BathCream'],0)
 p18_finish(m)
+exec(compile((R/'scripts/bathhouse19_helpers.py').read_text(),'bathhouse19_helpers.py','exec'))
 # Varmbadhuset: pale render, three west gables, paired windows and a recessed iron-gated portal.
-m=p18_new('SM_Kvarnholmen_House_91846928');b=D18['buildings']['91846928'];H=10.9;CR18=P18['BathCream'];JOIN=P18['GreenJoinery'];AS18=P18['Ashlar']
+m=p18_new('SM_Kvarnholmen_House_91846928');b=D18['buildings']['91846928'];H=10.9;CR18=P18['BathCream'];JOIN=P18['GreenJoinery'];AS18='M_Portal19_Stone'
 for x,y,L,a in l14_edges(b['polygons'][0]['outer']):
  if L<5:p18_face(m,x,y,L,H,[],CR18,a);continue
  west=x<396;south=y< -95;N=5 if south else max(3,round(L/2.8));us=[-L/2+(k+.5)*L/N for k in range(N)];holes=[]
@@ -114,9 +115,15 @@ for x,y,L,a in l14_edges(b['polygons'][0]['outer']):
  p18_face(m,x,y,L,H,holes,CR18,a)
  for u,bb,w,hh,r in holes:
   if west and abs(u-portal)<.01 and bb<.1:continue
-  p18_win(m,x,y,u,bb,w,hh,r,a,frame=JOIN,trim=CR18,rows=4,cols=3 if w>.7 else 2)
- for z in [1.66,3.18,5.23,7.91]:p18_band(m,x,y,L,z,a,AS18,.20)
- facade_box(m,x,y,0,.37,.25,L,.14,.50,AS18,a);p18_band(m,x,y,L+.18,H,a,CR18,.4)
+  b19_win(m,x,y,u,bb,w,hh,r,a,frame=JOIN,trim=CR18,rows=4,cols=3 if w>.7 else 2)
+ for z in [1.66,3.18,5.23,7.91]:
+  gap=1.58 if z<4 else .80
+  spans=[(-L/2,portal-gap),(portal+gap,L/2)] if west and z<7 else [(-L/2,L/2)]
+  for lo,hi in spans:
+   bx,by,_=lp(x,y,(lo+hi)/2,0,0,a);p18_band(m,bx,by,hi-lo,z,a,AS18,.20)
+ spans=[(-L/2,portal-1.50),(portal+1.50,L/2)] if west else [(-L/2,L/2)]
+ for lo,hi in spans:facade_box(m,x,y,(lo+hi)/2,.37,.25,hi-lo,.14,.50,AS18,a)
+ p18_band(m,x,y,L+.18,H,a,CR18,.4)
  town_rod(m,lp(x,y,-L/2,.53,H+.04,a),lp(x,y,L/2,.53,H+.04,a),.07,TC,12)
  if south:
   for i in range(N+1):
@@ -133,44 +140,40 @@ for x,y,L,a in l14_edges(b['polygons'][0]['outer']):
   for z in [.23,1.40,2.7]:facade_box(m,px,py,0,.12,z,2.1,.05,.04,JOIN,a)
   for sign in [-1,1]:sf_beam(m,lp(px,py,sign*1.0,.12,.4,a),lp(px,py,-sign*1.0,.12,2.7,a),.032,.032,JOIN,a)
   for i in range(3):facade_box(m,px,py,0,.64+i*.2,.075*(3-i),2.5,.9,.15*(3-i),AS18,a)
-  p18_band(m,px,py,3.5,4.48,a,AS18,.68);town_text(m,*lp(px,py,0,.82,0,a)[:2],4.08,a,'BADHUS',2.55,AS18)
+  p18_band(m,px,py,3.5,4.48,a,AS18,.68)
+  facade_box(m,px,py,0,.60,4.21,3.22,.30,.30,AS18,a)
+  town_text(m,*lp(px,py,0,.77,0,a)[:2],4.20,a,'BADHUS',1.85,'M_Portal19_Engraving')
   # Carved niche, pilasters and draped figure; explicit stylised relief, not scanned artwork.
   for q in [-.56,.56]:facade_box(m,px,py,q,.42,5.70,.20,.32,2.15,AS18,a)
   p18_arch(m,px,py,6.68,1.12,.55,.14,.43,a,AS18)
   facade_box(m,px,py,0,.26,5.8,.98,.1,1.85,TS,a)
+  facade_box(m,px,py,0,.45,4.74,.77,.45,.24,AS18,a)
   fx,fy,_=lp(px,py,0,.52,0,a);m.lathe(fx,fy,4.85,[(.28,0),(.19,.65),(.22,1.2),(.15,1.50),(.09,1.63)],AS18,16);m.lathe(fx,fy,6.50,[(.09,0),(.17,.15),(.11,.30),(.06,.36)],AS18,16)
   for sign in [-1,1]:
    town_path(m,[lp(px,py,sign*.19,.53,6.27,a),lp(px,py,sign*.29,.64,6.0,a),lp(px,py,0,.69,6.15,a)],.075,AS18)
    town_scroll(m,*lp(px,py,sign*.95,.44,0,a)[:2],4.94,a,sign,.70,.09,AS18)
   ox,oy,_=lp(x,y,oriel,.02,0,a)
   facade_box(m,ox,oy,0,.65,4.18,2.0,1.3,2.50,CR18,a)
-  for q in [-.48,.48]:p18_win(m,*lp(ox,oy,0,1.33,0,a)[:2],q,3.55,.70,1.69,0,a,frame=JOIN,trim=CR18,rows=4,cols=2)
+  for q in [-.48,.48]:b19_win(m,*lp(ox,oy,0,1.33,0,a)[:2],q,3.55,.70,1.69,0,a,frame=JOIN,trim=CR18,rows=4,cols=2)
   l14_hip(m,*lp(ox,oy,0,.72,0,a)[:2],2.3,1.6,5.45,.85,TC,a)
   # Supported taper below the oriel.
   town_polyprofile(m,ox,oy,2.50,[(-.25,0),(.25,0),(.9,.64),(.9,.9),(-.9,.9),(-.9,.64)],a,CR18,1.0,False)
   # Gable faces split around arched upper windows, and mouldings on the face.
   for gu,gw,gr in [(-L*.34,3.45,2.2),(0,4.15,2.9),(L*.34,4.8,3.35)]:
    gx,gy,_=lp(x,y,gu,0,0,a);base=H-.75;wb=8.20;ww=1.90 if gw>4 else 1.1;wh=2.0 if gw>4 else 2.3;wr=.72 if gw>4 else .30
-   for k in range(48):
-    u0=-gw/2+k*gw/48;u1=-gw/2+(k+1)*gw/48
-    top=lambda u:base+gr*(1-(abs(u)/(gw/2))**.85)
-    if u1<=-ww/2 or u0>=ww/2:lo0=lo1=base
-    else:
-     u0=max(u0,-ww/2);u1=min(u1,ww/2);lo0=wb+wh+wr*math.sqrt(max(0,1-(2*u0/ww)**2));lo1=wb+wh+wr*math.sqrt(max(0,1-(2*u1/ww)**2))
-    if min(top(u0)-lo0,top(u1)-lo1)>0:m.faces([lp(gx,gy,u0,.39,lo0,a),lp(gx,gy,u1,.39,lo1,a),lp(gx,gy,u1,.39,top(u1),a),lp(gx,gy,u0,.39,top(u0),a)],[(0,1,2,3)],CR18)
-   p18_win(m,gx,gy,0,wb,ww,wh,wr,a,frame=JOIN,trim=CR18,rows=5,cols=4 if ww>1.5 else 2)
-   for sign in [-1,1]:town_path(m,[lp(gx,gy,sign*gw/2*(1-t),.44,base+gr*t**.85,a) for t in [i/24 for i in range(25)]],.105,AS18)
+   b19_gable(m,gx,gy,gw,gr,base,wb,ww,wh,wr,a,CR18,AS18)
+   # Joinery already exists in the facade aperture above; do not duplicate it.
  for q in [-L/2+.12,L/2-.12]:sf_pipe(m,x,y,q,H,a,TW)
 # Continuous pitched roof volumes at the two mapped widths.
 l14_hip(m,405.3,-85.25,20.1,22.5,H,4.1,TT);l14_hip(m,400.75,-68.65,10.8,12.9,H,2.8,TT)
 for tx,ty in [(397.1,-94.5),(413.4,-94.0)]:
  m.box((tx,ty,10.45),(3.15,3.15,2.3),CR18)
  for aa in [0,math.pi/2,math.pi,3*math.pi/2]:
-  xx,yy,_=lp(tx,ty,0,1.59,0,aa);p18_win(m,xx,yy,0,10.0,.86,1.03,.40,aa,frame=JOIN,trim=CR18,rows=3,cols=3)
+  xx,yy,_=lp(tx,ty,0,1.59,0,aa);b19_win(m,xx,yy,0,10.0,.86,1.03,.40,aa,frame=JOIN,trim=CR18,rows=3,cols=3)
  # Curved copper cap rather than a straight pyramid.
- m.lathe(tx,ty,11.65,[(2.35,0),(2.1,.20),(1.6,.72),(1.0,1.5),(.4,2.25),(.06,2.70)],TC,4)
+ town_square_loft(m,tx,ty,11.65,[(1.80,0),(1.71,.12),(1.39,.36),(1.02,.79),(.59,1.43),(.27,2.05),(.09,2.52),(.04,2.70)],TC)
  m.lathe(tx,ty,14.35,[(.07,0),(.16,.12),(.07,.28),(.01,.45)],TC,12)
 l14_lantern(m,400.6,-69.1,13.2,.67,1.65)
 for yy in [-88,-74]:
- l14_hip(m,398.7,yy,1.5,1.0,12.20,.45,TC,math.pi/2);p18_win(m,398.2,yy,0,11.70,.70,.57,.18,-math.pi/2,frame=JOIN,trim=TC,rows=1,cols=2)
+ l14_hip(m,398.7,yy,1.5,1.0,12.20,.45,TC,math.pi/2);b19_win(m,398.2,yy,0,11.70,.70,.57,.18,-math.pi/2,frame=JOIN,trim=TC,rows=1,cols=2)
 p18_finish(m)

@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "materials": {
+    "M_Portal19_Stone": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Portal19_Engraving": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    }
+  },
+  "validation_context": "Live development editor/export; packaged Unreal assets are byte-identical (refinement19-asset-copy.json)."
+}

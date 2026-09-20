@@ -7,6 +7,7 @@ for filename in ['build_town_details.py','town_detail_helpers.py','build_larmtor
  tree=ast.parse((R/'scripts'/filename).read_text());tree.body=[n for n in tree.body if isinstance(n,ast.FunctionDef)];exec(compile(tree,filename,'exec'))
 exec(compile((R/'scripts/materials_pass18.py').read_text(),'materials_pass18.py','exec'))
 exec(compile((R/'scripts/pass18_helpers.py').read_text(),'pass18_helpers.py','exec'))
+exec(compile((R/'scripts/materials_portal19.py').read_text(),'materials_portal19.py','exec'))
 for filename in ['build_pass18_landmarks.py','build_pass18_gates.py','build_pass18_extra.py','build_pass18_gerdas.py','build_pass18_surfaces.py']:
  exec(compile((R/'scripts'/filename).read_text(),str(R/'scripts'/filename),'exec'))
 pass18_names=list(dict.fromkeys(pass18_names))

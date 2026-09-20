@@ -1,0 +1,43 @@
+{
+  "SM_Building_92379312": {
+    "Normals": {
+      "vectors": 38206,
+      "min_length": 0.9999998604370781,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 228801,
+      "min_length": 0.9999998507332079,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 228801,
+      "min_length": 0.9999997578017767,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91846928": {
+    "Normals": {
+      "vectors": 152339,
+      "min_length": 0.9999998438864066,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 614541,
+      "min_length": 0.9999998443838956,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 614541,
+      "min_length": 0.9999996918715808,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "validation_context": "Final development FBX export. Public scene rebuilt from the same generators."
+}

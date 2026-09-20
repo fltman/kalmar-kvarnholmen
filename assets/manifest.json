@@ -1,16 +1,16 @@
 {
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "repository": "fltman/kalmar-kvarnholmen",
   "bundles": {
     "blender-source": {
       "file": "blender-source.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.0/blender-source.zip",
-      "bytes": 341024977,
-      "sha256": "91af1ed11e7aefaae23b0eaeae2f1dd2dcc01157b0a09405bf4cae0cb122e81c",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.1/blender-source.zip",
+      "bytes": 344193996,
+      "sha256": "02fed142b03fdb938ba5c6d4e6b5c644e8bcba06a9df63592fd488961c898129",
       "files": {
         "source/Stortorget.blend": {
-          "bytes": 348631232,
-          "sha256": "34de6f11c1bf777548263f95aaa2a942381c2c126168387af0d3af80da4dd6b2"
+          "bytes": 351862082,
+          "sha256": "0501ff2a50afcb238ea074550ef02d73771da40f180caeea52f3aab041196f30"
         },
         "LICENSE": {
           "bytes": 787,
@@ -40,9 +40,9 @@
     },
     "unreal-assets": {
       "file": "unreal-assets.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.0/unreal-assets.zip",
-      "bytes": 1294269766,
-      "sha256": "5500e6ddac603dbc662596e2d426cf03bf8bb6527ec6b6ddaacc42d008de9090",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.1/unreal-assets.zip",
+      "bytes": 1302563990,
+      "sha256": "50f3334520ce1e143fc32028a0e7e6cebc678b8727b257843b5847862e843b6b",
       "files": {
         "Unreal/Content/Characters/Mannequins/Anims/Death/MM_Death_Back_01.uasset": {
           "bytes": 308880,
@@ -625,8 +625,8 @@
           "sha256": "62ac8161561dc5df87ae697943e8bac4e68103a5771d3df87e8a3ab1ead7babe"
         },
         "Unreal/Content/Kalmar/Materials/M_Altarpiece_Photo.uasset": {
-          "bytes": 16236,
-          "sha256": "4caf8ceb138d85178de923690f48e2141bea05f7fef55b8353869c3a13cab755"
+          "bytes": 16180,
+          "sha256": "04093db21088a13bf16084452f784941118125dd8fe93c5af75bfa38ce086601"
         },
         "Unreal/Content/Kalmar/Materials/M_Awning_Green.uasset": {
           "bytes": 9803,
@@ -887,6 +887,14 @@
         "Unreal/Content/Kalmar/Materials/M_Polish_BridgeWood.uasset": {
           "bytes": 27756,
           "sha256": "c977fa018c8f2d2f6546fba2e72cd66f9e54e670828ed262186da83b2cdb757e"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Portal19_Engraving.uasset": {
+          "bytes": 15847,
+          "sha256": "a02ac884a9a1c228e47809189f4b83e4b036bed98727036d0570db8ab866de61"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Portal19_Stone.uasset": {
+          "bytes": 18057,
+          "sha256": "e5aec3fcbff61d76f276294e2fd86b9c6eeeed2752514cfeae6b75f8ed04d1be"
         },
         "Unreal/Content/Kalmar/Materials/M_Pulpit_Painted_Wood.uasset": {
           "bytes": 14706,
@@ -1213,8 +1221,8 @@
           "sha256": "ea9ad0557edd2ade13a57863d7db0aa35fdbec00d0e124eb37f32f501a199fdd"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Building_92379312.uasset": {
-          "bytes": 3002315,
-          "sha256": "ebcd14b0c9ee606e5343a1099d2e77c7e3a8ea82d52c2131544024e139eb2a05"
+          "bytes": 3451281,
+          "sha256": "31ac97b29f99e889c27cb3d40bf7f85f473a2cf197d88206f07370b5e337e5fe"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Building_92412832.uasset": {
           "bytes": 440648,
@@ -2125,8 +2133,8 @@
           "sha256": "96f68c01a9fea277a301321ed453eccd86a5e3a847cc338e9875b8f8cca1d394"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91846928.uasset": {
-          "bytes": 5207750,
-          "sha256": "5877901ab0613a7ddfe339657cca2aff9daa20ad8958d9541c058fd79b463a9f"
+          "bytes": 9189336,
+          "sha256": "c4b20b955ba06908cf0d7142485996a93b9d7ade1d99faa91ce18e98f0792244"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91846934.uasset": {
           "bytes": 1565763,
@@ -4064,6 +4072,18 @@
           "bytes": 12731,
           "sha256": "e983fe2b74e7a521a679c999dc91b8a722dc76b934464672f398196e45280101"
         },
+        "Unreal/Content/Kalmar/Textures/T_Portal19Stone_BaseColor.uasset": {
+          "bytes": 1076382,
+          "sha256": "6b74bc660de3e3e1570365d5399ddc0b840a512a26651dff06e1fafa67c22196"
+        },
+        "Unreal/Content/Kalmar/Textures/T_Portal19Stone_Normal.uasset": {
+          "bytes": 2400582,
+          "sha256": "2446e3d177e2129bf85cf6cb705274a165c579d1d9c32c2a8d5c8b9473f7e109"
+        },
+        "Unreal/Content/Kalmar/Textures/T_Portal19Stone_Roughness.uasset": {
+          "bytes": 533022,
+          "sha256": "8241fdef114d7523e53b1efeb3815d9a0d647118bb96e616a24f567fa9cba34d"
+        },
         "Unreal/Content/Kalmar/Textures/T_SodraCream_BaseColor.uasset": {
           "bytes": 2337075,
           "sha256": "00baad9c238efbb6206a48b9815587f5a748b20f1ee800f5f02c3299791dc920"
@@ -4330,7 +4350,7 @@
         },
         "Unreal/Content/Kalmar/Maps/Stortorget.umap": {
           "bytes": 1392977,
-          "sha256": "dacdce55c19e65cae387786c403c796351927c0a6eb154774dc99c2e996e1bdb"
+          "sha256": "64f385facc810beb0b3aaa3b139a52404f969bd648998805660fc6621dfb9d0a"
         },
         "LICENSE": {
           "bytes": 787,
@@ -4360,9 +4380,9 @@
     },
     "fbx-meshes": {
       "file": "fbx-meshes.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.0/fbx-meshes.zip",
-      "bytes": 548652423,
-      "sha256": "1bf5484991e96ed86576bd481100b6a827480f034aab6f9edadebe9a86f28983",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.1/fbx-meshes.zip",
+      "bytes": 555636933,
+      "sha256": "fc3f87884f94d418e44745f19a9f6f6ad0f144b1cb9bd2fef70981a40fd92519",
       "files": {
         "exports/meshes/SM_Building_91264997.fbx": {
           "bytes": 2014732,
@@ -4557,8 +4577,8 @@
           "sha256": "726a99dfbdb64c0ea4a41a7b5d479fe6fd51969ae30ba91ba9d16cb60c6a1579"
         },
         "exports/meshes/SM_Building_92379312.fbx": {
-          "bytes": 4791964,
-          "sha256": "88d3ce24173c83b8f50a679509ce49dac7d203d9eb5d1ed5aa1b9b7cd65e16f3"
+          "bytes": 5722700,
+          "sha256": "b6f4615b6916a5ed2d9a88e656adaa9d5af7afe9a15ee69555a2efa98c8c9eaf"
         },
         "exports/meshes/SM_Building_92412832.fbx": {
           "bytes": 648828,
@@ -5469,8 +5489,8 @@
           "sha256": "c03121805f28fc9ab12538ed0cd560fe32272fec4697b2e7a9cf59b1450fd555"
         },
         "exports/meshes/SM_Kvarnholmen_House_91846928.fbx": {
-          "bytes": 8389628,
-          "sha256": "a67ffadad1489a8437b46870016308e09b598b0c2ad70ae2435cb9e851adee1c"
+          "bytes": 14878300,
+          "sha256": "800142e32d612c906e672aa667352ad8c19699460d5fa564b226f1477b812054"
         },
         "exports/meshes/SM_Kvarnholmen_House_91846934.fbx": {
           "bytes": 2534476,
@@ -6760,9 +6780,9 @@
     },
     "textures": {
       "file": "textures.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.0/textures.zip",
-      "bytes": 675935197,
-      "sha256": "d65d59997e1c3949826705c5d36efcefb97c12ad1f3ee4e027335a76cc42d52d",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.1/textures.zip",
+      "bytes": 679312517,
+      "sha256": "7f4ce45064c8168de69dc8303be2c7755f35afc7ccd98275b9c9fead9ddd22ab",
       "files": {
         "exports/textures/T_ChurchAshlar_BaseColor.png": {
           "bytes": 2320447,
@@ -7436,6 +7456,18 @@
           "bytes": 3158,
           "sha256": "6b019ac32363585df9b7be853083aefcd207a6b5a4bc085a72e162d54f3b9adb"
         },
+        "exports/textures/T_Portal19Stone_BaseColor.png": {
+          "bytes": 1023344,
+          "sha256": "4e2863c3585e8159a5eeda50aceb039c03b7f05d6d702358304a54025f33a406"
+        },
+        "exports/textures/T_Portal19Stone_Normal.png": {
+          "bytes": 1886439,
+          "sha256": "8134e8d440f5f959afa0d731ba2d18a594ca4d5ccfe40593fadafe8573fa337a"
+        },
+        "exports/textures/T_Portal19Stone_Roughness.png": {
+          "bytes": 466009,
+          "sha256": "747bbcf1bafc673bc49e61a0d76781c47f7656cade56816be7a625d579dd8db8"
+        },
         "exports/textures/T_SodraCream_BaseColor.png": {
           "bytes": 2600514,
           "sha256": "a7358714a31633895db78b565b75cc6fdf3073051e818e686c6c9a89871bd221"
@@ -7728,7 +7760,7 @@
     },
     "texture-sources": {
       "file": "texture-sources.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.0/texture-sources.zip",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.1/texture-sources.zip",
       "bytes": 575276620,
       "sha256": "324335e45bee5ae09339edaf58de732de034d5bb1c0129b7620d3ba6ae536992",
       "files": {

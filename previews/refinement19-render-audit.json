@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Building_92379312": {
+      "vertices": 103849,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_House_91846928": {
+      "vertices": 528205,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    }
+  },
+  "validation_context": "Live development editor/export; packaged Unreal assets are byte-identical (refinement19-asset-copy.json)."
+}

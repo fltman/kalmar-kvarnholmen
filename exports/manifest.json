@@ -9046,25 +9046,6 @@
       "polygons": 525014
     },
     {
-      "name": "SM_Kvarnholmen_House_91846928",
-      "file": "meshes/SM_Kvarnholmen_House_91846928.fbx",
-      "category": "Kvarnholmen/Reference corrections",
-      "materials": [
-        "M_Pass18_BathCream",
-        "M_Town_Glass",
-        "M_Pass18_GreenJoinery",
-        "M_Pass18_Ashlar",
-        "M_Town_Copper",
-        "M_Iron",
-        "M_Town_Stone",
-        "M_Town_PaintWhite",
-        "M_Town_TileRed",
-        "M_Town_MetalGrey"
-      ],
-      "vertices": 92312,
-      "polygons": 121218
-    },
-    {
       "name": "SM_Building_92412866",
       "file": "meshes/SM_Building_92412866.fbx",
       "category": "Buildings",
@@ -9502,27 +9483,6 @@
       "polygons": 10
     },
     {
-      "name": "SM_Building_92379312",
-      "file": "meshes/SM_Building_92379312.fbx",
-      "category": "Storgatan/Landmarks",
-      "materials": [
-        "M_District17_Ivory",
-        "M_Town_PaintWhite",
-        "M_Town_MetalGrey",
-        "M_Town_Stone",
-        "M_Town_Glass",
-        "M_Town_TileRed",
-        "M_Town_Ivory",
-        "M_Gold",
-        "M_Town_PaintBrown",
-        "M_District17_RedJoinery",
-        "M_Iron",
-        "M_Town_PaintGreen"
-      ],
-      "vertices": 61167,
-      "polygons": 63651
-    },
-    {
       "name": "SM_Kvarnholmen_Port_Vasterport",
       "file": "meshes/SM_Kvarnholmen_Port_Vasterport.fbx",
       "category": "Kvarnholmen/Fortifications",
@@ -9560,6 +9520,49 @@
       ],
       "vertices": 5818,
       "polygons": 9648
+    },
+    {
+      "name": "SM_Building_92379312",
+      "file": "meshes/SM_Building_92379312.fbx",
+      "category": "Storgatan/Landmarks",
+      "materials": [
+        "M_District17_Ivory",
+        "M_Town_PaintWhite",
+        "M_Town_MetalGrey",
+        "M_Town_Stone",
+        "M_Town_Glass",
+        "M_Town_TileRed",
+        "M_Town_Ivory",
+        "M_Gold",
+        "M_District17_RedJoinery",
+        "M_Iron",
+        "M_Bench_Oak",
+        "M_Portal19_Stone",
+        "M_Town_PaintBrown",
+        "M_Town_PaintGreen"
+      ],
+      "vertices": 66819,
+      "polygons": 76267
+    },
+    {
+      "name": "SM_Kvarnholmen_House_91846928",
+      "file": "meshes/SM_Kvarnholmen_House_91846928.fbx",
+      "category": "Kvarnholmen/Reference corrections",
+      "materials": [
+        "M_Pass18_BathCream",
+        "M_Town_Glass",
+        "M_Pass18_GreenJoinery",
+        "M_Portal19_Stone",
+        "M_Town_Copper",
+        "M_Iron",
+        "M_Portal19_Engraving",
+        "M_Town_Stone",
+        "M_Town_PaintWhite",
+        "M_Town_TileRed",
+        "M_Town_MetalGrey"
+      ],
+      "vertices": 127685,
+      "polygons": 204847
     }
   ],
   "materials": {
@@ -10928,6 +10931,35 @@
       "texture": "Pass18Paint",
       "uv_scale": 1.0,
       "normal_strength": 1.0
+    },
+    "M_Portal19_Stone": {
+      "color": [
+        0.49,
+        0.475,
+        0.425
+      ],
+      "roughness": 0.84,
+      "metallic": 0,
+      "texture": "Portal19Stone",
+      "uv_scale": 8.0,
+      "normal_strength": 1.0
+    },
+    "M_Portal19_Engraving": {
+      "color": [
+        0.3,
+        0.29,
+        0.26
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "Portal19Stone",
+      "uv_scale": 8.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.42,
+        0.42,
+        0.42
+      ]
     }
   },
   "cameras": [
@@ -12192,6 +12224,6 @@
       "lens": 28
     }
   ],
-  "total_vertices": 9011364,
-  "total_polygons": 11140350
+  "total_vertices": 9052389,
+  "total_polygons": 11236595
 }

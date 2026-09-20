@@ -36,7 +36,7 @@ In Unreal, press **Play**, then click the viewport. Use **WASD**, mouse look, an
 - PBR surface textures with normal and roughness maps, plus Unreal materials, lighting and collision.
 - Python generators, reference provenance, and geometry / import / traversal checks.
 
-The latest correction pass distinguishes Riskvarnen from Ångkvarnen, replaces Gerdas' generic frontage, separates the overlapping Stortorget frontages, restores Barometern's entrance, articulates Witt's rear, and adds mapped green and parking surfaces. See [known limitations](docs/KNOWN_ISSUES.md).
+The earlier correction pass distinguishes Riskvarnen from Ångkvarnen, replaces Gerdas' generic frontage, separates the overlapping Stortorget frontages, restores Barometern's entrance, articulates Witt's rear, and adds mapped green and parking surfaces. The new [detail pass](docs/REFINEMENT_19.md) improves Gerdas’ carved portal and timber door, and Varmbadhuset’s gables, copper caps and entrance. See [known limitations](docs/KNOWN_ISSUES.md).
 
 ## Contribute
 
