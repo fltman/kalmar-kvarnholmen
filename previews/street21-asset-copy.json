@@ -1,0 +1,97 @@
+{
+  "status": "passed",
+  "files": [
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_Rose.uasset",
+      "sha256": "cb248238cacaf618c2bb5abff73c79b54b03d5d763acb62ce0201bbcbfc13d42"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_Concrete.uasset",
+      "sha256": "da5b25d0af3c30928ef317b1b36ab77c98d408305da3bf95a9196cba8f58efe8"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_White.uasset",
+      "sha256": "27c04d0f126effd238a71261cd5672599565c737b9a440ccef8c38a863ec2666"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_PanelGreen.uasset",
+      "sha256": "4708bc81a796d4d8bf49925107f2f6e0de75998e5946a8bafa9671d996ee0567"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_BlueAwning.uasset",
+      "sha256": "45b726d586ff040a6e21714fb145de26e1234ef684a4886ee303e1488ccf285d"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_PanelRed.uasset",
+      "sha256": "21200e339243be8560c99fcbce21c9571b6a43bc0f09634c306f745afeb18198"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_MetalGreen.uasset",
+      "sha256": "0853623a6c4e955197ade4db1055973dac59cb84a19de6ecac46b2ecf27dc213"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_DeepGreen.uasset",
+      "sha256": "fb47d257394f7e855cf185fdd99ee0b4f2ce939b4e4204c1cc0320e886ea5e55"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_PanelGrey.uasset",
+      "sha256": "27c67421feece167b4a039ddcb0bb2a481dafd493cf19e2d744d4d823d1e71f7"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_TileApron.uasset",
+      "sha256": "e7538208a9ceb952c5ba12363a79c437ce1844e2c6b536717e8a869351b838d2"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_WarmCream.uasset",
+      "sha256": "cfec50519d0cec258370bb2fb255636e24c30137ef64c06155b1f0c60b6b6f83"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Materials/M_Street21_PanelBlue.uasset",
+      "sha256": "155cc400ac4460dec016f532c33ff4f7693be184d05281d8af156683545a9c1e"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Textures/T_Street21Tile_Roughness.uasset",
+      "sha256": "9df34b1d9510734d8df806e9b6338dca6eb600f4b0cc098a99af6e91ee67308e"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Textures/T_Street21Tile_BaseColor.uasset",
+      "sha256": "771b49373096a6edf7df1982ba81e81215fe73bc545b2132b378ed3410dee46e"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Textures/T_Street21Tile_Normal.uasset",
+      "sha256": "ab73bc95fc3b436a5be7c1292f39c7ff90aa3eee1142070e5fb0a01184c39bef"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Maps/Stortorget.umap",
+      "sha256": "ef5dbd93c442da296c7f32d0e02f1b996d41916ff7f70bba00a1eb130f4c702d"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204207.uasset",
+      "sha256": "167d188e33b3961099bfda2e2bf9f843b45b6ee716f106e3a159cb9663896d11"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204178.uasset",
+      "sha256": "810ca6e4b3a8551e6dfb57cee45c871e0a1e6cc6a1a3f2a9016f15c9194da004"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204173.uasset",
+      "sha256": "55b980495b637d88b8242850cc19bb53cf04ee5488fb9bcdb4480687fec2becd"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204200.uasset",
+      "sha256": "da92e725cedbebe7aecb1e61e9dc9893b5b8ec6b471f280797a1fb0abc9230c8"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204190.uasset",
+      "sha256": "55a2909a55b54629347dc2b92f460b3a7e9430eac3172df47e93c5bba6b893a8"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204168.uasset",
+      "sha256": "bd5eb5d200bec90eb3dbb110b4088d078010318676a3d043dfd07354f46b7f3d"
+    },
+    {
+      "file": "Unreal/Content/Kalmar/Meshes/SM_Building_92204159.uasset",
+      "sha256": "5e5812d4544af0c713cd1ecdb5796d9f07c49501c255aa3c49aea7a1b0046c9a"
+    }
+  ]
+}

@@ -1,24 +1,24 @@
 {
-  "version": "v0.1.2",
+  "version": "v0.1.3",
   "repository": "fltman/kalmar-kvarnholmen",
   "bundles": {
     "blender-source": {
       "file": "blender-source.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.2/blender-source.zip",
-      "bytes": 344672771,
-      "sha256": "cf829a2035f1f266c5c119ac8395b78726142339acfb65ed93614dfb4089ca90",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.3/blender-source.zip",
+      "bytes": 352100964,
+      "sha256": "1e13970fb5dbbb19007b920f69e3d5ce96303635ce57a1b89487905113311c78",
       "files": {
         "source/Stortorget.blend": {
-          "bytes": 352325385,
-          "sha256": "e48f68964e8fefb4d42789b9e50d2a1667b489ae6a24f574511ab04526537d56"
+          "bytes": 359868488,
+          "sha256": "160341ae5a84ca5d3a11c631706f2f757bf321b435020f353b03690990d0ccbf"
         },
         "LICENSE": {
           "bytes": 787,
           "sha256": "4de64e8f21461947517b64ddb06f3c5321a257a4dac7c6e6b034ab93d1b02bc1"
         },
         "THIRD_PARTY.md": {
-          "bytes": 3204,
-          "sha256": "9f6a46c01d9f79dd84040c2f25581fd2b7e1d72796fc7b8cf6d5c7d9482fe406"
+          "bytes": 3473,
+          "sha256": "a73796e6388995e5b85050515acade0e461fa5fe14b88c50c37bdcf91c5b2f24"
         },
         "LICENSES/CC-BY-4.0.txt": {
           "bytes": 18657,
@@ -40,9 +40,9 @@
     },
     "unreal-assets": {
       "file": "unreal-assets.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.2/unreal-assets.zip",
-      "bytes": 1302599594,
-      "sha256": "2dd9b69395f5093f3d40920c8418d11e36e1f0395c40c7b945d19c2b91184188",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.3/unreal-assets.zip",
+      "bytes": 1312374174,
+      "sha256": "33b0d29d48d5e5e2841ee9da8299c9835bc6baaecce88753091e38b9da99585a",
       "files": {
         "Unreal/Content/Characters/Mannequins/Anims/Death/MM_Death_Back_01.uasset": {
           "bytes": 308880,
@@ -626,7 +626,7 @@
         },
         "Unreal/Content/Kalmar/Materials/M_Altarpiece_Photo.uasset": {
           "bytes": 16180,
-          "sha256": "08824daf0c485a1d025864d7006d36989d6542c17dfd204962cfca0a49185d3a"
+          "sha256": "26942b7412fdf1794ab489237c6aaf91ed5316a4c21966a704ef8ab99697e1a6"
         },
         "Unreal/Content/Kalmar/Materials/M_Awning_Green.uasset": {
           "bytes": 9803,
@@ -988,6 +988,54 @@
           "bytes": 17213,
           "sha256": "1349468acbc51d087058522028b34a473d90af4b1b685ea44a6974261dadea88"
         },
+        "Unreal/Content/Kalmar/Materials/M_Street21_BlueAwning.uasset": {
+          "bytes": 17092,
+          "sha256": "45b726d586ff040a6e21714fb145de26e1234ef684a4886ee303e1488ccf285d"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_Concrete.uasset": {
+          "bytes": 17577,
+          "sha256": "da5b25d0af3c30928ef317b1b36ab77c98d408305da3bf95a9196cba8f58efe8"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_DeepGreen.uasset": {
+          "bytes": 17288,
+          "sha256": "fb47d257394f7e855cf185fdd99ee0b4f2ce939b4e4204c1cc0320e886ea5e55"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_MetalGreen.uasset": {
+          "bytes": 17544,
+          "sha256": "0853623a6c4e955197ade4db1055973dac59cb84a19de6ecac46b2ecf27dc213"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_PanelBlue.uasset": {
+          "bytes": 17695,
+          "sha256": "155cc400ac4460dec016f532c33ff4f7693be184d05281d8af156683545a9c1e"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_PanelGreen.uasset": {
+          "bytes": 17634,
+          "sha256": "4708bc81a796d4d8bf49925107f2f6e0de75998e5946a8bafa9671d996ee0567"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_PanelGrey.uasset": {
+          "bytes": 17618,
+          "sha256": "27c67421feece167b4a039ddcb0bb2a481dafd493cf19e2d744d4d823d1e71f7"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_PanelRed.uasset": {
+          "bytes": 17372,
+          "sha256": "21200e339243be8560c99fcbce21c9571b6a43bc0f09634c306f745afeb18198"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_Rose.uasset": {
+          "bytes": 17582,
+          "sha256": "cb248238cacaf618c2bb5abff73c79b54b03d5d763acb62ce0201bbcbfc13d42"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_TileApron.uasset": {
+          "bytes": 17677,
+          "sha256": "e7538208a9ceb952c5ba12363a79c437ce1844e2c6b536717e8a869351b838d2"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_WarmCream.uasset": {
+          "bytes": 17629,
+          "sha256": "cfec50519d0cec258370bb2fb255636e24c30137ef64c06155b1f0c60b6b6f83"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Street21_White.uasset": {
+          "bytes": 17611,
+          "sha256": "27c04d0f126effd238a71261cd5672599565c737b9a440ccef8c38a863ec2666"
+        },
         "Unreal/Content/Kalmar/Materials/M_Terracotta.uasset": {
           "bytes": 9947,
           "sha256": "3955ef5f892161ba40aafa216b7acfbceba15ffcb85dded6eb7fbd271c060a18"
@@ -1185,8 +1233,8 @@
           "sha256": "0bb35f7b90a82c750d5e234aec39a0cc70cc23591b5dcf04d9d8e88da97a29b5"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Building_92204159.uasset": {
-          "bytes": 440628,
-          "sha256": "8ec97cb2fc131e075c97acc1543a7b3b3e2028a9dabd5c976744c26ed2e66a8d"
+          "bytes": 811054,
+          "sha256": "5e5812d4544af0c713cd1ecdb5796d9f07c49501c255aa3c49aea7a1b0046c9a"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Building_92204163.uasset": {
           "bytes": 477130,
@@ -2577,8 +2625,8 @@
           "sha256": "7176f971e607302c41a3180260d0567ab59faec82a4d3a2403002c1e9c66f968"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204168.uasset": {
-          "bytes": 267768,
-          "sha256": "9d05d73a34436ba3ef38193f693341b87b26e3ba96d63fe3e31f40c20edbd3ff"
+          "bytes": 494337,
+          "sha256": "bd5eb5d200bec90eb3dbb110b4088d078010318676a3d043dfd07354f46b7f3d"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204170.uasset": {
           "bytes": 800199,
@@ -2593,8 +2641,8 @@
           "sha256": "4c1da13e7272347e356d41ed0b431f27fb9b9ed2da9c7098914d89e532fa9a0d"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204173.uasset": {
-          "bytes": 2262100,
-          "sha256": "db8ba4d1b48029e8f150577d45d9e1c0639d8e85da13a6c3f881e2d577a11622"
+          "bytes": 4055710,
+          "sha256": "55b980495b637d88b8242850cc19bb53cf04ee5488fb9bcdb4480687fec2becd"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204174.uasset": {
           "bytes": 631689,
@@ -2609,8 +2657,8 @@
           "sha256": "062185afe36c1e02a08e5d9aec7d084f53e5f8611ddd57b101798e540778a055"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204178.uasset": {
-          "bytes": 540529,
-          "sha256": "fcdefbfbb64b4c78790bc1ae1ac1c71470a7dac6bf7e5f8479be63c0f94abd22"
+          "bytes": 1300310,
+          "sha256": "810ca6e4b3a8551e6dfb57cee45c871e0a1e6cc6a1a3f2a9016f15c9194da004"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204179.uasset": {
           "bytes": 188350,
@@ -2637,8 +2685,8 @@
           "sha256": "2dbdfaaa91b80bdb8ca8110de2f500c73f1fc24e8ce1cde0a8feccdb49d8c78a"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204190.uasset": {
-          "bytes": 386613,
-          "sha256": "2b9a5e65a46c56feb1ed13285ff37712cb352ec99419eab60dd3f2da5f5ee792"
+          "bytes": 1487993,
+          "sha256": "55a2909a55b54629347dc2b92f460b3a7e9430eac3172df47e93c5bba6b893a8"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204191.uasset": {
           "bytes": 401772,
@@ -2665,8 +2713,8 @@
           "sha256": "f6c9cb4a8e9d8c3b341486850d017ee0ed76e4850d7b0ff2a3f9672cb41e1f46"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204200.uasset": {
-          "bytes": 574541,
-          "sha256": "16e8f39206fa1c479df782a86c1b84fee971cf1c755da91b6898c019b87c0da3"
+          "bytes": 1809769,
+          "sha256": "da92e725cedbebe7aecb1e61e9dc9893b5b8ec6b471f280797a1fb0abc9230c8"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204204.uasset": {
           "bytes": 3359912,
@@ -2677,8 +2725,8 @@
           "sha256": "2141ea6d0ac6a6ab8050b35ecc090105d8cd6cd7b4f630b1ef2ed196f03ea73a"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92204207.uasset": {
-          "bytes": 863886,
-          "sha256": "61538bca2e225a6f4b0e5bca634cc66f950a971dcfc73a9041d3cba397319081"
+          "bytes": 3017367,
+          "sha256": "167d188e33b3961099bfda2e2bf9f843b45b6ee716f106e3a159cb9663896d11"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_92379253.uasset": {
           "bytes": 291780,
@@ -4184,6 +4232,18 @@
           "bytes": 2370643,
           "sha256": "43e3ba7ae93ea5ae3f5e1fba4600f4bdabd36f608abb3ca59f561401c89ea7c7"
         },
+        "Unreal/Content/Kalmar/Textures/T_Street21Tile_BaseColor.uasset": {
+          "bytes": 863257,
+          "sha256": "771b49373096a6edf7df1982ba81e81215fe73bc545b2132b378ed3410dee46e"
+        },
+        "Unreal/Content/Kalmar/Textures/T_Street21Tile_Normal.uasset": {
+          "bytes": 613222,
+          "sha256": "ab73bc95fc3b436a5be7c1292f39c7ff90aa3eee1142070e5fb0a01184c39bef"
+        },
+        "Unreal/Content/Kalmar/Textures/T_Street21Tile_Roughness.uasset": {
+          "bytes": 727226,
+          "sha256": "9df34b1d9510734d8df806e9b6338dca6eb600f4b0cc098a99af6e91ee67308e"
+        },
         "Unreal/Content/Kalmar/Textures/T_StreetSetts_BaseColor.uasset": {
           "bytes": 2810181,
           "sha256": "34108456fb1e96fcc8f27922da468ca90c21b806f826b3508299ad0e85f797dd"
@@ -4389,16 +4449,16 @@
           "sha256": "380d3277b009079de1b96aec92f9f1db9a4648c7f54bbd68b85748d8713d0b88"
         },
         "Unreal/Content/Kalmar/Maps/Stortorget.umap": {
-          "bytes": 1404341,
-          "sha256": "3a916c62c6c40338d6efeee1f2e315e2d2303ed8175efa94ad15d0384dae3647"
+          "bytes": 1417301,
+          "sha256": "653ede6d8d8dc63e0aa3009fb955fa8af7704b8347e80265303b77386afe8e20"
         },
         "LICENSE": {
           "bytes": 787,
           "sha256": "4de64e8f21461947517b64ddb06f3c5321a257a4dac7c6e6b034ab93d1b02bc1"
         },
         "THIRD_PARTY.md": {
-          "bytes": 3204,
-          "sha256": "9f6a46c01d9f79dd84040c2f25581fd2b7e1d72796fc7b8cf6d5c7d9482fe406"
+          "bytes": 3473,
+          "sha256": "a73796e6388995e5b85050515acade0e461fa5fe14b88c50c37bdcf91c5b2f24"
         },
         "LICENSES/CC-BY-4.0.txt": {
           "bytes": 18657,
@@ -4420,9 +4480,9 @@
     },
     "fbx-meshes": {
       "file": "fbx-meshes.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.2/fbx-meshes.zip",
-      "bytes": 555561111,
-      "sha256": "e2cc7033cc09930503c6c34f214a413697275be2e3a62d2274f5efcb2e19deef",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.3/fbx-meshes.zip",
+      "bytes": 565487142,
+      "sha256": "92ccd624d7ddbe5e618d2a8bcaffaf81c7c7a8079bb61b7f49b616c6e1910aaa",
       "files": {
         "exports/meshes/SM_Building_91264997.fbx": {
           "bytes": 2014732,
@@ -4541,8 +4601,8 @@
           "sha256": "492907aca003fd6c1f7ebce126c23028d3fac38f12bbd8d9ad6be4faa6299a7d"
         },
         "exports/meshes/SM_Building_92204159.fbx": {
-          "bytes": 560812,
-          "sha256": "b8f25e7851c41001461850d0b0d3ac5eaef230204e9cf560b75f66b9a5ad0024"
+          "bytes": 1137212,
+          "sha256": "6be44eeada4989b68ac6d8624ae0cb1918e4ea108af5bf3863c947df4a7f1bdd"
         },
         "exports/meshes/SM_Building_92204163.fbx": {
           "bytes": 603628,
@@ -5933,8 +5993,8 @@
           "sha256": "832af1bebc3cc6f03937bc0977719f28df060aa7f1362b49d9779c926e20e5f7"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204168.fbx": {
-          "bytes": 366236,
-          "sha256": "499ff87a55cd14adbd2c5b8fafe6289d226bcebbe6a2e219c66e5f0312a825dd"
+          "bytes": 698508,
+          "sha256": "b37cfcbd79e66b998834e02496cb811e2c49c54e05c2c37d578b7dcb459f7106"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204170.fbx": {
           "bytes": 1224476,
@@ -5949,8 +6009,8 @@
           "sha256": "bcfc8f12c721bdff164bff2bf813139c964afb6c9b42a1215ca8aad0d861f8e0"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204173.fbx": {
-          "bytes": 3924956,
-          "sha256": "609b33d5de467fde88d8326025c3760a832c590e4c8c7e790e60669828ce60ea"
+          "bytes": 6505612,
+          "sha256": "6b84a96d106bb72bb90c377f6d13b8dd04050119cc5b0d806d82c35016751278"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204174.fbx": {
           "bytes": 872092,
@@ -5965,8 +6025,8 @@
           "sha256": "f3f7ed7c28e58299d5351d23d74a2eec72318febadb1a30ec2f3775a4e3dd903"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204178.fbx": {
-          "bytes": 689084,
-          "sha256": "2485fbb12e1affc9e31089d89b80f8320fcc09c9262ec71ee5544b28c50b53c9"
+          "bytes": 1920300,
+          "sha256": "9496efbd83aa1810e77b03af09d34df0c1bf995d304fb80230384a703657dc62"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204179.fbx": {
           "bytes": 223532,
@@ -5993,8 +6053,8 @@
           "sha256": "4c3e1ed7745604b2034feced0db1655e25a95dfaabbcba8da30987a1505486c1"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204190.fbx": {
-          "bytes": 536620,
-          "sha256": "9d5a506b136a0126e6537f3eef93240a7d2315c3a0e7635e83290bd72f9a64fb"
+          "bytes": 2154524,
+          "sha256": "2104ce578e75073190a15b7f5232c4b56c8c718c1f8a186b7e0ea95b3bb6c0d5"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204191.fbx": {
           "bytes": 523260,
@@ -6021,8 +6081,8 @@
           "sha256": "e229a70da051f5a632f6583bc35721b247b0e5844005d7ce6cab65e1f573a4a3"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204200.fbx": {
-          "bytes": 750444,
-          "sha256": "701039596aac95efbfe535816f300ea295be2d16fbd5f31d11017b06f7e34568"
+          "bytes": 2435356,
+          "sha256": "a38fd73e1d61e49ea7035cf8adfcf62acec10779a5c46a0608d36ecff2116e02"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204204.fbx": {
           "bytes": 5760732,
@@ -6033,8 +6093,8 @@
           "sha256": "86d4e65c86f657e04a769db1c2c59bde310c5f20095e41c1104b8dd867618bea"
         },
         "exports/meshes/SM_Kvarnholmen_House_92204207.fbx": {
-          "bytes": 1242924,
-          "sha256": "605174da79b61e5bef9391d4f7a900f8d3a908c58cc210fd1f2acd0e3ff9662a"
+          "bytes": 4297724,
+          "sha256": "c18cccfef1088d86e277e6cb6931189ac51968da953b712d1020eccb3b4960b7"
         },
         "exports/meshes/SM_Kvarnholmen_House_92379253.fbx": {
           "bytes": 366012,
@@ -6797,8 +6857,8 @@
           "sha256": "4de64e8f21461947517b64ddb06f3c5321a257a4dac7c6e6b034ab93d1b02bc1"
         },
         "THIRD_PARTY.md": {
-          "bytes": 3204,
-          "sha256": "9f6a46c01d9f79dd84040c2f25581fd2b7e1d72796fc7b8cf6d5c7d9482fe406"
+          "bytes": 3473,
+          "sha256": "a73796e6388995e5b85050515acade0e461fa5fe14b88c50c37bdcf91c5b2f24"
         },
         "LICENSES/CC-BY-4.0.txt": {
           "bytes": 18657,
@@ -6820,9 +6880,9 @@
     },
     "textures": {
       "file": "textures.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.2/textures.zip",
-      "bytes": 679312517,
-      "sha256": "7f4ce45064c8168de69dc8303be2c7755f35afc7ccd98275b9c9fead9ddd22ab",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.3/textures.zip",
+      "bytes": 681238806,
+      "sha256": "5eb605bcdacee996c29760931e80ccfcd2ce0901baf904cee2e086496db0b53f",
       "files": {
         "exports/textures/T_ChurchAshlar_BaseColor.png": {
           "bytes": 2320447,
@@ -7568,6 +7628,18 @@
           "bytes": 2199693,
           "sha256": "54db97f9fb6f0d0b4088f22f56ed33b0d00161ac82ac39daa3408baeb488b16b"
         },
+        "exports/textures/T_Street21Tile_BaseColor.png": {
+          "bytes": 732014,
+          "sha256": "d278b7b42da1d3bf6d68849cf4d1a1899f2a70869115570af116cd3015a03555"
+        },
+        "exports/textures/T_Street21Tile_Normal.png": {
+          "bytes": 523645,
+          "sha256": "f8e33aee9b3101b99b1b927fe7ea0b50f60c3bd20f1a216ad951d2171dd6ba79"
+        },
+        "exports/textures/T_Street21Tile_Roughness.png": {
+          "bytes": 669413,
+          "sha256": "0caddd8d3afa386573ab9dbb393fb2f0c0fbeadc5f99b40d16c6887e66b7653c"
+        },
         "exports/textures/T_StreetSetts_BaseColor.png": {
           "bytes": 3147275,
           "sha256": "7484c6018eff74ceab8ace03a91f81379af4c65b2352249ace9f73745e8d16b9"
@@ -7777,8 +7849,8 @@
           "sha256": "4de64e8f21461947517b64ddb06f3c5321a257a4dac7c6e6b034ab93d1b02bc1"
         },
         "THIRD_PARTY.md": {
-          "bytes": 3204,
-          "sha256": "9f6a46c01d9f79dd84040c2f25581fd2b7e1d72796fc7b8cf6d5c7d9482fe406"
+          "bytes": 3473,
+          "sha256": "a73796e6388995e5b85050515acade0e461fa5fe14b88c50c37bdcf91c5b2f24"
         },
         "LICENSES/CC-BY-4.0.txt": {
           "bytes": 18657,
@@ -7800,9 +7872,9 @@
     },
     "texture-sources": {
       "file": "texture-sources.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.2/texture-sources.zip",
-      "bytes": 575276620,
-      "sha256": "324335e45bee5ae09339edaf58de732de034d5bb1c0129b7620d3ba6ae536992",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.3/texture-sources.zip",
+      "bytes": 575276755,
+      "sha256": "ea54b296149b3da446cfd96e214ababc9b842d522bdef8265e228abae7ecd376",
       "files": {
         "references/polyhaven/marble_01/diff.png": {
           "bytes": 5439419,
@@ -8069,8 +8141,8 @@
           "sha256": "4de64e8f21461947517b64ddb06f3c5321a257a4dac7c6e6b034ab93d1b02bc1"
         },
         "THIRD_PARTY.md": {
-          "bytes": 3204,
-          "sha256": "9f6a46c01d9f79dd84040c2f25581fd2b7e1d72796fc7b8cf6d5c7d9482fe406"
+          "bytes": 3473,
+          "sha256": "a73796e6388995e5b85050515acade0e461fa5fe14b88c50c37bdcf91c5b2f24"
         },
         "LICENSES/CC-BY-4.0.txt": {
           "bytes": 18657,

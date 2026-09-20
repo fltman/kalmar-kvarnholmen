@@ -1,0 +1,101 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_92204207": {
+      "mikk_zero_loops_before_export_repair": 161,
+      "vertices": 44842,
+      "polygons": 77232,
+      "reprojected_polygons": 153,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 161,
+        "Binormals": 161
+      }
+    },
+    "SM_Kvarnholmen_House_92204178": {
+      "mikk_zero_loops_before_export_repair": 2,
+      "vertices": 39537,
+      "polygons": 26887,
+      "reprojected_polygons": 16,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2,
+        "Binormals": 2
+      }
+    },
+    "SM_Kvarnholmen_House_92204173": {
+      "mikk_zero_loops_before_export_repair": 4230,
+      "vertices": 219555,
+      "polygons": 124337,
+      "reprojected_polygons": 2850,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 4230,
+        "Binormals": 4230
+      }
+    },
+    "SM_Kvarnholmen_House_92204200": {
+      "mikk_zero_loops_before_export_repair": 129,
+      "vertices": 26788,
+      "polygons": 49146,
+      "reprojected_polygons": 1312,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 129,
+        "Binormals": 129
+      }
+    },
+    "SM_Kvarnholmen_House_92204190": {
+      "mikk_zero_loops_before_export_repair": 133,
+      "vertices": 21316,
+      "polygons": 36700,
+      "reprojected_polygons": 120,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 133,
+        "Binormals": 133
+      }
+    },
+    "SM_Kvarnholmen_House_92204168": {
+      "mikk_zero_loops_before_export_repair": 64,
+      "vertices": 5836,
+      "polygons": 10726,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 64,
+        "Binormals": 64
+      }
+    },
+    "SM_Building_92204159": {
+      "mikk_zero_loops_before_export_repair": 41,
+      "vertices": 26002,
+      "polygons": 15558,
+      "reprojected_polygons": 152,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 41,
+        "Binormals": 41
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_92204207",
+    "SM_Kvarnholmen_House_92204178",
+    "SM_Kvarnholmen_House_92204173",
+    "SM_Kvarnholmen_House_92204200",
+    "SM_Kvarnholmen_House_92204190",
+    "SM_Kvarnholmen_House_92204168",
+    "SM_Building_92204159"
+  ],
+  "cameras": [
+    "98_CreamCorner21",
+    "99_RoseCorner21",
+    "100_PanelShops21",
+    "101_WhiteCorner21",
+    "102_ClassicalCorner21",
+    "103_CeramicFront21",
+    "104_GallerianNorth21",
+    "105_NorraStreet21"
+  ]
+}
