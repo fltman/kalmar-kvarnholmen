@@ -54,18 +54,31 @@ def main():
     MEDIA.mkdir(exist_ok=True)
     for kind, count, size in JOBS:
         report = MEDIA / (kind + '-frames') / 'render-status.json'
-        if not report.exists():
-            record('rendering', job=kind)
-            engine_args = ['--engine', args.engine] if args.engine else []
-            if kind == 'houses':
+        engine_args = ['--engine', args.engine] if args.engine else []
+        if kind == 'houses':
+            if not report.exists():
+                record('rendering', job=kind)
                 run('render_houses_hq.py', *engine_args)
-            else:
-                run('render_media_hq.py', kind, *engine_args)
+        else:
+            folder = MEDIA / (kind + '-frames')
+            if not report.exists() and not list(folder.glob('*.png')):
+                record('rendering', job=kind)
+                try:
+                    run('render_media_hq.py', kind, *engine_args)
+                except subprocess.CalledProcessError:
+                    # A completed engine run can still omit frames; repair the gaps.
+                    if not report.exists() or not list(folder.glob('*.png')):
+                        raise
+            complete = report.exists() and json.loads(report.read_text()).get('success')
+            if not complete:
+                record('repairing', job=kind)
+                run('repair_film_frames.py', kind, *engine_args)
         record('verifying', job=kind)
         verify_frames(kind, count, size)
         if kind != 'houses':
             record('encoding', job=kind)
             run('encode_media_films.py', kind)
+            run('build_media_gallery.py')
         else:
             for start in range(0, count, 50):
                 run('media_contact_sheet.py', str(MEDIA / 'houses-frames'),

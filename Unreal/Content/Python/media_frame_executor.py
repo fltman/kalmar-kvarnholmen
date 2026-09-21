@@ -1,4 +1,4 @@
-"""Render a selected still frame without retaining GPU allocations between houses."""
+"""Render a selected frame range with the saved cinematic settings."""
 import unreal as u
 import math
 
@@ -22,13 +22,14 @@ class KvarnholmenFrameExecutor(u.MoviePipelinePythonHostExecutor):
         job.sequence = u.SoftObjectPath(sequence)
         # Framing was reviewed at 16:10. Preserve that vertical coverage at 16:9.
         sequence_asset = u.load_asset(sequence)
-        for binding in sequence_asset.get_spawnables():
-            camera = binding.get_object_template()
-            if isinstance(camera, u.CameraActor):
-                component = camera.camera_component
-                old_fov = component.get_editor_property('field_of_view')
-                fov = math.degrees(2 * math.atan(math.tan(math.radians(old_fov) / 2) * (10 / 9)))
-                component.set_field_of_view(fov)
+        if sequence_asset.get_name().startswith('Houses_'):
+            for binding in sequence_asset.get_spawnables():
+                camera = binding.get_object_template()
+                if isinstance(camera, u.CameraActor):
+                    component = camera.camera_component
+                    old_fov = component.get_editor_property('field_of_view')
+                    fov = math.degrees(2 * math.atan(math.tan(math.radians(old_fov) / 2) * (10 / 9)))
+                    component.set_field_of_view(fov)
         config = job.get_configuration()
         config.copy_from(preset)
         output = config.find_or_add_setting_by_class(u.MoviePipelineOutputSetting)
