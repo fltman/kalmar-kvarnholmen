@@ -22,7 +22,17 @@ def write_progress(data, filename='hq-progress.json'):
     ]:
         folder = R / 'media' / (kind + '-frames')
         count = len(list(folder.glob('*.png')))
-        rows.append(f'<article><h2>{title}</h2><p>{spec}</p><progress max="{total}" value="{count}"></progress><p>{count} av {total} bilder sparade</p></article>')
+        encoded_path=R/'media'/(kind+'-encoding.json')
+        maximum=total
+        label=f'{count} av {total} bilder sparade'
+        if kind!='houses' and encoded_path.exists():
+            encoded=json.loads(encoded_path.read_text())
+            if encoded.get('success') and Path(encoded['file']).is_file():
+                maximum=count
+                spec=f'1920 × 1080 · {encoded["duration_seconds"]:.1f} sekunder'.replace('.',',')
+                label=f'Film klar · {encoded["frames"]} bildrutor'
+                if encoded.get('missing_frames'): label+=f' · {len(encoded["missing_frames"])} saknade rutor överhoppade'
+        rows.append(f'<article><h2>{title}</h2><p>{spec}</p><progress max="{maximum}" value="{count}"></progress><p>{label}</p></article>')
     stage = data.get('stage', 'rendering')
     message = {'rendering': 'Renderingen pågår', 'verifying': 'Bildfilerna kontrolleras',
                'encoding': 'Filmen kodas', 'repairing': 'Saknade filmrutor kompletteras', 'packaging': 'Galleriet byggs',

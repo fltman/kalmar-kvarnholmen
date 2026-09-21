@@ -50,9 +50,12 @@ def verify_frames(kind, count, size):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--engine', help='Path to the Unreal Editor executable')
+    parser.add_argument('--film', choices=['street','church'], help='Process only one film')
+    parser.add_argument('--available-frames', action='store_true', help='Encode existing frames without filling gaps, when explicitly requested')
     args = parser.parse_args()
     MEDIA.mkdir(exist_ok=True)
     for kind, count, size in JOBS:
+        if args.film and kind != args.film: continue
         report = MEDIA / (kind + '-frames') / 'render-status.json'
         engine_args = ['--engine', args.engine] if args.engine else []
         if kind == 'houses':
@@ -70,14 +73,15 @@ def main():
                     if not report.exists() or not list(folder.glob('*.png')):
                         raise
             complete = report.exists() and json.loads(report.read_text()).get('success')
-            if not complete:
+            if not complete and not args.available_frames:
                 record('repairing', job=kind)
                 run('repair_film_frames.py', kind, *engine_args)
         record('verifying', job=kind)
-        verify_frames(kind, count, size)
+        if kind == 'houses' or not args.available_frames:
+            verify_frames(kind, count, size)
         if kind != 'houses':
             record('encoding', job=kind)
-            run('encode_media_films.py', kind)
+            run('encode_media_films.py', kind, *(['--available-frames'] if args.available_frames else []))
             run('build_media_gallery.py')
         else:
             for start in range(0, count, 50):
@@ -88,7 +92,7 @@ def main():
     run('build_media_gallery.py')
     record('rendered_awaiting_visual_review', gallery=str(OUT / 'index.html'),
            house_images=343, house_resolution=[1920, 1080],
-           film_resolution=[1920, 1080], films_seconds=[84, 44])
+           film_resolution=[1920, 1080], films_seconds=[json.loads((MEDIA/(k+'-encoding.json')).read_text())['duration_seconds'] if (MEDIA/(k+'-encoding.json')).exists() else None for k in ['street','church']])
 
 
 if __name__ == '__main__':

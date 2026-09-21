@@ -5,8 +5,8 @@ The media export shows the public Unreal scene after refinement pass 22. Its tar
 | Output | Coverage | Format |
 | --- | --- | --- |
 | House gallery | 338 mapped building records and five separately grouped landmarks | 343 lossless PNG originals, 1920 × 1080; JPEG viewing copies |
-| Street flythrough | Stortorget, Storgatan, Larmgatan, Norra Långgatan, Kaggensgatan, Fiskaregatan | 84 seconds, 1920 × 1080, 24 fps |
-| Cathedral flythrough | Central aisle, altar, pulpit, organ gallery and vaults | 44 seconds, 1920 × 1080, 24 fps |
+| Street flythrough | Stortorget, Storgatan, Larmgatan, Norra Långgatan, Kaggensgatan, Fiskaregatan | Up to 84 seconds, 1920 × 1080, 24 fps |
+| Cathedral flythrough | Central aisle, altar, pulpit, organ gallery and vaults | Up to 44 seconds, 1920 × 1080, 24 fps |
 
 All three exports use Movie Render Queue, Cinematic scalability, 64 spatial samples, full-resolution textures, LOD 0, high-quality shadows and lossless PNG intermediates. The deferred renderer uses the project's Lumen lighting. This is not a path-traced render. Films use H.264 CRF 14 with the veryslow encoder preset; the original frames remain available locally.
 
@@ -28,6 +28,8 @@ The standalone runners write `media/hq-progress.json` and per-job logs. Open `..
 `media_controller.py` is an optional local dispatcher for an already-open editor. Start it once, then write `{"execute":"media_capture_houses.py"}` (or another export script filename) to `media/request.json`. It only accepts a script in the project's Python directory. The dispatcher is intended for a trusted local project and has no network listener.
 
 `media_contact_sheet.py` creates labelled QA sheets from original PNGs. Route validation uses sphere traces through the actual Unreal world. Validation checks camera clearance, not historical accuracy or every visual obstruction. Generated media, local logs and temporary QA files are ignored by Git.
+
+When explicitly choosing to use an incomplete frame set, `python3 scripts/encode_media_films.py street --available-frames` concatenates available originals in numeric order at 24 fps. It skips missing frames, shortens the film and records the exact source-frame list in `media/street-encoding.json`. The gallery displays the measured duration. `python3 scripts/export_media.py --film church --available-frames` applies the same choice to the cathedral export without reprocessing houses or the street film.
 
 ## Reuse and attribution
 
