@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "time": 1790154977.983465,
+  "meshes": [
+    {
+      "name": "SM_Kvarnholmen_Land",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Kvarnholmen_Street_07_09",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Rail25_Bed",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Rail25_Tracks_North",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Rail25_Tracks_South",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Rail25_Platforms",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Rail25_Equipment",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ]
+}

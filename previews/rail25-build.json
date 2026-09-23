@@ -1,0 +1,100 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_Land": {
+      "mikk_zero_loops_before_export_repair": 9,
+      "vertices": 2463,
+      "polygons": 923,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 9,
+        "Binormals": 9
+      }
+    },
+    "SM_Kvarnholmen_Street_07_09": {
+      "mikk_zero_loops_before_export_repair": 4,
+      "vertices": 5689,
+      "polygons": 2383,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 4,
+        "Binormals": 4
+      }
+    },
+    "SM_Rail25_Bed": {
+      "mikk_zero_loops_before_export_repair": 10,
+      "vertices": 2096,
+      "polygons": 712,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 10,
+        "Binormals": 10
+      }
+    },
+    "SM_Rail25_Tracks_North": {
+      "mikk_zero_loops_before_export_repair": 35,
+      "vertices": 32820,
+      "polygons": 31764,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 35,
+        "Binormals": 35
+      }
+    },
+    "SM_Rail25_Tracks_South": {
+      "mikk_zero_loops_before_export_repair": 103,
+      "vertices": 88896,
+      "polygons": 85578,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 103,
+        "Binormals": 103
+      }
+    },
+    "SM_Rail25_Platforms": {
+      "mikk_zero_loops_before_export_repair": 17,
+      "vertices": 4638,
+      "polygons": 5588,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 17,
+        "Binormals": 17
+      }
+    },
+    "SM_Rail25_Equipment": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 20496,
+      "polygons": 33772,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_Land",
+    "SM_Kvarnholmen_Street_07_09",
+    "SM_Rail25_Bed",
+    "SM_Rail25_Tracks_North",
+    "SM_Rail25_Tracks_South",
+    "SM_Rail25_Platforms",
+    "SM_Rail25_Equipment"
+  ],
+  "cameras": [
+    "130_Rail_Platforms",
+    "131_Rail_Station",
+    "132_Rail_Crossing",
+    "133_Rail_Buffers",
+    "134_Rail_Aerial",
+    "135_Rail_North",
+    "136_Rail_Signal"
+  ]
+}

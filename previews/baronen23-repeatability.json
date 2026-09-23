@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kvarnholmen_House_38033725": {
+      "sha256_geometry_uv_materials": "b5aee9a2ed31581c9f6ca27270571153e1759f44d0ab90e71c28167fd155fe24",
+      "vertices": 194721,
+      "polygons": 356854
+    },
+    "SM_Baronen23_Entrance": {
+      "sha256_geometry_uv_materials": "803a6221799d5b6ecc6c3d75f0042948b7874054181929fc47b8297c8e4f0003",
+      "vertices": 13799,
+      "polygons": 25167
+    },
+    "SM_Baronen23_Factory": {
+      "sha256_geometry_uv_materials": "6ff96f007e2c050eba5c65e79d9237f1ebcf0a176ded0308987d8c98b6ed421f",
+      "vertices": 253168,
+      "polygons": 463091
+    },
+    "SM_Baronen23_Packhuset": {
+      "sha256_geometry_uv_materials": "b13c6b19ce1f202f0e46707d6ea7a2b49d2e704c3dde2020db95e44f6eb16ea3",
+      "vertices": 71708,
+      "polygons": 130568
+    },
+    "SM_Baronen23_Halls": {
+      "sha256_geometry_uv_materials": "37f1d4ff639b51d5007dc0984f2bb29125fddc66ed53b9cd6e57e1a049ff392e",
+      "vertices": 14455,
+      "polygons": 27197
+    },
+    "SM_Baronen23_Harbour": {
+      "sha256_geometry_uv_materials": "8b6052bb432291ada71078e87cd72078eb49dab7f344fdb3f0cf0dccb898a310",
+      "vertices": 59542,
+      "polygons": 111258
+    }
+  }
+}

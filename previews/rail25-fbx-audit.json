@@ -1,0 +1,142 @@
+{
+  "SM_Kvarnholmen_Land": {
+    "Normals": {
+      "vectors": 557,
+      "min_length": 0.9999998935194881,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 2769,
+      "min_length": 0.9999998928298637,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 2769,
+      "min_length": 0.9999998211860657,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_Street_07_09": {
+    "Normals": {
+      "vectors": 1689,
+      "min_length": 0.9999998774380159,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 7149,
+      "min_length": 0.9999998636972918,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 7149,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Rail25_Bed": {
+    "Normals": {
+      "vectors": 519,
+      "min_length": 0.9999998977580417,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 2136,
+      "min_length": 0.9999998792595972,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 2136,
+      "min_length": 0.999999778171675,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Rail25_Tracks_North": {
+    "Normals": {
+      "vectors": 4226,
+      "min_length": 0.9999998562404858,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 95292,
+      "min_length": 0.9999998503204418,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 95292,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Rail25_Tracks_South": {
+    "Normals": {
+      "vectors": 8192,
+      "min_length": 0.9999998741538231,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 256734,
+      "min_length": 0.9999998590353546,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 256734,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Rail25_Platforms": {
+    "Normals": {
+      "vectors": 3639,
+      "min_length": 0.9999998747162532,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 16764,
+      "min_length": 0.9999998723119895,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 16764,
+      "min_length": 0.9999997720495167,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Rail25_Equipment": {
+    "Normals": {
+      "vectors": 18220,
+      "min_length": 0.9999998722843869,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 101316,
+      "min_length": 0.9999998355197223,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 101316,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

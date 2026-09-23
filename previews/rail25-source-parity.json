@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "development_repeated_build_identical": true,
+  "public_build_identical": true,
+  "meshes": {
+    "SM_Kvarnholmen_Land": {
+      "sha256_geometry_uv_materials": "9300c641d42457df4cadb20b42b653078b473c2e55425b6e07765cafea912471",
+      "vertices": 2463,
+      "polygons": 923
+    },
+    "SM_Kvarnholmen_Street_07_09": {
+      "sha256_geometry_uv_materials": "2507636290f44bfdbbda40207d966a4fe91943ff08f6769289189ee297c64fcb",
+      "vertices": 5689,
+      "polygons": 2383
+    },
+    "SM_Rail25_Bed": {
+      "sha256_geometry_uv_materials": "bc3d5e70444e6214035af6210b414df2a92bd33a7ca0d3f06fa67b0487eec4ec",
+      "vertices": 2096,
+      "polygons": 712
+    },
+    "SM_Rail25_Tracks_North": {
+      "sha256_geometry_uv_materials": "c7fc98958cbfb23f85f87e7b131dc76fb2149bc5e4686a02bddaf2bef6b1a909",
+      "vertices": 32820,
+      "polygons": 31764
+    },
+    "SM_Rail25_Tracks_South": {
+      "sha256_geometry_uv_materials": "2f0a98705d4108045a744346068b3c1c0529c194c159f62bf0f511840b995955",
+      "vertices": 88896,
+      "polygons": 85578
+    },
+    "SM_Rail25_Platforms": {
+      "sha256_geometry_uv_materials": "cf59ac80eb7ee2d3be5e37ac8cc3394dccfa1fc9b0be74401b839d0212cd46ee",
+      "vertices": 4638,
+      "polygons": 5588
+    },
+    "SM_Rail25_Equipment": {
+      "sha256_geometry_uv_materials": "ad2805680ec5bcb883e23f91e6d19ba626e9bc33bd5eede390c42628201faefa",
+      "vertices": 20496,
+      "polygons": 33772
+    }
+  }
+}

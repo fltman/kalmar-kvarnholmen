@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "zones": {
+    "tower": {
+      "area_m2": 27.1,
+      "polygons": 1,
+      "walls": 24
+    },
+    "main": {
+      "area_m2": 301.6,
+      "polygons": 1,
+      "walls": 16
+    },
+    "range1874": {
+      "area_m2": 315.5,
+      "polygons": 1,
+      "walls": 3
+    },
+    "wing": {
+      "area_m2": 49.1,
+      "polygons": 1,
+      "walls": 4
+    }
+  },
+  "checks": {
+    "footprint_m2": 670.6,
+    "zoned_m2": 693.3,
+    "tower_outside_osm_m2": 1.2,
+    "range_extension_outside_osm_m2": 21.6,
+    "osm_not_zoned_m2": 0.04,
+    "overlap_m2": -0.0
+  },
+  "tower": {
+    "centre": [
+      -409.526,
+      -107.285
+    ],
+    "radius": 2.947,
+    "centre_frame": [
+      19.375,
+      1.286
+    ]
+  }
+}

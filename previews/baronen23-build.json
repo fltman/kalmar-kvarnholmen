@@ -1,0 +1,92 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_38033725": {
+      "mikk_zero_loops_before_export_repair": 1312,
+      "vertices": 194721,
+      "polygons": 356854,
+      "reprojected_polygons": 397,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 1312,
+        "Binormals": 1312
+      }
+    },
+    "SM_Baronen23_Entrance": {
+      "mikk_zero_loops_before_export_repair": 631,
+      "vertices": 13799,
+      "polygons": 25167,
+      "reprojected_polygons": 368,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 631,
+        "Binormals": 631
+      }
+    },
+    "SM_Baronen23_Factory": {
+      "mikk_zero_loops_before_export_repair": 3319,
+      "vertices": 253168,
+      "polygons": 463091,
+      "reprojected_polygons": 2582,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 3319,
+        "Binormals": 3319
+      }
+    },
+    "SM_Baronen23_Packhuset": {
+      "mikk_zero_loops_before_export_repair": 240,
+      "vertices": 71708,
+      "polygons": 130568,
+      "reprojected_polygons": 111,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 240,
+        "Binormals": 240
+      }
+    },
+    "SM_Baronen23_Halls": {
+      "mikk_zero_loops_before_export_repair": 340,
+      "vertices": 14455,
+      "polygons": 27197,
+      "reprojected_polygons": 60,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 340,
+        "Binormals": 340
+      }
+    },
+    "SM_Baronen23_Harbour": {
+      "mikk_zero_loops_before_export_repair": 266,
+      "vertices": 59542,
+      "polygons": 111258,
+      "reprojected_polygons": 6783,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 266,
+        "Binormals": 266
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_38033725",
+    "SM_Baronen23_Entrance",
+    "SM_Baronen23_Factory",
+    "SM_Baronen23_Packhuset",
+    "SM_Baronen23_Halls",
+    "SM_Baronen23_Harbour"
+  ],
+  "cameras": [
+    "112_Baronen_Entrance",
+    "113_Baronen_Mansard",
+    "114_Baronen_Factory",
+    "115_Baronen_Packhuset",
+    "116_Baronen_Harbour",
+    "117_Baronen_Gym",
+    "118_Baronen_Aerial",
+    "119_Baronen_Deck",
+    "120_Baronen_Cal_Entrance",
+    "121_Baronen_Cal_Packhuset",
+    "122_Baronen_Cal_Harbour"
+  ]
+}

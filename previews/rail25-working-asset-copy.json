@@ -1,0 +1,12 @@
+{
+  "direction": "validated public scene to working project on disk",
+  "reason": "platform lamps kept clear of the station house (pass-24 platform test)",
+  "files": [
+    {
+      "path": "Unreal/Content/Kalmar/Meshes/SM_Rail25_Platforms.uasset",
+      "sha256": "03210329ef90eb76a3a8d33cd3f177e362ec3ca1ab4ab31fea9341ec97bb04a6",
+      "previous_working_sha256": "8b5eda5a00a2eb19186d9d8a118942e5e5604c0538c194cd3b53c6e885f7911a"
+    }
+  ],
+  "time": "2026-09-23T11:26:08"
+}

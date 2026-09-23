@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Kvarnholmen_Land": {
+      "vertices": 1552,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_Street_07_09": {
+      "vertices": 4916,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Rail25_Bed": {
+      "vertices": 1592,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Rail25_Tracks_North": {
+      "vertices": 76948,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Rail25_Tracks_South": {
+      "vertices": 203207,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Rail25_Platforms": {
+      "vertices": 11259,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Rail25_Equipment": {
+      "vertices": 57084,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    }
+  }
+}

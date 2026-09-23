@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "zones": {
+    "tower": {
+      "area_m2": 160.3,
+      "polygons": 1,
+      "walls": 11,
+      "outer_m": 25.7
+    },
+    "mansard": {
+      "area_m2": 1039.7,
+      "polygons": 1,
+      "walls": 10,
+      "outer_m": 101.4
+    },
+    "mansard_s": {
+      "area_m2": 554.8,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 21.3
+    },
+    "pavilion": {
+      "area_m2": 96.0,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 28.0
+    },
+    "westlink": {
+      "area_m2": 28.0,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 5.5
+    },
+    "channel": {
+      "area_m2": 52.2,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 8.3
+    },
+    "brick": {
+      "area_m2": 767.5,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 127.3
+    },
+    "hotel": {
+      "area_m2": 709.5,
+      "polygons": 1,
+      "walls": 8,
+      "outer_m": 109.8
+    },
+    "inner": {
+      "area_m2": 439.9,
+      "polygons": 1,
+      "walls": 8,
+      "outer_m": 32.2
+    },
+    "annex": {
+      "area_m2": 284.7,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 47.9
+    },
+    "plant": {
+      "area_m2": 152.3,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 12.8
+    },
+    "gym": {
+      "area_m2": 165.6,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 30.7
+    },
+    "deck": {
+      "area_m2": 983.6,
+      "polygons": 1,
+      "walls": 7,
+      "outer_m": 106.7
+    },
+    "tallbox": {
+      "area_m2": 855.8,
+      "polygons": 1,
+      "walls": 14,
+      "outer_m": 0.8
+    },
+    "cinema": {
+      "area_m2": 99.2,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 8.5
+    },
+    "southblock": {
+      "area_m2": 2313.5,
+      "polygons": 1,
+      "walls": 10,
+      "outer_m": 0
+    },
+    "mall": {
+      "area_m2": 2722.2,
+      "polygons": 3,
+      "walls": 11,
+      "outer_m": 15.2
+    }
+  },
+  "checks": {
+    "footprint_m2": 11262.4,
+    "channel_m2": 56.4,
+    "octagon_outside_osm_m2": 15.9,
+    "pavilion_outside_osm_m2": 96.0,
+    "zoned_m2": 11424.9,
+    "uncovered_m2": 1.57,
+    "overlap_m2": 0.0
+  }
+}

@@ -9,3 +9,4 @@
 - Lumen / Nanite are enabled, but the scene is not performance-optimised or packaged. A previous broad district editor capture was about 15 FPS on the development machine; this is not a target performance claim.
 - Only the recorded macOS authoring environment has been tested. Windows/Linux testing, portable launchers and a reproducible end-to-end regeneration workflow are useful contributions.
 - Large binary files live in versioned GitHub release bundles and are difficult to merge. Coordinate edits to the shared Blender file and Unreal map; share changed assets through a fork release linked from your PR.
+- Passes 23–25 (Baronen, the Kalmar C station house, the station's tracks and platforms) are applied by their scoped rebuild scripts on top of the released scene; `scripts/build_kvarnholmen.py` alone does not reproduce them. Railway turnouts have no switch blades, frogs or point machines, and the overhead messenger wire has no sag.

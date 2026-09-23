@@ -52,3 +52,7 @@ references/street22/*.html
 
 # Local media rendering intermediates and dispatcher messages.
 /media/
+
+references/station24/*.jpg
+references/station24/*.png
+references/station24/*.html

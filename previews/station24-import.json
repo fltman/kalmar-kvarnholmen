@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "time": 1790154087.6686,
+  "meshes": [
+    {
+      "name": "SM_Kvarnholmen_House_90965009",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Kvarnholmen_House_90965025",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Station24_Canopy",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ]
+}

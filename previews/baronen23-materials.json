@@ -1,0 +1,107 @@
+{
+  "status": "passed",
+  "materials": {
+    "M_Baronen23_RedRender": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_WhiteTrim": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Terracotta": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Cream": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Aluminium": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_DarkRoof": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_SlateTile": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_PanelTan": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_PanelLight": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Profiled": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Grille": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Galvanized": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Felt": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Canvas": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Blue": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_Brick": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Baronen23_BrickArch": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    }
+  }
+}

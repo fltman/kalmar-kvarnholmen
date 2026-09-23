@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "materials": {
+    "M_Station24_Render": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Trim": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Copper": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Slate": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Door": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Steel": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Fascia": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Soffit": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Clock": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Awning": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Station24_Sign": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    }
+  }
+}

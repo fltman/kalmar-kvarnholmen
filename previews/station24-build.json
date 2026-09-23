@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_90965009": {
+      "mikk_zero_loops_before_export_repair": 864,
+      "vertices": 57322,
+      "polygons": 104533,
+      "reprojected_polygons": 2057,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 864,
+        "Binormals": 864
+      }
+    },
+    "SM_Kvarnholmen_House_90965025": {
+      "mikk_zero_loops_before_export_repair": 694,
+      "vertices": 90985,
+      "polygons": 167018,
+      "reprojected_polygons": 1479,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 694,
+        "Binormals": 694
+      }
+    },
+    "SM_Station24_Canopy": {
+      "mikk_zero_loops_before_export_repair": 13,
+      "vertices": 728,
+      "polygons": 1336,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 13,
+        "Binormals": 13
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_90965009",
+    "SM_Kvarnholmen_House_90965025",
+    "SM_Station24_Canopy"
+  ],
+  "cameras": [
+    "123_Station_Front",
+    "124_Station_Tower",
+    "125_Station_Track",
+    "126_Station_Platform",
+    "127_Station_Aerial",
+    "128_Station_Cal_Front",
+    "129_Station_Cal_Tower"
+  ]
+}

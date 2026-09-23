@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "floor_samples": 128,
+  "floor_failures": [],
+  "capsule_segments": 119,
+  "obstructions": [],
+  "streets": {
+    "Stationsgatan": {
+      "floor_samples": 81,
+      "floor_failures": 0,
+      "capsule_segments": 78,
+      "obstructions": 0
+    },
+    "Plattform 1874 1.3 m": {
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "Plattform 1910 1.3 m": {
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "Plattform 1874 2.0 m": {
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "Plattform 1910 2.0 m": {
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "Framsida 1874": {
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "Framsida 1910": {
+      "floor_samples": 6,
+      "floor_failures": 0,
+      "capsule_segments": 5,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-23T11:19:38.540017",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "station_obstructions": []
+}

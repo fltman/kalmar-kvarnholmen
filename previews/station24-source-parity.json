@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "development_repeated_build_identical": true,
+  "public_build_identical": true,
+  "meshes": {
+    "SM_Kvarnholmen_House_90965009": {
+      "sha256_geometry_uv_materials": "9faa821d6641388646005ec1a37dce9659ce3dbad8da3ed92683d935982389f3",
+      "vertices": 57322,
+      "polygons": 104533
+    },
+    "SM_Kvarnholmen_House_90965025": {
+      "sha256_geometry_uv_materials": "a40ced44e0939050a8b1c4b5b8bd788cc9849c30399e556d5030b37d7d442a8d",
+      "vertices": 90985,
+      "polygons": 167018
+    },
+    "SM_Station24_Canopy": {
+      "sha256_geometry_uv_materials": "e91fd1850855fb594f99a56ad3213483626413a375ad8cc2a657290fc2a29296",
+      "vertices": 728,
+      "polygons": 1336
+    }
+  }
+}

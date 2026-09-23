@@ -1,0 +1,122 @@
+{
+  "SM_Kvarnholmen_House_38033725": {
+    "Normals": {
+      "vectors": 271271,
+      "min_length": 0.9999998338429248,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 1070562,
+      "min_length": 0.9999998231064726,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 1070562,
+      "min_length": 0.999999724025557,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Baronen23_Entrance": {
+    "Normals": {
+      "vectors": 11788,
+      "min_length": 0.9999998813296874,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 75501,
+      "min_length": 0.9999998344984302,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 75501,
+      "min_length": 0.9999997592070516,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Baronen23_Factory": {
+    "Normals": {
+      "vectors": 315536,
+      "min_length": 0.999999844842754,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 1389273,
+      "min_length": 0.9999998277795943,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 1389273,
+      "min_length": 0.999999727333032,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Baronen23_Packhuset": {
+    "Normals": {
+      "vectors": 55946,
+      "min_length": 0.9999998613266438,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 391704,
+      "min_length": 0.999999837022949,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 391704,
+      "min_length": 0.9999997442295039,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Baronen23_Halls": {
+    "Normals": {
+      "vectors": 16498,
+      "min_length": 0.99999986504603,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 81591,
+      "min_length": 0.9999998564555138,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 81591,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Baronen23_Harbour": {
+    "Normals": {
+      "vectors": 44924,
+      "min_length": 0.9999998548396818,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 333774,
+      "min_length": 0.9999998233559521,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 333774,
+      "min_length": 0.9999997484284421,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "passed",
+  "floor_samples": 415,
+  "floor_failures": [],
+  "capsule_segments": 391,
+  "obstructions": [],
+  "streets": {
+    "Ölandskajen": {
+      "floor_samples": 48,
+      "floor_failures": 0,
+      "capsule_segments": 44,
+      "obstructions": 0
+    },
+    "Skeppsbron": {
+      "floor_samples": 55,
+      "floor_failures": 0,
+      "capsule_segments": 50,
+      "obstructions": 0
+    },
+    "Skeppsbrogatan": {
+      "floor_samples": 139,
+      "floor_failures": 0,
+      "capsule_segments": 134,
+      "obstructions": 0
+    },
+    "Kaggensgatan": {
+      "floor_samples": 104,
+      "floor_failures": 0,
+      "capsule_segments": 96,
+      "obstructions": 0
+    },
+    "Kajpromenaden": {
+      "floor_samples": 64,
+      "floor_failures": 0,
+      "capsule_segments": 63,
+      "obstructions": 0
+    },
+    "Entre": {
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-23T11:10:52.062400",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "baronen_obstructions": [],
+  "deck_floor": true
+}

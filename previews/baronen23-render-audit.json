@@ -1,0 +1,47 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Kvarnholmen_House_38033725": {
+      "vertices": 962180,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Baronen23_Entrance": {
+      "vertices": 47394,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Baronen23_Factory": {
+      "vertices": 1355811,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Baronen23_Packhuset": {
+      "vertices": 333950,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Baronen23_Halls": {
+      "vertices": 49504,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Baronen23_Harbour": {
+      "vertices": 202893,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    }
+  }
+}

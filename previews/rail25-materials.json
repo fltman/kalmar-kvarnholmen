@@ -1,0 +1,143 @@
+{
+  "status": "passed",
+  "materials": {
+    "M_Rail25_Ballast": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_BallastSlope": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Gravel": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Sleeper": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Rail": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_RailTop": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Edge": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Warning": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Slab": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Tactile": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Wall": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Rubber": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Red": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Pole": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Galv": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Wire": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Blue": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Roof": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Dial": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Dark": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Yellow": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Lens": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Rail25_Insulator": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    }
+  }
+}

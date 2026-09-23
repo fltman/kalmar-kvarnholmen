@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "time": 1790153603.789954,
+  "meshes": [
+    {
+      "name": "SM_Kvarnholmen_House_38033725",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Baronen23_Entrance",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Baronen23_Factory",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Baronen23_Packhuset",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Baronen23_Halls",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    },
+    {
+      "name": "SM_Baronen23_Harbour",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ]
+}
