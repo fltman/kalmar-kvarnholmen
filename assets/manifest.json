@@ -1,16 +1,16 @@
 {
-  "version": "v0.1.5",
+  "version": "v0.1.6",
   "repository": "fltman/kalmar-kvarnholmen",
   "bundles": {
     "blender-source": {
       "file": "blender-source.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.5/blender-source.zip",
-      "bytes": 411828816,
-      "sha256": "7dcef3ffb8772718ec4f16de2f7d943fbc78fd8fc78222a3751c67d71aa00c62",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.6/blender-source.zip",
+      "bytes": 459763810,
+      "sha256": "ab2ece3d8113c298c75749e8d1c96e7b66a2ae7c64395d5bfc66e086ec437e0f",
       "files": {
         "source/Stortorget.blend": {
-          "bytes": 420603174,
-          "sha256": "fcafcafb274e936672ec0bf0555f9cbfd0ae58c57d8cac281ffb1610ad4b8896"
+          "bytes": 469283671,
+          "sha256": "28041e27fd82f1965882c518de190afb6fe7a9d42433037be01605804ca20359"
         },
         "LICENSE": {
           "bytes": 787,
@@ -40,9 +40,9 @@
     },
     "unreal-assets": {
       "file": "unreal-assets.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.5/unreal-assets.zip",
-      "bytes": 1492536996,
-      "sha256": "6ece553ab3c93079b96ca00a2f03cdcca3a5dca2e05c92028b5a9e70a1eeb1d5",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.6/unreal-assets.zip",
+      "bytes": 1559803481,
+      "sha256": "d10199a0c674bf4c0c510d8500e68de75a37f09198a4d0c494c9af976921d3c4",
       "files": {
         "Unreal/Content/Characters/Mannequins/Anims/Death/MM_Death_Back_01.uasset": {
           "bytes": 308880,
@@ -625,8 +625,8 @@
           "sha256": "62ac8161561dc5df87ae697943e8bac4e68103a5771d3df87e8a3ab1ead7babe"
         },
         "Unreal/Content/Kalmar/Materials/M_Altarpiece_Photo.uasset": {
-          "bytes": 9614,
-          "sha256": "9fcf8b6cad38bac6e71a56bcd3258d2f02e654bb43ee1488c414edd012f87ca3"
+          "bytes": 9733,
+          "sha256": "eb692f5d6828cd686d0ebda355f4c7dfb8121d8f31a9dabeefb29e9b3a169729"
         },
         "Unreal/Content/Kalmar/Materials/M_Awning_Green.uasset": {
           "bytes": 9803,
@@ -703,6 +703,150 @@
         "Unreal/Content/Kalmar/Materials/M_Bench_Oak.uasset": {
           "bytes": 15034,
           "sha256": "879e122bc9ddcc964dba551ffce4b9c598641847cb3063f97e1c53d713715131"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Boulder.uasset": {
+          "bytes": 17153,
+          "sha256": "6dd7b92ab64660d21524d20a6646cb15a0c0d7013fe886a2ba3c2ea91e218b15"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Brick.uasset": {
+          "bytes": 15676,
+          "sha256": "9178b9ebf20f3fd16e0dddf99c18e1dc981db9401b1074cfb7aabaa43c3c8394"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Chimney.uasset": {
+          "bytes": 15237,
+          "sha256": "94831553fb825b2ce603f590747a0ee7fdd662accd5f54e01ef45756fa0150fe"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Cobbles.uasset": {
+          "bytes": 17495,
+          "sha256": "813526a87c2a5e723c18dd80499e88a0d5a5e2103294f8c6ff6dba463751a473"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Coping.uasset": {
+          "bytes": 14959,
+          "sha256": "a0c9dd1f3ab82cce33c18886782f26ebc8e105ae251ea3b5cbe072f529e7b8b3"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Copper.uasset": {
+          "bytes": 15252,
+          "sha256": "9f8e2bdaa3d89d1632c875943a34e918aee282cc1993bc2befd232a12f16f203"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_CopperDark.uasset": {
+          "bytes": 14604,
+          "sha256": "38856f1d3122017dd5a36d6ebc979aaa1b641112ef147d720f24575460766096"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Court.uasset": {
+          "bytes": 15231,
+          "sha256": "2fd12896530582daf085d167b2eaa4a2aa6035bb88eb9bf6ac35fdd3e1cd9551"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_CourtBlock.uasset": {
+          "bytes": 15303,
+          "sha256": "13b411c8c85ca3a81b3e20311886b37b130638684af1f1004954bc2d5f53c6e0"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Curtain.uasset": {
+          "bytes": 15963,
+          "sha256": "612da3b9e113c2db83e5c6fb1653686d8c3fb2171050c6950841a974ac4ea46f"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Dark.uasset": {
+          "bytes": 13761,
+          "sha256": "a26d2703e807f2d9f78334ca4802eda45849a0eb86a2d187f38ec1393033dfac"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Door.uasset": {
+          "bytes": 14626,
+          "sha256": "e29212fc26202db2185521d09c13dd40e26b3c8961f6717e0e933c67fffdf116"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Frame.uasset": {
+          "bytes": 14876,
+          "sha256": "4dded09d78aba096a513454fe2b09ce0d87bf089a7085694039d777599754bed"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_FrameRed.uasset": {
+          "bytes": 14730,
+          "sha256": "54dca78899c9191f3c67ddee689b0382ee813108c423f5b768eb9f10187494ff"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Gate.uasset": {
+          "bytes": 15003,
+          "sha256": "935b8213423e743efe5853b187346a6cab60d2212d7331de9b1bb67b870515fb"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Gold.uasset": {
+          "bytes": 15058,
+          "sha256": "3ee89bfa0f192031e2510427ec653e5abcadb123dbf15469aec2172ef8a6bf20"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Grass.uasset": {
+          "bytes": 15727,
+          "sha256": "45a01c0f7c2a709d13cdf1efc2525d009af992e54514a41b191a2c9c889ede2b"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_GrassDry.uasset": {
+          "bytes": 16071,
+          "sha256": "080431575094aff311ca0571aafee0a332ea97b4251811160f582f873489cfef"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Gravel.uasset": {
+          "bytes": 15076,
+          "sha256": "6a1dba6349ef7c4aa53c9cc3bcf3d1e4acf221a96d0ea32cb672d955b1c7ec54"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Iron.uasset": {
+          "bytes": 13661,
+          "sha256": "6d8a4730bea4447c893df8b821bf301c8bcd3b5b06c7c5eb759d3ce880a1ced8"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_KureStone.uasset": {
+          "bytes": 17310,
+          "sha256": "feef744e01e398760818106f51be927fd310bdd3521189179096ab0dfc7afa88"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_LowWall.uasset": {
+          "bytes": 17343,
+          "sha256": "8696c61111a1845a35309980f8cfc1cd6b8acaf4152e6beba243786b04e19202"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_PostejRoof.uasset": {
+          "bytes": 15111,
+          "sha256": "b23fdf1819981e304f0ed911dbacef5d1c9073a6a44b7eac8472c032ded2710f"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Reed.uasset": {
+          "bytes": 15774,
+          "sha256": "17bfa00047ba94d9500abd4200db7d04836cd30ae37adb66b3d076b336ee005c"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Render.uasset": {
+          "bytes": 15251,
+          "sha256": "b163ce3c716e2795f2b5265b5a3a645992ad1763dc25087db3e8ffdaed4206b8"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_RenderTower.uasset": {
+          "bytes": 15251,
+          "sha256": "062cf7c2170d93b8a1f3ca82ef6201caaf48626af38f6dc4bb4dff1149575ba0"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Revet.uasset": {
+          "bytes": 18499,
+          "sha256": "8506149572731db8da98012024b40d5f9a99f58bf4bd0fd9b0b3310d52fd1040"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Roof.uasset": {
+          "bytes": 14263,
+          "sha256": "3ac9692816e0e5738f4c0b2a3458ff7aaee6084aee5df2fa82a431df32646161"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Rubble.uasset": {
+          "bytes": 17301,
+          "sha256": "bbc94e13f282f0edabd3d146bf7d7632eb81e2e7173db5973803819de94dc78e"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Timber.uasset": {
+          "bytes": 15479,
+          "sha256": "b32b3b225cbf8c3c826b83f427b27e3911269b6677a70a59d4bb04216328883f"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_TimberDark.uasset": {
+          "bytes": 14426,
+          "sha256": "235e249e2f60fb0135a34338eee93ca4441118154f548d9f3575da5356987273"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Trim.uasset": {
+          "bytes": 15179,
+          "sha256": "9d7e4932320fd241d4b2c691b4639f40802d527733cd86f0a12f46c1e5691463"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_Villa.uasset": {
+          "bytes": 15234,
+          "sha256": "4eb985b90c653f04ba25757fb27eadf45a17c609a7d761dac655300d7f7b6056"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_VillaShingle.uasset": {
+          "bytes": 14713,
+          "sha256": "8b61ccc77ab2b6b263231de5147105b391be3942511aac416e3fd9e6d6b9d6e6"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_VillaTile.uasset": {
+          "bytes": 15202,
+          "sha256": "0d939c88b20335a0e0eb5d58ec893532290fca8a79f6c4102215ee589f8a193b"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Castle27_WellStone.uasset": {
+          "bytes": 15015,
+          "sha256": "e842cbfb410f5414ea2229dc01ede97413c4137d48dd06a93ab3e1a2426ab534"
         },
         "Unreal/Content/Kalmar/Materials/M_Cathedral_Ochre.uasset": {
           "bytes": 15194,
@@ -887,6 +1031,110 @@
         "Unreal/Content/Kalmar/Materials/M_Landmark_Turf.uasset": {
           "bytes": 23580,
           "sha256": "f41b0f92e4df77c7afdec9d8680fa2e9e6d0e8ff5fcb314d522d3cf7fb5ff4b1"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Awning.uasset": {
+          "bytes": 13813,
+          "sha256": "e0f1c9be0d063252dfc5f109c1e054e7507f7d492b50788d559896fb05d29cbb"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_BankFrame.uasset": {
+          "bytes": 14706,
+          "sha256": "0a5e3cf745393f811bffb5d2e11a76b383e6d58437a5c85605df7227b926e4a0"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_BankRender.uasset": {
+          "bytes": 15105,
+          "sha256": "26ca24086895e56f36354b45dc0f8aec429d9dc5d73a05efd217f946fb64d215"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_BankTrim.uasset": {
+          "bytes": 15197,
+          "sha256": "39df5af66a8c48e5bddb28b7e9b92d8a691bcf61c070e70aca3baef85648d4f6"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Brick.uasset": {
+          "bytes": 15644,
+          "sha256": "93f96fd0fbdc46d5609e903077d89e794d818be3e8b6418381fc60e5ed73908a"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_BrickTrim.uasset": {
+          "bytes": 15125,
+          "sha256": "8cdfd7d477dbd26793c45c7e42efe3e380aa5cecb112d43bd3dd03550369d695"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Copper.uasset": {
+          "bytes": 15140,
+          "sha256": "a3f713bc44d5e7d38761da935a1dcc6ff07138fddbd7caf76c8a41e7ef7b5df1"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_CreamRender.uasset": {
+          "bytes": 15239,
+          "sha256": "27fafb7f975c1bbab431aaa1b46e5c07b9d86342e1f95ac4fe1c6e2fc6da9882"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_CreamTrim.uasset": {
+          "bytes": 15244,
+          "sha256": "888ad7906c2b3eae35547e9921a69d69f4dbe87c1aa5178e594a8f9d8e8d3f53"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Dark.uasset": {
+          "bytes": 13764,
+          "sha256": "b7dd2a29584deddaaef0463bc4bb913caa10cb3b6743c918234010b28eefe57e"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_DarkStone.uasset": {
+          "bytes": 14440,
+          "sha256": "493f9ca18a8654a14b0a2363be29ee1f26300cba4a2ee1c7da1b37c143d7f7d8"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Dial.uasset": {
+          "bytes": 15244,
+          "sha256": "dbeffe902a0287d5f5617c5f0f261eb6e1906f831fa9eaae51cc8baa4ea885b5"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Door.uasset": {
+          "bytes": 14357,
+          "sha256": "760e1aa0c92d0736a931be26a77319a2730fa5a234eef66eb3595a62bc8aa786"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Gold.uasset": {
+          "bytes": 15268,
+          "sha256": "29075f2085396c6434d63f2e7ce5c9c4f6ffd4e0ed95161d991a3eb50801ce40"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Granite.uasset": {
+          "bytes": 14935,
+          "sha256": "9db4db6b052767de8e44c16590eb78b92a7806931285485de251df0ba93d4d5d"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_GreyTrim.uasset": {
+          "bytes": 15035,
+          "sha256": "18a7bec216211c9c86b173994592e7f281bf7da6c3fb79d9c30183ca3976ca02"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_OddGreen.uasset": {
+          "bytes": 14345,
+          "sha256": "c4c3f192eb79623c476a91d25640027ad70e6d37f27d4b525cc1b855abaa9146"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_OddRender.uasset": {
+          "bytes": 15240,
+          "sha256": "0f289b1cc1078264fe7e546af8ba50c425f61ea4e8590bca07f54fde55fcb796"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_OfficeRender.uasset": {
+          "bytes": 15241,
+          "sha256": "1cf80dc11928117e7f9738c32f6697bd9e231c6552a04da32a33890ff844e2fb"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_OrangeRender.uasset": {
+          "bytes": 15287,
+          "sha256": "a220d49c33babccce683f8f4371fe7d1c10e7cf94be4f50f98389a287b5bb0b2"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_RedMetal.uasset": {
+          "bytes": 14577,
+          "sha256": "176ac537ff8975a6d6b8471ed73d4f4ee11c160c118a81743449305d06543533"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_RoofTile.uasset": {
+          "bytes": 15045,
+          "sha256": "823bd506b302f6b03e6eb2ab18b3fae253521b6fa369bb9974879f6f2dc5b06f"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Roundel.uasset": {
+          "bytes": 14666,
+          "sha256": "c3d0591d44caed649d3944e14a6c2aae2096a297c9cd3a9604a7a1eb7a7ef6d3"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Slate.uasset": {
+          "bytes": 14466,
+          "sha256": "eeeb11b7b1a97b9b4d41487bd437b2158ea4ea57ad989e4fdd4485d4dfebe14c"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_Stucco.uasset": {
+          "bytes": 15165,
+          "sha256": "8159d725ea0b944481d1b5b94f031ca84bd34ad7f54ae729853813533c56855b"
+        },
+        "Unreal/Content/Kalmar/Materials/M_Larm26_WingRender.uasset": {
+          "bytes": 15284,
+          "sha256": "ce4a41aa5c8869192a74c5f89ef725bc847c2d25fef541ea1bad91231512330b"
         },
         "Unreal/Content/Kalmar/Materials/M_Leaves.uasset": {
           "bytes": 10060,
@@ -1616,6 +1864,38 @@
           "bytes": 2289164,
           "sha256": "8356bdeaf0bd4ad7dde54c494dca6a1d54c58465e3a420ac33461ee3f2d665e3"
         },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Bridge.uasset": {
+          "bytes": 181751,
+          "sha256": "c054bab8f802f89717500ea285da061021ecfdc4b15e1d291f7921d558284a67"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Ground.uasset": {
+          "bytes": 117627,
+          "sha256": "46e77dfe098a4b02438b35de376210810fb28344724255cda38c2a3b74fde077"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Guns.uasset": {
+          "bytes": 398713,
+          "sha256": "a3a76213c7b3b16ca30b549431e3a7a825138bf9616c583903488662ebc9b34d"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Islets.uasset": {
+          "bytes": 75098,
+          "sha256": "46d038348504d6fee228c8ca9158eb2a175c3cda271c9486f46729d5d0667b8b"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Postejer.uasset": {
+          "bytes": 8026058,
+          "sha256": "aff57d2f1ae01a909b12a3656dca868d5a23931100bd68543d9b85bc4a6aad16"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Ravelin.uasset": {
+          "bytes": 734838,
+          "sha256": "3ebb4fe5219d4805e21ab3ae7d93248b63f6f73e0d9381e5b9482dab26715ae1"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Riprap.uasset": {
+          "bytes": 1632847,
+          "sha256": "8a0842218d87050a153fa75b14746a49d63e1e57adb504494d4a1b313b0779b9"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Castle27_Walls.uasset": {
+          "bytes": 1729536,
+          "sha256": "248578fe5e293e5db2d21a3784f7e74c9d91ccbe2d36007478c9dc35db3f4696"
+        },
         "Unreal/Content/Kalmar/Meshes/SM_Domkyrka_Altar_Carving.uasset": {
           "bytes": 62182260,
           "sha256": "4ad465068a761c849b5256fb071c3a1ea67b096c67f322df7eecae679f75caaa"
@@ -2284,6 +2564,14 @@
           "bytes": 408288,
           "sha256": "69f85c9be46b419eab819bce52c47094b4cad0f7a32c3d9355395c2e0e053d74"
         },
+        "Unreal/Content/Kalmar/Meshes/SM_Kalmar_Slott.uasset": {
+          "bytes": 15059806,
+          "sha256": "230755630b23055c47615c98bdb2be75225e38e2900f57f7266b6a97b38748e8"
+        },
+        "Unreal/Content/Kalmar/Meshes/SM_Kalmar_Slott_Towers.uasset": {
+          "bytes": 8999815,
+          "sha256": "dcab79146efda79ebffaacdbe721bd79776740a7f7141e269089f2726d8ebe40"
+        },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_1049819215.uasset": {
           "bytes": 329182,
           "sha256": "75fe5c21839a81450f36d9c11fe1884aa89518c60a66e3013f36bd80cfc1a675"
@@ -2445,8 +2733,8 @@
           "sha256": "a0761d2cb58ff5c4571480cdb33c8875ded6416706444fe0f4508ef88e54441f"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91222222.uasset": {
-          "bytes": 1600390,
-          "sha256": "c35d885e130dc9e5e11d2fcdb10aadb227ba8f45c69f8245c0ed75bc708a2296"
+          "bytes": 17015361,
+          "sha256": "817b7f953376aa65e598221c4ad2ec9ebb4f2bdab17c8ba4edb26e2d776d4edb"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91285791.uasset": {
           "bytes": 1891161,
@@ -2561,24 +2849,24 @@
           "sha256": "76943f3e2256748eaf981f64222ab0a8489225bfee89a5f5e4cec625b0c452b0"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856599.uasset": {
-          "bytes": 219334,
-          "sha256": "6b1c34118f5880ede86da96e70c6a16c8b772636a6fc69745de069c2103ad324"
+          "bytes": 2611949,
+          "sha256": "a18eecdba8e4ef4d3c358cb92f7721e99e1a79548e1753624e9957c34a71530d"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856600.uasset": {
           "bytes": 445269,
           "sha256": "93fbc3326e30926bb25a355c3afcfc8fdf96884eb4db4a1e4a0dee8543bc0802"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856604.uasset": {
-          "bytes": 418420,
-          "sha256": "d7965e76cf418023534be20aa9f37c7a448bbf132858e4b7548faca50865adf2"
+          "bytes": 7508947,
+          "sha256": "746131d4a8bbb796b168cb6878ae468ee3ef83b0a2c01e3fabf88ec1aa4168dc"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856606.uasset": {
           "bytes": 422215,
           "sha256": "b9f00d2ea1f72b08f3fc3a0761d6cb689e2e63ec1e8bd55b0cd8818dd24e9d0d"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856613.uasset": {
-          "bytes": 733797,
-          "sha256": "d47c34623d521af4c9a64bc6b739b1ea30d557e49910d51a277bdc485651a1dd"
+          "bytes": 4917768,
+          "sha256": "407e1e9ac7715ced6395711d4ff6e48a70c009bd8a67ee896ee6986900b8b569"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856614.uasset": {
           "bytes": 354475,
@@ -2593,8 +2881,8 @@
           "sha256": "dd9c560cf92c52f37983603826896ac14bf95ee735ffeaa1fd99de3869c62348"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856621.uasset": {
-          "bytes": 585301,
-          "sha256": "5b7509b89947a6594f9db447815b30b019c46895a7234945934f946ada7dff9b"
+          "bytes": 3019962,
+          "sha256": "696e68dcfcd210495c803c38916fcf96c8415627c5ba5976d623536970a81f0f"
         },
         "Unreal/Content/Kalmar/Meshes/SM_Kvarnholmen_House_91856622.uasset": {
           "bytes": 817706,
@@ -3769,16 +4057,16 @@
           "sha256": "0a39cebe295f13391138440d2ae668af31d2036956561b845d157be0a76f6f33"
         },
         "Unreal/Content/Kalmar/Textures/T_Baronen23Brick_BaseColor.uasset": {
-          "bytes": 5828431,
-          "sha256": "4a89c7bd11f73ae5403c93893b054865feda629443e54e21d30e8c8b6d3cbf90"
+          "bytes": 5828527,
+          "sha256": "ce541cad8ff8114b7abd29ef1a9a7967ee866fe9ce840c5aa76ae0fb3d74cc24"
         },
         "Unreal/Content/Kalmar/Textures/T_Baronen23Brick_Normal.uasset": {
-          "bytes": 7915112,
-          "sha256": "3d5b12957402f408360251a587a22fc892e9ce2d32973b9261c7fb137bdd53e0"
+          "bytes": 7915208,
+          "sha256": "ef45e5e508222068102b08422884b1699a36fb42fc81857bd2e351e7b231dfb0"
         },
         "Unreal/Content/Kalmar/Textures/T_Baronen23Brick_Roughness.uasset": {
-          "bytes": 2852605,
-          "sha256": "5cf6a500894033edcfee32fc2b083cf1bc1430b405a35302d50452e51b2c5adb"
+          "bytes": 2852701,
+          "sha256": "5403c2b24ef67bfdc4f2bf88db0a1b7cbddc9c35e46d7460ddd372a5ebff1ce0"
         },
         "Unreal/Content/Kalmar/Textures/T_Baronen23Profiled_BaseColor.uasset": {
           "bytes": 3336061,
@@ -3793,28 +4081,28 @@
           "sha256": "d3eb8d33250e475f4e0dd05fe52a43c4b6eb8f793acfc4bdb8bca8f73384c2e0"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchAshlar_BaseColor.uasset": {
-          "bytes": 2876007,
-          "sha256": "824db8656fa8d98222478603a8c1b3770c561135a0591a9e1a170064962cced8"
+          "bytes": 2876073,
+          "sha256": "af90b0d5db895b852e06a506683b14d118ec244655540aa2cd79a123fded5fb5"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchAshlar_Normal.uasset": {
-          "bytes": 6358701,
-          "sha256": "7ec0ce5d983fd269db3b2cc531e524369fca6aae6281ab86250206f5c64a533b"
+          "bytes": 6358767,
+          "sha256": "c5cf33d38c879473e6c8270c175c3f8f7fea9a220e948ad2d6e1a9e18b80cbb0"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchAshlar_Roughness.uasset": {
-          "bytes": 1583686,
-          "sha256": "e54583e9ba8524e36d482be22c1700f781cbced961cf9b6d104f2fae74c2a2db"
+          "bytes": 1583751,
+          "sha256": "14f038c458de69a82b2b2adfbdfdf389e4de5f18c8962477a5da09e991a9aae2"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCopperFine_BaseColor.uasset": {
-          "bytes": 624182,
-          "sha256": "b6859d6d49b818b41b82cfa027b285c461fb41cca03fd3704bcb70118b080f31"
+          "bytes": 624183,
+          "sha256": "5b2978893fa8faf8acda0d61407d741ecb889cf2d0fdcf3930f6b83d891ed0ef"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCopperFine_Normal.uasset": {
-          "bytes": 2518790,
-          "sha256": "26706ad4389022106a3936ac71f69a7fdb87455efe2ebe18c41c4d5ee8433bce"
+          "bytes": 2518791,
+          "sha256": "6880dfaa5fb0afe16302d20335641a06f405ea8a2e88c8e9f75b5f7487da190c"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCopperFine_Roughness.uasset": {
-          "bytes": 1378528,
-          "sha256": "ace1450c9500fd2b9585bddf3672c7b52735487389ac5c4ffac68c3e55137f57"
+          "bytes": 1378529,
+          "sha256": "6b43e8ee3398103b7980e31607ed1e5ef57f285cafbcc065d1f0291b7f52394d"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCopper_BaseColor.uasset": {
           "bytes": 691534,
@@ -3829,16 +4117,16 @@
           "sha256": "ec7962f54fc0a63af5ad30c6b1d2a79fc9062f8174bbd70321d838d5785b4d8c"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCutStone_BaseColor.uasset": {
-          "bytes": 707647,
-          "sha256": "4f123b216b5b8f8010bdb8c5936d727cc46be20e1381d52996c6f9c770071a20"
+          "bytes": 707807,
+          "sha256": "8ed0acd101cafaf4524cc99a8ae7c680132558585fdb4af380fbc3acc516d564"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCutStone_Normal.uasset": {
-          "bytes": 3927853,
-          "sha256": "a5bd00e27aa931313ab6323ea13032c7f643248d2cd783eb3ad811e72b12f674"
+          "bytes": 3928013,
+          "sha256": "39dd8e965eb78bc032df0cf3c22c9d06df23a1da076860fdb1b011bf2b1b2a2c"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchCutStone_Roughness.uasset": {
-          "bytes": 1555368,
-          "sha256": "dadefb5b727d0e52ec39ecc44e2dcf11abfca31374f8d6d826a55079bbf49288"
+          "bytes": 1555112,
+          "sha256": "bb92a19ed3276f391a86bc2f45b67ce6e2abb9743547bae0a6893ee76f49e46a"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchDoor_BaseColor.uasset": {
           "bytes": 1134115,
@@ -3877,16 +4165,16 @@
           "sha256": "804e48e94baa3883ef7c8dc4e3fba032dc3b27785a8e2101efc5fbce08d38be8"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchGilding_BaseColor.uasset": {
-          "bytes": 1287079,
-          "sha256": "6b4828e11458edf1b064cd81ef76dff7c29e66bf35416bec30fd50d59fa03959"
+          "bytes": 1287144,
+          "sha256": "0f4882223134c328fb5864fc8ecb1d431d92c01083ece56e90a5710a18e617d2"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchGilding_Normal.uasset": {
-          "bytes": 1567101,
-          "sha256": "568c8c1944fca88a94af10e74d85e46af362a5ee058b73d69714d572c16003d0"
+          "bytes": 1567166,
+          "sha256": "75a62c5c14eb0a755ade31ac5ab862041434607eb645c489edc2fb4aae420456"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchGilding_Roughness.uasset": {
-          "bytes": 1053557,
-          "sha256": "13de9f00daca5427bfa34d15d83e2b2224e4c62a8fb5171fcd08ed1995034741"
+          "bytes": 1053622,
+          "sha256": "64cf41f65c18c2d4a792706a244dd42ce79928e97c293c942d13b73dde5f1806"
         },
         "Unreal/Content/Kalmar/Textures/T_ChurchLime_BaseColor.uasset": {
           "bytes": 5055280,
@@ -4045,16 +4333,16 @@
           "sha256": "76dfae5d211821c3e028fdeb7fe3f682373e4f88ea14089e395267634d4838bc"
         },
         "Unreal/Content/Kalmar/Textures/T_Cobbles_BaseColor.uasset": {
-          "bytes": 1013985,
-          "sha256": "8b8c4e8cdb205b49ff7b534a4f3a559f162b7ec9f27d82534e0368f9057f9809"
+          "bytes": 1014050,
+          "sha256": "62c438173364995a098a2f697a4d56edd46fe867a9d04509ffc56e9396398058"
         },
         "Unreal/Content/Kalmar/Textures/T_Cobbles_Normal.uasset": {
-          "bytes": 706044,
-          "sha256": "4bc1489665d4dcb16eb7a86a566eab1c9789ce0f6b3f95e188fa62a38bcf010d"
+          "bytes": 706109,
+          "sha256": "3d3d08e9511dda415a4b1baeee7e3f41652b6a92359c1eb9b704ddf38fc80d04"
         },
         "Unreal/Content/Kalmar/Textures/T_Cobbles_Roughness.uasset": {
-          "bytes": 766634,
-          "sha256": "d38dfa34199ae2565855a8f939a7e116929166f0cdfbccfc1bb8cd6851ccc284"
+          "bytes": 766699,
+          "sha256": "c0dff744fdc795a27ba47035dac7b151ce72a499e74417b6fd142ef63f25d588"
         },
         "Unreal/Content/Kalmar/Textures/T_DistrictAsphalt_BaseColor.uasset": {
           "bytes": 3031889,
@@ -4165,16 +4453,16 @@
           "sha256": "41360135a102519f34a71625e9db0c00e9075f50a6c980b43317a9d8b6fd3bcf"
         },
         "Unreal/Content/Kalmar/Textures/T_LandmarkRubble_BaseColor.uasset": {
-          "bytes": 2397934,
-          "sha256": "c14e74c8b189930d368124279ec6ce915aab437e88675518539114bd4683a365"
+          "bytes": 2398092,
+          "sha256": "c3140a799cbf477edaac040c63bbe267ed593af8497a18807214f0cabb02d25d"
         },
         "Unreal/Content/Kalmar/Textures/T_LandmarkRubble_Normal.uasset": {
-          "bytes": 7537938,
-          "sha256": "b691b13e1579decfdf393c095b93ac29f72d62696691810b083a3abc46f51fb7"
+          "bytes": 7538096,
+          "sha256": "d2c642867ff9fbcd7bda7490f11a98629769aacb36b8c7e55d733ee2b33baf8d"
         },
         "Unreal/Content/Kalmar/Textures/T_LandmarkRubble_Roughness.uasset": {
-          "bytes": 2576703,
-          "sha256": "5df1ca92ed745e2d3b892e6435e8a5d349db303f0ddf584e9b00666287ac7776"
+          "bytes": 2576861,
+          "sha256": "81d5d5807bce975c8a5f1e98b9d8e5d56ba5c8456706ee3b60d441159c37aa5d"
         },
         "Unreal/Content/Kalmar/Textures/T_LandmarkSashOchre_BaseColor.uasset": {
           "bytes": 2342710,
@@ -4309,32 +4597,32 @@
           "sha256": "608fc35f263e5f39ca51341cc9a3c5a3f4dc8c0297454e5c69e624e6e1555f1d"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkRubble_BaseColor.uasset": {
-          "bytes": 7932862,
-          "sha256": "b00f522b78caf5ebda601cdfa7477f142732901704d416c04c1860bfb1e43b44"
+          "bytes": 7932929,
+          "sha256": "0b688d7c528c1e651c6993125694ccb3f0fa6fe6f80a2112bd4d2dea02bdb72b"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkRubble_Normal.uasset": {
-          "bytes": 10276471,
-          "sha256": "66212116b2628e67804dc25ea38a2cddd8b7c19a3fb618bd01a2949e8bfefa0a"
+          "bytes": 10276538,
+          "sha256": "933ea87fe261f9389410bef79ab6e38a1a9df247829e6f4591504226067b7a88"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkRubble_Roughness.uasset": {
-          "bytes": 1495080,
-          "sha256": "e03b92339d0c625a3cd5054c10bb61f7779bd2a2b963d5a9117667c8d44a23fe"
+          "bytes": 1495147,
+          "sha256": "e80c1386967da03ade4b1e4eef755e3e436233971c00459417a073000161962b"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkTurf_AO.uasset": {
           "bytes": 3417801,
           "sha256": "d787bc3a3af979c5fc4844c01454bf938e70d83b6f55d44a703d168ad13fdb61"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkTurf_BaseColor.uasset": {
-          "bytes": 9577634,
-          "sha256": "ee3bfb17e876aca19adb71a65bbda7b043951ec781122261fb817499fa123025"
+          "bytes": 9577699,
+          "sha256": "6bcb014e49f49d2ba7d8a3ecdf70ab45f1dc5ed72226282c7e101784db14ec9d"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkTurf_Normal.uasset": {
-          "bytes": 12770217,
-          "sha256": "2cf145a33c1cbc6b96787a84ba39fefe3d1f276ff464e74f5d8e2c9ef0f5811f"
+          "bytes": 12770282,
+          "sha256": "6fc09337b426ef4846dc32d8482189cb677965b4c630e23e31445c692a7aaf84"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15LandmarkTurf_Roughness.uasset": {
-          "bytes": 1965082,
-          "sha256": "fe17fa1f20a92ba4f99ab6f17b2857b8ef5f80eb26082e8b710bbbd164d536e4"
+          "bytes": 1965147,
+          "sha256": "e62c0568c8b15fcf1951b1e898bd7bdb2152e95a0770a57515eb5523a6fac85b"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15Macro.uasset": {
           "bytes": 289032,
@@ -4345,16 +4633,16 @@
           "sha256": "80df770352b0c72af4806ccf7308af532eada90c253818e8da6f42f893ce4916"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15PolishBridgeWood_BaseColor.uasset": {
-          "bytes": 7464924,
-          "sha256": "c6f7ac00202b8bdfc25bec47cfab098e10d815b348d868038c309cae12a9f446"
+          "bytes": 7464988,
+          "sha256": "9379e6076e55bbe24fed38bbc9185726a57bde2c2903b25323689f3cbcb2e995"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15PolishBridgeWood_Normal.uasset": {
-          "bytes": 6383036,
-          "sha256": "f4ea88677582cd19c66c46d6cc1f6ead03331aae8af36339d83c911ef7eb23dd"
+          "bytes": 6383100,
+          "sha256": "b0ddbdd900e1c1dffde6bada9f51f06a1ae575e65f8cceb115c559e9899ac74e"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15PolishBridgeWood_Roughness.uasset": {
-          "bytes": 2557585,
-          "sha256": "01891ec9340720428f1d5bff8a44c53808c9b13e1b0b55dd9deac692f9c2fb93"
+          "bytes": 2557649,
+          "sha256": "b08615449b93a37a8df07cd3cca6b1f8611c95e337ae5a6a8369105c2c923bb3"
         },
         "Unreal/Content/Kalmar/Textures/T_Polish15StorgatanSetts_AO.uasset": {
           "bytes": 2168730,
@@ -4561,16 +4849,16 @@
           "sha256": "396b2a58d92b17a8e9615eb0565eee4301b83c3f0b233daf22daed102ffcaf66"
         },
         "Unreal/Content/Kalmar/Textures/T_SodraRedWood_BaseColor.uasset": {
-          "bytes": 2340540,
-          "sha256": "1ad2c5b20052a1c3313e1faebe54dd90ae4e7e4090909a01cba1992cecdd84eb"
+          "bytes": 2340699,
+          "sha256": "cd115f6d981f86f230aac0c055c960b015b20658858a3d03c794014aa81eb686"
         },
         "Unreal/Content/Kalmar/Textures/T_SodraRedWood_Normal.uasset": {
-          "bytes": 7107445,
-          "sha256": "99e28fbefdfe6683468c30b0a597df69d489391dc489483cd31023b21bd27df0"
+          "bytes": 7107604,
+          "sha256": "040b9694830ca86539aced062ab033992e186761768805f50e5efb0810df21bf"
         },
         "Unreal/Content/Kalmar/Textures/T_SodraRedWood_Roughness.uasset": {
-          "bytes": 2370325,
-          "sha256": "9dd420635fba29312032de3dfe9b26a98a8980b1da36f5a90d4dd14a13ab2aaf"
+          "bytes": 2370484,
+          "sha256": "2e1aebe1a322136482e807f28c71caf93eab732aee0ac0e8db63fcb15f297133"
         },
         "Unreal/Content/Kalmar/Textures/T_SodraSand_BaseColor.uasset": {
           "bytes": 2338119,
@@ -4585,16 +4873,16 @@
           "sha256": "43e3ba7ae93ea5ae3f5e1fba4600f4bdabd36f608abb3ca59f561401c89ea7c7"
         },
         "Unreal/Content/Kalmar/Textures/T_Station24Slate_BaseColor.uasset": {
-          "bytes": 5091031,
-          "sha256": "10304081d99686e8bb786c1f74f5e2dd9f5e93438b903ac06004ca7a29c1fa11"
+          "bytes": 5091124,
+          "sha256": "79831ddd41be577a82c331a2e32add8618c21bb21aeaacd89474c93fe356d08a"
         },
         "Unreal/Content/Kalmar/Textures/T_Station24Slate_Normal.uasset": {
-          "bytes": 6059676,
-          "sha256": "83509e262be3e6afe1212c59b3ebc6ef61ea241cdf8af9987609c2505f878494"
+          "bytes": 6059746,
+          "sha256": "2fd6a8937cac4a726e50d82815837ecc4da564f25b260be7bfade52248b1e697"
         },
         "Unreal/Content/Kalmar/Textures/T_Station24Slate_Roughness.uasset": {
-          "bytes": 2872892,
-          "sha256": "1ee22b747cb6977e7cd0bcc9d7bd30331ed7d1ef8691cb722507f2e8a2c958e2"
+          "bytes": 2871756,
+          "sha256": "76587b35501981a468a8e2f37fb884bcabf62bf34d3e2223f6a0549e85f3efaf"
         },
         "Unreal/Content/Kalmar/Textures/T_Street21Tile_BaseColor.uasset": {
           "bytes": 863257,
@@ -4657,52 +4945,52 @@
           "sha256": "a578f4c32d2b5faf58e1cfa350be1bcde2a179c393890c0cdb1097acbc401a5e"
         },
         "Unreal/Content/Kalmar/Textures/T_TownIvory_BaseColor.uasset": {
-          "bytes": 2837174,
-          "sha256": "7e3ca2859204c9945f3d34a808c5fb48a7d45b6992b6c652e3670e77272d1b3a"
+          "bytes": 2837175,
+          "sha256": "9e0dee18f700286ebdb170138bfae2303e246e93bb6f2ea5c8ed7116572bc1ac"
         },
         "Unreal/Content/Kalmar/Textures/T_TownIvory_Normal.uasset": {
-          "bytes": 4548841,
-          "sha256": "5af08301126a051fa6cd778a38d09a5655b5956a6ab4e946b4b7e6d61132bee4"
+          "bytes": 4548842,
+          "sha256": "3f38c1f6eee478097c4131064501839f793c0b489dc1777d4babbbc77dd86942"
         },
         "Unreal/Content/Kalmar/Textures/T_TownIvory_Roughness.uasset": {
-          "bytes": 2080911,
-          "sha256": "83dd90097da0c8d75927c62e3d3b29126a4131054d4f6fb242571a0750fc1b3b"
+          "bytes": 2080912,
+          "sha256": "0f93d6ddc46a0f09b3a697ea7e2825a8deeb07608eeb6172b2ec1cbb6e053d1b"
         },
         "Unreal/Content/Kalmar/Textures/T_TownLime_BaseColor.uasset": {
-          "bytes": 1858063,
-          "sha256": "f51ae8f2b0bf008aaa989655bd4e641c5c90c72ea59af2a9dfbecf356d9b37f8"
+          "bytes": 1858128,
+          "sha256": "f0334cdb984e9dd62816a961b041dbf8dcb340b6a8a122e4c5054303831dcb2c"
         },
         "Unreal/Content/Kalmar/Textures/T_TownLime_Normal.uasset": {
-          "bytes": 4548754,
-          "sha256": "cfcef3fc108ec0b59fe30052d3e2a38d5b2c61a0e72568c1c7bdccd8b2672af6"
+          "bytes": 4548819,
+          "sha256": "bf44a98ead97cef9193f249643b5bc9e65777758bb9ed74e21278c22b06bd9f8"
         },
         "Unreal/Content/Kalmar/Textures/T_TownLime_Roughness.uasset": {
-          "bytes": 2080824,
-          "sha256": "169317b24c673814d3e75f44cccdca22e4dc2ca6f1efddfd9677a9d851804808"
+          "bytes": 2080889,
+          "sha256": "d7121b4a227ee523fc4da402a8672b0eed3221d47699927e5c5efbe995db1be4"
         },
         "Unreal/Content/Kalmar/Textures/T_TownMetalGrey_BaseColor.uasset": {
           "bytes": 2219684,
-          "sha256": "0a2467c1660b26cf4f22b67620d690300d0fbf753fa501dc92a09a6f8a429d6b"
+          "sha256": "1e3331f0adb578af246799c75e13a5794bba6869d4f9af8f7f66d1e3967d5ed0"
         },
         "Unreal/Content/Kalmar/Textures/T_TownMetalGrey_Normal.uasset": {
           "bytes": 2705659,
-          "sha256": "62c76a241f22152aab5747051294d5a1012c86cca48a32a05db692c06be94d37"
+          "sha256": "304def0f7619a986c0f9567ea6b22e529d3c72fdd19f5c4a7ef196a9215ffe29"
         },
         "Unreal/Content/Kalmar/Textures/T_TownMetalGrey_Roughness.uasset": {
           "bytes": 231750,
-          "sha256": "73ed554070ed2586476628216a338f8f58a6dd5d890eb076747e5c78b8942aed"
+          "sha256": "8732d3b469afaf5c43baaa57b290a32c0a0e15d1aef9164bfaca9089832c95e2"
         },
         "Unreal/Content/Kalmar/Textures/T_TownMetalRed_BaseColor.uasset": {
-          "bytes": 2037506,
-          "sha256": "529ef6d0539dad318aaa8a6a76c59dd594eec81d98c156842ffcc35168da6751"
+          "bytes": 2037508,
+          "sha256": "f50365b022574d84fb0c942059502454ab7ddc2df697a927abe336a41b40a53d"
         },
         "Unreal/Content/Kalmar/Textures/T_TownMetalRed_Normal.uasset": {
-          "bytes": 2648548,
-          "sha256": "188ce3b2bfc7fc63c638ec0c29f9a82440729a402c6cbd9119f7ac4823510ddb"
+          "bytes": 2648550,
+          "sha256": "aabd1bbe4e9b6e1c7f333213d729b27a36c4b29a487d2835e50163b6c79d6f41"
         },
         "Unreal/Content/Kalmar/Textures/T_TownMetalRed_Roughness.uasset": {
-          "bytes": 292762,
-          "sha256": "b2f80acf3a39f3b492f9172fe4f6731e8a2164d9f47962d7459067912dfb9c57"
+          "bytes": 292764,
+          "sha256": "8dbec850b57c9894859982edf352a97be23d903d28a1e55cb37ef371b81cb5d1"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintBlue_BaseColor.uasset": {
           "bytes": 2553802,
@@ -4718,51 +5006,51 @@
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintBrown_BaseColor.uasset": {
           "bytes": 1969364,
-          "sha256": "f0192c57ab97d37edb5ee56b7862088d3ca29241fb4b5dc34df6c3451ca1664d"
+          "sha256": "fc09693c482cbbaa56cc47e008351820c7ef40a6b7e5995a6d96c05c3c85e801"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintBrown_Normal.uasset": {
           "bytes": 2578724,
-          "sha256": "5eff63f5c3d97faa494c0bc56b97aa317a9e0fbcab9488d9c9a07284beb23137"
+          "sha256": "4d79809e2d734d8cefa407c7cd15ff318b628b1b40eece271d965cc89d9fc0b8"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintBrown_Roughness.uasset": {
           "bytes": 2129220,
-          "sha256": "e2e60b616c61692ae0df98dbf39c0bade22525d3b3f8be0d59d4448f95f8d64d"
+          "sha256": "85d2bbf0a99beb0feaaa4fe08e2ed689a4d9f18c8338c7fafb2ce6b5d4568701"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintGreen_BaseColor.uasset": {
-          "bytes": 1983787,
-          "sha256": "09a0e7a2337eaac7acd61052c93e81d5e40802785bf994f40ac9c6da252e00ee"
+          "bytes": 1983852,
+          "sha256": "3e97fd7fbe30b79bbbd8dcd71a18c3ce4694e0d989ec6829b4ea142a3eb878e7"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintGreen_Normal.uasset": {
-          "bytes": 2578659,
-          "sha256": "206740121fc3ac0087b9013841783e0b77780f8828eb2148255a72e3df749f54"
+          "bytes": 2578724,
+          "sha256": "2ff67fcb78dd34b79b49e528aa25be4d6a8cfd7d544e552084d432b4bd7e5664"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintGreen_Roughness.uasset": {
-          "bytes": 2129155,
-          "sha256": "6b0438df75a937b4a468f197881da07d103e223ce4ca0b0745c53ec87ce4a4bf"
+          "bytes": 2129220,
+          "sha256": "0384ad315a512cb3f06ff1664815d372bcd6f25b69b747609535163bebb0c725"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintWhite_BaseColor.uasset": {
           "bytes": 2001874,
-          "sha256": "eff7e523aa4c2f37d1d74ead3275ba7095d097f48117959d4dd8d49544909af7"
+          "sha256": "cb83a8634083751aa11c70a03514001db2ee4b5499bfa6d726fe64cd0a8634e8"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintWhite_Normal.uasset": {
           "bytes": 2578724,
-          "sha256": "397309e21263547d99bdc99af37d72731094c78a2c4f21451263c7dbeecee2a9"
+          "sha256": "8a8510c1676934dabbba47af02b5ef3adf8c0fc49762b059eea0c1542698b433"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPaintWhite_Roughness.uasset": {
           "bytes": 2129220,
-          "sha256": "5a8008f5a1fbb1b6535c935d8fd2c0606413e7de5c70e5dd49851aadb89ddc55"
+          "sha256": "a7a30a55b30860ca49c1d1231c85daa1a0ff1de92bdfd8272d0bf387bd259615"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPanel_BaseColor.uasset": {
           "bytes": 418937,
-          "sha256": "2bd6930f8fe13cbc6ced72bc9c5f9eefbd2911367723e581c47de10b0e97fcb1"
+          "sha256": "1748e779df54f09c0e81c4d706415bbe09c98dfaed8b8a4c362b74798338ee3d"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPanel_Normal.uasset": {
           "bytes": 3745599,
-          "sha256": "35cb05a29d9f9c37dd9539daadb2576befea720b9690203138ae6f7fee39b98c"
+          "sha256": "3c40c5966431f055d43959c18612cb68f03c3d8126ae3ce773ab345585a62f5b"
         },
         "Unreal/Content/Kalmar/Textures/T_TownPanel_Roughness.uasset": {
           "bytes": 1923416,
-          "sha256": "9da5363472fa231c3ea9b01d72dd4a85e9894b4c799cc450b1b173fc5a9e569c"
+          "sha256": "4c21452db739b82c39840a25baf0c160a5b65ec464c93a7fa951b0852ad4f73d"
         },
         "Unreal/Content/Kalmar/Textures/T_TownRose_BaseColor.uasset": {
           "bytes": 2683812,
@@ -4778,15 +5066,15 @@
         },
         "Unreal/Content/Kalmar/Textures/T_TownStone_BaseColor.uasset": {
           "bytes": 2343253,
-          "sha256": "f126588cdb2a69503779ea05ff3b27b4cbbc657823fdb8825ea066104c02152a"
+          "sha256": "66c0dd2ae4a562861dda038eb389b0a8b9a3778e157e6ce5544291465ebe077a"
         },
         "Unreal/Content/Kalmar/Textures/T_TownStone_Normal.uasset": {
           "bytes": 4548842,
-          "sha256": "0e54854921c00ea27fbf8f2a3646fcc7ec392552c0098994e44f06eb3c3cfb87"
+          "sha256": "2aeef34cba0b0cbb39a65aa88dcc4a12793e3ead91fc71ea3850bef2f69887ac"
         },
         "Unreal/Content/Kalmar/Textures/T_TownStone_Roughness.uasset": {
           "bytes": 2080912,
-          "sha256": "885c2270dd52280912d684c6915ef018cc0e14104924b683f711bf6be0e10edf"
+          "sha256": "1067fd9f6e8dc83d60fc4849f5e3d2a853f7edee1ac7b462e299d58f61f06523"
         },
         "Unreal/Content/Kalmar/Textures/T_TownTileDark_BaseColor.uasset": {
           "bytes": 254202,
@@ -4801,16 +5089,16 @@
           "sha256": "4ca7ae3fab0b1c8b6813968ae613165729dc7f3ada73513118ca7ab506e16775"
         },
         "Unreal/Content/Kalmar/Textures/T_TownTileRed_BaseColor.uasset": {
-          "bytes": 309622,
-          "sha256": "578bb9f48b170ce8fc8aaab72027733a43fce206ea95e5b55ec9b65723a86b56"
+          "bytes": 309781,
+          "sha256": "c344f2a657eb311e09d6097c52148e41f7ed55502e4676a86891e8deb6bbfee7"
         },
         "Unreal/Content/Kalmar/Textures/T_TownTileRed_Normal.uasset": {
-          "bytes": 4450599,
-          "sha256": "75a0e2cf8b53647eb4c0b11d25da16cbd0b412b381b3d778c7a7c8f982b0be30"
+          "bytes": 4450758,
+          "sha256": "b8490cb12a4ad35a4f64d5916f33ffd5a2be3df701766c82be3dda094ff0d93a"
         },
         "Unreal/Content/Kalmar/Textures/T_TownTileRed_Roughness.uasset": {
-          "bytes": 2080700,
-          "sha256": "a87677e4b9b631a8d2fea3fdc72c776f0ae1428b821ebc10ac05a4ec886a5210"
+          "bytes": 2080859,
+          "sha256": "85ba46f8752b943699fcf70f15e92a8fdeb937c304ea96a7be7e8c1ac5a4083f"
         },
         "Unreal/Content/Kalmar/Textures/T_TownYellow_BaseColor.uasset": {
           "bytes": 2715556,
@@ -4869,8 +5157,8 @@
           "sha256": "7c040fcf72d17a5b272c984f2694a10d007be0707d1905f554921e9c04eefa35"
         },
         "Unreal/Content/Kalmar/Maps/Stortorget.umap": {
-          "bytes": 1484145,
-          "sha256": "57ed79060216f9f896b977a46f29a4b052328d346374235484ce546e6a359ee7"
+          "bytes": 1521818,
+          "sha256": "afb80dc0ac5a52c8f8acc0979cc944aaca3e4324d9d1e788a3b7642acaf5ceb4"
         },
         "LICENSE": {
           "bytes": 787,
@@ -4900,9 +5188,9 @@
     },
     "fbx-meshes": {
       "file": "fbx-meshes.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.5/fbx-meshes.zip",
-      "bytes": 673917661,
-      "sha256": "ddb8b3456bba1159a63bfe05387710946b776b7521039b79aa014d2f11f6ace5",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.6/fbx-meshes.zip",
+      "bytes": 765789285,
+      "sha256": "df160260e441d4658395b922ecf1cc3da9839c9d859344e78bb6b63d4969e82b",
       "files": {
         "exports/meshes/SM_Baronen23_Entrance.fbx": {
           "bytes": 2194364,
@@ -5167,6 +5455,38 @@
         "exports/meshes/SM_Calmar_Stadshotell.fbx": {
           "bytes": 2138588,
           "sha256": "bc6336908133be8b0476bb3d090b9f494894427ad25cf53d867eb3d5fec602a7"
+        },
+        "exports/meshes/SM_Castle27_Bridge.fbx": {
+          "bytes": 179644,
+          "sha256": "e2fe444e1e2b60490f734eee8930c5fa80ca796e9851a17a2014fa41a7ba24b1"
+        },
+        "exports/meshes/SM_Castle27_Ground.fbx": {
+          "bytes": 100444,
+          "sha256": "3c138b96a386cf3d4a31d1cb28dc752fde4d6d210a13a2b170fe6b5b2d884497"
+        },
+        "exports/meshes/SM_Castle27_Guns.fbx": {
+          "bytes": 493980,
+          "sha256": "117b734fba199d2ad99dadd1c39b2a0b4b165a0937c565643c4e8377f37ec9cf"
+        },
+        "exports/meshes/SM_Castle27_Islets.fbx": {
+          "bytes": 29100,
+          "sha256": "a86ca3b1601cbe0e97904f558713383844d1728744538646c15ee457ce59d725"
+        },
+        "exports/meshes/SM_Castle27_Postejer.fbx": {
+          "bytes": 11481372,
+          "sha256": "582f6083b98a9e0ba7eed37475d0512ab7d86cb7df16e1793b2e2d4d9eec5677"
+        },
+        "exports/meshes/SM_Castle27_Ravelin.fbx": {
+          "bytes": 1106796,
+          "sha256": "9d4b5d18eb0da686bd9ae64bcbca419df2f45190aabe1cff72681a09f16fe602"
+        },
+        "exports/meshes/SM_Castle27_Riprap.fbx": {
+          "bytes": 2535980,
+          "sha256": "e77b843015280bfb31a5f6ae08073755d1730d001c137bcb2516f7f4eb2f40b5"
+        },
+        "exports/meshes/SM_Castle27_Walls.fbx": {
+          "bytes": 2498508,
+          "sha256": "6c1e4a4cb02c3fe4eb103e42758042d25a7d6e5bc3021326dd328b781e68074d"
         },
         "exports/meshes/SM_Domkyrka_Altar_Carving.fbx": {
           "bytes": 56671404,
@@ -5836,6 +6156,14 @@
           "bytes": 320348,
           "sha256": "5c95904f7cfbd5143d5d2e158342c37a9c2415a4d3277b83f30d7accd7e0c8e6"
         },
+        "exports/meshes/SM_Kalmar_Slott.fbx": {
+          "bytes": 21960812,
+          "sha256": "e803ac35c07cefc78eba59e5c9a9204e1262e09d0644ce43fc38fb0e5d873a1a"
+        },
+        "exports/meshes/SM_Kalmar_Slott_Towers.fbx": {
+          "bytes": 12105148,
+          "sha256": "7209148eb430dea6d5071fdc3f4b61ebe54143f344da6e24f1e48544c6d8c153"
+        },
         "exports/meshes/SM_Kvarnholmen_House_1049819215.fbx": {
           "bytes": 413100,
           "sha256": "508c04e47386ee447c82189542c2b2c5986164e86c15eb0ee92de2b37910f240"
@@ -5997,8 +6325,8 @@
           "sha256": "a72dc173447a90a9102ed3cf82a25f61e56bb78494b6bc2e9e76e26e2e2e21a5"
         },
         "exports/meshes/SM_Kvarnholmen_House_91222222.fbx": {
-          "bytes": 2559596,
-          "sha256": "2f6f36cdcfe8c0df0dbfea3ca78b6120f34b41959656845c056ed1f8264dbe7f"
+          "bytes": 23831084,
+          "sha256": "85eaab12910e0ecd965ded1c50b1dda0d6ca69a53ada67e0e52b00cd32d3bcaf"
         },
         "exports/meshes/SM_Kvarnholmen_House_91285791.fbx": {
           "bytes": 3118668,
@@ -6113,24 +6441,24 @@
           "sha256": "556a33346b357ef10b04fe89d17cedce6150f38ca4369eda16ba0498394abc1e"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856599.fbx": {
-          "bytes": 276972,
-          "sha256": "32f41fe09cb9cb6598e27e2b86cdd8136b0b529d06dfada3cbe21b67c431cd0a"
+          "bytes": 3837004,
+          "sha256": "84b0523223fc29101e44bc06ebe6ea2d9baaa16699bb623b5d14d22499f8ea9c"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856600.fbx": {
           "bytes": 621084,
           "sha256": "8ebbb4467e4a3ddee21ba4db38196d8e34832ef53c12e99984c28228d9dd5229"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856604.fbx": {
-          "bytes": 632380,
-          "sha256": "51d6075320ebf73856eb8f2271bf217b24639253af806be2c3fef96f25e9d85f"
+          "bytes": 10493036,
+          "sha256": "48f5c02730c7c0601534cb22eb49dabc67983276c7dc6cdc247ea523864427be"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856606.fbx": {
           "bytes": 562748,
           "sha256": "5726c8c2f143f6ea81d538d7b34f46ad8f15adf8f12d526a288a4e295a739d51"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856613.fbx": {
-          "bytes": 1090028,
-          "sha256": "fe243f2284a796eb9a593c1e4da4099e7926fa0176d537fd495256a12d384595"
+          "bytes": 7236860,
+          "sha256": "999914070f431a9cd4d5115bb24e0585be1e24cde8063b5ac4992b7d966ea71f"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856614.fbx": {
           "bytes": 446844,
@@ -6145,8 +6473,8 @@
           "sha256": "ec84ec673d1ddd16b504f192c5436ceca339dd68d02872dd9237a7b12aee0e9f"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856621.fbx": {
-          "bytes": 876044,
-          "sha256": "85a5a5176bae876aa257a5f9267e1795face7e73b866e26ad434054862239508"
+          "bytes": 4321740,
+          "sha256": "8fdd6c4eda9c173523d37b2e237a69e8a7c182087a2705f2df899da0e8de2e9b"
         },
         "exports/meshes/SM_Kvarnholmen_House_91856622.fbx": {
           "bytes": 1217516,
@@ -7344,7 +7672,7 @@
     },
     "textures": {
       "file": "textures.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.5/textures.zip",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.6/textures.zip",
       "bytes": 777017350,
       "sha256": "441408ccae0f76bc7cf3ebefbf1628265864206bb62c12d37208fe47951b8e90",
       "files": {
@@ -8432,7 +8760,7 @@
     },
     "texture-sources": {
       "file": "texture-sources.zip",
-      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.5/texture-sources.zip",
+      "url": "https://github.com/fltman/kalmar-kvarnholmen/releases/download/v0.1.6/texture-sources.zip",
       "bytes": 575277154,
       "sha256": "4ed8c4536de12f84d1c872a987b7c32fc5d818a810300860a7b91d6d78f9672d",
       "files": {

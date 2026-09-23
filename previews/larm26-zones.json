@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "zones": {
+    "bank": {
+      "area_m2": 1065.4,
+      "polygons": 1,
+      "walls": 11,
+      "outer_m": 160.0
+    },
+    "office": {
+      "area_m2": 248.0,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 39.8
+    },
+    "southwing": {
+      "area_m2": 207.4,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 47.9
+    },
+    "l10": {
+      "area_m2": 652.5,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 63.9
+    },
+    "l8": {
+      "area_m2": 340.7,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 20.5
+    },
+    "l6": {
+      "area_m2": 1045.4,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 76.5
+    },
+    "oddfellow": {
+      "area_m2": 400.7,
+      "polygons": 1,
+      "walls": 21,
+      "outer_m": 57.6
+    }
+  },
+  "checks": {
+    "footprint_m2": 3965.2,
+    "zoned_m2": 3960.1,
+    "chamfer_m2": 2.38,
+    "rounded_corners_m2": 2.47,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 5.13,
+    "overlap_m2": 0.0
+  }
+}

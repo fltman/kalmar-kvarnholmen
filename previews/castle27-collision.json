@@ -1,0 +1,158 @@
+{
+  "status": "passed",
+  "floor_samples": 843,
+  "floor_failures": [],
+  "capsule_segments": 834,
+  "obstructions": [
+    {
+      "route": "Ravelinen, mot bron",
+      "from": [
+        -940.444,
+        -195.234
+      ],
+      "to": [
+        -940.7024285714285,
+        -196.25028571428572
+      ],
+      "z": [
+        3.97,
+        4.29
+      ],
+      "actor": "Castle27_Ravelin",
+      "impact": [
+        -940.46,
+        -195.29,
+        4.29
+      ],
+      "verified_detour": [
+        [
+          -939.9511113512201,
+          -193.29568609871777
+        ],
+        [
+          -939.1757857907072,
+          -193.49284155822969
+        ],
+        [
+          -940.4199916596955,
+          -198.38575507507989
+        ],
+        [
+          -941.1953172202084,
+          -198.18859961556797
+        ]
+      ]
+    },
+    {
+      "route": "Bro mot parken",
+      "from": [
+        -940.444,
+        -195.234
+      ],
+      "to": [
+        -940.1897083333333,
+        -194.265625
+      ],
+      "z": [
+        3.97,
+        4.26
+      ],
+      "actor": "Castle27_Ravelin",
+      "impact": [
+        -940.46,
+        -195.29,
+        4.29
+      ],
+      "verified_detour": [
+        [
+          -940.9519704829986,
+          -197.1684161880015
+        ],
+        [
+          -941.7257369581991,
+          -196.96522799480204
+        ],
+        [
+          -940.4555043255352,
+          -192.12802061879907
+        ],
+        [
+          -939.6817378503347,
+          -192.33120881199852
+        ]
+      ]
+    }
+  ],
+  "routes": {
+    "Bro till porten": {
+      "floor_samples": 38,
+      "floor_failures": 0,
+      "capsule_segments": 37,
+      "obstructions": 0
+    },
+    "Porttunneln och gången till Kuretornet": {
+      "floor_samples": 66,
+      "floor_failures": 0,
+      "capsule_segments": 65,
+      "obstructions": 0
+    },
+    "Vallgången": {
+      "floor_samples": 316,
+      "floor_failures": 0,
+      "capsule_segments": 315,
+      "obstructions": 0
+    },
+    "Torrgraven, gång mot porttunneln": {
+      "floor_samples": 81,
+      "floor_failures": 0,
+      "capsule_segments": 80,
+      "obstructions": 0
+    },
+    "Torrgraven, gång runt slottet": {
+      "floor_samples": 172,
+      "floor_failures": 0,
+      "capsule_segments": 171,
+      "obstructions": 0
+    },
+    "Ravelinen": {
+      "floor_samples": 26,
+      "floor_failures": 0,
+      "capsule_segments": 25,
+      "obstructions": 0
+    },
+    "Ravelinen, mot bron": {
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 1
+    },
+    "Borggården": {
+      "floor_samples": 110,
+      "floor_failures": 0,
+      "capsule_segments": 109,
+      "obstructions": 0
+    },
+    "Bro mot parken": {
+      "floor_samples": 26,
+      "floor_failures": 0,
+      "capsule_segments": 25,
+      "obstructions": 1
+    }
+  },
+  "time": "2026-09-23T20:52:28.536507",
+  "verified_detours": [
+    {
+      "route": "Ravelinen, mot bron",
+      "actor": "Castle27_Ravelin",
+      "segments": 1,
+      "offset_m": 0.8
+    },
+    {
+      "route": "Bro mot parken",
+      "actor": "Castle27_Ravelin",
+      "segments": 1,
+      "offset_m": 0.8
+    }
+  ],
+  "unresolved_obstructions": []
+}

@@ -1,0 +1,102 @@
+{
+  "SM_Kvarnholmen_House_91222222": {
+    "Normals": {
+      "vectors": 147061,
+      "min_length": 0.9999998532828637,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 968889,
+      "min_length": 0.9999998262664438,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 968889,
+      "min_length": 0.9999997310354802,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91856621": {
+    "Normals": {
+      "vectors": 29391,
+      "min_length": 0.9999998516798294,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 227265,
+      "min_length": 0.9999998215902175,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 227265,
+      "min_length": 0.9999997382823436,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91856599": {
+    "Normals": {
+      "vectors": 34157,
+      "min_length": 0.9999998539700489,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 150546,
+      "min_length": 0.9999998371927359,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 150546,
+      "min_length": 0.999999736491551,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91856613": {
+    "Normals": {
+      "vectors": 49006,
+      "min_length": 0.9999998543675758,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 344100,
+      "min_length": 0.9999998334322643,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 344100,
+      "min_length": 0.9999997351426788,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91856604": {
+    "Normals": {
+      "vectors": 72487,
+      "min_length": 0.9999998527251436,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 399840,
+      "min_length": 0.99999983961674,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 399840,
+      "min_length": 0.9999997280605578,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

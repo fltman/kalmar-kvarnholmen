@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "checks": {
+    "island_m2": 27419.1,
+    "fort_m2": 19705.8,
+    "terreplein_m2": 9284.9,
+    "dry_moat_m2": 4344.7,
+    "castle_m2": 4535.6,
+    "courtyard_m2": 1145.8,
+    "berm_m2": {
+      "NW": 1443.0,
+      "SW": 1338.0,
+      "SE": 3493.0,
+      "NE": 1439.2
+    },
+    "fort_outside_island_m2": 0.0,
+    "ring_outside_rampart_m2": 0.0,
+    "castle_outside_ring_m2": 0.0,
+    "ranges": {
+      "SW": 9.734,
+      "SE_w": 14.837,
+      "SE_e": 18.422,
+      "NE": 21.718,
+      "NW": 17.983
+    },
+    "ravelin_m2": 1717.7,
+    "villa_inside_ravelin": true,
+    "lower_wall_inside_island": true,
+    "cannons": 12,
+    "paths": 25,
+    "nw_walk_m2": 547.9,
+    "nw_shore_m2": 895.0,
+    "path_m2": {
+      "terreplein": 652.1,
+      "dry_moat": 572.3,
+      "nw_walk": 0,
+      "ravelin": 68.3
+    }
+  }
+}

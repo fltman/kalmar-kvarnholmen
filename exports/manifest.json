@@ -4574,23 +4574,6 @@
       "polygons": 5529
     },
     {
-      "name": "SM_Kvarnholmen_House_91222222",
-      "file": "meshes/SM_Kvarnholmen_House_91222222.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Yellow",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Town_Stone",
-        "M_Iron",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 40127,
-      "polygons": 57759
-    },
-    {
       "name": "SM_Kvarnholmen_House_91285791",
       "file": "meshes/SM_Kvarnholmen_House_91285791.fbx",
       "category": "Kvarnholmen/Completed facades",
@@ -4897,23 +4880,6 @@
       "polygons": 5612
     },
     {
-      "name": "SM_Kvarnholmen_House_91856599",
-      "file": "meshes/SM_Kvarnholmen_House_91856599.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Rose",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Iron",
-        "M_Town_Stone",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 2936,
-      "polygons": 4388
-    },
-    {
       "name": "SM_Kvarnholmen_House_91856600",
       "file": "meshes/SM_Kvarnholmen_House_91856600.fbx",
       "category": "Kvarnholmen/Completed facades",
@@ -4931,23 +4897,6 @@
       "polygons": 11532
     },
     {
-      "name": "SM_Kvarnholmen_House_91856604",
-      "file": "meshes/SM_Kvarnholmen_House_91856604.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Rose",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Town_Stone",
-        "M_Iron",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 8752,
-      "polygons": 13016
-    },
-    {
       "name": "SM_Kvarnholmen_House_91856606",
       "file": "meshes/SM_Kvarnholmen_House_91856606.fbx",
       "category": "Kvarnholmen/Completed facades",
@@ -4963,23 +4912,6 @@
       ],
       "vertices": 7354,
       "polygons": 10948
-    },
-    {
-      "name": "SM_Kvarnholmen_House_91856613",
-      "file": "meshes/SM_Kvarnholmen_House_91856613.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Lime",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Iron",
-        "M_Town_Stone",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 16949,
-      "polygons": 24083
     },
     {
       "name": "SM_Kvarnholmen_House_91856614",
@@ -5031,23 +4963,6 @@
       ],
       "vertices": 1716,
       "polygons": 2572
-    },
-    {
-      "name": "SM_Kvarnholmen_House_91856621",
-      "file": "meshes/SM_Kvarnholmen_House_91856621.fbx",
-      "category": "Kvarnholmen/Completed facades",
-      "materials": [
-        "M_District17_Ivory",
-        "M_Town_PaintWhite",
-        "M_Town_Glass",
-        "M_Town_MetalGrey",
-        "M_Iron",
-        "M_Town_Stone",
-        "M_Gold",
-        "M_Town_TileRed"
-      ],
-      "vertices": 12772,
-      "polygons": 18962
     },
     {
       "name": "SM_Kvarnholmen_House_91856622",
@@ -9826,6 +9741,279 @@
       ],
       "vertices": 20496,
       "polygons": 33772
+    },
+    {
+      "name": "SM_Kvarnholmen_House_91222222",
+      "file": "meshes/SM_Kvarnholmen_House_91222222.fbx",
+      "category": "Kvarnholmen/Larmgatan",
+      "materials": [
+        "M_Larm26_BankRender",
+        "M_Town_Glass",
+        "M_Larm26_BankFrame",
+        "M_Larm26_BankTrim",
+        "M_Iron",
+        "M_Town_MetalGrey",
+        "M_Street20_DarkPlinth",
+        "M_Larm26_Granite",
+        "M_Larm26_Stucco",
+        "M_Town_Stone",
+        "M_Larm26_Door",
+        "M_Town_PaintWhite",
+        "M_Larm26_Copper",
+        "M_Larm26_Dark",
+        "M_Larm26_Dial",
+        "M_Larm26_OfficeRender",
+        "M_Larm26_WingRender",
+        "M_Larm26_CreamTrim"
+      ],
+      "vertices": 177586,
+      "polygons": 322963
+    },
+    {
+      "name": "SM_Kvarnholmen_House_91856621",
+      "file": "meshes/SM_Kvarnholmen_House_91856621.fbx",
+      "category": "Kvarnholmen/Larmgatan",
+      "materials": [
+        "M_Larm26_CreamRender",
+        "M_Town_Glass",
+        "M_Larm26_Dark",
+        "M_Town_MetalGrey",
+        "M_Town_PaintWhite",
+        "M_Larm26_CreamTrim",
+        "M_Iron",
+        "M_Street20_DarkPlinth",
+        "M_Larm26_Roundel",
+        "M_Larm26_RedMetal",
+        "M_Town_MetalRed"
+      ],
+      "vertices": 42607,
+      "polygons": 75755
+    },
+    {
+      "name": "SM_Kvarnholmen_House_91856599",
+      "file": "meshes/SM_Kvarnholmen_House_91856599.fbx",
+      "category": "Kvarnholmen/Larmgatan",
+      "materials": [
+        "M_Larm26_OrangeRender",
+        "M_Larm26_DarkStone",
+        "M_Town_Glass",
+        "M_Larm26_Dark",
+        "M_Town_MetalGrey",
+        "M_Larm26_Door",
+        "M_Larm26_GreyTrim",
+        "M_Iron",
+        "M_Larm26_CreamTrim",
+        "M_Town_PaintWhite",
+        "M_Larm26_Slate",
+        "M_Street20_DarkPlinth"
+      ],
+      "vertices": 27614,
+      "polygons": 50182
+    },
+    {
+      "name": "SM_Kvarnholmen_House_91856613",
+      "file": "meshes/SM_Kvarnholmen_House_91856613.fbx",
+      "category": "Kvarnholmen/Larmgatan",
+      "materials": [
+        "M_Larm26_Brick",
+        "M_Town_Glass",
+        "M_Larm26_Dark",
+        "M_Town_MetalGrey",
+        "M_Iron",
+        "M_Larm26_BrickTrim",
+        "M_Larm26_Awning",
+        "M_Street20_DarkPlinth",
+        "M_Larm26_RoofTile"
+      ],
+      "vertices": 62760,
+      "polygons": 114700
+    },
+    {
+      "name": "SM_Kvarnholmen_House_91856604",
+      "file": "meshes/SM_Kvarnholmen_House_91856604.fbx",
+      "category": "Kvarnholmen/Larmgatan",
+      "materials": [
+        "M_Larm26_OddRender",
+        "M_Town_Glass",
+        "M_Larm26_OddGreen",
+        "M_Larm26_CreamTrim",
+        "M_Iron",
+        "M_Town_MetalGrey",
+        "M_Street20_DarkPlinth",
+        "M_Larm26_Awning",
+        "M_Larm26_Door",
+        "M_Town_PaintWhite",
+        "M_Town_Stone",
+        "M_Larm26_Gold",
+        "M_Larm26_Roundel",
+        "M_Larm26_Copper",
+        "M_Larm26_Dark"
+      ],
+      "vertices": 72789,
+      "polygons": 133280
+    },
+    {
+      "name": "SM_Castle27_Ground",
+      "file": "meshes/SM_Castle27_Ground.fbx",
+      "category": "Kalmar slott/Ground",
+      "materials": [
+        "M_Castle27_Grass",
+        "M_Castle27_GrassDry",
+        "M_Castle27_Coping",
+        "M_Castle27_Gravel",
+        "M_Castle27_Cobbles"
+      ],
+      "vertices": 2789,
+      "polygons": 1053
+    },
+    {
+      "name": "SM_Castle27_Walls",
+      "file": "meshes/SM_Castle27_Walls.fbx",
+      "category": "Kalmar slott/Fortifications",
+      "materials": [
+        "M_Castle27_Revet",
+        "M_Castle27_Coping",
+        "M_Castle27_Gate",
+        "M_Castle27_Trim",
+        "M_Castle27_KureStone",
+        "M_Castle27_Curtain",
+        "M_Castle27_LowWall",
+        "M_Castle27_Brick",
+        "M_Castle27_Dark",
+        "M_Castle27_Door",
+        "M_Castle27_Cobbles",
+        "M_Castle27_Rubble"
+      ],
+      "vertices": 17228,
+      "polygons": 30897
+    },
+    {
+      "name": "SM_Castle27_Postejer",
+      "file": "meshes/SM_Castle27_Postejer.fbx",
+      "category": "Kalmar slott/Fortifications",
+      "materials": [
+        "M_Castle27_Rubble",
+        "M_Castle27_PostejRoof",
+        "M_Castle27_Dark",
+        "M_Castle27_Iron"
+      ],
+      "vertices": 68586,
+      "polygons": 126458
+    },
+    {
+      "name": "SM_Kalmar_Slott",
+      "file": "meshes/SM_Kalmar_Slott.fbx",
+      "category": "Kalmar slott/Castle",
+      "materials": [
+        "M_Castle27_Roof",
+        "M_Castle27_Dark",
+        "M_Castle27_Chimney",
+        "M_Castle27_Coping",
+        "M_Castle27_Render",
+        "M_Town_Glass",
+        "M_Castle27_Frame",
+        "M_Castle27_Trim",
+        "M_Iron",
+        "M_Town_MetalGrey",
+        "M_Castle27_Brick",
+        "M_Castle27_Door",
+        "M_Castle27_Court",
+        "M_Castle27_CourtBlock",
+        "M_Castle27_FrameRed",
+        "M_Castle27_CopperDark",
+        "M_Castle27_Copper",
+        "M_Castle27_Gold",
+        "M_Castle27_WellStone"
+      ],
+      "vertices": 184310,
+      "polygons": 295544
+    },
+    {
+      "name": "SM_Kalmar_Slott_Towers",
+      "file": "meshes/SM_Kalmar_Slott_Towers.fbx",
+      "category": "Kalmar slott/Castle",
+      "materials": [
+        "M_Castle27_RenderTower",
+        "M_Castle27_Trim",
+        "M_Castle27_Dark",
+        "M_Town_Stone",
+        "M_Town_Glass",
+        "M_Castle27_Frame",
+        "M_Town_PaintWhite",
+        "M_Castle27_Copper",
+        "M_Castle27_CopperDark",
+        "M_Castle27_Gold",
+        "M_Castle27_KureStone"
+      ],
+      "vertices": 63751,
+      "polygons": 120282
+    },
+    {
+      "name": "SM_Castle27_Bridge",
+      "file": "meshes/SM_Castle27_Bridge.fbx",
+      "category": "Kalmar slott/Bridges",
+      "materials": [
+        "M_Castle27_Timber",
+        "M_Castle27_TimberDark",
+        "M_Castle27_Iron"
+      ],
+      "vertices": 1828,
+      "polygons": 2664
+    },
+    {
+      "name": "SM_Castle27_Ravelin",
+      "file": "meshes/SM_Castle27_Ravelin.fbx",
+      "category": "Kalmar slott/Ravelin",
+      "materials": [
+        "M_Castle27_LowWall",
+        "M_Castle27_Coping",
+        "M_Castle27_Grass",
+        "M_Castle27_Rubble",
+        "M_Castle27_Villa",
+        "M_Town_Glass",
+        "M_Castle27_Frame",
+        "M_Castle27_Trim",
+        "M_Iron",
+        "M_Town_MetalGrey",
+        "M_Castle27_Door",
+        "M_Castle27_VillaShingle",
+        "M_Castle27_Dark",
+        "M_Castle27_VillaTile",
+        "M_Castle27_Brick"
+      ],
+      "vertices": 8928,
+      "polygons": 15618
+    },
+    {
+      "name": "SM_Castle27_Islets",
+      "file": "meshes/SM_Castle27_Islets.fbx",
+      "category": "Kalmar slott/Ground",
+      "materials": [
+        "M_Castle27_Reed"
+      ],
+      "vertices": 227,
+      "polygons": 99
+    },
+    {
+      "name": "SM_Castle27_Riprap",
+      "file": "meshes/SM_Castle27_Riprap.fbx",
+      "category": "Kalmar slott/Ground",
+      "materials": [
+        "M_Castle27_Boulder"
+      ],
+      "vertices": 17148,
+      "polygons": 28580
+    },
+    {
+      "name": "SM_Castle27_Guns",
+      "file": "meshes/SM_Castle27_Guns.fbx",
+      "category": "Kalmar slott/Fortifications",
+      "materials": [
+        "M_Castle27_TimberDark",
+        "M_Castle27_Iron"
+      ],
+      "vertices": 3072,
+      "polygons": 5520
     }
   ],
   "materials": {
@@ -12855,6 +13043,1370 @@
         0.17,
         0.1
       ]
+    },
+    "M_Larm26_BankRender": {
+      "color": [
+        0.46236136930676214,
+        0.17064493581555268,
+        0.07323895587840543
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.6843,
+        0.2644,
+        0.1341
+      ],
+      "larm26_target_srgb": [
+        0.71,
+        0.45,
+        0.3
+      ]
+    },
+    "M_Larm26_BankTrim": {
+      "color": [
+        0.5542217602988447,
+        0.24286681390410306,
+        0.10653922395082352
+      ],
+      "roughness": 0.82,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8203,
+        0.3764,
+        0.1951
+      ],
+      "larm26_target_srgb": [
+        0.77,
+        0.53,
+        0.36
+      ]
+    },
+    "M_Larm26_Stucco": {
+      "color": [
+        0.6038273388553378,
+        0.5704815954749093,
+        0.47699978456654196
+      ],
+      "roughness": 0.8,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8937,
+        0.884,
+        0.8733
+      ],
+      "larm26_target_srgb": [
+        0.8,
+        0.78,
+        0.72
+      ]
+    },
+    "M_Larm26_Granite": {
+      "color": [
+        0.26327340845612224,
+        0.24286681390410306,
+        0.21404114048223255
+      ],
+      "roughness": 0.8,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.6975,
+        0.6895,
+        0.6972
+      ],
+      "larm26_target_srgb": [
+        0.55,
+        0.53,
+        0.5
+      ]
+    },
+    "M_Larm26_Copper": {
+      "color": [
+        0.17064493581555268,
+        0.31854677812509186,
+        0.23302199930143813
+      ],
+      "roughness": 0.58,
+      "metallic": 0.3,
+      "texture": "ChurchCopperFine",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        2.0692,
+        1.5615,
+        1.4898
+      ],
+      "larm26_target_srgb": [
+        0.45,
+        0.6,
+        0.52
+      ]
+    },
+    "M_Larm26_BankFrame": {
+      "color": [
+        0.18731666848765954,
+        0.039681909478526005,
+        0.01960664851623822
+      ],
+      "roughness": 0.55,
+      "metallic": 0,
+      "texture": "TownPaintBrown",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9954,
+        0.3835,
+        0.3055
+      ],
+      "larm26_target_srgb": [
+        0.47,
+        0.22,
+        0.15
+      ]
+    },
+    "M_Larm26_Door": {
+      "color": [
+        0.07323895587840543,
+        0.027211780951381357,
+        0.011645430905844125
+      ],
+      "roughness": 0.55,
+      "metallic": 0,
+      "texture": "TownPaintBrown",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.3892,
+        0.263,
+        0.1814
+      ],
+      "larm26_target_srgb": [
+        0.3,
+        0.18,
+        0.11
+      ]
+    },
+    "M_Larm26_OfficeRender": {
+      "color": [
+        0.5382355236010181,
+        0.31854677812509186,
+        0.13286832155381798
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.7966,
+        0.4936,
+        0.2433
+      ],
+      "larm26_target_srgb": [
+        0.76,
+        0.6,
+        0.4
+      ]
+    },
+    "M_Larm26_WingRender": {
+      "color": [
+        0.6038273388553378,
+        0.40644830114675407,
+        0.17064493581555268
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8937,
+        0.6299,
+        0.3124
+      ],
+      "larm26_target_srgb": [
+        0.8,
+        0.67,
+        0.45
+      ]
+    },
+    "M_Larm26_CreamRender": {
+      "color": [
+        0.7293470915734015,
+        0.6738595407338318,
+        0.5225215539683921
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.0794,
+        1.0442,
+        0.9567
+      ],
+      "larm26_target_srgb": [
+        0.87,
+        0.84,
+        0.75
+      ]
+    },
+    "M_Larm26_CreamTrim": {
+      "color": [
+        0.8275708303626798,
+        0.7874122893956174,
+        0.6738595407338318
+      ],
+      "roughness": 0.82,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.2248,
+        1.2202,
+        1.2337
+      ],
+      "larm26_target_srgb": [
+        0.92,
+        0.9,
+        0.84
+      ]
+    },
+    "M_Larm26_RedMetal": {
+      "color": [
+        0.27383841647314605,
+        0.039681909478526005,
+        0.024515013703524748
+      ],
+      "roughness": 0.5,
+      "metallic": 0.35,
+      "texture": "TownMetalRed",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9846,
+        0.5455,
+        0.553
+      ],
+      "larm26_target_srgb": [
+        0.56,
+        0.22,
+        0.17
+      ]
+    },
+    "M_Larm26_OrangeRender": {
+      "color": [
+        0.6738595407338318,
+        0.27383841647314605,
+        0.09462962659456918
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9973,
+        0.4244,
+        0.1733
+      ],
+      "larm26_target_srgb": [
+        0.84,
+        0.56,
+        0.34
+      ]
+    },
+    "M_Larm26_GreyTrim": {
+      "color": [
+        0.3303437128042374,
+        0.3546920614940455,
+        0.27383841647314605
+      ],
+      "roughness": 0.82,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8751,
+        1.007,
+        0.892
+      ],
+      "larm26_target_srgb": [
+        0.61,
+        0.63,
+        0.56
+      ]
+    },
+    "M_Larm26_DarkStone": {
+      "color": [
+        0.07323895587840543,
+        0.07323895587840543,
+        0.06838485415816624
+      ],
+      "roughness": 0.78,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.194,
+        0.2079,
+        0.2228
+      ],
+      "larm26_target_srgb": [
+        0.3,
+        0.3,
+        0.29
+      ]
+    },
+    "M_Larm26_Brick": {
+      "color": [
+        0.29569980462568246,
+        0.07323895587840543,
+        0.039681909478526005
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "Baronen23Brick",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.0,
+        0.56,
+        0.4843
+      ],
+      "larm26_target_srgb": [
+        0.58,
+        0.3,
+        0.22
+      ]
+    },
+    "M_Larm26_BrickTrim": {
+      "color": [
+        0.44798841244188325,
+        0.4200332886842154,
+        0.3546920614940455
+      ],
+      "roughness": 0.84,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.1868,
+        1.1926,
+        1.1554
+      ],
+      "larm26_target_srgb": [
+        0.7,
+        0.68,
+        0.63
+      ]
+    },
+    "M_Larm26_RoofTile": {
+      "color": [
+        0.23302199930143813,
+        0.0549717326875717,
+        0.027211780951381357
+      ],
+      "roughness": 0.8,
+      "metallic": 0,
+      "texture": "TownTileRed",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.7262,
+        0.5407,
+        0.5987
+      ],
+      "larm26_target_srgb": [
+        0.52,
+        0.26,
+        0.18
+      ]
+    },
+    "M_Larm26_Slate": {
+      "color": [
+        0.033104766570885055,
+        0.036306484118193906,
+        0.039681909478526005
+      ],
+      "roughness": 0.62,
+      "metallic": 0.05,
+      "texture": "Station24Slate",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.7921,
+        0.8541,
+        0.8519
+      ],
+      "larm26_target_srgb": [
+        0.2,
+        0.21,
+        0.22
+      ]
+    },
+    "M_Larm26_OddRender": {
+      "color": [
+        0.7874122893956174,
+        0.748414103499371,
+        0.6038273388553378
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.1654,
+        1.1598,
+        1.1055
+      ],
+      "larm26_target_srgb": [
+        0.9,
+        0.88,
+        0.8
+      ]
+    },
+    "M_Larm26_OddGreen": {
+      "color": [
+        0.007194409291082934,
+        0.039681909478526005,
+        0.01960664851623822
+      ],
+      "roughness": 0.5,
+      "metallic": 0,
+      "texture": "TownPaintGreen",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.0913,
+        0.2971,
+        0.1986
+      ],
+      "larm26_target_srgb": [
+        0.08,
+        0.22,
+        0.15
+      ]
+    },
+    "M_Larm26_Gold": {
+      "color": [
+        0.5225215539683921,
+        0.29569980462568246,
+        0.04696420068912289
+      ],
+      "roughness": 0.35,
+      "metallic": 0.6,
+      "texture": "TownPaintWhite",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.7733,
+        0.4376,
+        0.0776
+      ],
+      "larm26_target_srgb": [
+        0.75,
+        0.58,
+        0.24
+      ]
+    },
+    "M_Larm26_Roundel": {
+      "color": [
+        0.34239163959260344,
+        0.01341174889765847,
+        0.010022825574869039
+      ],
+      "roughness": 0.45,
+      "metallic": 0,
+      "texture": "TownPaintWhite",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.5067,
+        0.0198,
+        0.0166
+      ],
+      "larm26_target_srgb": [
+        0.62,
+        0.12,
+        0.1
+      ]
+    },
+    "M_Larm26_Awning": {
+      "color": [
+        0.004896310081623859,
+        0.004896310081623859,
+        0.004896310081623859
+      ],
+      "roughness": 0.9,
+      "metallic": 0,
+      "texture": "TownPanel",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.0087,
+        0.0085,
+        0.0101
+      ],
+      "larm26_target_srgb": [
+        0.06,
+        0.06,
+        0.06
+      ]
+    },
+    "M_Larm26_Dial": {
+      "color": [
+        0.8480882574948619,
+        0.8480882574948619,
+        0.8073459089125289
+      ],
+      "roughness": 0.35,
+      "metallic": 0,
+      "texture": "TownPaintWhite",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.2552,
+        1.2552,
+        1.3333
+      ],
+      "larm26_target_srgb": [
+        0.93,
+        0.93,
+        0.91
+      ]
+    },
+    "M_Larm26_Dark": {
+      "color": [
+        0.003935939504088967,
+        0.00440084974745434,
+        0.004896310081623859
+      ],
+      "roughness": 0.4,
+      "metallic": 0.2,
+      "texture": "TownMetalGrey",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.0347,
+        0.0297,
+        0.0374
+      ],
+      "larm26_target_srgb": [
+        0.05,
+        0.055,
+        0.06
+      ]
+    },
+    "M_Castle27_Render": {
+      "color": [
+        0.6382832153523972,
+        0.44798841244188325,
+        0.29569980462568246
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9447,
+        0.6942,
+        0.5414
+      ],
+      "castle27_target_srgb": [
+        0.82,
+        0.7,
+        0.58
+      ]
+    },
+    "M_Castle27_RenderTower": {
+      "color": [
+        0.6038273388553378,
+        0.3931231302267222,
+        0.26327340845612224
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8937,
+        0.6092,
+        0.482
+      ],
+      "castle27_target_srgb": [
+        0.8,
+        0.66,
+        0.55
+      ]
+    },
+    "M_Castle27_Court": {
+      "color": [
+        0.7293470915734015,
+        0.6559306827469925,
+        0.49190504085677866
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "TownLime",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.2896,
+        1.1598,
+        1.0092
+      ],
+      "castle27_target_srgb": [
+        0.87,
+        0.83,
+        0.73
+      ]
+    },
+    "M_Castle27_CourtBlock": {
+      "color": [
+        0.748414103499371,
+        0.692071056865372,
+        0.5382355236010181
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "ChurchAshlar",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.4849,
+        1.4464,
+        1.3645
+      ],
+      "castle27_target_srgb": [
+        0.88,
+        0.85,
+        0.76
+      ]
+    },
+    "M_Castle27_Trim": {
+      "color": [
+        0.5382355236010181,
+        0.5070785101492276,
+        0.4200332886842154
+      ],
+      "roughness": 0.8,
+      "metallic": 0,
+      "texture": "ChurchCutStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.2526,
+        1.2231,
+        1.1517
+      ],
+      "castle27_target_srgb": [
+        0.76,
+        0.74,
+        0.68
+      ]
+    },
+    "M_Castle27_KureStone": {
+      "color": [
+        0.34239163959260344,
+        0.28464669032765505,
+        0.22341399352485986
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "Polish15LandmarkRubble",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9453,
+        0.9924,
+        1.1399
+      ],
+      "castle27_target_srgb": [
+        0.62,
+        0.57,
+        0.51
+      ]
+    },
+    "M_Castle27_Rubble": {
+      "color": [
+        0.3931231302267222,
+        0.3546920614940455,
+        0.28464669032765505
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "Polish15LandmarkRubble",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.0854,
+        1.2366,
+        1.4523
+      ],
+      "castle27_target_srgb": [
+        0.66,
+        0.63,
+        0.57
+      ]
+    },
+    "M_Castle27_Revet": {
+      "color": [
+        0.29569980462568246,
+        0.27383841647314605,
+        0.23302199930143813
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "Polish15LandmarkRubble",
+      "uv_scale": 1.6,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8164,
+        0.9547,
+        1.1889
+      ],
+      "castle27_target_srgb": [
+        0.58,
+        0.56,
+        0.52
+      ]
+    },
+    "M_Castle27_Curtain": {
+      "color": [
+        0.47699978456654196,
+        0.43387952044860834,
+        0.34239163959260344
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "LandmarkRubble",
+      "uv_scale": 1.3,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        2.3382,
+        2.1175,
+        1.9142
+      ],
+      "castle27_target_srgb": [
+        0.72,
+        0.69,
+        0.62
+      ]
+    },
+    "M_Castle27_LowWall": {
+      "color": [
+        0.3546920614940455,
+        0.29569980462568246,
+        0.20490176639819646
+      ],
+      "roughness": 0.9,
+      "metallic": 0,
+      "texture": "Polish15LandmarkRubble",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9793,
+        1.0309,
+        1.0454
+      ],
+      "castle27_target_srgb": [
+        0.63,
+        0.58,
+        0.49
+      ]
+    },
+    "M_Castle27_Brick": {
+      "color": [
+        0.28464669032765505,
+        0.07828831963873101,
+        0.0432336359153358
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "Baronen23Brick",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9626,
+        0.5986,
+        0.5276
+      ],
+      "castle27_target_srgb": [
+        0.57,
+        0.31,
+        0.23
+      ]
+    },
+    "M_Castle27_Coping": {
+      "color": [
+        0.27383841647314605,
+        0.27383841647314605,
+        0.25295007623137683
+      ],
+      "roughness": 0.85,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.7255,
+        0.7775,
+        0.8239
+      ],
+      "castle27_target_srgb": [
+        0.56,
+        0.56,
+        0.54
+      ]
+    },
+    "M_Castle27_Gate": {
+      "color": [
+        0.27383841647314605,
+        0.26327340845612224,
+        0.23302199930143813
+      ],
+      "roughness": 0.86,
+      "metallic": 0,
+      "texture": "ChurchAshlar",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.5433,
+        0.5502,
+        0.5908
+      ],
+      "castle27_target_srgb": [
+        0.56,
+        0.55,
+        0.52
+      ]
+    },
+    "M_Castle27_Copper": {
+      "color": [
+        0.22341399352485986,
+        0.4200332886842154,
+        0.34239163959260344
+      ],
+      "roughness": 0.55,
+      "metallic": 0.3,
+      "texture": "ChurchCopperFine",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        2.709,
+        2.059,
+        2.1891
+      ],
+      "castle27_target_srgb": [
+        0.51,
+        0.68,
+        0.62
+      ]
+    },
+    "M_Castle27_CopperDark": {
+      "color": [
+        0.04696420068912289,
+        0.09462962659456918,
+        0.07828831963873101
+      ],
+      "roughness": 0.55,
+      "metallic": 0.3,
+      "texture": "ChurchCopperFine",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.5695,
+        0.4639,
+        0.5005
+      ],
+      "castle27_target_srgb": [
+        0.24,
+        0.34,
+        0.31
+      ]
+    },
+    "M_Castle27_Roof": {
+      "color": [
+        0.0432336359153358,
+        0.05087608817155679,
+        0.0549717326875717
+      ],
+      "roughness": 0.55,
+      "metallic": 0.35,
+      "texture": "TownMetalGrey",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.3811,
+        0.3436,
+        0.4204
+      ],
+      "castle27_target_srgb": [
+        0.23,
+        0.25,
+        0.26
+      ]
+    },
+    "M_Castle27_PostejRoof": {
+      "color": [
+        0.3546920614940455,
+        0.38005633644979925,
+        0.3931231302267222
+      ],
+      "roughness": 0.45,
+      "metallic": 0.5,
+      "texture": "TownMetalGrey",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        3.1266,
+        2.5668,
+        3.0061
+      ],
+      "castle27_target_srgb": [
+        0.63,
+        0.65,
+        0.66
+      ]
+    },
+    "M_Castle27_Chimney": {
+      "color": [
+        0.7105664902244221,
+        0.34239163959260344,
+        0.23302199930143813
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.0517,
+        0.5306,
+        0.4266
+      ],
+      "castle27_target_srgb": [
+        0.86,
+        0.62,
+        0.52
+      ]
+    },
+    "M_Castle27_Frame": {
+      "color": [
+        0.15487248594976835,
+        0.1788675039555289,
+        0.147318999244498
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "texture": "TownPaintGreen",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.9653,
+        1.3391,
+        1.4925
+      ],
+      "castle27_target_srgb": [
+        0.43,
+        0.46,
+        0.42
+      ]
+    },
+    "M_Castle27_FrameRed": {
+      "color": [
+        0.26327340845612224,
+        0.039681909478526005,
+        0.021980947079887205
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "texture": "TownMetalRed",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9466,
+        0.5455,
+        0.4958
+      ],
+      "castle27_target_srgb": [
+        0.55,
+        0.22,
+        0.16
+      ]
+    },
+    "M_Castle27_Door": {
+      "color": [
+        0.11280478678675158,
+        0.0549717326875717,
+        0.024515013703524748
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "texture": "TownPaintBrown",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.5995,
+        0.5312,
+        0.382
+      ],
+      "castle27_target_srgb": [
+        0.37,
+        0.26,
+        0.17
+      ]
+    },
+    "M_Castle27_Dark": {
+      "color": [
+        0.0030959752321981426,
+        0.0035010160107980036,
+        0.003935939504088967
+      ],
+      "roughness": 0.45,
+      "metallic": 0.2,
+      "texture": "TownMetalGrey",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.0273,
+        0.0236,
+        0.0301
+      ],
+      "castle27_target_srgb": [
+        0.04,
+        0.045,
+        0.05
+      ]
+    },
+    "M_Castle27_Gold": {
+      "color": [
+        0.6038273388553378,
+        0.34239163959260344,
+        0.05087608817155679
+      ],
+      "roughness": 0.3,
+      "metallic": 0.9,
+      "texture": "ChurchGilding",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8322,
+        0.6399,
+        0.2306
+      ],
+      "castle27_target_srgb": [
+        0.8,
+        0.62,
+        0.25
+      ]
+    },
+    "M_Castle27_Iron": {
+      "color": [
+        0.00598105957261676,
+        0.00598105957261676,
+        0.006571403616195705
+      ],
+      "roughness": 0.5,
+      "metallic": 0.6,
+      "texture": "TownMetalGrey",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.0527,
+        0.0404,
+        0.0502
+      ],
+      "castle27_target_srgb": [
+        0.07,
+        0.07,
+        0.075
+      ]
+    },
+    "M_Castle27_Timber": {
+      "color": [
+        0.147318999244498,
+        0.10653922395082352,
+        0.06838485415816624
+      ],
+      "roughness": 0.85,
+      "metallic": 0,
+      "texture": "Polish15PolishBridgeWood",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8198,
+        0.7611,
+        0.7831
+      ],
+      "castle27_target_srgb": [
+        0.42,
+        0.36,
+        0.29
+      ]
+    },
+    "M_Castle27_TimberDark": {
+      "color": [
+        0.033104766570885055,
+        0.021980947079887205,
+        0.01341174889765847
+      ],
+      "roughness": 0.85,
+      "metallic": 0,
+      "texture": "Polish15PolishBridgeWood",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.1842,
+        0.157,
+        0.1536
+      ],
+      "castle27_target_srgb": [
+        0.2,
+        0.16,
+        0.12
+      ]
+    },
+    "M_Castle27_Grass": {
+      "color": [
+        0.10653922395082352,
+        0.1788675039555289,
+        0.039681909478526005
+      ],
+      "roughness": 0.95,
+      "metallic": 0,
+      "texture": "Polish15LandmarkTurf",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.352,
+        3.8086,
+        5.3244
+      ],
+      "castle27_target_srgb": [
+        0.36,
+        0.46,
+        0.22
+      ]
+    },
+    "M_Castle27_GrassDry": {
+      "color": [
+        0.23302199930143813,
+        0.23302199930143813,
+        0.09462962659456918
+      ],
+      "roughness": 0.95,
+      "metallic": 0,
+      "texture": "Polish15LandmarkTurf",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        2.957,
+        4.9617,
+        12.6971
+      ],
+      "castle27_target_srgb": [
+        0.52,
+        0.52,
+        0.34
+      ]
+    },
+    "M_Castle27_Reed": {
+      "color": [
+        0.13286832155381798,
+        0.18731666848765954,
+        0.04696420068912289
+      ],
+      "roughness": 0.95,
+      "metallic": 0,
+      "texture": "Polish15LandmarkTurf",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.6861,
+        3.9885,
+        6.3015
+      ],
+      "castle27_target_srgb": [
+        0.4,
+        0.47,
+        0.24
+      ]
+    },
+    "M_Castle27_Gravel": {
+      "color": [
+        0.3672464682101826,
+        0.29569980462568246,
+        0.20490176639819646
+      ],
+      "roughness": 0.92,
+      "metallic": 0,
+      "texture": "TownStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.9729,
+        0.8396,
+        0.6674
+      ],
+      "castle27_target_srgb": [
+        0.64,
+        0.58,
+        0.49
+      ]
+    },
+    "M_Castle27_Cobbles": {
+      "color": [
+        0.27383841647314605,
+        0.24286681390410306,
+        0.19599417930148813
+      ],
+      "roughness": 0.85,
+      "metallic": 0,
+      "texture": "Cobbles",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.489,
+        1.3515,
+        1.1877
+      ],
+      "castle27_target_srgb": [
+        0.56,
+        0.53,
+        0.48
+      ]
+    },
+    "M_Castle27_Boulder": {
+      "color": [
+        0.24286681390410306,
+        0.22341399352485986,
+        0.18731666848765954
+      ],
+      "roughness": 0.9,
+      "metallic": 0,
+      "texture": "Polish15LandmarkRubble",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.6705,
+        0.7789,
+        0.9557
+      ],
+      "castle27_target_srgb": [
+        0.53,
+        0.51,
+        0.47
+      ]
+    },
+    "M_Castle27_WellStone": {
+      "color": [
+        0.26327340845612224,
+        0.23302199930143813,
+        0.18731666848765954
+      ],
+      "roughness": 0.85,
+      "metallic": 0,
+      "texture": "ChurchCutStone",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.6127,
+        0.5621,
+        0.5136
+      ],
+      "castle27_target_srgb": [
+        0.55,
+        0.52,
+        0.47
+      ]
+    },
+    "M_Castle27_Villa": {
+      "color": [
+        0.7105664902244221,
+        0.6559306827469925,
+        0.49190504085677866
+      ],
+      "roughness": 0.88,
+      "metallic": 0,
+      "texture": "TownIvory",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.0517,
+        1.0165,
+        0.9006
+      ],
+      "castle27_target_srgb": [
+        0.86,
+        0.83,
+        0.73
+      ]
+    },
+    "M_Castle27_VillaShingle": {
+      "color": [
+        0.23302199930143813,
+        0.0549717326875717,
+        0.030074104146591292
+      ],
+      "roughness": 0.8,
+      "metallic": 0,
+      "texture": "SodraRedWood",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        1.1273,
+        2.3158,
+        1.4477
+      ],
+      "castle27_target_srgb": [
+        0.52,
+        0.26,
+        0.19
+      ]
+    },
+    "M_Castle27_VillaTile": {
+      "color": [
+        0.27383841647314605,
+        0.06838485415816624,
+        0.033104766570885055
+      ],
+      "roughness": 0.8,
+      "metallic": 0,
+      "texture": "TownTileRed",
+      "uv_scale": 1.0,
+      "normal_strength": 1.0,
+      "street16_tint": [
+        0.8534,
+        0.6726,
+        0.7284
+      ],
+      "castle27_target_srgb": [
+        0.56,
+        0.29,
+        0.2
+      ]
     }
   },
   "cameras": [
@@ -14761,8 +16313,204 @@
         0.09
       ],
       "lens": 28
+    },
+    {
+      "name": "137_Larm_Bank_Plaza",
+      "location": [
+        -372.54,
+        -80.22,
+        2.5
+      ],
+      "target": [
+        -344.39,
+        -90.58,
+        5.58
+      ],
+      "lens": 20.73
+    },
+    {
+      "name": "138_Larm_Bank_North",
+      "location": [
+        -303.71,
+        -71.35,
+        2.5
+      ],
+      "target": [
+        -333.4,
+        -67.07,
+        7.79
+      ],
+      "lens": 20.73
+    },
+    {
+      "name": "139_Larm_Street_North",
+      "location": [
+        -291.63,
+        -107.27,
+        2.5
+      ],
+      "target": [
+        -267.61,
+        -89.3,
+        8.88
+      ],
+      "lens": 9.67
+    },
+    {
+      "name": "140_Larm_L8",
+      "location": [
+        -291.63,
+        -107.27,
+        2.5
+      ],
+      "target": [
+        -261.63,
+        -107.37,
+        10.54
+      ],
+      "lens": 9.67
+    },
+    {
+      "name": "141_Larm_OddFellow",
+      "location": [
+        -315.67,
+        -170.3,
+        2.5
+      ],
+      "target": [
+        -288.22,
+        -158.19,
+        5.12
+      ],
+      "lens": 20.73
+    },
+    {
+      "name": "142_Larm_Aerial",
+      "location": [
+        -250.0,
+        -190.0,
+        48.0
+      ],
+      "target": [
+        -305.0,
+        -115.0,
+        6.0
+      ],
+      "lens": 26
+    },
+    {
+      "name": "143_Larm_Cal_Plaza",
+      "location": [
+        -372.54,
+        -80.22,
+        2.5
+      ],
+      "target": [
+        -344.39,
+        -90.58,
+        5.58
+      ],
+      "lens": 24.13
+    },
+    {
+      "name": "144_Castle_Cal_Rampart",
+      "location": [
+        -948.77,
+        -326.52,
+        12.02
+      ],
+      "target": [
+        -918.78,
+        -327.14,
+        15.7
+      ],
+      "lens": 14.66
+    },
+    {
+      "name": "145_Castle_Cal_Bridge",
+      "location": [
+        -912.1,
+        -231.86,
+        5.97
+      ],
+      "target": [
+        -898.11,
+        -258.4,
+        14.01
+      ],
+      "lens": 14.66
+    },
+    {
+      "name": "146_Castle_Cal_Courtyard",
+      "location": [
+        -862.78,
+        -293.2,
+        10.07
+      ],
+      "target": [
+        -867.58,
+        -322.81,
+        12.69
+      ],
+      "lens": 14.66
+    },
+    {
+      "name": "147_Castle_Aerial_SE",
+      "location": [
+        -790.0,
+        -470.0,
+        62.0
+      ],
+      "target": [
+        -870.0,
+        -308.0,
+        16.0
+      ],
+      "lens": 24
+    },
+    {
+      "name": "148_Castle_From_Station",
+      "location": [
+        -598.0,
+        -302.0,
+        1.75
+      ],
+      "target": [
+        -870.0,
+        -306.0,
+        19.0
+      ],
+      "lens": 40
+    },
+    {
+      "name": "149_Castle_Aerial_NW",
+      "location": [
+        -1010.0,
+        -150.0,
+        95.0
+      ],
+      "target": [
+        -868.0,
+        -300.0,
+        8.0
+      ],
+      "lens": 24
+    },
+    {
+      "name": "150_Castle_Kuretornet",
+      "location": [
+        -906.0,
+        -258.0,
+        11.77
+      ],
+      "target": [
+        -879.0,
+        -286.0,
+        32.67
+      ],
+      "lens": 24
     }
   ],
-  "total_vertices": 10365263,
-  "total_polygons": 12901992
+  "total_vertices": 11034950,
+  "total_polygons": 14107379
 }

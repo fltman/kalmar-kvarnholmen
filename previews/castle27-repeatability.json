@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle27_Ground": {
+      "sha256_geometry_uv_materials": "c5a7c921755e587022fd2f838625c19497085f1c7b4a47347e38044a03c8a238",
+      "vertices": 2789,
+      "polygons": 1053
+    },
+    "SM_Castle27_Walls": {
+      "sha256_geometry_uv_materials": "848578f2ad1ef5195a6d9ff28f0526078f1581d52b572ee1f1aa22e9c4008f21",
+      "vertices": 17228,
+      "polygons": 30897
+    },
+    "SM_Castle27_Postejer": {
+      "sha256_geometry_uv_materials": "c0cba73ce3acc9bdaeb608c0fdd72f9da6ac5210480539b740795e7b50b18f69",
+      "vertices": 68586,
+      "polygons": 126458
+    },
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "15a60e36f38bb712f82d902bea8c21c520aa8684efd9932e0d0371e8bb2c6b52",
+      "vertices": 184310,
+      "polygons": 295544
+    },
+    "SM_Kalmar_Slott_Towers": {
+      "sha256_geometry_uv_materials": "8e1d14d97bbc793082684b8bcdf22e683219b92e1ce7a00d9556746b08e588e7",
+      "vertices": 63751,
+      "polygons": 120282
+    },
+    "SM_Castle27_Bridge": {
+      "sha256_geometry_uv_materials": "1c1573604499eeea2240a70d27a9d5d7521818a76a83477df13d69c668cb0672",
+      "vertices": 1828,
+      "polygons": 2664
+    },
+    "SM_Castle27_Ravelin": {
+      "sha256_geometry_uv_materials": "8ded8e13b2789eafda455dec47edaedf4a39fd1185d9249e277117cd8b597306",
+      "vertices": 8928,
+      "polygons": 15618
+    },
+    "SM_Castle27_Islets": {
+      "sha256_geometry_uv_materials": "e206c06ddd9c3922910378cb25dc27683f902fb4a31dc30dc282cf93c6fe68ef",
+      "vertices": 227,
+      "polygons": 99
+    },
+    "SM_Castle27_Riprap": {
+      "sha256_geometry_uv_materials": "d28bb74186f7d28e911e94d34a88804db7250c89e2dafe61f714cbe76d113b7e",
+      "vertices": 17148,
+      "polygons": 28580
+    },
+    "SM_Castle27_Guns": {
+      "sha256_geometry_uv_materials": "affd9aaffb3b3be9885b98060a2fa2a93ffdded742356ac0ded964506d3bb3d7",
+      "vertices": 3072,
+      "polygons": 5520
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_91222222": {
+      "mikk_zero_loops_before_export_repair": 669,
+      "vertices": 177586,
+      "polygons": 322963,
+      "reprojected_polygons": 2435,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 669,
+        "Binormals": 669
+      }
+    },
+    "SM_Kvarnholmen_House_91856621": {
+      "mikk_zero_loops_before_export_repair": 137,
+      "vertices": 42607,
+      "polygons": 75755,
+      "reprojected_polygons": 412,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 137,
+        "Binormals": 137
+      }
+    },
+    "SM_Kvarnholmen_House_91856599": {
+      "mikk_zero_loops_before_export_repair": 24,
+      "vertices": 27614,
+      "polygons": 50182,
+      "reprojected_polygons": 112,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 24,
+        "Binormals": 24
+      }
+    },
+    "SM_Kvarnholmen_House_91856613": {
+      "mikk_zero_loops_before_export_repair": 135,
+      "vertices": 62760,
+      "polygons": 114700,
+      "reprojected_polygons": 2581,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 135,
+        "Binormals": 135
+      }
+    },
+    "SM_Kvarnholmen_House_91856604": {
+      "mikk_zero_loops_before_export_repair": 217,
+      "vertices": 72789,
+      "polygons": 133280,
+      "reprojected_polygons": 799,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 217,
+        "Binormals": 217
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_91222222",
+    "SM_Kvarnholmen_House_91856621",
+    "SM_Kvarnholmen_House_91856599",
+    "SM_Kvarnholmen_House_91856613",
+    "SM_Kvarnholmen_House_91856604"
+  ],
+  "cameras": [
+    "137_Larm_Bank_Plaza",
+    "138_Larm_Bank_North",
+    "139_Larm_Street_North",
+    "140_Larm_L8",
+    "141_Larm_OddFellow",
+    "142_Larm_Aerial",
+    "143_Larm_Cal_Plaza"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Castle27_Ground": {
+      "mikk_zero_loops_before_export_repair": 5,
+      "vertices": 2789,
+      "polygons": 1053,
+      "reprojected_polygons": 12,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 5,
+        "Binormals": 5
+      }
+    },
+    "SM_Castle27_Walls": {
+      "mikk_zero_loops_before_export_repair": 560,
+      "vertices": 17228,
+      "polygons": 30897,
+      "reprojected_polygons": 101,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 560,
+        "Binormals": 560
+      }
+    },
+    "SM_Castle27_Postejer": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 68586,
+      "polygons": 126458,
+      "reprojected_polygons": 3101,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Kalmar_Slott": {
+      "mikk_zero_loops_before_export_repair": 5286,
+      "vertices": 184310,
+      "polygons": 295544,
+      "reprojected_polygons": 3919,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 5286,
+        "Binormals": 5286
+      }
+    },
+    "SM_Kalmar_Slott_Towers": {
+      "mikk_zero_loops_before_export_repair": 188,
+      "vertices": 63751,
+      "polygons": 120282,
+      "reprojected_polygons": 540,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 188,
+        "Binormals": 188
+      }
+    },
+    "SM_Castle27_Bridge": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 1828,
+      "polygons": 2664,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Castle27_Ravelin": {
+      "mikk_zero_loops_before_export_repair": 39,
+      "vertices": 8928,
+      "polygons": 15618,
+      "reprojected_polygons": 351,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 39,
+        "Binormals": 39
+      }
+    },
+    "SM_Castle27_Islets": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 227,
+      "polygons": 99,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Castle27_Riprap": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 17148,
+      "polygons": 28580,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Castle27_Guns": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 3072,
+      "polygons": 5520,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    }
+  },
+  "changed": [
+    "SM_Castle27_Ground",
+    "SM_Castle27_Walls",
+    "SM_Castle27_Postejer",
+    "SM_Kalmar_Slott",
+    "SM_Kalmar_Slott_Towers",
+    "SM_Castle27_Bridge",
+    "SM_Castle27_Ravelin",
+    "SM_Castle27_Islets",
+    "SM_Castle27_Riprap",
+    "SM_Castle27_Guns"
+  ],
+  "cameras": [
+    "144_Castle_Cal_Rampart",
+    "145_Castle_Cal_Bridge",
+    "146_Castle_Cal_Courtyard",
+    "147_Castle_Aerial_SE",
+    "148_Castle_From_Station",
+    "149_Castle_Aerial_NW",
+    "150_Castle_Kuretornet"
+  ]
+}
