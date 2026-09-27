@@ -1,0 +1,59 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched 20 degrees up) with its dry render at the same size from the same camera at 90 degree vertical field of view.",
+  "note": "The two panoramas share no window edge; each is anchored on one end, and their spacing follows the GPS positions. The two windows seen from both agree within 0.15 m. The dormers were placed from the front view; the roof is an estimate.",
+  "views": {
+    "326_Block59_Cal_Gate": [
+      {
+        "feature": "east joint",
+        "deviation_px": 5
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 15
+      },
+      {
+        "feature": "gateway",
+        "deviation_px": 12
+      },
+      {
+        "feature": "pilaster",
+        "deviation_px": 15
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 25
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 4
+      }
+    ],
+    "327_Block59_Cal_West": [
+      {
+        "feature": "west corner",
+        "deviation_px": 5
+      },
+      {
+        "feature": "west windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 20
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 6
+      }
+    ]
+  },
+  "features": 11,
+  "median_px": 12.0,
+  "max_px": 25,
+  "within_8_px": 5
+}

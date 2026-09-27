@@ -1,0 +1,76 @@
+{
+  "pass": 60,
+  "subject": "The Fiskaregatan range of the district volume 91856608: the grey roughcast house (number 36) with a gambrel gable and the beige two-storey house with the apothecary's corner bay.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block60-zones": "passed",
+    "block60-build": "passed",
+    "block60-repeatability": "passed",
+    "block60-materials": "passed",
+    "block60-import": "passed",
+    "block60-render-audit": "passed",
+    "block60-collision": "passed",
+    "block60-calibration": "passed",
+    "block60-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed",
+    "block51-repeatability (unchanged)": "passed",
+    "block52-repeatability (unchanged)": "passed",
+    "block53-repeatability (unchanged)": "passed",
+    "block54-repeatability (unchanged)": "passed",
+    "block55-repeatability (unchanged)": "passed",
+    "block56-repeatability (unchanged)": "passed",
+    "block57-repeatability (unchanged)": "passed",
+    "block58-repeatability (unchanged)": "passed",
+    "block59-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Building_91856608": 125519
+  },
+  "triangles": 125519,
+  "collision": {
+    "floor_samples": 79,
+    "floor_failures": 0,
+    "capsule_segments": 72,
+    "obstructions": 1,
+    "verified_detours": [
+      {
+        "route": "Västra Sjögatan (155005045)",
+        "actor": "Street_Furniture",
+        "segments": 1,
+        "length_m": 3.7,
+        "offset_m": 0.8
+      }
+    ]
+  },
+  "calibration": {
+    "features": 16,
+    "median_px": 10.0,
+    "max_px": 65,
+    "within_8_px": 7
+  },
+  "method_note": "From this pass on, positions in pitched views are read on each feature's own row; passes 53-59 read them on the horizon row, which put their ground-floor openings up to about 0.3 m off (their calibrations show 10-30 px on the ground rows).",
+  "backups": "source/backups/block60/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed"
+}

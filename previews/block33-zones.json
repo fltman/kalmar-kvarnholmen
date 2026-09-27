@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "zones": {
+    "sl16": {
+      "area_m2": 705.0,
+      "walls": 3,
+      "outer_m": 53.3
+    }
+  },
+  "checks": {
+    "footprint_m2": 705.0,
+    "zoned_m2": 705.0,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 0.0,
+    "roof_top_m2": 463.3
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pass": 53,
+  "subject": "The district volumes 91856590 (Ölandsgatan 8, three storeys with a sandstone ground floor, quoins and a roof lantern) and 91856614 (the pale yellow wooden house with pilasters).",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block53-zones": "passed",
+    "block53-build": "passed",
+    "block53-repeatability": "passed",
+    "block53-materials": "passed",
+    "block53-import": "passed",
+    "block53-render-audit": "passed",
+    "block53-collision": "passed",
+    "block53-calibration": "passed",
+    "block53-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed",
+    "block51-repeatability (unchanged)": "passed",
+    "block52-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_91856590": 43089,
+    "SM_Kvarnholmen_House_91856614": 29141
+  },
+  "triangles": 72230,
+  "collision": {
+    "floor_samples": 40,
+    "floor_failures": 0,
+    "capsule_segments": 37,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 13,
+    "median_px": 6.0,
+    "max_px": 12,
+    "within_8_px": 10
+  },
+  "fixed_during_the_pass": [
+    "the wooden house's heights taken from the frame anchored on its own corners after the first comparison put its windows 50 px high",
+    "the sandstone coursing lines, which crossed the shop windows, removed"
+  ],
+  "backups": "source/backups/block53/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed"
+}

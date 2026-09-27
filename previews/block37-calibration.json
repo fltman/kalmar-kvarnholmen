@@ -1,0 +1,155 @@
+{
+  "status": "passed",
+  "method": "Features compared in side-by-side crops of the panorama and the Unreal review shot of the same camera at the same angular scale; offsets in panorama pixels, one value per feature group (the worst member).",
+  "views": {
+    "213_Block37_Cal_Grey": [
+      {
+        "feature": "1F window tops",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F window bottoms",
+        "deviation_px": 2
+      },
+      {
+        "feature": "window surrounds left edges",
+        "deviation_px": 3
+      },
+      {
+        "feature": "band",
+        "deviation_px": 1
+      },
+      {
+        "feature": "shop window tops",
+        "deviation_px": 4
+      },
+      {
+        "feature": "shop surrounds edges",
+        "deviation_px": 3
+      },
+      {
+        "feature": "west window",
+        "deviation_px": 3
+      },
+      {
+        "feature": "downpipe",
+        "deviation_px": 8
+      },
+      {
+        "feature": "entrance surround",
+        "deviation_px": 4
+      }
+    ],
+    "214_Block37_Cal_Grey_Roof": [
+      {
+        "feature": "2F window tops",
+        "deviation_px": 3
+      },
+      {
+        "feature": "2F window bottoms",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F window tops",
+        "deviation_px": 2
+      },
+      {
+        "feature": "frieze bottom",
+        "deviation_px": 4
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 5
+      },
+      {
+        "feature": "downpipes",
+        "deviation_px": 6
+      }
+    ],
+    "215_Block37_Cal_Yellow": [
+      {
+        "feature": "1F window tops",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F window bottoms",
+        "deviation_px": 2
+      },
+      {
+        "feature": "2F window tops",
+        "deviation_px": 3
+      },
+      {
+        "feature": "window edges",
+        "deviation_px": 3
+      },
+      {
+        "feature": "shop window tops",
+        "deviation_px": 4
+      },
+      {
+        "feature": "garage edges",
+        "deviation_px": 3
+      },
+      {
+        "feature": "garage top",
+        "deviation_px": 3
+      },
+      {
+        "feature": "downpipe",
+        "deviation_px": 2
+      },
+      {
+        "feature": "joint with the grey house",
+        "deviation_px": 3
+      }
+    ],
+    "217_Block37_Cal_Corner": [
+      {
+        "feature": "2F window tops",
+        "deviation_px": 3
+      },
+      {
+        "feature": "2F window bottoms",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F window tops",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F window bottoms",
+        "deviation_px": 3
+      },
+      {
+        "feature": "window edges",
+        "deviation_px": 3
+      },
+      {
+        "feature": "band",
+        "deviation_px": 4
+      },
+      {
+        "feature": "shop window tops",
+        "deviation_px": 4
+      },
+      {
+        "feature": "shop window bottoms",
+        "deviation_px": 13
+      },
+      {
+        "feature": "corner",
+        "deviation_px": 3
+      },
+      {
+        "feature": "joint with the yellow house",
+        "deviation_px": 5
+      }
+    ]
+  },
+  "features": 34,
+  "median_px": 3.0,
+  "max_px": 13,
+  "within_8_px": 33,
+  "largest": "the corner house's shop window bottoms (13 px): the facade base there reads -0.2 m (the pavement falls toward Ölandsgatan) and the window bottoms are partly hidden by parked cars"
+}

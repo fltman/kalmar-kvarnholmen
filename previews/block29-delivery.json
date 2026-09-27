@@ -1,0 +1,160 @@
+{
+ "pass": 29,
+ "subject": "The north side of Södra Långgatan between Larmgatan and Kaggensgatan: Södra Långgatan 9 with the courtyard house, Södra Långgatan 11, Södra Långgatan 13–15 (the long ochre house), Kaggensgatan 9 (the corner house) and Kaggensgatan 11 A–D (OSM ways 92204156, 92204161, 92204198, 92204187, 92204189). The Larmgatan corner building (92204170, 92204162) is left for a later pass.",
+ "author": "Claude (Anthropic), night of 2026-09-23/24",
+ "reports": {
+  "block29-zones": "passed",
+  "block29-build": "passed",
+  "block29-repeatability": "passed",
+  "block29-materials": "passed",
+  "block29-import": "passed",
+  "block29-render-audit": "passed",
+  "block29-collision": "passed",
+  "block29-calibration": "passed",
+  "block29-fbx-audit": "passed",
+  "block28-repeatability (pass 26/28 meshes unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92204156": 46280,
+  "SM_Kvarnholmen_House_92204161": 27328,
+  "SM_Kvarnholmen_House_92204198": 65310,
+  "SM_Kvarnholmen_House_92204187": 121666,
+  "SM_Kvarnholmen_House_92204189": 75891
+ },
+ "triangles": 336475,
+ "data": {
+  "zones_m2": {
+   "sl9": 78.1,
+   "sl9r": 107.0,
+   "sl161": 69.6,
+   "sl11": 85.8,
+   "sl11r": 153.2,
+   "sl13": 391.6,
+   "sl13r": 72.0,
+   "kg": 152.8,
+   "k189e": 207.7,
+   "k189r": 288.7
+  },
+  "checks": {
+   "footprint_m2": 1584.3,
+   "zoned_m2": 1606.6,
+   "outside_osm_m2": 22.43,
+   "osm_not_zoned_m2": 0.19,
+   "overlap_m2": 0.013,
+   "projection_m2": 22.29
+  },
+  "measured_m": {
+   "sodra9_gutter_band": [
+    5.8,
+    6.03
+   ],
+   "sodra9_gable_apex": 8.09,
+   "sodra11_cornice_top": 6.88,
+   "sodra11_gable": 8.0,
+   "ochre_band": [
+    3.99,
+    4.35
+   ],
+   "ochre_upper_windows": [
+    5.17,
+    6.91
+   ],
+   "ochre_eaves_corrected": 7.9,
+   "corner_band": [
+    4.46,
+    4.88
+   ],
+   "corner_first_floor": [
+    5.78,
+    7.65
+   ],
+   "corner_second_floor": [
+    9.0,
+    11.2
+   ],
+   "corner_eaves_corrected": 11.75,
+   "kaggens11_eaves": 7.3
+  },
+  "modelled_m": {
+   "sodra9_gutter_band": [
+    5.71,
+    5.93
+   ],
+   "sodra9_gable_apex": 8.04,
+   "sodra11_cornice_top": 6.68,
+   "sodra11_gable": 8.0,
+   "ochre_band": [
+    4.0,
+    4.33
+   ],
+   "ochre_upper_windows": [
+    5.2,
+    6.93
+   ],
+   "ochre_eaves": 7.75,
+   "corner_band": [
+    4.46,
+    4.88
+   ],
+   "corner_first_floor": [
+    5.78,
+    7.65
+   ],
+   "corner_second_floor": [
+    9.15,
+    11.0
+   ],
+   "corner_eaves": 11.55,
+   "kaggens11_eaves": 7.15
+  },
+  "registration": {
+   "camera_above_north_bases_m": [
+    2.35,
+    2.4
+   ],
+   "camera_above_south_bases_pass28_m": 2.21,
+   "ochre_house_projection_m": 0.55,
+   "sodra11_width_m": 11.2,
+   "sodra11_width_osm_m": 10.83,
+   "ochre_corner_joint_x": -204.49
+  }
+ },
+ "collision": {
+  "floor_samples": 288,
+  "floor_failures": 0,
+  "capsule_segments": 274,
+  "obstructions": 2,
+  "verified_detours": [
+   {
+    "route": "kg front 1 1.2 m",
+    "actor": "Kvarnholmen_House_92204187",
+    "segments": 2,
+    "length_m": 2.11,
+    "offset_m": 0.8
+   }
+  ],
+  "unresolved": 0,
+  "routes": 14
+ },
+ "calibration": {
+  "features": 33,
+  "median_px": 7.0,
+  "max_px": 27.0,
+  "within_8_px": 21,
+  "known_deviations": [
+   "Ochre house dormers: 0-5 px in view 165, 25-27 px low in the steep view 166 (the two panoramas disagree by about 0.5 m).",
+   "Corner house: the panoramas suggest its south front is 1-1.5 m narrower than OSM; its corner stays on OSM."
+  ]
+ },
+ "fixed_during_the_pass": [
+  "12,235 degenerate faces in 92204187: flat elliptical shop-window heads collapsed the global bevel clamp; now rectangular openings, spandrel prisms and a true segmental head",
+  "the rebuild saved untriangulated copies of the pass 26/28 meshes; they now get the export preparation without being exported, and match the pass 28 hashes",
+  "Södra Långgatan 11 windows 0.38 m west (joint misread behind a downpipe); corner house third window 0.65 m east",
+  "the ochre house shop floor was covered by a solid band; the wall is now split at the band",
+  "Södra Långgatan 11 gable: a triangular roof piece showed in front of the segmental gable; now a curved roof, and the gable 2.8 m wide",
+  "floating door treads on the corner house; now two stone steps",
+  "the first review shots after a reimport showed Nanite fallback meshes (no lunette, no awnings); shots are retaken two minutes after the import"
+ ],
+ "backups": "source/backups/block29/",
+ "status": "passed"
+}

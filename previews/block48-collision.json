@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "floor_samples": 39,
+  "floor_failures": [],
+  "capsule_segments": 36,
+  "obstructions": [],
+  "routes": {
+    "yh front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "yh front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Ölandsgatan (35771887)": {
+      "kind": "street",
+      "floor_samples": 23,
+      "floor_failures": 0,
+      "capsule_segments": 22,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:26:01.553759",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

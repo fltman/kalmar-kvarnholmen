@@ -183,12 +183,13 @@ def f1910(m,w,zone='main'):
   elif sd=='track':doors={0,1}
   else:doors=set()
   for i,u in enumerate(axes):
-   holes.append((u,.30,1.35,3.12,.675) if i in doors else (u,1.35,1.35,2.07,.675))
-   holes.append((u,5.75,1.25,2.20,0));holes.append((u,9.60,1.20,2.06,0))
+   # Levels re-measured in pass 28 (resected camera): arch tops 3.8, windows 5.36-7.41 and 8.95-10.87.
+   holes.append((u,.28,1.35,2.91,.63) if i in doors else (u,1.26,1.35,1.93,.63))
+   holes.append((u,5.36,1.25,2.05,0));holes.append((u,8.95,1.20,1.92,0))
  elif not plain and zone=='wing':
   n=max(1,round(L/2.6));st=L/n;axes=[-L/2+(k+.5)*st for k in range(n)]
   for u in axes:
-   holes.append((u,1.35,1.20,2.05,.60) if sd=='track' else (u,1.35,1.15,2.1,0));holes.append((u,5.75,1.15,2.2,0))
+   holes.append((u,1.26,1.20,1.91,.56) if sd=='track' else (u,1.26,1.15,1.96,0));holes.append((u,5.36,1.15,2.05,0))
  bz_wall(m,p,q,z0,H,holes,RENDER)
  for u,b,ww,hh,r in holes:
   if b<.5:arch_door(m,x,y,u,b,ww,hh,r,a)
@@ -199,18 +200,18 @@ def f1910(m,w,zone='main'):
   s20_plinth(m,x,y,L,a,holes,.5)
   for s in (-1,1):
    if L>3:pilaster(m,x,y,s*(L/2-.45),.90,.5,H-.62,a,.12)
-  p18_band(m,x,y,L+.7,5.50,a,TRIM,.32)
-  if zone=='main':p18_band(m,x,y,L+.7,9.36,a,TRIM,.24)
-  if sd=='street' and zone=='main':text_on(m,x,y,-L/2+.65+2.5*(L-1.3)/7,5.05,a,'1910',.48,TRIM,.37)
+  p18_band(m,x,y,L+.7,5.13,a,TRIM,.32)
+  if zone=='main':p18_band(m,x,y,L+.7,8.72,a,TRIM,.24)
+  if sd=='street' and zone=='main':text_on(m,x,y,-L/2+.65+2.5*(L-1.3)/7,4.71,a,'1910',.48,TRIM,.37)
   if sd=='track' and zone=='main':
    # Station name board between ground and first floor, as photographed on the platform side.
-   uc=-L/2+.65+4.5*(L-1.3)/7;facade_box(m,x,y,uc,.43,4.95,2.3,.06,.46,SIGN,a);text_on(m,x,y,uc,4.84,a,'Kalmar C',1.5,ST['Clock'],.47)
+   uc=-L/2+.65+4.5*(L-1.3)/7;facade_box(m,x,y,uc,.43,4.61,2.3,.06,.46,SIGN,a);text_on(m,x,y,uc,4.51,a,'Kalmar C',1.5,ST['Clock'],.47)
   if sd=='street' and zone=='main':
    # Flat entrance canopy over the two arched doors, on slender hangers.
-   u0,u1=axes[-2],axes[-1];facade_box(m,x,y,(u0+u1)/2,1.05,4.38,u1-u0+1.9,1.4,.14,ST['Fascia'],a)
-   for u in (u0-.9,u1+.9):town_rod(m,lp(x,y,u,1.65,4.43,a),lp(x,y,u,.40,5.4,a),.02,METAL,6)
+   u0,u1=axes[-2],axes[-1];facade_box(m,x,y,(u0+u1)/2,1.05,4.08,u1-u0+1.9,1.4,.14,ST['Fascia'],a)
+   for u in (u0-.9,u1+.9):town_rod(m,lp(x,y,u,1.65,4.13,a),lp(x,y,u,.40,5.03,a),.02,METAL,6)
   if sd=='track' and zone=='main':
-   for u in axes[:5]:s21_shallow_awning(m,x,y,u,9.60+2.06+.18,1.40,a,ST['Awning'],.95)
+   for u in axes[:5]:s21_shallow_awning(m,x,y,u,8.95+1.92+.17,1.40,a,ST['Awning'],.95)
  if zone=='main':facade_box(m,x,y,0,.40,H-.95,L+.25,.08,.30,TRIM,a);lm_cornice(m,x,y,L+.9,H-.18,a,TRIM,True)
  else:facade_box(m,x,y,0,.40,H-.80,L+.25,.08,.26,TRIM,a);lm_cornice(m,x,y,L+.9,H-.18,a,TRIM)
 
@@ -276,7 +277,7 @@ def main_roof(m):
 def tower(m):
  cx,cy=S24['tower']['centre'];r=S24['tower']['radius']*TOWER_SCALE;body=Z['tower']['body'];drum=Z['tower']['height'];top=Z['tower']['top']
  m.cylinder(cx,cy,0,r+.06,.5,PLINTH,32);m.cylinder(cx,cy,.5,r,body-.5,RENDER,32)
- for z,dr,h in ((4.48,.10,.14),(4.62,.16,.10),(body-.34,.08,.14),(body-.20,.16,.10),(body-.10,.24,.12)):m.cylinder(cx,cy,z,r+dr,h,TRIM,32)
+ for z,dr,h in ((4.18,.10,.14),(4.31,.16,.10),(body-.34,.08,.14),(body-.20,.16,.10),(body-.10,.24,.12)):m.cylinder(cx,cy,z,r+dr,h,TRIM,32)
  street=(-FN[0],-FN[1]);th0=math.atan2(street[1],street[0])
  def win(theta,b,w,h,kind):
   px,py=cx+r*math.cos(theta),cy+r*math.sin(theta);ang=theta+math.pi/2
@@ -290,8 +291,8 @@ def tower(m):
   else:
    town_window(m,px,py,b+h/2,w,h,ang,TW,True,3,2,False)
    facade_box(m,px,py,0,.14,b-.08,w+.3,.30,.10,TRIM,ang)
- win(th0,.15,1.15,2.45,'door');win(th0-.55,2.35,0,0,'oval')
- for dt in (.50,-.55,-1.50):win(th0+dt,5.8,.90,1.60,'arch')
+ win(th0,.14,1.15,2.28,'door');win(th0-.55,2.19,0,0,'oval')
+ for dt in (.50,-.55,-1.50):win(th0+dt,5.41,.90,1.49,'arch')
  # Slate-hung upper drum with round-headed lights, then the bell roof and a slim spire.
  rot=math.atan2(FU[1],FU[0])+math.pi/8
  poly_lathe(m,cx,cy,body,[(r*.98,0),(r*.98,drum-body)],SLATE,8,rot)
@@ -306,7 +307,7 @@ def tower(m):
 # ---------------------------------------------------------------- build
 TOWER_SCALE=1.0
 # Measured in the April 2025 front view: clock centre and the row of attic lights.
-CLOCK_Z,ATTIC_Z=15.30,14.70
+CLOCK_Z,ATTIC_Z=15.00,14.40
 m=st_new('SM_Kvarnholmen_House_90965009')
 for w in walls('range1874'):f1874(m,w)
 fill_corners(m,'range1874',RENDER)
@@ -369,5 +370,8 @@ station24_cameras=[
  ('127_Station_Aerial',(-360.0,-40.0,55.0),(-428.0,-100.0,6.0),28),
  street_view_camera('128_Station_Cal_Front',56.6618287,16.3603163,190,5,match='height'),
  street_view_camera('129_Station_Cal_Tower',56.661716,16.3606067,240,6,match='height'),
+ # Pass 28: GKJn resected against the 1910 corner and the tower, 2.22 m high, standing its
+ # measured distance from the modelled facade (slabs are 0.355 m proud of the OSM line).
+ ('162_Station_Cal_Resected',(-405.40,-72.89,2.22),(-426.69, -94.03, 2.22),11.25),
 ]
 print('STATION24_GEOMETRY',len(station24_names))

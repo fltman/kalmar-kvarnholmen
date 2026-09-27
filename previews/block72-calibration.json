@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "One panorama about 4.8 m from the Proviantgatan front, resected on the south corner in one heading and the north corner in another; the three windows seen in both headings agree within 0.1 m. The base row puts the camera 2.51 m high. The roof is barely seen and is an estimate, as are the Storgatan and yard sides (Storgatan has no Street View here).",
+  "views": {
+    "365_Block72_Cal_South": [
+      {
+        "feature": "corner pilaster",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      }
+    ],
+    "366_Block72_Cal_North": [
+      {
+        "feature": "north corner",
+        "deviation_px": 6
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 7,
+  "median_px": 8.0,
+  "max_px": 10,
+  "within_8_px": 6
+}

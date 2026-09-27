@@ -1,0 +1,71 @@
+{
+ "pass": 39,
+ "subject": "Three district volumes on the south side of Södra Långgatan east of Västra Sjögatan: the yellow wooden corner house (92412832), the salmon house of Kalmar Stadsmission (92412859) and the grey wooden house (92412869).",
+ "author": "Claude (Anthropic), 2026-09-26",
+ "reports": {
+  "block39-zones": "passed",
+  "block39-build": "passed",
+  "block39-repeatability": "passed",
+  "block39-materials": "passed",
+  "block39-import": "passed",
+  "block39-render-audit": "passed",
+  "block39-collision": "passed",
+  "block39-calibration": "passed",
+  "block39-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Building_92412869": 22482,
+  "SM_Building_92412859": 35150,
+  "SM_Building_92412832": 59746
+ },
+ "triangles": 117378,
+ "collision": {
+  "floor_samples": 184,
+  "floor_failures": 0,
+  "capsule_segments": 174,
+  "obstructions": 5,
+  "verified_detours": [
+   {
+    "route": "yl front 1 1.2 m",
+    "actor": "Building_92412832",
+    "segments": 3,
+    "length_m": 3.06,
+    "offset_m": 0.8
+   },
+   {
+    "route": "yl front 1 1.2 m",
+    "actor": "Building_92412832",
+    "segments": 2,
+    "length_m": 2.04,
+    "offset_m": 0.8
+   }
+  ]
+ },
+ "calibration": {
+  "features": 58,
+  "median_px": 4.0,
+  "max_px": 15,
+  "within_8_px": 52
+ },
+ "fixed_during_the_pass": [
+  "the roofs: 45 degrees on the yellow house and 32 on the grey one hid the tile roof, the ridge and the chimney that the panoramas show over the eaves; now about 54 and 41 degrees",
+  "the frontispiece moved 0.1 m west, halfway between the readings of panoramas \"34\" and \"35\"",
+  "an open notch at the street corner (both fronts' wall slabs stand 0.355 m out of their OSM lines) filled by a corner post",
+  "the frontispiece attic and pediment and the dormers, first solved against the review cameras without their 0.355 m shift, re-triangulated in the model's frame: the attic window 7.45-8.45, the pediment 8.40-10.82, the dormer fronts in the wall face",
+  "the attic windows were blocked by the attic storey's own body behind them",
+  "the salmon cornice projected 0.47 m instead of the triangulated 0.82 m from the facade"
+ ],
+ "backups": "source/backups/block39/",
+ "status": "passed"
+}

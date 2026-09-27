@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "floor_samples": 117,
+  "floor_failures": [],
+  "capsule_segments": 110,
+  "obstructions": [],
+  "routes": {
+    "mn front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 33,
+      "floor_failures": 0,
+      "capsule_segments": 32,
+      "obstructions": 0
+    },
+    "mn front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 32,
+      "floor_failures": 0,
+      "capsule_segments": 31,
+      "obstructions": 0
+    },
+    "ax front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "ax front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "Ölandsgatan (35771878)": {
+      "kind": "street",
+      "floor_samples": 19,
+      "floor_failures": 0,
+      "capsule_segments": 18,
+      "obstructions": 0
+    },
+    "Ölandsgatan (35771889)": {
+      "kind": "street",
+      "floor_samples": 13,
+      "floor_failures": 0,
+      "capsule_segments": 12,
+      "obstructions": 0
+    },
+    "Ölandsgatan (138368668)": {
+      "kind": "street",
+      "floor_samples": 11,
+      "floor_failures": 0,
+      "capsule_segments": 10,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:26:43.882199",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

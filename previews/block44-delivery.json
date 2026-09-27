@@ -1,0 +1,56 @@
+{
+ "pass": 44,
+ "subject": "The district volume 92412862 at Västra Sjögatan and Ölandsgatan: the 17th-century stone corner house with its portal and two gables, the white house 2 Västra Sjögatan, the yellow wooden house on Ölandsgatan and the gate.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block44-zones": "passed",
+  "block44-build": "passed",
+  "block44-repeatability": "passed",
+  "block44-materials": "passed",
+  "block44-import": "passed",
+  "block44-render-audit": "passed",
+  "block44-collision": "passed",
+  "block44-calibration": "passed",
+  "block44-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed",
+  "block41-repeatability (unchanged)": "passed",
+  "block42-repeatability (unchanged)": "passed",
+  "block43-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92412862": 102929
+ },
+ "triangles": 102929,
+ "collision": {
+  "floor_samples": 150,
+  "floor_failures": 0,
+  "capsule_segments": 140,
+  "obstructions": 0,
+  "verified_detours": []
+ },
+ "calibration": {
+  "features": 23,
+  "median_px": 10,
+  "max_px": 20,
+  "within_8_px": 7
+ },
+ "fixed_during_the_pass": [
+  "the west gable first rose as a plain curve over the full width; the panorama shows a baroque outline drawing in to a narrow top",
+  "the gable windows enlarged and drawn together (1.7 m apart, not 2.2)",
+  "the white house split from the corner house at the measured joint (y -128.55), not at OSM's vertex (y -134.1)"
+ ],
+ "backups": "source/backups/block44/",
+ "status": "passed"
+}

@@ -1,6 +1,8 @@
 # Larmgatan by the station — pass 26
 
-Research date: 2026-09-23. This pass replaces five generic district volumes on Larmgatan, between Södra Långgatan and the station square:
+Research date: 2026-09-23.
+
+> **Correction in pass 28.** The heights below from close panoramas were wrong, and pass 28 re-measured them with the camera resected against OSM joints and the facade base: the April 2025 roof camera stands 2.0–2.2 m high, not 2.5 m, and the reported panorama positions are 1.5–3 m off. Larmgatan 10 is now 10.75 m (cornice), Larmgatan 8 9.6 m with a flush attic storey to 12.2 m and a small tower over its oriel, Larmgatan 6 10.5 m, and the Odd Fellows house has lower rounded corner bays (12.2 m) and a central block with its frieze and cornice at 15.3 m. Larmgatan 10 also gained its rectangular oriel on Södra Långgatan. The bank was confirmed. See `references/block28-notes.md`. This pass replaces five generic district volumes on Larmgatan, between Södra Långgatan and the station square:
 - the Larmgatan 1 block (OSM way 91222222), split into the bank, the later office and the lower south wing
 - Larmgatan 10 (91856621)
 - Larmgatan 8 (91856599)

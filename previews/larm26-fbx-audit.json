@@ -21,80 +21,80 @@
   },
   "SM_Kvarnholmen_House_91856621": {
     "Normals": {
-      "vectors": 29391,
+      "vectors": 30199,
       "min_length": 0.9999998516798294,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Tangents": {
-      "vectors": 227265,
+      "vectors": 230319,
       "min_length": 0.9999998215902175,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Binormals": {
-      "vectors": 227265,
-      "min_length": 0.9999997382823436,
+      "vectors": 230319,
+      "min_length": 0.9999997045756136,
       "near_zero": 0,
       "nonfinite": 0
     }
   },
   "SM_Kvarnholmen_House_91856599": {
     "Normals": {
-      "vectors": 34157,
-      "min_length": 0.9999998539700489,
+      "vectors": 41564,
+      "min_length": 0.9999998538374415,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Tangents": {
-      "vectors": 150546,
-      "min_length": 0.9999998371927359,
+      "vectors": 190311,
+      "min_length": 0.9999998396381962,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Binormals": {
-      "vectors": 150546,
-      "min_length": 0.999999736491551,
+      "vectors": 190311,
+      "min_length": 0.9999997236577527,
       "near_zero": 0,
       "nonfinite": 0
     }
   },
   "SM_Kvarnholmen_House_91856613": {
     "Normals": {
-      "vectors": 49006,
+      "vectors": 48374,
       "min_length": 0.9999998543675758,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Tangents": {
-      "vectors": 344100,
+      "vectors": 344364,
       "min_length": 0.9999998334322643,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Binormals": {
-      "vectors": 344100,
-      "min_length": 0.9999997351426788,
+      "vectors": 344364,
+      "min_length": 0.9999997482006494,
       "near_zero": 0,
       "nonfinite": 0
     }
   },
   "SM_Kvarnholmen_House_91856604": {
     "Normals": {
-      "vectors": 72487,
-      "min_length": 0.9999998527251436,
+      "vectors": 45406,
+      "min_length": 0.9999998607223204,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Tangents": {
-      "vectors": 399840,
-      "min_length": 0.99999983961674,
+      "vectors": 255048,
+      "min_length": 0.9999998360858708,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Binormals": {
-      "vectors": 399840,
-      "min_length": 0.9999997280605578,
+      "vectors": 255048,
+      "min_length": 0.9999997225433269,
       "near_zero": 0,
       "nonfinite": 0
     }

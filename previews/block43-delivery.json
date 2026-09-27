@@ -1,0 +1,56 @@
+{
+ "pass": 43,
+ "subject": "The Södra Långgatan front (numbers 49-59) of the district volume 91846978: the cream hotel range with its gabled middle and arcade, the ochre-panelled range, the blue gabled house, the grey roughcast house and the salmon corner range with its front gable.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block43-zones": "passed",
+  "block43-build": "passed",
+  "block43-repeatability": "passed",
+  "block43-materials": "passed",
+  "block43-import": "passed",
+  "block43-render-audit": "passed",
+  "block43-collision": "passed",
+  "block43-calibration": "passed",
+  "block43-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed",
+  "block41-repeatability (unchanged)": "passed",
+  "block42-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Building_91846978": 419272
+ },
+ "triangles": 419272,
+ "collision": {
+  "floor_samples": 143,
+  "floor_failures": 0,
+  "capsule_segments": 126,
+  "obstructions": 0,
+  "verified_detours": []
+ },
+ "calibration": {
+  "features": 24,
+  "median_px": 10.0,
+  "max_px": 20,
+  "within_8_px": 10
+ },
+ "fixed_during_the_pass": [
+  "the ochre panels first covered the second window of each pair; now cut at every opening",
+  "the salmon ground floor and the cream band hid the ground-floor windows and the entrance; now coats cut at the openings",
+  "the salmon front gable: the cornice ran across its foot; it now rises from the wall face",
+  "the dry-render region filter hid this block (it lies east of all earlier passes)"
+ ],
+ "backups": "source/backups/block43/",
+ "status": "passed"
+}

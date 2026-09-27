@@ -1,0 +1,159 @@
+{
+ "pass": 30,
+ "subject": "The corner building Larmgatan 14 / Södra Långgatan (OSM 92204170): mansard, canted corner with the corner oriel, oriels on both fronts, two curved gable bays, fire walls. Larmgatan 16 (92204162) is not modelled.",
+ "author": "Claude (Anthropic), night of 2026-09-23/24",
+ "reports": {
+  "block30-zones": "passed",
+  "block30-build": "passed",
+  "block30-repeatability": "passed",
+  "block30-materials": "passed",
+  "block30-import": "passed",
+  "block30-render-audit": "passed",
+  "block30-collision": "passed",
+  "block30-calibration": "passed",
+  "block30-fbx-audit": "passed",
+  "block28-repeatability (pass 26/28 meshes unchanged)": "passed",
+  "block29-repeatability (pass 29 meshes unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92204170": 109929
+ },
+ "triangles": 109929,
+ "data": {
+  "zones": {
+   "main": {
+    "area_m2": 558.6,
+    "walls": 13,
+    "outer_m": 94.3,
+    "upper_m": 32.4
+   }
+  },
+  "checks": {
+   "footprint_m2": 560.1,
+   "zoned_m2": 558.6,
+   "chamfer_m2": 1.43,
+   "outside_osm_m2": 0.0,
+   "osm_not_zoned_m2": 1.43
+  },
+  "registration": {
+   "sodra_camera_distance_m": 5.55,
+   "sodra_camera_height_m": 2.32,
+   "larmgatan_camera_distance_m": 5.24,
+   "larmgatan_camera_height_m": 2.5,
+   "larmgatan_base_below_sodra_m": 0.17,
+   "canted_corner_leg_m": 1.7
+  },
+  "measured_m": {
+   "band": [
+    5.25,
+    5.47
+   ],
+   "first_floor": [
+    5.45,
+    7.75
+   ],
+   "second_floor": [
+    9.2,
+    11.45
+   ],
+   "eaves_wall_line": [
+    12.4,
+    13.0
+   ],
+   "fire_wall_profile": [
+    [
+     0.47,
+     12.67
+    ],
+    [
+     2.46,
+     16.22
+    ],
+    [
+     4.67,
+     19.19
+    ],
+    [
+     9.15,
+     20.1
+    ],
+    [
+     15.1,
+     19.09
+    ]
+   ],
+   "chimney_top": 21.0,
+   "sodra_gable": {
+    "shoulders": [
+     15.15,
+     15.23
+    ],
+    "oval": [
+     13.21,
+     15.19
+    ],
+    "top": 19.12,
+    "finial": 20.32
+   },
+   "north_gable": {
+    "top": 19.31,
+    "finial": 20.25
+   },
+   "oriel_A_cap": 14.4,
+   "corner_dome": [
+    15.1,
+    15.8
+   ]
+  },
+  "modelled_m": {
+   "eaves": 12.8,
+   "copper_break": 15.6,
+   "roof_top": 19.8,
+   "chimney_top": 21.05,
+   "sodra_gable": {
+    "shoulder": 15.3,
+    "oval": [
+     13.2,
+     15.2
+    ],
+    "top": 19.2,
+    "finial": 20.3
+   },
+   "north_gable": {
+    "shoulder": 15.0,
+    "top": 19.3,
+    "finial": 20.25
+   },
+   "oriel_caps": 14.38,
+   "corner_dome": 15.0
+  }
+ },
+ "collision": {
+  "floor_samples": 157,
+  "floor_failures": 0,
+  "capsule_segments": 153,
+  "obstructions": 3,
+  "verified_detours": [
+   {
+    "route": "main front 1 1.2 m",
+    "actor": "Kvarnholmen_House_92204170",
+    "segments": 3,
+    "length_m": 3.02,
+    "offset_m": 0.8
+   }
+  ],
+  "unresolved": 0,
+  "routes": 4
+ },
+ "calibration": {
+  "features": 58,
+  "median_px": 5.0,
+  "max_px": 35,
+  "within_8_px": 49,
+  "not_calibrated": [
+   "171_Block30_Corner: its camera position was fitted to the model (2.3 m from the reported one), so it is a review view only."
+  ]
+ },
+ "backups": "source/backups/block30/",
+ "status": "passed"
+}

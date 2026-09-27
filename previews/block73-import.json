@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "time": 1790529679.968962,
+  "meshes": [
+    {
+      "name": "SM_Kvarnholmen_House_93192422",
+      "nanite": true,
+      "materials_assigned": true,
+      "bounds_finite": true
+    }
+  ]
+}

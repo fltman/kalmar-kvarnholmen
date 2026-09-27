@@ -1,0 +1,441 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are marked on the Unreal review shot of the same camera (same heading, pitch and vertical field of view, registered position); deviations in panorama pixels, read from 2x crops round each mark.",
+  "views": {
+    "184_Block33_Cal_West": {
+      "panorama": "q_j13p984e3sQzXY_V2QiA heading 332 tilt 90",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block33-184_Block33_Cal_West.png",
+      "features": [
+        {
+          "feature": "corner pier right edge",
+          "panorama_px": [
+            280,
+            450
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "shop 1 left",
+          "panorama_px": [
+            470,
+            450
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "shop 1 right",
+          "panorama_px": [
+            755,
+            450
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "shop 2 left",
+          "panorama_px": [
+            875,
+            450
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "shop 2 right",
+          "panorama_px": [
+            1160,
+            450
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop window top",
+          "panorama_px": [
+            610,
+            352
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "plinth top",
+          "panorama_px": [
+            800,
+            556
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "band top",
+          "panorama_px": [
+            800,
+            225
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "band bottom",
+          "panorama_px": [
+            800,
+            250
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "first-floor sill",
+          "panorama_px": [
+            750,
+            160
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "window 1 left",
+          "panorama_px": [
+            365,
+            100
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "window 5 right",
+          "panorama_px": [
+            1140,
+            100
+          ],
+          "deviation_px": 7
+        },
+        {
+          "feature": "gate arch surround left",
+          "panorama_px": [
+            1316,
+            450
+          ],
+          "deviation_px": 9,
+          "note": "seen 55 degrees off axis: sensitive to the risalit protrusion (0.1 m modelled)"
+        }
+      ],
+      "median_px": 3,
+      "max_px": 9
+    },
+    "185_Block33_Cal_West_Roof": {
+      "panorama": "q_j13p984e3sQzXY_V2QiA heading 332 tilt 122",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block33-185_Block33_Cal_West_Roof.png",
+      "features": [
+        {
+          "feature": "cornice top",
+          "panorama_px": [
+            735,
+            143.8
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "dentil band bottom",
+          "panorama_px": [
+            735,
+            175.7
+          ],
+          "deviation_px": null,
+          "note": "excluded: in the Unreal lighting the dentils merge with the lit corona soffit and cannot be read"
+        },
+        {
+          "feature": "2nd window top",
+          "panorama_px": [
+            735,
+            203.8
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "2nd window bottom",
+          "panorama_px": [
+            735,
+            256
+          ],
+          "deviation_px": 12,
+          "note": "the glass bottom is hidden by the shared window helper's metal weather sill (0.3 m proud), which the real, shallower sills do not do in the steep view"
+        },
+        {
+          "feature": "segmental pediment top",
+          "panorama_px": [
+            735,
+            278.4
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "cornice head bottom",
+          "panorama_px": [
+            735,
+            299
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "1st window top",
+          "panorama_px": [
+            735,
+            329
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "1st window bottom",
+          "panorama_px": [
+            735,
+            422.6
+          ],
+          "deviation_px": 8,
+          "note": "the glass bottom is hidden by the shared window helper's metal weather sill (0.3 m proud), which the real, shallower sills do not do in the steep view"
+        },
+        {
+          "feature": "band bottom",
+          "panorama_px": [
+            735,
+            495.5
+          ],
+          "deviation_px": 2
+        }
+      ],
+      "median_px": 3.5,
+      "max_px": 12
+    },
+    "186_Block33_Cal_East": {
+      "panorama": "NsbpDaBYc-xnl4h5sOBt2Q heading 332 tilt 90",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block33-186_Block33_Cal_East.png",
+      "features": [
+        {
+          "feature": "gate left",
+          "panorama_px": [
+            459,
+            450
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "gate right",
+          "panorama_px": [
+            637,
+            450
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "gate arch top",
+          "panorama_px": [
+            548,
+            307
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "arch surround top",
+          "panorama_px": [
+            548,
+            278
+          ],
+          "deviation_px": 7
+        },
+        {
+          "feature": "band top (wing)",
+          "panorama_px": [
+            900,
+            235
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "band bottom (wing)",
+          "panorama_px": [
+            900,
+            262
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "first-floor sill",
+          "panorama_px": [
+            830,
+            170
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop A left",
+          "panorama_px": [
+            790,
+            450
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "shop A right",
+          "panorama_px": [
+            1045,
+            450
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop A top",
+          "panorama_px": [
+            900,
+            348
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "door left",
+          "panorama_px": [
+            1290,
+            450
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "window 6 left",
+          "panorama_px": [
+            790,
+            100
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 9 right",
+          "panorama_px": [
+            1370,
+            100
+          ],
+          "deviation_px": 3
+        }
+      ],
+      "median_px": 3,
+      "max_px": 7
+    },
+    "187_Block33_Cal_East_Roof": {
+      "panorama": "NsbpDaBYc-xnl4h5sOBt2Q heading 332 tilt 122",
+      "screenshot_size": [
+        1417,
+        840
+      ],
+      "render": "previews/block33-187_Block33_Cal_East_Roof.png",
+      "features": [
+        {
+          "feature": "pediment apex",
+          "panorama_px": [
+            619,
+            122
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "pediment left end",
+          "panorama_px": [
+            493,
+            152
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "pediment right end",
+          "panorama_px": [
+            743,
+            152
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "cornice top (wing)",
+          "panorama_px": [
+            1000,
+            149
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "risalit 2nd window top",
+          "panorama_px": [
+            608,
+            207
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "medallion centre",
+          "panorama_px": [
+            591,
+            295
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "risalit 1st window bottom",
+          "panorama_px": [
+            577,
+            428
+          ],
+          "deviation_px": 11,
+          "note": "the glass bottom is hidden by the shared window helper's metal weather sill (0.3 m proud), which the real, shallower sills do not do in the steep view"
+        },
+        {
+          "feature": "wing 2nd window top",
+          "panorama_px": [
+            1000,
+            209
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "wing 1st window top",
+          "panorama_px": [
+            1000,
+            336
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "wing 1st window bottom",
+          "panorama_px": [
+            1000,
+            432
+          ],
+          "deviation_px": 11,
+          "note": "the glass bottom is hidden by the shared window helper's metal weather sill (0.3 m proud), which the real, shallower sills do not do in the steep view"
+        }
+      ],
+      "median_px": 3.0,
+      "max_px": 11
+    }
+  },
+  "features": 44,
+  "median_px": 3.0,
+  "max_px": 12,
+  "within_8_px": 40,
+  "triangulated": {
+    "pediment_apex": {
+      "z": 12.99,
+      "out_m": 0.81,
+      "ray_gap_m": 0.03
+    },
+    "medallion_centre": {
+      "z": 8.24,
+      "out_m": 0.18,
+      "ray_gap_m": 0.17
+    },
+    "segmental_frame_top": {
+      "z": 8.63,
+      "out_m": 0.47,
+      "ray_gap_m": 0.04
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+ "status": "passed",
+ "method": "Whole-view comparison of each panorama with its dry render from the same camera (90 degree vertical field of view, same image aspect), read on half-scale pairs and doubled to panorama pixels.",
+ "note": "The cream house roof shows much more above the eaves in the panorama than in the model: the real roof is steeper or the eaves lower than modelled; the dormers are placed from the one view.",
+ "views": {
+  "285_Block47_Cal_Stone": [
+   {
+    "feature": "stone house windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "band",
+    "deviation_px": 8
+   },
+   {
+    "feature": "garage",
+    "deviation_px": 8
+   },
+   {
+    "feature": "narrow house window",
+    "deviation_px": 8
+   },
+   {
+    "feature": "plinth",
+    "deviation_px": 6
+   },
+   {
+    "feature": "eaves",
+    "deviation_px": 10
+   }
+  ],
+  "286_Block47_Cal_Cream": [
+   {
+    "feature": "upper windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "ground windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "band",
+    "deviation_px": 8
+   },
+   {
+    "feature": "plinth",
+    "deviation_px": 8
+   },
+   {
+    "feature": "eaves",
+    "deviation_px": 10
+   },
+   {
+    "feature": "roof and dormers",
+    "deviation_px": 30
+   }
+  ]
+ },
+ "features": 12,
+ "median_px": 8.0,
+ "max_px": 30,
+ "within_8_px": 9
+}

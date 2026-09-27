@@ -1,0 +1,67 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1372x871) with its dry render (1200x706) from the same camera at 90 degree vertical field of view; panorama pixels are scaled by 0.81 about the image centre.",
+  "note": "Two readings of the scale disagree: anchored on the wooden house's OSM corners the camera stands 1.86 m over the pavement and the pair of panoramas is 8.3 m apart; spaced by their GPS positions (10.5 m, consistent with pass 52) it stands 2.38 m up and the wooden house measures 12.8 m against 10.0 m in OSM. Ölandsgatan 8 uses the GPS-spaced frame mapped onto its OSM joints; the wooden house uses the frame anchored on its own OSM corners, which keeps its proportions.",
+  "views": {
+    "305_Block53_Cal_Number8": [
+      {
+        "feature": "upper windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "shop windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "portal",
+        "deviation_px": 8
+      },
+      {
+        "feature": "joint with the wooden house",
+        "deviation_px": 12
+      },
+      {
+        "feature": "band over the ground floor",
+        "deviation_px": 6
+      },
+      {
+        "feature": "cornice (tilted view)",
+        "deviation_px": 10
+      }
+    ],
+    "306_Block53_Cal_Wooden": [
+      {
+        "feature": "west corner",
+        "deviation_px": 3
+      },
+      {
+        "feature": "joint with Ölandsgatan 8",
+        "deviation_px": 3
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 5
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 4
+      },
+      {
+        "feature": "door",
+        "deviation_px": 6
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 13,
+  "median_px": 6.0,
+  "max_px": 12,
+  "within_8_px": 10
+}

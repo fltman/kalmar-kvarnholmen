@@ -1,0 +1,58 @@
+{
+ "pass": 38,
+ "subject": "Two district volumes on the north side of Södra Långgatan: number 27 (92379256) and the Barometern building (92379310).",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block38-zones": "passed",
+  "block38-build": "passed",
+  "block38-repeatability": "passed",
+  "block38-materials": "passed",
+  "block38-import": "passed",
+  "block38-render-audit": "passed",
+  "block38-collision": "passed",
+  "block38-calibration": "passed",
+  "block38-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Building_92379256": 23208,
+  "SM_Building_92379310": 84269
+ },
+ "triangles": 107477,
+ "collision": {
+  "floor_samples": 209,
+  "floor_failures": 0,
+  "capsule_segments": 203,
+  "obstructions": 2,
+  "verified_detours": [
+   {
+    "route": "n27 front 1 1.2 m",
+    "actor": "Building_92379256",
+    "segments": 2,
+    "length_m": 2.24,
+    "offset_m": 0.8
+   }
+  ]
+ },
+ "calibration": {
+  "features": 30,
+  "median_px": 4.0,
+  "max_px": 10,
+  "within_8_px": 28
+ },
+ "fixed_during_the_pass": [
+  "the review cameras' pitch sign (+5°, as the panoramas' 95° tilt)",
+  "number 27's upper windows 4.24-5.99 with surrounds 3.97-6.21 (the first build had them 0.3 m too short, from a misread row)"
+ ],
+ "backups": "source/backups/block38/",
+ "status": "passed"
+}

@@ -1,0 +1,46 @@
+{
+ "pass": 37,
+ "subject": "OSM way 92379313 on the south side of Södra Långgatan: the grey office house, the yellow house number 28 and the corner house on Ölandsgatan, with the courtyard block behind.",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block37-zones": "passed",
+  "block37-build": "passed",
+  "block37-repeatability": "passed",
+  "block37-materials": "passed",
+  "block37-import": "passed",
+  "block37-render-audit": "passed",
+  "block37-collision": "passed",
+  "block37-calibration": "passed",
+  "block37-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed"
+ },
+ "triangles": 160968,
+ "collision": {
+  "floor_samples": 213,
+  "floor_failures": 0,
+  "capsule_segments": 203,
+  "obstructions": 0
+ },
+ "calibration": {
+  "features": 34,
+  "median_px": 3.0,
+  "max_px": 13,
+  "within_8_px": 33
+ },
+ "fixed_during_the_pass": [
+  "the grey and grey-brown renders cooler (they rendered pink-beige)",
+  "the grey house's downpipes at 4.32 and 17.40 m (they had been placed from an unregistered camera, 0.8 m off)",
+  "the corner house's shop windows down to 0.05 m",
+  "the Unreal reimport rerun with the old import report removed (the first rerun had kept the previous mesh)"
+ ],
+ "backups": "source/backups/block37/",
+ "status": "passed"
+}

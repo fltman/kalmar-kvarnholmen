@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "floor_samples": 144,
+  "floor_failures": [],
+  "capsule_segments": 141,
+  "obstructions": [
+    {
+      "route": "sb front 1 2.0 m",
+      "kind": "front",
+      "from": [
+        -54.60209389498985,
+        -6.876808501142703
+      ],
+      "to": [
+        -55.61432550903995,
+        -6.870536839785855
+      ],
+      "actor": "Storgatan_Furniture",
+      "impact_cm": [
+        -5493.7705078125,
+        705.9817504882812,
+        50.84929275512695
+      ],
+      "verified_detour": [
+        [
+          -52.602132282761474,
+          -6.88920001488767
+        ],
+        [
+          -52.60708888825946,
+          -7.689184659779019
+        ],
+        [
+          -57.61924372676631,
+          -7.658129970932236
+        ],
+        [
+          -57.61428712126832,
+          -6.858145326040887
+        ]
+      ]
+    }
+  ],
+  "routes": {
+    "sb front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 59,
+      "floor_failures": 0,
+      "capsule_segments": 58,
+      "obstructions": 0
+    },
+    "sb front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 59,
+      "floor_failures": 0,
+      "capsule_segments": 58,
+      "obstructions": 1
+    },
+    "Västra Sjögatan (155005045)": {
+      "kind": "street",
+      "floor_samples": 26,
+      "floor_failures": 0,
+      "capsule_segments": 25,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:26:50.917167",
+  "verified_detours": [
+    {
+      "route": "sb front 1 2.0 m",
+      "actor": "Storgatan_Furniture",
+      "segments": 1,
+      "length_m": 1.01,
+      "offset_m": 0.8
+    }
+  ],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

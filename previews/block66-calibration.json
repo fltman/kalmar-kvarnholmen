@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "The gateway panorama stands about 4 m from the facade and was placed on the joint with the 1964 block and its base row (camera 2.3 m high); it fixes the gateway and the ground-floor cornice (3.56 m). The east panorama was placed on the east corner at that cornice height and chained on the joint and the gateway edge in a second view along the street; its window positions agree with the gateway view within about 0.2 m. The roof, the eaves height above the measured window heads and the courtyard wing are estimates.",
+  "views": {
+    "349_Block66_Cal_Gate": [
+      {
+        "feature": "west joint",
+        "deviation_px": 4
+      },
+      {
+        "feature": "gateway",
+        "deviation_px": 8
+      },
+      {
+        "feature": "ground-floor cornice",
+        "deviation_px": 12
+      },
+      {
+        "feature": "first-floor window",
+        "deviation_px": 10
+      }
+    ],
+    "350_Block66_Cal_East": [
+      {
+        "feature": "west joint",
+        "deviation_px": 14
+      },
+      {
+        "feature": "gateway",
+        "deviation_px": 16
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "triple window",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 9,
+  "median_px": 12.0,
+  "max_px": 16,
+  "within_8_px": 2
+}

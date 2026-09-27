@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "zones": {
+    "wh": {
+      "area_m2": 396.8,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 63.0
+    }
+  },
+  "checks": {
+    "footprint_m2": 396.9,
+    "zoned_m2": 396.8,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 0.15,
+    "overlap_m2": 0.0
+  }
+}

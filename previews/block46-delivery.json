@@ -1,0 +1,58 @@
+{
+ "pass": 46,
+ "subject": "The district volumes 92379258 and 92379298 on the south side of Ölandsgatan: the salmon house (number 20), the courtyard wall with its gate, the grey roughcast house and the cream house with the rusticated ground floor.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block46-zones": "passed",
+  "block46-build": "passed",
+  "block46-repeatability": "passed",
+  "block46-materials": "passed",
+  "block46-import": "passed",
+  "block46-render-audit": "passed",
+  "block46-collision": "passed",
+  "block46-calibration": "passed",
+  "block46-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed",
+  "block41-repeatability (unchanged)": "passed",
+  "block42-repeatability (unchanged)": "passed",
+  "block43-repeatability (unchanged)": "passed",
+  "block44-repeatability (unchanged)": "passed",
+  "block45-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379258": 96722,
+  "SM_Kvarnholmen_House_92379298": 55006
+ },
+ "triangles": 151728,
+ "collision": {
+  "floor_samples": 82,
+  "floor_failures": 0,
+  "capsule_segments": 73,
+  "obstructions": 0,
+  "verified_detours": []
+ },
+ "calibration": {
+  "features": 18,
+  "median_px": 8.0,
+  "max_px": 30,
+  "within_8_px": 11
+ },
+ "fixed_during_the_pass": [
+  "the courtyard between the salmon and the grey house has no building on the street in OSM; the tall wall there is added as a freestanding wall on the street line",
+  "panorama \"21 Ölandsgatan\" (the salmon house) sat 0.7 m off in the chain; it is placed on the joint with the wall instead"
+ ],
+ "backups": "source/backups/block46/",
+ "status": "passed"
+}

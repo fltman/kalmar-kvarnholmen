@@ -3,17 +3,17 @@
   "compared_to_previous": true,
   "meshes": {
     "SM_Kvarnholmen_House_90965009": {
-      "sha256_geometry_uv_materials": "9faa821d6641388646005ec1a37dce9659ce3dbad8da3ed92683d935982389f3",
-      "vertices": 57322,
-      "polygons": 104533
+      "sha256_geometry_uv_materials": "1d9102bdf116f1148890451bb07b720d86f931b17b93bf2821a3ff9e9c8e5539",
+      "vertices": 57274,
+      "polygons": 104446
     },
     "SM_Kvarnholmen_House_90965025": {
-      "sha256_geometry_uv_materials": "a40ced44e0939050a8b1c4b5b8bd788cc9849c30399e556d5030b37d7d442a8d",
-      "vertices": 90985,
-      "polygons": 167018
+      "sha256_geometry_uv_materials": "0bba69df1ee2ac3d686afd69a08d9a6dd1893bb97c5724d688c67ce9ed265c1d",
+      "vertices": 91033,
+      "polygons": 167058
     },
     "SM_Station24_Canopy": {
-      "sha256_geometry_uv_materials": "e91fd1850855fb594f99a56ad3213483626413a375ad8cc2a657290fc2a29296",
+      "sha256_geometry_uv_materials": "ed325821fc0dccc7eccc2ce366f40ec6b5d398fa32d256517e85b500413d0e80",
       "vertices": 728,
       "polygons": 1336
     }

@@ -1,6 +1,21 @@
 # Kalmar C station house — pass 24
 
-Research date: 2026-09-23. Exterior model of the station house (OSM ways 90965009 "Centralstation" and 90965025) replacing the district-17 generic volumes. Photographs and panoramas are working references only: no pixel is used as a texture. Street View was viewed in the browser; no panorama, depth or 3D data was extracted from Google.
+Research date: 2026-09-23.
+
+> **Correction in pass 28.** The heights below were measured with the camera assumed 2.5 m high at the reported panorama position. Pass 28 resected both panoramas against the 1910 corner and the tower instead. The positions were 1.1 and 1.5 m off, and the April 2025 roof camera stands 2.22 m high.
+>
+> The 1910 front, its roof break, the tower and the 1874 eave come out about 7 % lower. The model now has:
+> - 1910 windows at 5.36–7.41 and 8.95–10.87 m, arch tops at 3.8 m
+> - the cornice at 12.15 m and the roof break at 15.15 m
+> - the clock at 15.0 m
+> - the tower body at 8.9 m, the slate drum at 10.9 m and the spire at 18.8 m
+> - the 1874 eave at 8.9 m and the south wing at 9.5 m.
+>
+> Two quantities were right as measured:
+> - The lantern base, measured at its front edge, is 20.8 m.
+> - The 1874 windows were already right.
+>
+> The 1874 range is indeed longer than mapped: both resected panoramas put its north-west end 23.0–23.2 m from the 1910 step, so the extension is 1.3 m, not 1.6 m. See `references/block28-notes.md`. Exterior model of the station house (OSM ways 90965009 "Centralstation" and 90965025) replacing the district-17 generic volumes. Photographs and panoramas are working references only: no pixel is used as a texture. Street View was viewed in the browser; no panorama, depth or 3D data was extracted from Google.
 
 ## History used for interpretation
 

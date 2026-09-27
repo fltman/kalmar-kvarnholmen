@@ -1,0 +1,110 @@
+{
+ "status": "passed",
+ "method": "Whole-view comparison of each panorama with its Unreal review shot at the same angular scale (90 degree vertical field of view, the shot padded to the panorama width), read on half-scale pairs and doubled to panorama pixels (about 4 px reading error).",
+ "views": {
+  "268_Block44_Cal_Olands": [
+   {
+    "feature": "upper windows",
+    "deviation_px": 10
+   },
+   {
+    "feature": "ground windows",
+    "deviation_px": 8
+   },
+   {
+    "feature": "base",
+    "deviation_px": 14
+   },
+   {
+    "feature": "cornice",
+    "deviation_px": 20
+   },
+   {
+    "feature": "portal crest",
+    "deviation_px": 10
+   },
+   {
+    "feature": "west pilaster",
+    "deviation_px": 20
+   },
+   {
+    "feature": "window edges",
+    "deviation_px": 4
+   }
+  ],
+  "270_Block44_Cal_Yellow": [
+   {
+    "feature": "corner house east end",
+    "deviation_px": 20
+   },
+   {
+    "feature": "yellow house ends",
+    "deviation_px": 20
+   },
+   {
+    "feature": "yellow eaves",
+    "deviation_px": 10
+   },
+   {
+    "feature": "dormer",
+    "deviation_px": 10
+   },
+   {
+    "feature": "door",
+    "deviation_px": 6
+   },
+   {
+    "feature": "gate",
+    "deviation_px": 10
+   }
+  ],
+  "271_Block44_Cal_White": [
+   {
+    "feature": "upper windows",
+    "deviation_px": 10
+   },
+   {
+    "feature": "ground windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "door",
+    "deviation_px": 10
+   },
+   {
+    "feature": "pilaster",
+    "deviation_px": 20
+   },
+   {
+    "feature": "band",
+    "deviation_px": 10
+   }
+  ],
+  "273_Block44_Cal_Gable_Up": [
+   {
+    "feature": "gable apex",
+    "deviation_px": 0
+   },
+   {
+    "feature": "gable windows",
+    "deviation_px": 10
+   },
+   {
+    "feature": "cornice",
+    "deviation_px": 10
+   },
+   {
+    "feature": "upper windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "lower windows",
+    "deviation_px": 8
+   }
+  ]
+ },
+ "features": 23,
+ "median_px": 10,
+ "max_px": 20,
+ "within_8_px": 7
+}

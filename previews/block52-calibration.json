@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1372x871) with its dry render (1200x706) from the same camera at 90 degree vertical field of view; panorama pixels are scaled by 0.81 about the image centre.",
+  "note": "The corner house's gable and roof were read from a view tilted up 35 degrees on the facade plane; its Kaggensgatan side was seen only obliquely from the crossing and keeps a plain rhythm. The camera height came out at 2.64 m, higher than the usual 2.2-2.4 m, because each panorama is anchored on its own corners without a shared edge.",
+  "views": {
+    "302_Block52_Cal_Corner": [
+      {
+        "feature": "upper windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "shop windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "first axis",
+        "deviation_px": 12
+      },
+      {
+        "feature": "glazed door",
+        "deviation_px": 5
+      },
+      {
+        "feature": "joint with the green house",
+        "deviation_px": 1
+      },
+      {
+        "feature": "east corner pilaster",
+        "deviation_px": 15
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 3
+      },
+      {
+        "feature": "green house upper windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "green house shop windows",
+        "deviation_px": 8
+      }
+    ],
+    "303_Block52_Cal_Green": [
+      {
+        "feature": "joint with Ölandsgatan 8",
+        "deviation_px": 4
+      },
+      {
+        "feature": "shop windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "door",
+        "deviation_px": 8
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 14,
+  "median_px": 8.0,
+  "max_px": 15,
+  "within_8_px": 10
+}

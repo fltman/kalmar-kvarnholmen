@@ -1,0 +1,210 @@
+{
+  "status": "passed",
+  "floor_samples": 209,
+  "floor_failures": [],
+  "capsule_segments": 203,
+  "obstructions": [
+    {
+      "route": "n27 front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        -97.87303076068626,
+        -70.09094509916123
+      ],
+      "to": [
+        -96.75064953986795,
+        -70.09741010494105
+      ],
+      "actor": "Building_92379256",
+      "impact_cm": [
+        -9708.111328125,
+        6980.552734375,
+        54.19999694824219
+      ],
+      "verified_detour": [
+        [
+          -99.87299758298863,
+          -70.07942512998693
+        ],
+        [
+          -99.87760557065835,
+          -70.87941185890787
+        ],
+        [
+          -93.632909484417,
+          -70.91538180881612
+        ],
+        [
+          -93.62830149674728,
+          -70.11539507989518
+        ]
+      ]
+    },
+    {
+      "route": "n27 front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        -96.75064953986795,
+        -70.09741010494105
+      ],
+      "to": [
+        -95.62826831904965,
+        -70.10387511072088
+      ],
+      "actor": "Building_92379256",
+      "impact_cm": [
+        -9674.8984375,
+        6980.73974609375,
+        54.19999313354492
+      ],
+      "verified_detour": [
+        [
+          -99.87299758298863,
+          -70.07942512998693
+        ],
+        [
+          -99.87760557065835,
+          -70.87941185890787
+        ],
+        [
+          -93.632909484417,
+          -70.91538180881612
+        ],
+        [
+          -93.62830149674728,
+          -70.11539507989518
+        ]
+      ]
+    }
+  ],
+  "routes": {
+    "n27 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 2
+    },
+    "n27 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "bar front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 77,
+      "floor_failures": 0,
+      "capsule_segments": 76,
+      "obstructions": 0
+    },
+    "bar front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 77,
+      "floor_failures": 0,
+      "capsule_segments": 76,
+      "obstructions": 0
+    },
+    "Södra Långgatan (35771877)": {
+      "kind": "street",
+      "floor_samples": 29,
+      "floor_failures": 0,
+      "capsule_segments": 28,
+      "obstructions": 0
+    },
+    "Södra Långgatan (35771890)": {
+      "kind": "street",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:24:50.858868",
+  "verified_detours": [
+    {
+      "route": "n27 front 1 1.2 m",
+      "actor": "Building_92379256",
+      "segments": 2,
+      "length_m": 2.24,
+      "offset_m": 0.8
+    }
+  ],
+  "unresolved_obstructions": [],
+  "house_obstructions": [
+    {
+      "route": "n27 front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        -97.87303076068626,
+        -70.09094509916123
+      ],
+      "to": [
+        -96.75064953986795,
+        -70.09741010494105
+      ],
+      "actor": "Building_92379256",
+      "impact_cm": [
+        -9708.111328125,
+        6980.552734375,
+        54.19999694824219
+      ],
+      "verified_detour": [
+        [
+          -99.87299758298863,
+          -70.07942512998693
+        ],
+        [
+          -99.87760557065835,
+          -70.87941185890787
+        ],
+        [
+          -93.632909484417,
+          -70.91538180881612
+        ],
+        [
+          -93.62830149674728,
+          -70.11539507989518
+        ]
+      ]
+    },
+    {
+      "route": "n27 front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        -96.75064953986795,
+        -70.09741010494105
+      ],
+      "to": [
+        -95.62826831904965,
+        -70.10387511072088
+      ],
+      "actor": "Building_92379256",
+      "impact_cm": [
+        -9674.8984375,
+        6980.73974609375,
+        54.19999313354492
+      ],
+      "verified_detour": [
+        [
+          -99.87299758298863,
+          -70.07942512998693
+        ],
+        [
+          -99.87760557065835,
+          -70.87941185890787
+        ],
+        [
+          -93.632909484417,
+          -70.91538180881612
+        ],
+        [
+          -93.62830149674728,
+          -70.11539507989518
+        ]
+      ]
+    }
+  ],
+  "houses_on_streets": []
+}

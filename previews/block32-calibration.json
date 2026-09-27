@@ -1,0 +1,398 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are marked on the Unreal review shot of the same camera (same heading, pitch and vertical field of view, registered position); deviations in panorama pixels, read from 2x crops round each mark.",
+  "views": {
+    "179_Block32_Cal_L22": {
+      "panorama": "OJsABBpfYDKfTwbBx4oiEA heading 62 tilt 90",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block32-179_Block32_Cal_L22.png",
+      "features": [
+        {
+          "feature": "north joint",
+          "panorama_px": [
+            515,
+            420
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "south joint",
+          "panorama_px": [
+            1225,
+            420
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "window 1 top-left",
+          "panorama_px": [
+            588,
+            170
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 3 top-left",
+          "panorama_px": [
+            833,
+            170
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 5 top-right",
+          "panorama_px": [
+            1157,
+            170
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "upper window bottom",
+          "panorama_px": [
+            862,
+            268
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "frieze top",
+          "panorama_px": [
+            860,
+            290
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop-floor cornice",
+          "panorama_px": [
+            860,
+            330
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "arch 1 crown",
+          "panorama_px": [
+            670,
+            345
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "arch 2 left jamb",
+          "panorama_px": [
+            835,
+            450
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "door arch top",
+          "panorama_px": [
+            1128,
+            362
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "cornice top",
+          "panorama_px": [
+            860,
+            105
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "dormer 1 top",
+          "panorama_px": [
+            730,
+            45
+          ],
+          "deviation_px": 9,
+          "note": "the dormers were rebuilt 1.5 m wide under segmental roofs after the first review shots put round-topped ones 16 px high; 9 px low in the level view, 4 px in the pitched one"
+        }
+      ],
+      "median_px": 3,
+      "max_px": 9
+    },
+    "180_Block32_Cal_L22_Roof": {
+      "panorama": "OJsABBpfYDKfTwbBx4oiEA heading 62 tilt 118",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block32-180_Block32_Cal_L22_Roof.png",
+      "features": [
+        {
+          "feature": "cornice top",
+          "panorama_px": [
+            860,
+            340
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "dormer top",
+          "panorama_px": [
+            740,
+            308
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "upper window top",
+          "panorama_px": [
+            855,
+            388
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "upper window bottom",
+          "panorama_px": [
+            855,
+            470
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "frieze",
+          "panorama_px": [
+            860,
+            490
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop-floor cornice",
+          "panorama_px": [
+            860,
+            530
+          ],
+          "deviation_px": 2
+        }
+      ],
+      "median_px": 1.5,
+      "max_px": 4
+    },
+    "181_Block32_Cal_L24": {
+      "panorama": "-Ee_IDb23AIapoWT7FMqHA heading 62 tilt 90",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block32-181_Block32_Cal_L24.png",
+      "features": [
+        {
+          "feature": "north end",
+          "panorama_px": [
+            195,
+            420
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "south joint",
+          "panorama_px": [
+            1097,
+            420
+          ],
+          "deviation_px": 0
+        },
+        {
+          "feature": "window 1 top-left",
+          "panorama_px": [
+            362,
+            140
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 3 top-left",
+          "panorama_px": [
+            610,
+            140
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 6 top-right",
+          "panorama_px": [
+            1040,
+            140
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "pediment apex",
+          "panorama_px": [
+            640,
+            92
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "balcony left end",
+          "panorama_px": [
+            430,
+            260
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "balcony right end",
+          "panorama_px": [
+            810,
+            260
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "balcony rail top",
+          "panorama_px": [
+            620,
+            230
+          ],
+          "deviation_px": 7,
+          "note": "the balcony railings read high on the facade plane; both balconies were lowered 0.15-0.2 m after the first review shots (8-17 px high)"
+        },
+        {
+          "feature": "panel top",
+          "panorama_px": [
+            330,
+            262
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "shop-floor cornice top",
+          "panorama_px": [
+            620,
+            300
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "glazed doors left",
+          "panorama_px": [
+            760,
+            470
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "glazed doors top",
+          "panorama_px": [
+            920,
+            380
+          ],
+          "deviation_px": 0
+        }
+      ],
+      "median_px": 3,
+      "max_px": 7
+    },
+    "182_Block32_Cal_L24_Roof": {
+      "panorama": "-Ee_IDb23AIapoWT7FMqHA heading 62 tilt 125",
+      "screenshot_size": [
+        1419,
+        840
+      ],
+      "render": "previews/block32-182_Block32_Cal_L24_Roof.png",
+      "features": [
+        {
+          "feature": "attic dormer top",
+          "panorama_px": [
+            640,
+            222
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "cornice top",
+          "panorama_px": [
+            640,
+            250
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "cornice bottom",
+          "panorama_px": [
+            640,
+            285
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "2nd-floor window top",
+          "panorama_px": [
+            545,
+            302
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "2nd-floor window bottom",
+          "panorama_px": [
+            545,
+            365
+          ],
+          "deviation_px": 8,
+          "note": "the window bottom is hidden behind the balcony railing; the reading is its edge"
+        },
+        {
+          "feature": "2nd balcony rail top",
+          "panorama_px": [
+            615,
+            330
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "1st-floor window top",
+          "panorama_px": [
+            610,
+            430
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "1st pediment apex",
+          "panorama_px": [
+            610,
+            400
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "1st balcony rail top",
+          "panorama_px": [
+            570,
+            505
+          ],
+          "deviation_px": 7
+        },
+        {
+          "feature": "shop-floor cornice",
+          "panorama_px": [
+            570,
+            590
+          ],
+          "deviation_px": 8,
+          "note": "read on a console under the balcony; uncertain"
+        }
+      ],
+      "median_px": 2.0,
+      "max_px": 8
+    }
+  },
+  "features": 42,
+  "median_px": 3.0,
+  "max_px": 9,
+  "within_8_px": 41
+}

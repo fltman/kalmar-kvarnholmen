@@ -1,0 +1,73 @@
+{
+  "pass": 62,
+  "subject": "The district volume 91885537 on Östra Sjögatan: the cream rendered two-storey house with paired round-headed ground windows over a rusticated cellar storey, a corbel frieze and a raised attic band.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block62-zones": "passed",
+    "block62-build": "passed",
+    "block62-repeatability": "passed",
+    "block62-materials": "passed",
+    "block62-import": "passed",
+    "block62-render-audit": "passed",
+    "block62-collision": "passed",
+    "block62-calibration": "passed",
+    "block62-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed",
+    "block51-repeatability (unchanged)": "passed",
+    "block52-repeatability (unchanged)": "passed",
+    "block53-repeatability (unchanged)": "passed",
+    "block54-repeatability (unchanged)": "passed",
+    "block55-repeatability (unchanged)": "passed",
+    "block56-repeatability (unchanged)": "passed",
+    "block57-repeatability (unchanged)": "passed",
+    "block58-repeatability (unchanged)": "passed",
+    "block59-repeatability (unchanged)": "passed",
+    "block60-repeatability (unchanged)": "passed",
+    "block61-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_91885537": 64150
+  },
+  "triangles": 64150,
+  "collision": {
+    "floor_samples": 31,
+    "floor_failures": 0,
+    "capsule_segments": 29,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 10,
+    "median_px": 8.0,
+    "max_px": 15,
+    "within_8_px": 7
+  },
+  "backups": "source/backups/block62/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed",
+  "fixed_during_the_pass": [
+    "the second panorama placed on shared window edges instead of its GPS spacing (0.8 m)",
+    "the attic band extended to its measured ends"
+  ]
+}

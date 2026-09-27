@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kvarnholmen_House_91222222": {
+      "sha256_geometry_uv_materials": "ce12d62668c1891833f0aecc769b3d1bfdfa3c4afa28b388ba2ac1ba0d58b1df",
+      "vertices": 177586,
+      "polygons": 322963
+    },
+    "SM_Kvarnholmen_House_91856621": {
+      "sha256_geometry_uv_materials": "ae4caa8ae26a60919afbb4e7cedd038ee9cfc1d9d2aa28e7fe7d0460844d68ff",
+      "vertices": 43167,
+      "polygons": 76773
+    },
+    "SM_Kvarnholmen_House_91856599": {
+      "sha256_geometry_uv_materials": "56d681cd6aba43506335c24f53d57da5eea8a538c414c2b085cce9dc4d7c976d",
+      "vertices": 34919,
+      "polygons": 63437
+    },
+    "SM_Kvarnholmen_House_91856613": {
+      "sha256_geometry_uv_materials": "9de95856d8f2ad56da7057c8f9ef10575c33b571a7166536227758107af94f1a",
+      "vertices": 62808,
+      "polygons": 114788
+    },
+    "SM_Kvarnholmen_House_91856604": {
+      "sha256_geometry_uv_materials": "271036ffb6497ffc4fc7ae8e91c4eb5d1fcac2fdb4136c16aa8410388ecfc0a7",
+      "vertices": 47051,
+      "polygons": 85016
+    },
+    "SM_Kvarnholmen_House_91856615": {
+      "sha256_geometry_uv_materials": "246a1251c67b1da735e4864b98c4e28155794fca35f296a3a790e9143e8b21a7",
+      "vertices": 28905,
+      "polygons": 52239
+    },
+    "SM_Kvarnholmen_House_91856624": {
+      "sha256_geometry_uv_materials": "89b91bbc8c3168e9230f4bf8195d36ce09bbcc675f221c887fb2e79afa1cd5bc",
+      "vertices": 70618,
+      "polygons": 128646
+    },
+    "SM_Kvarnholmen_House_91856594": {
+      "sha256_geometry_uv_materials": "452bedf8799d30ad6ef5bdc297ea65af9451c68c17f88caeb3cb5156bc039694",
+      "vertices": 42696,
+      "polygons": 77754
+    },
+    "SM_Kvarnholmen_House_91856619": {
+      "sha256_geometry_uv_materials": "14ddfdc89cb44508740d23fce0c9c3de7547bb96a314553b6af5597a84c7de3f",
+      "vertices": 4548,
+      "polygons": 8120
+    },
+    "SM_Kvarnholmen_House_91856622": {
+      "sha256_geometry_uv_materials": "63b9d5db45d125a966c09e6f5639b8fe9b51101f6edc1a1b752e3efaa46be0a1",
+      "vertices": 45394,
+      "polygons": 81775
+    }
+  }
+}

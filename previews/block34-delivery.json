@@ -1,0 +1,134 @@
+{
+ "pass": 34,
+ "subject": "The three low houses on Södra Långgatan east of number 16: the Blanc house (18, OSM 92379287), the yellow house (21, 92379267) and the cream house (92379282), with their rear ranges.",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block34-zones": "passed",
+  "block34-build": "passed",
+  "block34-repeatability": "passed",
+  "block34-materials": "passed",
+  "block34-import": "passed",
+  "block34-render-audit": "passed",
+  "block34-collision": "passed",
+  "block34-calibration": "passed",
+  "block34-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379287": 27820,
+  "SM_Kvarnholmen_House_92379267": 30568,
+  "SM_Kvarnholmen_House_92379282": 32334
+ },
+ "triangles": 90722,
+ "data": {
+  "zones": {
+   "b18": {
+    "area_m2": 120.7,
+    "polygons": 1,
+    "walls": 3,
+    "outer_m": 12.1
+   },
+   "b18r": {
+    "area_m2": 238.9,
+    "polygons": 1,
+    "walls": 1,
+    "outer_m": 0
+   },
+   "y21": {
+    "area_m2": 112.7,
+    "polygons": 1,
+    "walls": 5,
+    "outer_m": 13.8
+   },
+   "y21r": {
+    "area_m2": 138.7,
+    "polygons": 1,
+    "walls": 4,
+    "outer_m": 25.7
+   },
+   "c23": {
+    "area_m2": 118.2,
+    "polygons": 1,
+    "walls": 3,
+    "outer_m": 12.0
+   },
+   "c23r": {
+    "area_m2": 190.3,
+    "polygons": 1,
+    "walls": 9,
+    "outer_m": 38.3
+   }
+  },
+  "checks": {
+   "footprint_m2": 919.6,
+   "zoned_m2": 919.5,
+   "outside_osm_m2": 0.0,
+   "osm_not_zoned_m2": 0.09,
+   "overlap_m2": -0.0
+  },
+  "registration": {
+   "18": {
+    "camera": [
+     -154.08,
+     -74.2,
+     2.3
+    ],
+    "distance_m": 5.65,
+    "residual_m": 0.014
+   },
+   "21": {
+    "camera": [
+     -133.32,
+     -73.97,
+     2.2
+    ],
+    "distance_m": 5.44,
+    "residual_m": 0.006
+   },
+   "22": {
+    "camera": [
+     -113.9,
+     -73.99,
+     2.2
+    ],
+    "distance_m": 5.14,
+    "residual_m": 0.005
+   }
+  },
+  "modelled_m": {
+   "blanc_eaves": 6.08,
+   "yellow_eaves": 5.9,
+   "cream_eaves": 6.15,
+   "roof_tops": [
+    9.3,
+    9.5
+   ]
+  }
+ },
+ "collision": {
+  "floor_samples": 91,
+  "floor_failures": 0,
+  "capsule_segments": 83,
+  "obstructions": 0,
+  "unresolved": 0,
+  "routes": 8
+ },
+ "calibration": {
+  "features": 51,
+  "median_px": 3,
+  "max_px": 11,
+  "within_8_px": 48
+ },
+ "fixed_during_the_pass": [
+  "the Blanc house eaves 0.13 m higher (gutter 13 px low)",
+  "the yellow house windows taller under the fabric awnings, the awnings 0.25 m higher (the panorama window top was the awning edge)",
+  "the yellow house dormer taller and wider (11-17 px low)"
+ ],
+ "backups": "source/backups/block34/",
+ "status": "passed"
+}

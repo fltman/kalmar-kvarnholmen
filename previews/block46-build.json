@@ -1,0 +1,79 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_92379258": {
+      "mikk_zero_loops_before_export_repair": 67,
+      "vertices": 53588,
+      "polygons": 96722,
+      "reprojected_polygons": 796,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 67,
+        "Binormals": 67
+      }
+    },
+    "SM_Kvarnholmen_House_92379298": {
+      "mikk_zero_loops_before_export_repair": 35,
+      "vertices": 30276,
+      "polygons": 55006,
+      "reprojected_polygons": 276,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 35,
+        "Binormals": 35
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_92379258",
+    "SM_Kvarnholmen_House_92379298"
+  ],
+  "cameras": [
+    "280_Block46_Cal_Salmon",
+    "281_Block46_Cal_Wall",
+    "282_Block46_Cal_Grey",
+    "283_Block46_Cal_Cream",
+    "284_Block46_Aerial"
+  ],
+  "prepared_unchanged": [
+    "SM_Kvarnholmen_House_91222222",
+    "SM_Kvarnholmen_House_91856621",
+    "SM_Kvarnholmen_House_91856599",
+    "SM_Kvarnholmen_House_91856613",
+    "SM_Kvarnholmen_House_91856604",
+    "SM_Kvarnholmen_House_91856615",
+    "SM_Kvarnholmen_House_91856624",
+    "SM_Kvarnholmen_House_91856594",
+    "SM_Kvarnholmen_House_91856619",
+    "SM_Kvarnholmen_House_91856622",
+    "SM_Kvarnholmen_House_92204156",
+    "SM_Kvarnholmen_House_92204161",
+    "SM_Kvarnholmen_House_92204198",
+    "SM_Kvarnholmen_House_92204187",
+    "SM_Kvarnholmen_House_92204189",
+    "SM_Kvarnholmen_House_92204170",
+    "SM_Kvarnholmen_House_92204162",
+    "SM_Kvarnholmen_House_92204181",
+    "SM_Kvarnholmen_House_92204160",
+    "SM_Kvarnholmen_House_92379302",
+    "SM_Kvarnholmen_House_92379287",
+    "SM_Kvarnholmen_House_92379267",
+    "SM_Kvarnholmen_House_92379282",
+    "SM_Kvarnholmen_House_92379316",
+    "SM_Kvarnholmen_House_92379296",
+    "SM_Kvarnholmen_House_92379286",
+    "SM_Kvarnholmen_House_92379313",
+    "SM_Building_92379256",
+    "SM_Building_92379310",
+    "SM_Building_92412869",
+    "SM_Building_92412859",
+    "SM_Building_92412832",
+    "SM_Building_92412846",
+    "SM_Building_92412838",
+    "SM_Kvarnholmen_House_92412873",
+    "SM_Building_91846978",
+    "SM_Kvarnholmen_House_92412862",
+    "SM_Kvarnholmen_House_92379262",
+    "SM_Kvarnholmen_House_92379314"
+  ]
+}

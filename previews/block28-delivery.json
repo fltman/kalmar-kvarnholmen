@@ -1,0 +1,147 @@
+{
+ "pass": 28,
+ "subject": "The Larmgatan–Kaggensgatan block: Södra Långgatan 8, Södra Långgatan 10 (gate house and corner house), Kaggensgatan 5, the courtyard house and the three Ölandsgatan houses (OSM ways 91856615, 91856624, 91856594, 91856619, 91856622), and the re-measured pass 26 houses on Larmgatan; the re-measured pass 24 station house (OSM 90965009, 90965025)",
+ "author": "Claude (Anthropic), 2026-09-23",
+ "reports": {
+  "block28-zones": "passed",
+  "larm26-zones": "passed",
+  "block28-build": "passed",
+  "block28-fbx-audit": "passed",
+  "block28-repeatability": "passed",
+  "block28-materials": "passed",
+  "block28-import": "passed",
+  "block28-render-audit": "passed",
+  "block28-collision": "passed",
+  "block28-calibration": "passed",
+  "station24-zones": "passed",
+  "station24-build": "passed",
+  "station24-repeatability": "passed",
+  "station24-materials": "passed",
+  "station24-import": "passed",
+  "station24-render-audit": "passed",
+  "station24-collision": "passed",
+  "station24-fbx-audit": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_91222222": 322963,
+  "SM_Kvarnholmen_House_91856621": 76773,
+  "SM_Kvarnholmen_House_91856599": 63437,
+  "SM_Kvarnholmen_House_91856613": 114788,
+  "SM_Kvarnholmen_House_91856604": 85016,
+  "SM_Kvarnholmen_House_91856615": 52239,
+  "SM_Kvarnholmen_House_91856624": 128646,
+  "SM_Kvarnholmen_House_91856594": 77754,
+  "SM_Kvarnholmen_House_91856619": 8120,
+  "SM_Kvarnholmen_House_91856622": 81775
+ },
+ "triangles": 1011511,
+ "data": {
+  "zones_m2": {
+   "sl8": 459.2,
+   "sl10w": 372.6,
+   "sl10c": 273.5,
+   "sl10yard": 605.3,
+   "k5": 281.2,
+   "k5yard": 147.5,
+   "court": 165.4,
+   "o5w": 329.7,
+   "o5m": 177.0,
+   "k3": 203.5
+  },
+  "checks": {
+   "footprint_m2": 3017.9,
+   "zoned_m2": 3014.9,
+   "outside_osm_m2": 0.0,
+   "osm_not_zoned_m2": 2.97,
+   "overlap_m2": 0.0,
+   "chamfer_m2": 2.9
+  },
+  "measured_on_facade_plane_m": {
+   "sodra8_cornice": 8.2,
+   "sodra8_pediment": 10.9,
+   "sodra10_cornice": 9.3,
+   "sodra10_pediment": 10.6,
+   "kaggens5_eaves": 7.8,
+   "olands5_eaves": 8.6,
+   "olands_gate_house_eaves": 8.1,
+   "corner_house_eaves": 10.4,
+   "larmgatan10_cornice": 11.4,
+   "larmgatan8_cornice": 9.9,
+   "larmgatan6_eaves": 10.7,
+   "oddfellows_cornice": 16.3
+  },
+  "modelled_m": {
+   "sodra8_cornice": 7.8,
+   "sodra8_pediment": 10.5,
+   "sodra10_cornice": 8.85,
+   "sodra10_pediment": 10.1,
+   "kaggens5_eaves": 7.45,
+   "olands5_eaves": 8.6,
+   "olands_gate_house_eaves": 8.1,
+   "corner_house_eaves": 9.8,
+   "larmgatan10_cornice": 10.75,
+   "larmgatan8_cornice": 9.6,
+   "larmgatan8_attic": 12.2,
+   "larmgatan6_eaves": 10.5,
+   "oddfellows_corner_bays": 12.2,
+   "oddfellows_block": 15.3
+  },
+  "camera_height_m": "2.0-2.2 above the facade base (April 2025 roof camera)",
+  "materials": 25,
+  "cameras": [
+   "137_Larm_Bank_Plaza",
+   "138_Larm_Bank_North",
+   "139_Larm_Street_North",
+   "140_Larm_L8",
+   "141_Larm_OddFellow",
+   "142_Larm_Aerial",
+   "143_Larm_Cal_Plaza",
+   "151_Block28_Cal_SL8",
+   "152_Block28_SL10_Risalit",
+   "153_Block28_Corner",
+   "154_Block28_Kaggensgatan",
+   "155_Block28_K5",
+   "156_Block28_Olands_W",
+   "157_Block28_Cal_Olands_E",
+   "158_Block28_Aerial",
+   "159_Block28_OddFellows",
+   "160_Block28_Larm8",
+   "161_Block28_Cal_Larm10"
+  ]
+ },
+ "collision": {
+  "floor_samples": 1252,
+  "floor_failures": 0,
+  "capsule_segments": 1216,
+  "obstructions": 4,
+  "verified_detours": 1,
+  "unresolved": 0,
+  "obstacle": "bank entrance steps on Södra Långgatan (pass 26), detour 0.8 m further out"
+ },
+ "calibration": {
+  "features": 71,
+  "median_abs_px": 3.5,
+  "max_abs_px": 16.5,
+  "within_8_px": 63
+ },
+ "status": "passed",
+ "station_correction": {
+  "modelled_m": {
+   "1910_cornice": 12.15,
+   "roof_break": 15.15,
+   "lantern_base": 20.9,
+   "clock": 15.0,
+   "tower_body": 8.9,
+   "tower_drum": 10.9,
+   "tower_spire": 18.8,
+   "range1874_eave": 8.9,
+   "wing_eave": 9.5
+  },
+  "range1874_extension_m": 1.3,
+  "collision": {
+   "floor_samples": 128,
+   "capsule_segments": 119
+  },
+  "camera": "162_Station_Cal_Resected"
+ }
+}

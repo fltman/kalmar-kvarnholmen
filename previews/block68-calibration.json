@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "One panorama about 6.7 m from the facade, resected on both corners of the cottage; its base row puts the camera 2.15 m high. The eaves stand at 2.78 m, far below the district height of 6.65. The dormers stand 0.6 m in from the wall line on a lower roof slope of about 56 degrees, which meets the upper roof at 6.1 m; the upper roof, the chimney height and the yard side are estimates.",
+  "views": {
+    "355_Block68_Cal_Front": [
+      {
+        "feature": "corners",
+        "deviation_px": 8
+      },
+      {
+        "feature": "door",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 6
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 10
+      },
+      {
+        "feature": "chimney",
+        "deviation_px": 16
+      }
+    ]
+  },
+  "features": 6,
+  "median_px": 8.0,
+  "max_px": 16,
+  "within_8_px": 4
+}

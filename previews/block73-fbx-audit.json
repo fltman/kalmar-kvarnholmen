@@ -1,0 +1,22 @@
+{
+  "SM_Kvarnholmen_House_93192422": {
+    "Normals": {
+      "vectors": 21579,
+      "min_length": 0.9999998530488616,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 107994,
+      "min_length": 0.9999998328670269,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 107994,
+      "min_length": 0.9999997430636939,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+ "pass": 45,
+ "subject": "The district volumes 92379262 and 92379314 on the south side of Ölandsgatan: the yellow stone house, the entrance link, the beige house of 1909 with two front gables and three dormers, and the Frösunda house.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block45-zones": "passed",
+  "block45-build": "passed",
+  "block45-repeatability": "passed",
+  "block45-materials": "passed",
+  "block45-import": "passed",
+  "block45-render-audit": "passed",
+  "block45-collision": "passed",
+  "block45-calibration": "passed",
+  "block45-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed",
+  "block41-repeatability (unchanged)": "passed",
+  "block42-repeatability (unchanged)": "passed",
+  "block43-repeatability (unchanged)": "passed",
+  "block44-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379262": 89169,
+  "SM_Kvarnholmen_House_92379314": 16394
+ },
+ "triangles": 105563,
+ "collision": {
+  "floor_samples": 162,
+  "floor_failures": 0,
+  "capsule_segments": 150,
+  "obstructions": 0,
+  "verified_detours": []
+ },
+ "calibration": {
+  "features": 23,
+  "median_px": 8,
+  "max_px": 20,
+  "within_8_px": 12
+ },
+ "fixed_during_the_pass": [
+  "the gables' bodies first rose as flat-topped blocks above the roof; they now close with a back triangle under the gable roofs",
+  "the dry-render region filter hid the Frösunda house (x below -80)"
+ ],
+ "backups": "source/backups/block45/",
+ "status": "passed"
+}

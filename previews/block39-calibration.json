@@ -1,0 +1,263 @@
+{
+ "status": "passed",
+ "method": "Side-by-side crops of the panorama and the Unreal review shot of the same camera at the same angular scale (75° vertical field of view; pano pixel scaled by 1.4165, or 1.190 for the 1428x840 view), a cross-hair on the reading; one value per feature (its worst member), in panorama pixels. The first four facade views were read on the first set of review shots; their facades did not change afterwards. The yellow house views and the roof views were read on the final shots.",
+ "excluded": [
+  "the yellow house's street corner from panorama \"34\": the model's walls stand 0.355 m out of both OSM lines (the project's convention), so a convex corner is 0.36-0.46 m wider than the building; the review camera is shifted for one face only (about 40 px)"
+ ],
+ "views": {
+  "232_Block39_Cal_Grey": [
+   {
+    "feature": "ground window head top",
+    "deviation_px": 1
+   },
+   {
+    "feature": "ground window surround bottom",
+    "deviation_px": 5
+   },
+   {
+    "feature": "ground window surround edge",
+    "deviation_px": 8
+   },
+   {
+    "feature": "gate cornice top",
+    "deviation_px": 2
+   },
+   {
+    "feature": "gate pilaster",
+    "deviation_px": 4
+   },
+   {
+    "feature": "upper window head and eaves",
+    "deviation_px": 5
+   },
+   {
+    "feature": "upper window surround bottom",
+    "deviation_px": 1
+   },
+   {
+    "feature": "east upper window edge",
+    "deviation_px": 6
+   },
+   {
+    "feature": "joint with the salmon house",
+    "deviation_px": 2
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 1
+   }
+  ],
+  "230_Block39_Cal_Salmon": [
+   {
+    "feature": "upper window surround tops",
+    "deviation_px": 7
+   },
+   {
+    "feature": "upper window edge (west)",
+    "deviation_px": 1
+   },
+   {
+    "feature": "upper window edge (east)",
+    "deviation_px": 8
+   },
+   {
+    "feature": "sill band top",
+    "deviation_px": 9
+   },
+   {
+    "feature": "thin band",
+    "deviation_px": 5
+   },
+   {
+    "feature": "ground window surround top",
+    "deviation_px": 4
+   },
+   {
+    "feature": "door surround",
+    "deviation_px": 6
+   },
+   {
+    "feature": "gateway surround",
+    "deviation_px": 5
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 3
+   },
+   {
+    "feature": "string under the cornice",
+    "deviation_px": 1
+   }
+  ],
+  "225_Block39_Cal_Yellow": [
+   {
+    "feature": "upper window tops",
+    "deviation_px": 10
+   },
+   {
+    "feature": "upper window bottoms",
+    "deviation_px": 8
+   },
+   {
+    "feature": "upper window edge",
+    "deviation_px": 2
+   },
+   {
+    "feature": "ground window tops",
+    "deviation_px": 4
+   },
+   {
+    "feature": "ground window bottoms",
+    "deviation_px": 5
+   },
+   {
+    "feature": "pilaster",
+    "deviation_px": 0
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 3
+   },
+   {
+    "feature": "frieze",
+    "deviation_px": 10
+   },
+   {
+    "feature": "joint with the salmon house",
+    "deviation_px": 3
+   },
+   {
+    "feature": "frontispiece pilaster",
+    "deviation_px": 5
+   }
+  ],
+  "227_Block39_Cal_Corner": [
+   {
+    "feature": "upper window tops",
+    "deviation_px": 1
+   },
+   {
+    "feature": "upper window bottoms",
+    "deviation_px": 7
+   },
+   {
+    "feature": "shop window top",
+    "deviation_px": 3
+   },
+   {
+    "feature": "shop window bottom",
+    "deviation_px": 1
+   },
+   {
+    "feature": "shop door edge",
+    "deviation_px": 1
+   },
+   {
+    "feature": "frontispiece pilaster",
+    "deviation_px": 2
+   },
+   {
+    "feature": "pilaster",
+    "deviation_px": 3
+   },
+   {
+    "feature": "upper window head",
+    "deviation_px": 4
+   }
+  ],
+  "229_Block39_Cal_Vsj": [
+   {
+    "feature": "upper window tops",
+    "deviation_px": 10
+   },
+   {
+    "feature": "upper window bottoms",
+    "deviation_px": 5
+   },
+   {
+    "feature": "upper window edge",
+    "deviation_px": 2
+   },
+   {
+    "feature": "pilaster",
+    "deviation_px": 1
+   },
+   {
+    "feature": "shop window top",
+    "deviation_px": 5
+   },
+   {
+    "feature": "shop window bottom",
+    "deviation_px": 4
+   },
+   {
+    "feature": "gate crown",
+    "deviation_px": 1
+   },
+   {
+    "feature": "gate edge",
+    "deviation_px": 2
+   },
+   {
+    "feature": "door transom top",
+    "deviation_px": 6
+   },
+   {
+    "feature": "cornice underside",
+    "deviation_px": 2
+   }
+  ],
+  "226_Block39_Cal_Yellow_Roof": [
+   {
+    "feature": "pediment apex",
+    "deviation_px": 15
+   },
+   {
+    "feature": "attic window top",
+    "deviation_px": 9
+   },
+   {
+    "feature": "east dormer apex",
+    "deviation_px": 7
+   }
+  ],
+  "228_Block39_Cal_Corner_Roof": [
+   {
+    "feature": "pediment apex",
+    "deviation_px": 1
+   },
+   {
+    "feature": "west dormer apex",
+    "deviation_px": 8
+   },
+   {
+    "feature": "roof ridge line",
+    "deviation_px": 4
+   }
+  ],
+  "231_Block39_Cal_Salmon_Roof": [
+   {
+    "feature": "cornice top edge",
+    "deviation_px": 6
+   },
+   {
+    "feature": "string under the cornice",
+    "deviation_px": 2
+   }
+  ],
+  "233_Block39_Cal_Grey_Roof": [
+   {
+    "feature": "grey house chimney top",
+    "deviation_px": 3
+   },
+   {
+    "feature": "salmon cornice end (triangulated corner)",
+    "deviation_px": 3
+   }
+  ]
+ },
+ "features": 58,
+ "median_px": 4.0,
+ "max_px": 15,
+ "within_8_px": 52
+}

@@ -276,16 +276,32 @@ for w in walls('l10'):
  n=max(1,round(L/3.0));st=L/n;us=[-L/2+(k+.5)*st for k in range(n)];holes=[]
  for i,u in enumerate(us):
   holes.append((u,.10,2.0,2.85,0) if i%2==0 else (u,.10,1.10,2.45,0))
-  holes+=[(u,4.60,1.25,1.95,0),(u,7.80,1.20,1.85,0)]
+  holes+=[(u,4.05,1.25,1.70,0),(u,7.72,1.20,1.65,0)]
  bz_wall(m,w['p'],w['q'],0,H10,holes,CR)
  for u,b,ww,hh,r in holes:
   if b<.5:s21_glass(m,x,y,u,b,ww,hh,a,L26['Dark'] if ww>1.5 else TW,3 if ww>1.5 else 1,.80,ww<1.5)
   else:window(m,x,y,u,b,ww,hh,a,TW,CT,'cornice' if b<6 else 'plain')
  s20_plinth(m,x,y,L,a,holes,.40)
- facade_box(m,x,y,0,.40,3.55,L+.12,.12,.60,CT,a);p18_band(m,x,y,L+.6,4.25,a,CT,.30)
+ facade_box(m,x,y,0,.40,3.10,L+.12,.12,.60,CT,a);p18_band(m,x,y,L+.6,3.75,a,CT,.30)
  if sd=='north':
-  for u in us[::2]:s21_shallow_awning(m,x,y,u,3.20,2.2,a,L26['Roundel'],1.0)
+  for u in us[::2]:s21_shallow_awning(m,x,y,u,2.95,2.2,a,L26['Roundel'],1.0)
  lm_cornice(m,x,y,L+.9,H10-.18,a,CT,True)
+# Rectangular oriel on Södra Långgatan over the first floor, 3.4 m wide, centred 5.9 m from
+# Södra Långgatan 8 (measured in pass 28; pass 26 had left it out). Its edges measure 3.5 and
+# 7.0 m on the facade plane; standing 0.9-1.0 m proud, it spans 3.36-6.55 m.
+for w in walls('l10'):
+ x,y,L,a=sf_edge(w['p'],w['q'])
+ if side_of(w,L10_RULES)!='north':continue
+ uo=(-265.33-x)*math.cos(a)+(-78.65-y)*math.sin(a);ow_,od_=3.4,.85
+ facade_box(m,x,y,uo,.36+od_/2,3.86,ow_+.2,od_+.1,.20,CT,a)
+ for zc,hh in ((3.62,.26),(3.44,.18)):facade_box(m,x,y,uo,.40+(od_-.25)/2,zc,ow_-.5-(3.62-zc)*1.6,od_-.25,hh,CT,a)
+ for s in (-1,1):facade_box(m,x,y,uo+s*(ow_/2-.06),.36+od_/2,4.98,.12,od_,2.20,CR,a)
+ facade_box(m,x,y,uo,.36+od_-.05,4.98,ow_,.10,2.20,CR,a)
+ for k in (-1,0,1):
+  facade_box(m,x,y,uo+k*1.02,.36+od_+.01,4.98,.78,.04,1.60,GLAZE,a);town_border(m,*lp(x,y,uo+k*1.02,.36+od_+.02,0,a)[:2],4.98,.78,1.60,a,TW,.05,.05)
+ facade_box(m,x,y,uo,.36+od_/2,6.16,ow_+.28,od_+.22,.16,CT,a)
+ vs=[lp(x,y,uo+du,o,zz,a) for du,o,zz in [(-ow_/2-.14,.36,6.24),(ow_/2+.14,.36,6.24),(ow_/2+.14,.36+od_+.11,6.24),(-ow_/2-.14,.36+od_+.11,6.24),(-ow_/2,.36,6.55),(ow_/2,.36,6.55)]]
+ m.faces(vs,[(0,1,2,3),(3,2,5,4)],RM)
 # Round oriel over the Larmgatan / Södra Långgatan corner, second floor.
 p10=poly('l10');corner=max(p10,key=lambda p:p[1]-p[0]*.02)
 corner=min((p for p in p10 if p[1]>-80),key=lambda p:p[0])
@@ -308,41 +324,53 @@ OGR,GT,DS=L26['OrangeRender'],L26['GreyTrim'],L26['DarkStone'];H8=Z['l8']['heigh
 m=l26_new('SM_Kvarnholmen_House_91856599','Kvarnholmen/Larmgatan')
 for w in walls('l8'):
  x,y,L,a=sf_edge(w['p'],w['q']);ox,oy=outward(w)
- if not(w['kind']=='outer' and ox<-.9 and L>8):plain(m,w,H8,OGR,TW,GT,3,1.2);continue
+ if not(w['kind']=='outer' and ox<-.9 and L>8):plain(m,w,w['z1'],OGR,TW,GT,3,1.2);continue
  # Street front: dark stone shop floor, oriel on the centre axis, two axes either side.
- axes=[-4.35,-2.35,2.35,4.35];holes=[(-3.35,.55,2.9,2.55,0),(3.35,.55,2.9,2.55,0),(0,.20,1.55,2.75,0)]
- for u in axes:holes+=[(u,4.80,1.20,1.80,0)]
- bz_wall(m,w['p'],w['q'],4.20,H8,[h for h in holes if h[1]>4],OGR)
- bz_wall(m,w['p'],w['q'],0,4.20,[h for h in holes if h[1]<4],DS)
+ # Levels re-measured in pass 28 (camera resected against the OSM joints): dark stone to 3.3,
+ # first floor 4.0-5.85, twin arched windows 7.45-8.85, main cornice 9.9, attic storey to 12.2.
+ axes=[-4.35,-2.35,2.35,4.35];holes=[(-3.35,.55,2.9,2.30,0),(3.35,.55,2.9,2.30,0),(0,.20,1.55,2.45,0)]
+ for u in axes:holes+=[(u,4.00,1.20,1.85,0)]
+ bz_wall(m,w['p'],w['q'],3.30,H8,[h for h in holes if h[1]>3.3],OGR)
+ bz_wall(m,w['p'],w['q'],0,3.30,[h for h in holes if h[1]<3.3],DS)
  for u,b,ww,hh,r in holes:
   if b<4:s21_glass(m,x,y,u,b,ww,hh,a,L26['Door'] if b<.4 else L26['Dark'],2 if b<.4 else 3,.82,b<.4)
   else:window(m,x,y,u,b,ww,hh,a,L26['Door'],GT,'cornice')
- for u in (-3.35,3.35):s21_shallow_awning(m,x,y,u,3.35,3.0,a,L26['CreamTrim'],.9)
- facade_box(m,x,y,0,.42,3.95,L+.10,.16,.50,DS,a)
- p18_band(m,x,y,L+.4,4.45,a,GT,.34);p18_band(m,x,y,L+.4,7.45,a,GT,.34)
+ for u in (-3.35,3.35):s21_shallow_awning(m,x,y,u,3.05,3.0,a,L26['CreamTrim'],.9)
+ facade_box(m,x,y,0,.42,3.10,L+.10,.16,.40,DS,a)
+ p18_band(m,x,y,L+.4,3.55,a,GT,.34);p18_band(m,x,y,L+.4,6.95,a,GT,.34)
  # Second floor: twin round-headed windows under one grey surround.
  for u in axes:
-  for s in (-.34,.34):p18_win(m,x,y,u+s,8.30,.56,1.05,.28,a,L26['Door'],GT,2,1)
-  facade_box(m,x,y,u,.44,9.85,1.55,.12,.18,GT,a)
+  for s in (-.34,.34):p18_win(m,x,y,u+s,7.45,.56,1.10,.28,a,L26['Door'],GT,2,1)
+  facade_box(m,x,y,u,.44,9.02,1.55,.12,.18,GT,a)
  for k in range(round(L/.55)):facade_box(m,x,y,-L/2+(k+.5)*L/round(L/.55),.47,H8-.62,.14,.22,.20,GT,a)
  lm_cornice(m,x,y,L+.6,H8-.18,a,GT,False)
  # Corbelled oriel on the centre axis, first and second floor, with the attic gable above.
  ow=2.10;front=.95;out=[(-ow*.62,.36),(-ow*.50,front),(ow*.50,front),(ow*.62,.36)];pp=[lp(x,y,uu,o,0,a)[:2] for uu,o in out]
- m.prism(pp,4.05,4.35,GT);m.prism(pp,7.35,7.55,GT);m.prism(pp,10.35,10.60,GT)
- for zc,hh in ((3.70,.35),(3.35,.35)):facade_box(m,x,y,0,.62,zc,ow*.8-(3.70-zc)*1.2,.55,hh,GT,a)
+ m.prism(pp,3.75,4.00,GT);m.prism(pp,6.85,7.05,GT);m.prism(pp,9.70,9.95,GT)
+ for zc,hh in ((3.40,.35),(3.05,.35)):facade_box(m,x,y,0,.62,zc,ow*.8-(3.40-zc)*1.2,.55,hh,GT,a)
  for i in range(3):
   p0,p1=pp[i],pp[i+1];xx,yy,LL,aa=sf_edge(p0,p1)
-  for b,hh in ((4.55,2.45),(7.75,2.25)):
+  for b,hh in ((4.05,2.70),(7.10,2.55)):
    facade_box(m,xx,yy,0,-.02,b+hh/2,LL,.10,hh,OGR if i!=1 else OGR,aa)
    facade_box(m,xx,yy,0,.04,b+hh/2,LL*.62,.04,hh*.82,GLAZE,aa);town_border(m,xx,yy,b+hh/2,LL*.62,hh*.82,aa,GT,.06,.06)
- for s in (-1,1):facade_box(m,x,y,s*(ow/2+.06),front+.06,7.4,.12,.16,6.3,GT,a)
- gw=2.3;outline=[(-gw/2,H8-.1),(gw/2,H8-.1),(gw/2,H8+.9)]+[(gw/2*math.cos(t*math.pi/12),H8+.9+.75*math.sin(t*math.pi/12)) for t in range(1,13)]
- nn=len(outline);vs=[lp(x,y,uu,o,zz,a) for o in (.02,.62) for uu,zz in outline]
- m.faces(vs,[tuple(range(nn-1,-1,-1)),tuple(range(nn,2*nn))]+[(i,(i+1)%nn,(i+1)%nn+nn,i+nn) for i in range(nn)],OGR)
- p18_win(m,*lp(x,y,0,.30,0,a)[:2],0,H8+.25,.95,.85,.45,a,L26['Door'],GT,2,2)
- town_path(m,[lp(x,y,gw/2*math.cos(t*math.pi/12),.70,H8+.95+.75*math.sin(t*math.pi/12),a) for t in range(13)],.07,GT)
- for u in (-3.35,3.35):roof_dormer(m,x,y,u,a,H8,(Z['l8']['top']-H8)/4.0,.45,.80,.95,GT,L26['Slate'],TW,True)
-p8=simplify(poly('l8'));inset_roof(m,p8,H8,min(4.2,min(math.dist(p8[i],p8[(i+1)%len(p8)]) for i in range(len(p8)))/2-.2),Z['l8']['top']-H8,L26['Slate'],.40)
+ for s in (-1,1):facade_box(m,x,y,s*(ow/2+.06),front+.06,6.85,.12,.16,6.2,GT,a)
+ # Attic storey flush with the front: arched attic lights between grey strips, a small cornice.
+ AT8=Z['l8']['attic'];att=[u for u in (-4.9,-3.8,-2.7,-1.6,1.6,2.7,3.8,4.9)]
+ bz_wall(m,w['p'],w['q'],H8,AT8,[(u,10.55,.55,.72,.25) for u in att],OGR)
+ for u in att:p18_win(m,x,y,u,10.55,.55,.72,.25,a,L26['Door'],GT,2,1)
+ for u in (-5.45,-4.35,-3.25,-2.15,2.15,3.25,4.35,5.45):facade_box(m,x,y,u,.42,(H8+AT8)/2,.20,.10,AT8-H8,GT,a)
+ lm_cornice(m,x,y,L+.4,AT8-.14,a,GT,False)
+ # The oriel carries on through the attic as a small tower with a bell cap and finial.
+ m.prism(pp,9.95,AT8,OGR)
+ for i in range(3):
+  p0,p1=pp[i],pp[i+1];xx,yy,LL,aa=sf_edge(p0,p1)
+  facade_box(m,xx,yy,0,.04,11.05,LL*.45,.04,.75,GLAZE,aa);town_border(m,xx,yy,11.05,LL*.45,.75,aa,GT,.06,.05)
+ m.prism(pp,AT8,AT8+.22,GT)
+ cx_,cy_=sum(q[0] for q in pp)/4,sum(q[1] for q in pp)/4
+ m.lathe(cx_,cy_,AT8+.2,[(1.15,0),(1.05,.35),(.75,.95),(.38,1.45),(.16,1.75)],L26['Slate'],4)
+ m.lathe(cx_,cy_,AT8+1.9,[(.06,0),(.13,.12),(.13,.26),(.04,.36),(.03,1.3),(.012,1.38)],GT,12)
+p8=simplify(poly('l8'));inset_roof(m,p8,Z['l8']['attic'],min(4.2,min(math.dist(p8[i],p8[(i+1)%len(p8)]) for i in range(len(p8)))/2-.2),Z['l8']['top']-Z['l8']['attic'],L26['Slate'],.40)
+
 l26_finish(m,'91856599')
 
 # ---------------------------------------------------------------- Larmgatan 6
@@ -355,7 +383,7 @@ for w in walls('l6'):
  n=max(1,round(L/2.6));st=L/n;us=[-L/2+(k+.5)*st for k in range(n)];holes=[]
  for i,u in enumerate(us):
   holes.append((u,.10,st-.55,3.10,0) if (sd=='west' or i%3!=1) else (u,.10,1.2,2.4,0))
-  holes+=[(u,4.60,1.45,1.40,0),(u,7.05,1.45,1.60,0)]
+  holes+=[(u,5.15,1.45,1.35,0),(u,7.95,1.45,1.35,0)]
  bz_wall(m,w['p'],w['q'],0,H6,holes,BK)
  for u,b,ww,hh,r in holes:
   if b<.5:s21_glass(m,x,y,u,b,ww,hh,a,L26['Dark'],max(1,round(ww/1.0)),.78,ww<1.5)
@@ -363,7 +391,7 @@ for w in walls('l6'):
  for u,b,ww,hh,r in holes:
   if b>6 and (us.index(u)%2==0):lm_rail(m,x,y,ww+.2,b,a,.55,IRON)
  facade_box(m,x,y,0,.40,3.75,L+.10,.12,.50,L26['Dark'],a)
- facade_box(m,x,y,0,.40,6.70,L+.10,.14,.46,BKT,a)
+ facade_box(m,x,y,0,.40,7.35,L+.10,.14,.46,BKT,a)
  facade_box(m,x,y,0,.40,H6+.10,L+.20,.16,.20,BKT,a);lm_rail(m,x,y,L,H6+.15,a,.30,IRON)
  if sd=='west':
   for u in us:s21_shallow_awning(m,x,y,u,3.40,st-.3,a,L26['Awning'],1.4)
@@ -378,7 +406,12 @@ inset_roof(m,att,A6,4.0,Z['l6']['top']-A6,L26['RoofTile'],.35)
 l26_finish(m,'91856613')
 
 # ---------------------------------------------------------------- Larmgatan 2: Odd Fellows
-TRIM=L26['CreamTrim'];ODR,ODG=L26['OddRender'],L26['OddGreen'];HO=Z['oddfellow']['height'];RT=L26D['oddfellow_tower_radius']
+# Re-measured in pass 28 (camera resected against the facade base): three storeys, windows at
+# 4.9-6.9 and 8.4-10.3, the balcony over the entrance on the second floor, and a tall attic zone.
+# The rounded corner bays stop at 12.2 under their own curved cornice and low copper cap; only
+# the central block rises, 3 m clear of the street corners, to its lettered frieze and cornice
+# at 15.3.
+TRIM=L26['CreamTrim'];ODR,ODG=L26['OddRender'],L26['OddGreen'];HO=Z['oddfellow']['height'];UP=Z['oddfellow']['upper'];RT=L26D['oddfellow_tower_radius']
 of=[tuple(p) for p in next(b for b in json.loads((R/'source/kvarnholmen.json').read_text())['buildings'] if b['id']=='91856604')['polygons'][0]['outer']]
 def tower_centre(i):
  a_,b_,c_=of[i-1],of[i],of[(i+1)%len(of)]
@@ -391,12 +424,18 @@ for w in walls('oddfellow'):
  if L<1.0:bz_wall(m,w['p'],w['q'],w['z0'],HO,[],ODR);continue
  if w['kind']=='upper':plain(m,w,HO,ODR,ODG,L26['CreamTrim'],3,1.2);continue
  street=ox<-.9
- n=max(1,round(L/2.3));st=L/n;us=[-L/2+(k+.5)*st for k in range(n)];holes=[]
- for i,u in enumerate(us):
-  if street and i==2:holes.append((u,.25,1.70,2.60,.85))
-  elif street:holes.append((u,.55,1.80,2.40,.90))
-  else:holes.append((u,1.10,1.25,2.00,0))
-  holes+=[(u,4.90,1.40,2.05,0),(u,7.75,1.40,1.85,0)]
+ if street:
+  # Three bays of paired windows (the balcony pair over the portal), two arched shop
+  # windows either side of the portal on the ground floor.
+  # From the straight-on panorama: the portal 2.2 m north of the centre (u runs south), the
+  # balcony pair above it, a pair either side, a single window next to the south corner bay.
+  pc=-2.2;ups=[pc-3.1+s*.62 for s in (-1,1)]+[pc+s*.62 for s in (-1,1)]+[pc+3.1+s*.62 for s in (-1,1)]+[pc+6.1]
+  holes=[(pc,.25,1.70,2.60,.85)]+[(u,.55,1.95,2.40,.95) for u in (pc-3.1,pc+3.1,pc+6.1)]
+  for u in ups:holes+=[(u,4.90,1.02,2.00,0),(u,8.40,1.02,1.90,0)]
+  us=[pc-3.1,pc,pc,pc+3.1]
+ else:
+  n=max(1,round(L/2.3));st=L/n;us=[-L/2+(k+.5)*st for k in range(n)];holes=[]
+  for u in us:holes+=[(u,1.10,1.25,2.00,0),(u,4.90,1.40,2.00,0),(u,8.40,1.40,1.90,0)]
  bz_wall(m,w['p'],w['q'],0,HO,holes,ODR)
  for u,b,ww,hh,r in holes:
   if b<.4:arch_door(m,x,y,u,b,ww,hh,r,a,L26['Door'])
@@ -405,27 +444,39 @@ for w in walls('oddfellow'):
    s21_shallow_awning(m,x,y,u,b+hh+r+.05,ww+.3,a,L26['Awning'],.8)
   else:window(m,x,y,u,b,ww,hh,a,ODG,L26['CreamTrim'],'plain')
  s20_plinth(m,x,y,L,a,holes,.60)
- p18_band(m,x,y,L+.4,4.35,a,L26['CreamTrim'],.30);p18_band(m,x,y,L+.4,7.25,a,L26['CreamTrim'],.26)
- if street:balcony(m,x,y,us[1],4.80,2.4,a,ODG)
- # Frieze band with the lettered name between red roundels, then the parapet coping.
- facade_box(m,x,y,0,.40,10.15,L+.10,.08,.95,L26['CreamTrim'],a)
+ p18_band(m,x,y,L+.4,4.75,a,L26['CreamTrim'],.30);p18_band(m,x,y,L+.4,8.05,a,L26['CreamTrim'],.26)
  if street:
-  text_on(m,x,y,0,10.12,a,'ODD FELLOWS',min(6.5,L*.45),L26['Gold'],.45)
-  for s in (-1,1):
-   for k,uu in enumerate((3.9,4.4)):
-    kk=16;px,py,_=lp(x,y,s*uu,.46,0,a);m.faces([facade_point(px,py,.13*math.cos(t*math.tau/kk),0,10.12+.13*math.sin(t*math.tau/kk),a) for t in range(kk)],[tuple(range(kk))],L26['Roundel'])
- facade_box(m,x,y,0,.46,HO+.05,L+.30,.30,.14,L26['CreamTrim'],a)
+  balcony(m,x,y,us[2],8.28,2.6,a,ODG)
+  # Stucco cartouche over the balcony door.
+  facade_box(m,x,y,us[2],.44,11.15,1.3,.10,.70,L26['CreamTrim'],a)
+  town_path(m,[lp(x,y,us[2]+.62*math.cos(t*math.tau/20),.49,11.15+.36*math.sin(t*math.tau/20),a) for t in range(21)],.05,L26['CreamTrim'])
+ facade_box(m,x,y,0,.42,HO-.08,L+.10,.16,.16,L26['CreamTrim'],a)
 for (cx,cy),(dx,dy) in towers:
- # Round corner turrets: windows on the diagonal, the drum above the parapet, copper cap.
- for b,hh in ((4.90,2.05),(7.75,1.85)):
+ # Rounded corner bays: windows on the diagonal, curved cornice at 12.2, low ribbed copper cap.
+ for b,hh in ((4.90,2.00),(8.40,1.90)):
   px,py=cx+dx*RT,cy+dy*RT;ang=math.atan2(dy,dx)+math.pi/2
   town_window(m,px,py,b+hh/2,1.0,hh,ang,ODG,False,3,2,False);facade_box(m,px,py,0,.14,b-.10,1.2,.30,.10,L26['CreamTrim'],ang)
- m.cylinder(cx,cy,HO-.02,RT-.05,2.30,ODR,32);m.cylinder(cx,cy,HO+2.25,RT+.10,.14,L26['CreamTrim'],32)
- for k in range(6):
-  t=k*math.tau/6;px,py=cx+(RT-.05)*math.cos(t),cy+(RT-.05)*math.sin(t);town_window(m,px,py,HO+1.1,.60,.95,t+math.pi/2,ODG,True,2,2,False)
- m.lathe(cx,cy,HO+2.36,[(RT+.12,0),(RT*.95,.22),(RT*.70,.62),(RT*.40,.98),(.25,1.18),(.10,1.26)],COPPER,24)
- m.lathe(cx,cy,HO+3.60,[(.06,0),(.12,.10),(.12,.24),(.03,.34),(.025,.95),(.01,1.0)],COPPER,12)
-po=simplify(poly('oddfellow'),1.0);inset_roof(m,po,HO-.35,3.2,Z['oddfellow']['top']-HO+.35,COPPER,-.05)
+ m.cylinder(cx,cy,HO-.30,RT+.14,.30,L26['CreamTrim'],32);m.cylinder(cx,cy,HO,RT+.22,.14,L26['CreamTrim'],32)
+ m.lathe(cx,cy,HO+.12,[(RT+.18,0),(RT*.92,.28),(RT*.62,.62),(RT*.30,.90),(.14,1.02),(.06,1.06)],COPPER,24)
+ m.lathe(cx,cy,HO+1.14,[(.05,0),(.10,.08),(.10,.20),(.03,.28),(.02,.70),(.01,.74)],COPPER,12)
+s21_flat_roof(m,simplify(poly('oddfellow'),1.0),HO,METAL)
+# Central block from 12.2 to 15.3 with the lettered frieze between red roundels on Larmgatan.
+upb=[tuple(v) for v in L26D['oddfellow_upper']]
+for p0,p1 in zip(upb,upb[1:]+upb[:1]):
+ x,y,L,a=sf_edge(p0,p1)
+ if L<.3:continue
+ ww={'p':list(p0),'q':list(p1)};ox,oy=outward(ww)
+ bz_wall(m,p0,p1,HO,UP,[],ODR)
+ if ox<-.9 and L>6:lm_cornice(m,x,y,L+.5,UP-.15,a,L26['CreamTrim'],False)
+ else:facade_box(m,x,y,0,.42,UP-.12,L+.14,.20,.24,L26['CreamTrim'],a)
+ if ox<-.9 and L>6:
+  facade_box(m,x,y,0,.40,13.70,L+.10,.08,1.00,L26['CreamTrim'],a)
+  text_on(m,x,y,0,13.66,a,'ODD FELLOWS',min(7.0,L*.55),L26['Gold'],.45)
+  for s in (-1,1):
+   for uu in (4.3,4.8):
+    kk=16;px,py,_=lp(x,y,s*uu,.46,0,a);m.faces([facade_point(px,py,.13*math.cos(t*math.tau/kk),0,13.66+.13*math.sin(t*math.tau/kk),a) for t in range(kk)],[tuple(range(kk))],L26['Roundel'])
+  facade_box(m,x,y,0,.46,12.35,L+.10,.18,.10,L26['CreamTrim'],a)
+s21_flat_roof(m,simplify(upb,.5),UP,METAL)
 l26_finish(m,'91856604')
 
 larm26_cameras=[

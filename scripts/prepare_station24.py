@@ -34,7 +34,7 @@ tower=[xy(ca+rad*math.cos(k*math.tau/32),cd+rad*math.sin(k*math.tau/32)) for k i
 # 1874 range: the four mapped corners; the 0.3 m notch at its north corner is dropped. Two
 # independent April 2025 panoramas (5 Stationsgatan, headings 190/205 and 240) both place the
 # north-west gable 1.4-1.7 m beyond the mapped one, so it is moved out by 1.6 m.
-EXT=1.6
+EXT=1.3   # pass 28: both resected panoramas put the gable 23.0-23.2 m from the step (1.6 gave 23.45)
 def beyond(p,frm,d):v=(p[0]-frm[0],p[1]-frm[1]);l=math.hypot(*v);return (round(p[0]+v[0]/l*d,3),round(p[1]+v[1]/l*d,3))
 range1874=[old[0],beyond(old[2],old[0],EXT),beyond(old[7],old[8],EXT),old[8]]
 site=unary_union([Polygon(old),Polygon(new),Polygon(tower),Polygon(range1874)]).buffer(.01,join_style=2).buffer(-.01,join_style=2)
@@ -46,10 +46,13 @@ seeds=[('tower',tower),('main',main),('range1874',range1874),('wing',wing)]
 # Heights from the April 2025 Street View front, inverted through the pano camera (see notes):
 # 1910 cornice 13.0 m (its 0.78 m projection taken into account), clock 15.3 m, roof break 16.1 m
 # at a 1.6 m inset, lantern base 20.9 m, lantern body top 22.3 m, tower body 9.4 m, slate drum 11.5 m. The 1874 eave (9.3 m) and the south wing are estimated from the same view.
-spec={'range1874':dict(height=9.3,top=12.7,roof='copper_hip',mesh='SM_Kvarnholmen_House_90965009'),
- 'main':dict(height=13.0,band=16.1,inset=1.6,top=20.9,roof='pyramid',mesh='SM_Kvarnholmen_House_90965025'),
- 'tower':dict(height=11.5,body=9.4,top=19.5,roof='bell',mesh='SM_Kvarnholmen_House_90965025'),
- 'wing':dict(height=10.2,top=12.8,roof='hip',mesh='SM_Kvarnholmen_House_90965025')}
+# Pass 28 re-measured these with the camera resected against the 1910 corner and the tower
+# (roof camera 2.22 m high, not 2.5): the 1910 front and its roof break, the tower and the 1874
+# eave were about 7 % high; the lantern base (measured at its front edge) was right.
+spec={'range1874':dict(height=8.9,top=12.3,roof='copper_hip',mesh='SM_Kvarnholmen_House_90965009'),
+ 'main':dict(height=12.15,band=15.15,inset=1.6,top=20.9,roof='pyramid',mesh='SM_Kvarnholmen_House_90965025'),
+ 'tower':dict(height=10.9,body=8.9,top=18.8,roof='bell',mesh='SM_Kvarnholmen_House_90965025'),
+ 'wing':dict(height=9.5,top=12.1,roof='hip',mesh='SM_Kvarnholmen_House_90965025')}
 def flat(g):
  g=g.buffer(0);return [g] if g.geom_type=='Polygon' else [q for c in getattr(g,'geoms',[]) for q in flat(c)]
 def parts(g):return [orient(r) for q in flat(g) for r in flat(q.buffer(-.02,join_style=2).buffer(.02,join_style=2).simplify(.02)) if r.area>1.0]

@@ -2,25 +2,25 @@
   "status": "passed",
   "assets": {
     "SM_Kvarnholmen_House_90965009": {
-      "mikk_zero_loops_before_export_repair": 864,
-      "vertices": 57322,
-      "polygons": 104533,
-      "reprojected_polygons": 2057,
+      "mikk_zero_loops_before_export_repair": 876,
+      "vertices": 57274,
+      "polygons": 104446,
+      "reprojected_polygons": 2099,
       "zero_uv_triangles": 0,
       "export_frame_repairs": {
-        "Tangents": 864,
-        "Binormals": 864
+        "Tangents": 876,
+        "Binormals": 876
       }
     },
     "SM_Kvarnholmen_House_90965025": {
-      "mikk_zero_loops_before_export_repair": 694,
-      "vertices": 90985,
-      "polygons": 167018,
-      "reprojected_polygons": 1479,
+      "mikk_zero_loops_before_export_repair": 771,
+      "vertices": 91033,
+      "polygons": 167058,
+      "reprojected_polygons": 1526,
       "zero_uv_triangles": 0,
       "export_frame_repairs": {
-        "Tangents": 694,
-        "Binormals": 694
+        "Tangents": 771,
+        "Binormals": 771
       }
     },
     "SM_Station24_Canopy": {
@@ -47,6 +47,7 @@
     "126_Station_Platform",
     "127_Station_Aerial",
     "128_Station_Cal_Front",
-    "129_Station_Cal_Tower"
+    "129_Station_Cal_Tower",
+    "162_Station_Cal_Resected"
   ]
 }

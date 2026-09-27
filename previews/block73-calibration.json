@@ -1,0 +1,47 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "One panorama about 8 m from the front, resected on the joint with the house to the north in one heading and on the south corner in another; the base row puts the camera 2.5 m high. Window rows, the band and the cornice are measured on the facade plane. The mansard's top edge is seen at the street but stands about 1 m back; re-read at that depth it reaches about 14 m, and the dormers were raised to match after the first Unreal view hid them behind the cornice. The flat upper roof and the yard side are estimates; the district volume stood at 6.65 m.",
+  "views": {
+    "368_Block73_Cal_Front": [
+      {
+        "feature": "joint",
+        "deviation_px": 6
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "band",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 16
+      }
+    ],
+    "369_Block73_Cal_South": [
+      {
+        "feature": "south corner",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "pilaster strip",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 8,
+  "median_px": 8.0,
+  "max_px": 16,
+  "within_8_px": 5
+}

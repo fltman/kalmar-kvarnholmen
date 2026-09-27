@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "floor_samples": 157,
+  "floor_failures": [],
+  "capsule_segments": 153,
+  "obstructions": [],
+  "routes": {
+    "sl16 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 52,
+      "floor_failures": 0,
+      "capsule_segments": 51,
+      "obstructions": 0
+    },
+    "sl16 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 52,
+      "floor_failures": 0,
+      "capsule_segments": 51,
+      "obstructions": 0
+    },
+    "Södra Långgatan (35771877)": {
+      "kind": "street",
+      "floor_samples": 27,
+      "floor_failures": 0,
+      "capsule_segments": 26,
+      "obstructions": 0
+    },
+    "Kaggensgatan (93182820)": {
+      "kind": "street",
+      "floor_samples": 26,
+      "floor_failures": 0,
+      "capsule_segments": 25,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:24:15.332558",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

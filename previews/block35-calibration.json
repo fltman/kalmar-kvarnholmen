@@ -1,0 +1,731 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are compared with the Unreal review shot of the same camera (same heading, pitch and vertical field of view, registered position). Both images are cut into tiles at the same angular scale round each mark, and the offset between the same edge in the two tiles is read in panorama pixels. Two features hidden by parked cars are excluded.",
+  "views": {
+    "197_Block35_Cal_Wood": {
+      "panorama": "lTpzf8ey8x4uI_Oq8pJ_iw heading 152 tilt 90",
+      "screenshot_size": [
+        1267,
+        750
+      ],
+      "render": "previews/block35-197_Block35_Cal_Wood.png",
+      "features": [
+        {
+          "feature": "east joint",
+          "panorama_px": [
+            149,
+            375
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "west joint",
+          "panorama_px": [
+            880,
+            375
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "win1 top-left",
+          "panorama_px": [
+            231.5,
+            201
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "win2 bottom-right",
+          "panorama_px": [
+            432.5,
+            307.5
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "win3 top-left",
+          "panorama_px": [
+            540,
+            201
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "win4 bottom-right",
+          "panorama_px": [
+            821,
+            307.5
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "pilaster A left",
+          "panorama_px": [
+            466,
+            250
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "pilaster B right",
+          "panorama_px": [
+            699,
+            250
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "band top",
+          "panorama_px": [
+            600,
+            361
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "frieze bottom",
+          "panorama_px": [
+            400,
+            189.5
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "cornice top (gutter)",
+          "panorama_px": [
+            400,
+            148
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "double door top-left",
+          "panorama_px": [
+            489,
+            374
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "shop door right",
+          "panorama_px": [
+            354,
+            420
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "door 2 right",
+          "panorama_px": [
+            752.5,
+            420
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "shop window 4 bottom",
+          "panorama_px": [
+            810,
+            474
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "plinth top",
+          "panorama_px": [
+            640,
+            482.5
+          ],
+          "excluded": "hidden by a parked car in the panorama"
+        },
+        {
+          "feature": "dormer 2 hood top",
+          "panorama_px": [
+            695,
+            42.5
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "dormer 2 sill",
+          "panorama_px": [
+            695,
+            120
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "dormer 1 window left",
+          "panorama_px": [
+            317.5,
+            90
+          ],
+          "deviation_px": 2
+        }
+      ]
+    },
+    "198_Block35_Cal_Wood_Roof": {
+      "panorama": "lTpzf8ey8x4uI_Oq8pJ_iw heading 152 tilt 118",
+      "screenshot_size": [
+        1419,
+        840
+      ],
+      "render": "previews/block35-198_Block35_Cal_Wood_Roof.png",
+      "features": [
+        {
+          "feature": "dormer 1 hood top",
+          "panorama_px": [
+            458.5,
+            312.4
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "dormer 2 hood top",
+          "panorama_px": [
+            764,
+            316.4
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "cornice top (gutter)",
+          "panorama_px": [
+            500,
+            396.4
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "frieze bottom",
+          "panorama_px": [
+            500,
+            426.6
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "dormer 1 sill",
+          "panorama_px": [
+            451,
+            374
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "dormer 2 sill",
+          "panorama_px": [
+            766,
+            375
+          ],
+          "deviation_px": 1
+        }
+      ]
+    },
+    "199_Block35_Cal_Palace": {
+      "panorama": "ZvWlBFFZeDtHzudnWbrZCA heading 152 tilt 90",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block35-199_Block35_Cal_Palace.png",
+      "features": [
+        {
+          "feature": "base",
+          "panorama_px": [
+            760,
+            575.8
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "opening top (c)",
+          "panorama_px": [
+            560,
+            352
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "opening sill (c)",
+          "panorama_px": [
+            560,
+            517.5
+          ],
+          "excluded": "hidden by a parked car in the panorama"
+        },
+        {
+          "feature": "band bottom",
+          "panorama_px": [
+            700,
+            293.2
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "band top",
+          "panorama_px": [
+            700,
+            270.8
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "c east edge",
+          "panorama_px": [
+            531,
+            420
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "d west edge",
+          "panorama_px": [
+            763.8,
+            420
+          ],
+          "deviation_px": 0
+        },
+        {
+          "feature": "e east edge",
+          "panorama_px": [
+            826,
+            420
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "f west edge",
+          "panorama_px": [
+            1055.8,
+            420
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "Ww1 top-left",
+          "panorama_px": [
+            685,
+            101
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "Ww1 bottom-right",
+          "panorama_px": [
+            770,
+            215
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "Ww2 top-left",
+          "panorama_px": [
+            833,
+            101
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "Ww3 bottom-right",
+          "panorama_px": [
+            1066,
+            215
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "Wr3 top-left",
+          "panorama_px": [
+            505,
+            101
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "Wr2 bottom-right",
+          "panorama_px": [
+            453,
+            215
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "W pilaster left",
+          "panorama_px": [
+            607,
+            150
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "W pilaster right",
+          "panorama_px": [
+            661,
+            150
+          ],
+          "deviation_px": 0
+        },
+        {
+          "feature": "W quoin outer",
+          "panorama_px": [
+            1145,
+            150
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "W joint",
+          "panorama_px": [
+            1156,
+            420
+          ],
+          "deviation_px": 3
+        }
+      ]
+    },
+    "200_Block35_Cal_Palace_Roof": {
+      "panorama": "ZvWlBFFZeDtHzudnWbrZCA heading 152 tilt 122",
+      "screenshot_size": [
+        1267,
+        750
+      ],
+      "render": "previews/block35-200_Block35_Cal_Palace_Roof.png",
+      "features": [
+        {
+          "feature": "cornice top",
+          "panorama_px": [
+            750,
+            188
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "corona bottom",
+          "panorama_px": [
+            750,
+            200
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "architrave bottom",
+          "panorama_px": [
+            750,
+            227.5
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "pediment apex",
+          "panorama_px": [
+            476,
+            143.5
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "pediment E foot",
+          "panorama_px": [
+            321,
+            179
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "pediment W foot",
+          "panorama_px": [
+            614,
+            180
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "Ww1 2F top-left",
+          "panorama_px": [
+            616,
+            242.5
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "Ww1 2F bottom-right",
+          "panorama_px": [
+            670,
+            285
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "Ww3 2F top-left",
+          "panorama_px": [
+            792.5,
+            242.5
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "Wr3 2F bottom-right",
+          "panorama_px": [
+            557.5,
+            285
+          ],
+          "deviation_px": 0
+        },
+        {
+          "feature": "W capital top",
+          "panorama_px": [
+            587,
+            227.5
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "W quoin outer (2F)",
+          "panorama_px": [
+            900,
+            230
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "roof dormer 1 top",
+          "panorama_px": [
+            642,
+            177.5
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "roof dormer 3 right",
+          "panorama_px": [
+            820,
+            181
+          ],
+          "deviation_px": 0
+        },
+        {
+          "feature": "1F window top",
+          "panorama_px": [
+            647,
+            342.5
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "1F window bottom",
+          "panorama_px": [
+            647,
+            415
+          ],
+          "deviation_px": 0
+        }
+      ]
+    },
+    "201_Block35_Cal_Palace_East": {
+      "panorama": "lTpzf8ey8x4uI_Oq8pJ_iw heading 205 tilt 90",
+      "screenshot_size": [
+        1267,
+        750
+      ],
+      "render": "previews/block35-201_Block35_Cal_Palace_East.png",
+      "features": [
+        {
+          "feature": "portal W pier outer",
+          "panorama_px": [
+            637.5,
+            375
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "portal door opening E",
+          "panorama_px": [
+            536,
+            375
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "op1 east edge",
+          "panorama_px": [
+            640,
+            375
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "op2 east edge",
+          "panorama_px": [
+            679,
+            375
+          ],
+          "deviation_px": 10
+        },
+        {
+          "feature": "op3 east edge",
+          "panorama_px": [
+            711,
+            375
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "We1 left (first floor)",
+          "panorama_px": [
+            555,
+            201.8
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "We2 left (first floor)",
+          "panorama_px": [
+            625,
+            234.4
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "We3 left (first floor)",
+          "panorama_px": [
+            674,
+            257.2
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "E pilaster left (first floor)",
+          "panorama_px": [
+            699,
+            266.8
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "portal pediment apex",
+          "panorama_px": [
+            587.1,
+            243.2
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "portal pediment E end",
+          "panorama_px": [
+            511.2,
+            258.0
+          ],
+          "deviation_px": 9
+        },
+        {
+          "feature": "portal pediment W end",
+          "panorama_px": [
+            647.8,
+            294.2
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "portal door top",
+          "panorama_px": [
+            574.6,
+            329.2
+          ],
+          "deviation_px": 11
+        },
+        {
+          "feature": "portal frieze top",
+          "panorama_px": [
+            574.6,
+            289.3
+          ],
+          "deviation_px": 3
+        }
+      ]
+    },
+    "202_Block35_Cal_Palace_Pediment": {
+      "panorama": "lTpzf8ey8x4uI_Oq8pJ_iw heading 212 tilt 115",
+      "screenshot_size": [
+        1267,
+        750
+      ],
+      "render": "previews/block35-202_Block35_Cal_Palace_Pediment.png",
+      "features": [
+        {
+          "feature": "pediment apex",
+          "panorama_px": [
+            690,
+            309
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "pediment E foot",
+          "panorama_px": [
+            656,
+            301
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "oculus centre",
+          "panorama_px": [
+            684,
+            330
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "pediment W foot",
+          "panorama_px": [
+            720,
+            370
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "E capital",
+          "panorama_px": [
+            656,
+            335
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "roof dormer 1 top",
+          "panorama_px": [
+            548,
+            160
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "roof dormer 2 top",
+          "panorama_px": [
+            587,
+            207
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "roof dormer 3 top",
+          "panorama_px": [
+            625,
+            252
+          ],
+          "deviation_px": 2
+        }
+      ]
+    }
+  },
+  "features": 80,
+  "median_px": 2.0,
+  "max_px": 11,
+  "within_8_px": 77,
+  "largest": [
+    "the oblique view from \"22\" of the palace ground floor east of the centre (op2 and op3 east edges, 8-10 px): the openings stand in deep reveals and their visible edges depend on the reveal depth",
+    "the portal door top and the portal pediment's east end in the same oblique view (9-11 px)",
+    "the palace's west quoins at the second floor against the sky (8 px)"
+  ]
+}

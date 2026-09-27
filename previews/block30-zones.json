@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "zones": {
+    "main": {
+      "area_m2": 558.6,
+      "walls": 13,
+      "outer_m": 94.3,
+      "upper_m": 32.4
+    }
+  },
+  "checks": {
+    "footprint_m2": 560.1,
+    "zoned_m2": 558.6,
+    "chamfer_m2": 1.43,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 1.43
+  }
+}

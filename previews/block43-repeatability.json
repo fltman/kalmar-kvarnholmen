@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Building_91846978": {
+      "sha256_geometry_uv_materials": "ca8c6f75c77ee0721cd6e36eb947ae6546664130b324e65347440426da9a2b72",
+      "vertices": 233462,
+      "polygons": 419272
+    }
+  }
+}

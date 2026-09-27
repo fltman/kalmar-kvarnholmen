@@ -1,0 +1,87 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_92204156": {
+      "mikk_zero_loops_before_export_repair": 117,
+      "vertices": 25658,
+      "polygons": 46280,
+      "reprojected_polygons": 207,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 117,
+        "Binormals": 117
+      }
+    },
+    "SM_Kvarnholmen_House_92204161": {
+      "mikk_zero_loops_before_export_repair": 5,
+      "vertices": 15294,
+      "polygons": 27328,
+      "reprojected_polygons": 70,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 5,
+        "Binormals": 5
+      }
+    },
+    "SM_Kvarnholmen_House_92204198": {
+      "mikk_zero_loops_before_export_repair": 371,
+      "vertices": 36166,
+      "polygons": 65310,
+      "reprojected_polygons": 222,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 371,
+        "Binormals": 371
+      }
+    },
+    "SM_Kvarnholmen_House_92204187": {
+      "mikk_zero_loops_before_export_repair": 231,
+      "vertices": 66756,
+      "polygons": 121666,
+      "reprojected_polygons": 210,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 231,
+        "Binormals": 231
+      }
+    },
+    "SM_Kvarnholmen_House_92204189": {
+      "mikk_zero_loops_before_export_repair": 208,
+      "vertices": 42313,
+      "polygons": 75891,
+      "reprojected_polygons": 58,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 208,
+        "Binormals": 208
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_92204156",
+    "SM_Kvarnholmen_House_92204161",
+    "SM_Kvarnholmen_House_92204198",
+    "SM_Kvarnholmen_House_92204187",
+    "SM_Kvarnholmen_House_92204189"
+  ],
+  "cameras": [
+    "163_Block29_Cal_SL9",
+    "164_Block29_Cal_SL11",
+    "165_Block29_Cal_Ochre",
+    "166_Block29_Corner_House",
+    "167_Block29_Ochre_West",
+    "168_Block29_Aerial"
+  ],
+  "prepared_unchanged": [
+    "SM_Kvarnholmen_House_91222222",
+    "SM_Kvarnholmen_House_91856621",
+    "SM_Kvarnholmen_House_91856599",
+    "SM_Kvarnholmen_House_91856613",
+    "SM_Kvarnholmen_House_91856604",
+    "SM_Kvarnholmen_House_91856615",
+    "SM_Kvarnholmen_House_91856624",
+    "SM_Kvarnholmen_House_91856594",
+    "SM_Kvarnholmen_House_91856619",
+    "SM_Kvarnholmen_House_91856622"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+ "pass": 40,
+ "subject": "The district volume 92412846 on the south side of Södra Långgatan at the corner of Östra Sjögatan: the white-rendered two-storey stone house (numbers 41-43).",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block40-zones": "passed",
+  "block40-build": "passed",
+  "block40-repeatability": "passed",
+  "block40-materials": "passed",
+  "block40-import": "passed",
+  "block40-render-audit": "passed",
+  "block40-collision": "passed",
+  "block40-calibration": "passed",
+  "block40-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Building_92412846": 116530
+ },
+ "triangles": 116530,
+ "collision": {
+  "floor_samples": 140,
+  "floor_failures": 0,
+  "capsule_segments": 135,
+  "obstructions": 6,
+  "verified_detours": [
+   {
+    "route": "wh front 1 1.2 m",
+    "actor": "Building_92412846",
+    "segments": 3,
+    "length_m": 3.01,
+    "offset_m": 0.8
+   },
+   {
+    "route": "wh front 1 1.2 m",
+    "actor": "Building_92412846",
+    "segments": 3,
+    "length_m": 3.09,
+    "offset_m": 0.8
+   }
+  ]
+ },
+ "calibration": {
+  "features": 28,
+  "median_px": 2.0,
+  "max_px": 9,
+  "within_8_px": 27
+ },
+ "fixed_during_the_pass": [
+  "the wall anchors under the cornice stand on the piers, not over the windows, and the two beside the portal were missing",
+  "two downpipes moved 0.5 m and 0.25 m to their positions in the panoramas",
+  "the chimneys narrowed to 0.8 m; the quoins made paler and flatter"
+ ],
+ "backups": "source/backups/block40/",
+ "status": "passed"
+}

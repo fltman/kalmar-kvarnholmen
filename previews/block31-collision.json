@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "floor_samples": 75,
+  "floor_failures": [],
+  "capsule_segments": 69,
+  "obstructions": [],
+  "routes": {
+    "front front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "front front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Larmgatan (35771870)": {
+      "kind": "street",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "Södra Långgatan (35771877)": {
+      "kind": "street",
+      "floor_samples": 19,
+      "floor_failures": 0,
+      "capsule_segments": 18,
+      "obstructions": 0
+    },
+    "Storgatan (35772928)": {
+      "kind": "street",
+      "floor_samples": 14,
+      "floor_failures": 0,
+      "capsule_segments": 13,
+      "obstructions": 0
+    },
+    "Larmgatan (155121337)": {
+      "kind": "street",
+      "floor_samples": 23,
+      "floor_failures": 0,
+      "capsule_segments": 22,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:24:01.094098",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

@@ -1,0 +1,548 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are marked on the Unreal review shot of the same camera (same heading, pitch and vertical field of view, registered position); deviations in panorama pixels (1512x812, f 406), read round each mark.",
+  "views": {
+    "169_Block30_Cal_Sodra": {
+      "panorama": "OMd4nbCC8ouLpFibQWVWpQ heading 332 tilt 122",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block30-169_Block30_Cal_Sodra.png",
+      "features": [
+        {
+          "feature": "band",
+          "panorama_px": [
+            900,
+            428
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "ground frame top",
+          "panorama_px": [
+            1175,
+            538
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "1st floor L-of-gable TL",
+          "panorama_px": [
+            487,
+            322
+          ],
+          "deviation_px": 16
+        },
+        {
+          "feature": "1st floor gable pair TL",
+          "panorama_px": [
+            712,
+            318
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "1st floor right TL",
+          "panorama_px": [
+            1020,
+            320
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "2nd floor L-of-gable TL",
+          "panorama_px": [
+            545,
+            205
+          ],
+          "deviation_px": 12
+        },
+        {
+          "feature": "2nd floor gable pair TL",
+          "panorama_px": [
+            720,
+            198
+          ],
+          "deviation_px": 7
+        },
+        {
+          "feature": "2nd floor right TL",
+          "panorama_px": [
+            963,
+            203
+          ],
+          "deviation_px": 11
+        },
+        {
+          "feature": "eaves line W",
+          "panorama_px": [
+            600,
+            180
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "eaves line E",
+          "panorama_px": [
+            950,
+            168
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "gable shoulder W",
+          "panorama_px": [
+            690,
+            125
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "gable shoulder E",
+          "panorama_px": [
+            880,
+            125
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "oval top",
+          "panorama_px": [
+            787,
+            125
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "oval bottom",
+          "panorama_px": [
+            787,
+            162
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "gable cap top",
+          "panorama_px": [
+            782,
+            62
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "oriel C corbel bottom",
+          "panorama_px": [
+            190,
+            520
+          ],
+          "deviation_px": 12
+        },
+        {
+          "feature": "oriel C base",
+          "panorama_px": [
+            220,
+            410
+          ],
+          "deviation_px": 4
+        }
+      ],
+      "median_px": 5,
+      "max_px": 16
+    },
+    "170_Block30_Cal_Larmgatan": {
+      "panorama": "KEAPeW7aXu1qr4pPPgOhiA heading 62 tilt 122",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block30-170_Block30_Cal_Larmgatan.png",
+      "features": [
+        {
+          "feature": "band",
+          "panorama_px": [
+            800,
+            420
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "oriel A bracket bottom",
+          "panorama_px": [
+            527,
+            525
+          ],
+          "deviation_px": 10
+        },
+        {
+          "feature": "oriel A apron top",
+          "panorama_px": [
+            612,
+            395
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "oriel A 1st lights top",
+          "panorama_px": [
+            616,
+            280
+          ],
+          "deviation_px": 0
+        },
+        {
+          "feature": "oriel A hood apex",
+          "panorama_px": [
+            645,
+            225
+          ],
+          "deviation_px": 7
+        },
+        {
+          "feature": "oriel A 2nd lights top",
+          "panorama_px": [
+            665,
+            160
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "oriel A cap top",
+          "panorama_px": [
+            675,
+            95
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "1st floor W2 TL",
+          "panorama_px": [
+            768,
+            310
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "1st floor W3 TL",
+          "panorama_px": [
+            1035,
+            308
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "1st floor W1 TL",
+          "panorama_px": [
+            395,
+            312
+          ],
+          "deviation_px": null,
+          "note": "excluded: the pitched-view reading took the slanted lower-left of the window; the level view (sill cols 330-420, s 9.13-10.32) confirms the modelled position"
+        },
+        {
+          "feature": "2nd floor W2 TL",
+          "panorama_px": [
+            765,
+            185
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "2nd floor W3 TL",
+          "panorama_px": [
+            970,
+            183
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "2nd floor W1 TL",
+          "panorama_px": [
+            487,
+            188
+          ],
+          "deviation_px": 14
+        },
+        {
+          "feature": "eaves wall line W",
+          "panorama_px": [
+            500,
+            160
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "eaves wall line E",
+          "panorama_px": [
+            900,
+            152
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "corner oriel corbel",
+          "panorama_px": [
+            1335,
+            460
+          ],
+          "deviation_px": 14
+        }
+      ],
+      "median_px": 4,
+      "max_px": 14
+    },
+    "172_Block30_Firewall": {
+      "panorama": "VzD17BYWiFNzLPEnc3vQig heading 288 tilt 103",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block30-172_Block30_Firewall.png",
+      "features": [
+        {
+          "feature": "fire wall top S end",
+          "panorama_px": [
+            652,
+            200
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "fire wall top c700",
+          "panorama_px": [
+            700,
+            150
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "chimney foot",
+          "panorama_px": [
+            740,
+            125
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "chimney top",
+          "panorama_px": [
+            742,
+            95
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "fire wall top c800",
+          "panorama_px": [
+            800,
+            165
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "fire wall top N end",
+          "panorama_px": [
+            858,
+            232
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "gable finial",
+          "panorama_px": [
+            553,
+            170
+          ],
+          "deviation_px": 7
+        },
+        {
+          "feature": "gable top",
+          "panorama_px": [
+            553,
+            185
+          ],
+          "deviation_px": 8
+        }
+      ],
+      "median_px": 5.0,
+      "max_px": 8
+    },
+    "173_Block30_West": {
+      "panorama": "OMd4nbCC8ouLpFibQWVWpQ heading 285 tilt 112",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block30-173_Block30_West.png",
+      "features": [
+        {
+          "feature": "oriel C corbel bottom",
+          "panorama_px": [
+            692,
+            500
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "oriel C apron",
+          "panorama_px": [
+            700,
+            450
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "oriel C 1st lights bottom",
+          "panorama_px": [
+            710,
+            420
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "oriel C 1st lights top",
+          "panorama_px": [
+            710,
+            335
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "oriel C hood",
+          "panorama_px": [
+            715,
+            310
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "oriel C 2nd lights top",
+          "panorama_px": [
+            715,
+            215
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "oriel C cap",
+          "panorama_px": [
+            745,
+            155
+          ],
+          "deviation_px": 35,
+          "note": "the cap reading in the pitched view is uncertain (see limitations); the Larmgatan oriel cap, measured in its own view, is matched"
+        },
+        {
+          "feature": "corner oriel corbel",
+          "panorama_px": [
+            567,
+            500
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "corner oriel top",
+          "panorama_px": [
+            567,
+            300
+          ],
+          "deviation_px": 27,
+          "note": "corner dome: 15.1 from this view, 15.8 from the fire-wall view; modelled 15.0 + finial"
+        },
+        {
+          "feature": "eaves at c575",
+          "panorama_px": [
+            575,
+            330
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "eaves at c880",
+          "panorama_px": [
+            880,
+            20
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "S|B door frame top-left",
+          "panorama_px": [
+            835,
+            470
+          ],
+          "deviation_px": 8
+        }
+      ],
+      "median_px": 4.0,
+      "max_px": 35
+    },
+    "175_Block30_North_Gable": {
+      "panorama": "KEAPeW7aXu1qr4pPPgOhiA heading 22 tilt 108",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block30-175_Block30_North_Gable.png",
+      "features": [
+        {
+          "feature": "north gable finial top",
+          "panorama_px": [
+            610,
+            92
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "north gable top",
+          "panorama_px": [
+            610,
+            105
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "north gable shoulder S",
+          "panorama_px": [
+            640,
+            150
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "bay S edge (downpipe)",
+          "panorama_px": [
+            628,
+            300
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "eaves c700",
+          "panorama_px": [
+            700,
+            110
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "eaves c760",
+          "panorama_px": [
+            760,
+            70
+          ],
+          "deviation_px": 5
+        }
+      ],
+      "median_px": 5.0,
+      "max_px": 8
+    }
+  },
+  "features": 58,
+  "median_px": 5.0,
+  "max_px": 35,
+  "within_8_px": 49,
+  "not_calibrated": [
+    "171_Block30_Corner: its camera position was fitted to the model (2.3 m from the reported one), so it is a review view only."
+  ]
+}

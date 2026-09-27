@@ -1,0 +1,60 @@
+{
+  "pass": 52,
+  "subject": "The district volumes 91856606 and 91856592 on the south side of Ölandsgatan west of Kaggensgatan: the cream corner house with its steep street gable and the grey-white house with green windows.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block52-zones": "passed",
+    "block52-build": "passed",
+    "block52-repeatability": "passed",
+    "block52-materials": "passed",
+    "block52-import": "passed",
+    "block52-render-audit": "passed",
+    "block52-collision": "passed",
+    "block52-calibration": "passed",
+    "block52-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed",
+    "block51-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_91856606": 32834,
+    "SM_Kvarnholmen_House_91856592": 34076
+  },
+  "triangles": 66910,
+  "collision": {
+    "floor_samples": 72,
+    "floor_failures": 0,
+    "capsule_segments": 67,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 14,
+    "median_px": 8.0,
+    "max_px": 15,
+    "within_8_px": 10
+  },
+  "backups": "source/backups/block52/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed"
+}

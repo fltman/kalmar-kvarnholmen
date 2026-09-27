@@ -1,0 +1,42 @@
+{
+  "SM_Building_92379256": {
+    "Normals": {
+      "vectors": 14906,
+      "min_length": 0.9999998557146965,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 69624,
+      "min_length": 0.9999998501887809,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 69624,
+      "min_length": 0.9999997506972642,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Building_92379310": {
+    "Normals": {
+      "vectors": 35150,
+      "min_length": 0.9999998568607937,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 252807,
+      "min_length": 0.9999998366095547,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 252807,
+      "min_length": 0.9999997409414685,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

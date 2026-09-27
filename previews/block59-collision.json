@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "floor_samples": 33,
+  "floor_failures": [],
+  "capsule_segments": 29,
+  "obstructions": [],
+  "routes": {
+    "gn front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 0
+    },
+    "gn front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (155005043)": {
+      "kind": "street",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (155005044)": {
+      "kind": "street",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:27:19.244974",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

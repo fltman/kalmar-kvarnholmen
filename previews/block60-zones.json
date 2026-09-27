@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "zones": {
+    "gr": {
+      "area_m2": 88.3,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 17.0
+    },
+    "bg": {
+      "area_m2": 182.8,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 28.2
+    },
+    "rs": {
+      "area_m2": 1309.5,
+      "polygons": 1,
+      "walls": 11,
+      "outer_m": 156.2
+    }
+  },
+  "checks": {
+    "footprint_m2": 1580.5,
+    "zoned_m2": 1580.6,
+    "outside_osm_m2": 0.01,
+    "osm_not_zoned_m2": 0.0,
+    "overlap_m2": 0.0
+  }
+}

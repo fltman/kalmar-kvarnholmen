@@ -1,0 +1,69 @@
+{
+ "pass": 42,
+ "subject": "The Östra Sjögatan front of 92412873: the Nordstjernan brewery, three roughcast houses and the yellow corner house Östra Sjögatan 1; the courtyard block and the Wahlberg house kept at pass 17's estimate.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block42-zones": "passed",
+  "block42-build": "passed",
+  "block42-repeatability": "passed",
+  "block42-materials": "passed",
+  "block42-import": "passed",
+  "block42-render-audit": "passed",
+  "block42-collision": "passed",
+  "block42-calibration": "passed",
+  "block42-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed",
+  "block41-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92412873": 187716
+ },
+ "triangles": 187716,
+ "collision": {
+  "floor_samples": 94,
+  "floor_failures": 0,
+  "capsule_segments": 77,
+  "obstructions": 4,
+  "verified_detours": [
+   {
+    "route": "gr front 1 1.2 m",
+    "actor": "Kvarnholmen_House_92412873",
+    "segments": 2,
+    "length_m": 2.25,
+    "offset_m": 0.8
+   },
+   {
+    "route": "ye front 1 1.2 m",
+    "actor": "Kvarnholmen_House_92412873",
+    "segments": 2,
+    "length_m": 2.07,
+    "offset_m": 0.8
+   }
+  ]
+ },
+ "calibration": {
+  "features": 24,
+  "median_px": 5.0,
+  "max_px": 20,
+  "within_8_px": 22
+ },
+ "fixed_during_the_pass": [
+  "the grey house: its shuttered attic storey is in the wall face under the eaves (11.8), not a dormer over eaves at 10.5",
+  "the grey house's blind panels 1.3 m wide (they had merged into one band), the steps in front of its entrance",
+  "the stone strips paler and flatter; a missing downpipe at house 2, a doubled one removed"
+ ],
+ "backups": "source/backups/block42/",
+ "status": "passed"
+}

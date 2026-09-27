@@ -1,0 +1,59 @@
+{
+  "pass": 48,
+  "subject": "The district volume 92379261 on the north side of Ölandsgatan: the pale yellow two-storey house with the gateway.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block48-zones": "passed",
+    "block48-build": "passed",
+    "block48-repeatability": "passed",
+    "block48-materials": "passed",
+    "block48-import": "passed",
+    "block48-render-audit": "passed",
+    "block48-collision": "passed",
+    "block48-calibration": "passed",
+    "block48-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_92379261": 20133
+  },
+  "triangles": 20133,
+  "collision": {
+    "floor_samples": 39,
+    "floor_failures": 0,
+    "capsule_segments": 36,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 13,
+    "median_px": 6.0,
+    "max_px": 46,
+    "within_8_px": 8
+  },
+  "fixed_during_the_pass": [
+    "the iron gate moved from 1.4 m inside the passage to just behind the front after the first comparison",
+    "the dormer re-placed from the two views (x -147.4, front 0.4 m behind the wall line)"
+  ],
+  "backups": "source/backups/block48/",
+  "status": "passed"
+}

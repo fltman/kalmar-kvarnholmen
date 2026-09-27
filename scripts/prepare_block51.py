@@ -1,0 +1,110 @@
+"""Pass 51: the Ölandsgatan range of the district volume 92379292 on the north side, from the
+Kaggensgatan corner to pass 48: the stone house Kronan with its gable to the street, the low range
+with the carriage arch and the heavy cornice, and the old stone house with the half gable rising to
+the party wall. The rest of the block keeps its district height.
+Heights come from three Google Street View panoramas (April 2025) chained on shared window and door
+edges and anchored on the Kaggensgatan corner and pass 48's joint; see references/block51-notes.md.
+Run with Shapely on the path: KALMAR_GEO=/path/to/site-packages python3 prepare_block51.py
+"""
+from pathlib import Path
+import json,math,os,sys
+if os.environ.get('KALMAR_GEO'):sys.path.insert(0,os.environ['KALMAR_GEO'])
+from shapely.geometry import Polygon,Point,box
+from shapely.geometry.polygon import orient
+from shapely.ops import unary_union
+R=Path(__file__).resolve().parents[1]
+district=json.loads((R/'source/kvarnholmen.json').read_text())
+d17=json.loads((R/'source/district17.json').read_text())['buildings']
+def dring(bid):return [tuple(w['p']) for w in d17['SM_Building_'+bid]['walls']]
+def flat(g):
+ g=g.buffer(0);return [g] if g.geom_type=='Polygon' else [q for c in getattr(g,'geoms',[]) for q in flat(c)]
+def parts(g):return [orient(r) for q in flat(g) for r in flat(q.buffer(-.02,join_style=2).buffer(.02,join_style=2).simplify(.02)) if r.area>1.0]
+W92=d17['SM_Kvarnholmen_House_92379292']['walls']
+P92=Polygon([tuple(w['p']) for w in W92[:16]],[[tuple(w['p']) for w in W92[16:]]]).buffer(0)
+PB=P92
+# Kronan to its east quoin (x -171.69) and 14 m deep; the low range to the courtyard; the old stone
+# house to pass 48's joint, 12 m deep.
+seeds=[('kr',P92.intersection(box(-183.5,-141.0,-171.69,-126.0))),('lr',P92.intersection(box(-171.69,-135.1,-159.82,-141.0))),('eg',P92.intersection(box(-159.82,-128.0,-152.0,-141.0))),('bk',P92)]
+# Heights (m) above the facade base: Kronan's eaves 9.8 and its gable to 15.6; the low range's cornice
+# 7.5 under a low roof (not seen); the old stone house 7.84 at its west end rising to 13.3 at the party
+# wall; the rest of the block keeps the district height 9.75.
+spec={'kr':dict(height=9.8,top=15.6),'lr':dict(height=7.5,top=8.3),'eg':dict(height=7.84,top=13.3),'bk':dict(height=9.75,top=11.5)}
+taken=Polygon();zones={}
+for name,seed in seeds:
+ ps=parts(seed.difference(taken));zones[name]=ps;taken=unary_union([taken]+ps)
+scope={'92379292'}
+b39=json.loads((R/'source/block39.json').read_text())['zones']
+others=[(Polygon([tuple(w['p']) for w in v['walls']]).buffer(0),v['H'],v['id']) for v in d17.values() if v['id'] not in scope and len(v['walls'])>=3]
+def neighbour_at(pt):
+ for name,ps in zones.items():
+  if any(p.buffer(.001).contains(pt) for p in ps):return name,spec[name]['height']
+ for g,h,bid in others:
+  if g.buffer(.001).contains(pt):return bid,h
+ return None,0.0
+out={};report={}
+for name,ps in zones.items():
+ H=spec[name]['height'];walls=[]
+ for poly in ps:
+  cs=list(poly.exterior.coords)[:-1]
+  for p,q in zip(cs,cs[1:]+cs[:1]):
+   Lw=math.dist(p,q)
+   if Lw<.05:continue
+   wx,wy=(q[0]-p[0])/Lw,(q[1]-p[1])/Lw;nx,ny=wy,-wx;n=max(1,int(Lw/.2));runs=[]
+   for k in range(n):
+    t=(k+.5)/n;nb,h=neighbour_at(Point(p[0]+wx*Lw*t+nx*.3,p[1]+wy*Lw*t+ny*.3))
+    if runs and runs[-1][0]==nb:runs[-1][3]=(k+1)/n
+    else:runs.append([nb,h,k/n,(k+1)/n])
+   for nb,h,t0,t1 in runs:
+    z0=0.0 if nb is None else h
+    if z0>=H-.05:continue
+    a=(round(p[0]+wx*Lw*t0,3),round(p[1]+wy*Lw*t0,3));b=(round(p[0]+wx*Lw*t1,3),round(p[1]+wy*Lw*t1,3))
+    if math.dist(a,b)<.2:continue
+    walls.append({'p':list(a),'q':list(b),'z0':z0,'z1':H,'kind':'outer' if nb is None else 'upper','neighbour':nb})
+ out[name]=dict(spec[name],polygons=[[list(v) for v in list(p.exterior.coords)[:-1]] for p in ps],walls=walls)
+ report[name]={'area_m2':round(sum(p.area for p in ps),1),'polygons':len(ps),'walls':len(walls),'outer_m':round(sum(math.dist(w['p'],w['q']) for w in walls if w['kind']=='outer'),1)}
+def inner(ring,insets):
+ lines=[]
+ for (p,q),d in zip(zip(ring,ring[1:]+ring[:1]),insets):
+  Lr=math.dist(p,q);ax,ay=(q[0]-p[0])/Lr,(q[1]-p[1])/Lr;nx,ny=-ay,ax
+  lines.append(((p[0]+nx*d,p[1]+ny*d),(ax,ay)))
+ pts=[]
+ for i in range(len(ring)):
+  (p1,d1),(p2,d2)=lines[i-1],lines[i];det=d1[0]*(-d2[1])-d1[1]*(-d2[0])
+  t=((p2[0]-p1[0])*(-d2[1])-(p2[1]-p1[1])*(-d2[0]))/det;pts.append((round(p1[0]+d1[0]*t,3),round(p1[1]+d1[1]*t,3)))
+ return pts
+def roof_ring(name,inset):
+ # Counter-clockwise outline of the zone, merged at near-collinear vertices; inset 0 on the edges
+ # that lie on a party wall (a fire wall rises there), the given inset on the free edges.
+ poly=orient(zones[name][0].simplify(.12));ring=[tuple(round(c,3) for c in v) for v in list(poly.exterior.coords)[:-1]]
+ fire=[]
+ for p,q in zip(ring,ring[1:]+ring[:1]):
+  Lr=math.dist(p,q);wx,wy=(q[0]-p[0])/Lr,(q[1]-p[1])/Lr;nx,ny=wy,-wx
+  nb,_=neighbour_at(Point((p[0]+q[0])/2+nx*.3,(p[1]+q[1])/2+ny*.3))
+  fire.append(nb is not None)
+ r1=inner(ring,[0 if f else inset for f in fire])
+ assert Polygon(ring).exterior.is_ccw and Polygon(r1).is_valid and Polygon(r1).area>.5,(name,r1)
+ return dict(outer=[list(v) for v in ring],r1=[list(v) for v in r1],firewall=fire,inset=inset)
+def forced(name,fire_of,inset_of):
+ r=roof_ring(name,1.0);ring=[tuple(v) for v in r['outer']];ed=list(zip(ring,ring[1:]+ring[:1]))
+ fire=[fire_of(p,q) for p,q in ed];ins=[0 if f else inset_of(p,q) for f,(p,q) in zip(fire,ed)]
+ r['firewall']=fire;r['r1']=[list(v) for v in inner(ring,ins)];r['insets']=ins;r['inset']=max(ins);return r
+ew=lambda p,q:abs(q[0]-p[0])>abs(q[1]-p[1])
+# Kronan: gables to the street and the courtyard, the long sides slope to a ridge.
+out['kr']['roof']=forced('kr',ew,lambda p,q:5.3)
+# The old stone house: a half gable, the roof falling west from the party wall.
+out['eg']['roof']=forced('eg',lambda p,q:ew(p,q) or max(p[0],q[0])>-153.5,lambda p,q:6.55)
+# The low range: its outline simplified to the rectangle (the courtyard side is split by the corner of
+# the courtyard); hipped to the street and the courtyard, walls at both ends.
+ring=[tuple(round(c,3) for c in v) for v in list(orient(zones['lr'][0].simplify(.6)).exterior.coords)[:-1]]
+fire=[not ew(p,q) for p,q in zip(ring,ring[1:]+ring[:1])];ins=[0 if f else 2.0 for f in fire]
+out['lr']['roof']=dict(outer=[list(v) for v in ring],r1=[list(v) for v in inner(ring,ins)],firewall=fire,inset=2.0,insets=ins)
+covered=unary_union([p for ps in zones.values() for p in ps]);foot=PB
+data={'source':'district volume 92379292 (source/district17.json), '+district['source'],'zones':out,
+ 'checks':{'footprint_m2':round(foot.area,1),'zoned_m2':round(covered.area,1),'outside_osm_m2':round(covered.difference(foot).area,2),'osm_not_zoned_m2':round(foot.difference(covered).area,2),
+  'overlap_m2':round(sum(p.area for ps in zones.values() for p in ps)-covered.area,3)}}
+(R/'source/block51.json').write_text(json.dumps(data,indent=1,ensure_ascii=False))
+# The large rear zone's simplification leaves a 0.33 m2 sliver past the OSM line at the old stone
+# house's rear corner; accepted up to 0.5 m2 for this 1087 m2 block.
+c=data['checks'];ok=c['outside_osm_m2']<.5 and c['osm_not_zoned_m2']<.5 and c['overlap_m2']<.2
+(R/'previews/block51-zones.json').write_text(json.dumps({'status':'passed' if ok else 'review_required','zones':report,'checks':c},indent=2,ensure_ascii=False))
+print(json.dumps(report));print(c);print('BLOCK51_ZONES_OK' if ok else 'BLOCK51_ZONES_REVIEW')

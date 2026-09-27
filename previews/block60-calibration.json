@@ -1,0 +1,81 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched 20 degrees up) with its dry render at the same size from the same camera at 90 degree vertical field of view. Positions were read on the row of each feature (the pitched view's keystone moves a vertical edge's image across the rows).",
+  "note": "The grey house's gambrel break sits about 1 m further out in the panorama than in the model, and its east edge reads 1.6 m wider at the gable than at the ground; the model keeps the OSM line (0.77) and a 1.05 m inset. The Västra Sjögatan and Norra Långgatan ranges of the block keep the district height for later passes.",
+  "views": {
+    "329_Block60_Cal_Grey": [
+      {
+        "feature": "door",
+        "deviation_px": 5
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 4
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "gable windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "gable apex",
+        "deviation_px": 12
+      },
+      {
+        "feature": "gambrel break",
+        "deviation_px": 50
+      },
+      {
+        "feature": "east edge",
+        "deviation_px": 65
+      },
+      {
+        "feature": "joint",
+        "deviation_px": 10
+      }
+    ],
+    "330_Block60_Cal_Beige": [
+      {
+        "feature": "upper windows",
+        "deviation_px": 5
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 20
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 10
+      },
+      {
+        "feature": "band",
+        "deviation_px": 5
+      }
+    ],
+    "331_Block60_Cal_Corner": [
+      {
+        "feature": "Västra Sjögatan corner",
+        "deviation_px": 4
+      },
+      {
+        "feature": "portal",
+        "deviation_px": 10
+      },
+      {
+        "feature": "corner bay window",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 16,
+  "median_px": 10.0,
+  "max_px": 65,
+  "within_8_px": 7
+}

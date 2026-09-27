@@ -1,0 +1,91 @@
+{
+ "status": "passed",
+ "method": "Whole-view comparison of each panorama with its dry render from the same camera (90 degree vertical field of view, same image aspect), read on half-scale pairs and doubled to panorama pixels (about 4 px reading error).",
+ "note": "The joint between the grey and the cream house is 0.6 m east of the OSM vertex (-129.2 measured, -129.84 in OSM); the model keeps the OSM outline (30 px).",
+ "views": {
+  "280_Block46_Cal_Salmon": [
+   {
+    "feature": "upper windows",
+    "deviation_px": 8
+   },
+   {
+    "feature": "ground arched windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "door arch",
+    "deviation_px": 8
+   },
+   {
+    "feature": "shop arch",
+    "deviation_px": 10
+   },
+   {
+    "feature": "cornice",
+    "deviation_px": 12
+   },
+   {
+    "feature": "plinth",
+    "deviation_px": 10
+   }
+  ],
+  "281_Block46_Cal_Wall": [
+   {
+    "feature": "gate arch",
+    "deviation_px": 6
+   },
+   {
+    "feature": "grille window",
+    "deviation_px": 6
+   },
+   {
+    "feature": "wall top",
+    "deviation_px": 12
+   },
+   {
+    "feature": "plinth",
+    "deviation_px": 8
+   }
+  ],
+  "282_Block46_Cal_Grey": [
+   {
+    "feature": "windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "corner strip",
+    "deviation_px": 6
+   },
+   {
+    "feature": "eaves",
+    "deviation_px": 10
+   }
+  ],
+  "283_Block46_Cal_Cream": [
+   {
+    "feature": "upper windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "arched windows",
+    "deviation_px": 8
+   },
+   {
+    "feature": "gateway",
+    "deviation_px": 8
+   },
+   {
+    "feature": "band",
+    "deviation_px": 10
+   },
+   {
+    "feature": "grey/cream joint",
+    "deviation_px": 30
+   }
+  ]
+ },
+ "features": 18,
+ "median_px": 8.0,
+ "max_px": 30,
+ "within_8_px": 11
+}

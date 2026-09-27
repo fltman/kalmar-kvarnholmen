@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched 20 degrees up) with its dry render at the same size from the same camera at 90 degree vertical field of view.",
+  "note": "The largest deviations sit at the edges of the close views (6 m from the facade), where small angle errors grow; the south corner is hidden behind the neighbour's projecting glazed bay. The roof is an estimate.",
+  "views": {
+    "315_Block56_Cal_Porch": [
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "first upper window (view edge)",
+        "deviation_px": 23
+      },
+      {
+        "feature": "pilasters",
+        "deviation_px": 35
+      },
+      {
+        "feature": "door",
+        "deviation_px": 15
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 3
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 12
+      }
+    ],
+    "316_Block56_Cal_North": [
+      {
+        "feature": "joint with pass 55",
+        "deviation_px": 8
+      },
+      {
+        "feature": "north pilaster",
+        "deviation_px": 10
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      }
+    ]
+  },
+  "features": 12,
+  "median_px": 10.0,
+  "max_px": 35,
+  "within_8_px": 4
+}

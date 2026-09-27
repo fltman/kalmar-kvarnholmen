@@ -1,0 +1,119 @@
+{
+ "status": "passed",
+ "method": "Side-by-side crops of the panorama and the Unreal review shot of the same camera at the same angular scale (90° vertical field of view; pano 840 px high, shot 1000 px), a cross-hair on the reading; one value per feature, in panorama pixels, on the final review shots.",
+ "note": "The gables are the least certain parts: the central gable's crown and the lunette gable's position along the street differ by 14-18 px (0.3-0.4 m at their distance). They were triangulated from two panoramas each, but the lunette gable only from its window and foot.",
+ "views": {
+  "241_Block41_Cal_Portal": [
+   {
+    "feature": "segmental window edge",
+    "deviation_px": 3
+   },
+   {
+    "feature": "segmental window crown",
+    "deviation_px": 2
+   },
+   {
+    "feature": "segmental window sill",
+    "deviation_px": 5
+   },
+   {
+    "feature": "portal edge",
+    "deviation_px": 5
+   },
+   {
+    "feature": "keystone top",
+    "deviation_px": 5
+   },
+   {
+    "feature": "portal threshold",
+    "deviation_px": 1
+   },
+   {
+    "feature": "upper window edge",
+    "deviation_px": 4
+   },
+   {
+    "feature": "upper window bottom",
+    "deviation_px": 2
+   },
+   {
+    "feature": "string course",
+    "deviation_px": 1
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 1
+   }
+  ],
+  "244_Block41_Cal_1940": [
+   {
+    "feature": "wide window edge",
+    "deviation_px": 2
+   },
+   {
+    "feature": "wide window top",
+    "deviation_px": 2
+   },
+   {
+    "feature": "wide window bottom",
+    "deviation_px": 3
+   },
+   {
+    "feature": "door surround edge",
+    "deviation_px": 4
+   },
+   {
+    "feature": "downpipe",
+    "deviation_px": 2
+   },
+   {
+    "feature": "window edge",
+    "deviation_px": 3
+   },
+   {
+    "feature": "upper window edge",
+    "deviation_px": 2
+   }
+  ],
+  "242_Block41_Cal_Portal_Roof": [
+   {
+    "feature": "central gable crown",
+    "deviation_px": 14
+   },
+   {
+    "feature": "central gable ledge",
+    "deviation_px": 8
+   },
+   {
+    "feature": "eaves line",
+    "deviation_px": 2
+   },
+   {
+    "feature": "cornice underside",
+    "deviation_px": 4
+   },
+   {
+    "feature": "upper window top",
+    "deviation_px": 1
+   }
+  ],
+  "245_Block41_Cal_1940_Roof": [
+   {
+    "feature": "lunette gable top",
+    "deviation_px": 3
+   },
+   {
+    "feature": "lunette edge",
+    "deviation_px": 18
+   },
+   {
+    "feature": "eaves line",
+    "deviation_px": 5
+   }
+  ]
+ },
+ "features": 25,
+ "median_px": 3,
+ "max_px": 18,
+ "within_8_px": 23
+}

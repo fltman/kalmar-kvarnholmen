@@ -1,0 +1,63 @@
+{
+  "pass": 51,
+  "subject": "The Ölandsgatan range of the district volume 92379292: Kronan with its gable to the street, the low range with the carriage arch, and the old stone house with the half gable.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block51-zones": "passed",
+    "block51-build": "passed",
+    "block51-repeatability": "passed",
+    "block51-materials": "passed",
+    "block51-import": "passed",
+    "block51-render-audit": "passed",
+    "block51-collision": "passed",
+    "block51-calibration": "passed",
+    "block51-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_92379292": 188341
+  },
+  "triangles": 188341,
+  "collision": {
+    "floor_samples": 67,
+    "floor_failures": 0,
+    "capsule_segments": 60,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 17,
+    "median_px": 8.0,
+    "max_px": 18,
+    "within_8_px": 12
+  },
+  "fixed_during_the_pass": [
+    "the plinth broken at the carriage arch, the doors, the cellar lights and the hatch after the first comparison",
+    "the arch's band drawn as a rounded moulding",
+    "the low range's cornice brought back to its measured projection"
+  ],
+  "backups": "source/backups/block51/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed"
+}

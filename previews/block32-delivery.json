@@ -1,0 +1,126 @@
+{
+ "pass": 32,
+ "subject": "Larmgatan 22 and 24 (OSM 92204181, 92204160), the Larmgatan front of the block north of Storgatan, with their courtyard wings.",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block32-zones": "passed",
+  "block32-build": "passed",
+  "block32-repeatability": "passed",
+  "block32-materials": "passed",
+  "block32-import": "passed",
+  "block32-render-audit": "passed",
+  "block32-collision": "passed",
+  "block32-calibration": "passed",
+  "block32-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92204181": 46650,
+  "SM_Kvarnholmen_House_92204160": 36232
+ },
+ "triangles": 82882,
+ "data": {
+  "zones": {
+   "l22": {
+    "area_m2": 123.3,
+    "polygons": 1,
+    "walls": 6,
+    "outer_m": 23.5
+   },
+   "l22r": {
+    "area_m2": 127.8,
+    "polygons": 1,
+    "walls": 3,
+    "outer_m": 22.2
+   },
+   "l24": {
+    "area_m2": 187.4,
+    "polygons": 1,
+    "walls": 5,
+    "outer_m": 15.7
+   },
+   "l24r": {
+    "area_m2": 265.1,
+    "polygons": 1,
+    "walls": 1,
+    "outer_m": 0
+   }
+  },
+  "checks": {
+   "footprint_m2": 703.7,
+   "zoned_m2": 703.6,
+   "outside_osm_m2": 0.03,
+   "osm_not_zoned_m2": 0.09,
+   "overlap_m2": 0.0
+  },
+  "registration": {
+   "l22_camera_distance_m": 7.02,
+   "l22_residual_m": 0.02,
+   "l24_camera_distance_m": 7.06,
+   "l24_residual_m": 0.01,
+   "camera_height_m": 2.48,
+   "camera_height_source": "the registered Larmgatan panoramas of passes 30 and 31 (bases hidden by terraces)"
+  },
+  "measured_m": {
+   "l22_shop_window_crowns": [
+    3.54,
+    3.61
+   ],
+   "l22_upper_windows": [
+    4.87,
+    6.6
+   ],
+   "l22_cornice_plane": [
+    7.35,
+    7.7
+   ],
+   "l24_first_floor": [
+    5.1,
+    7.12
+   ],
+   "l24_second_floor": [
+    8.94,
+    11.11
+   ],
+   "l24_cornice_plane": [
+    11.8,
+    13.35
+   ],
+   "l24_attic_caps": 15.2
+  },
+  "modelled_m": {
+   "l22_eaves": 7.5,
+   "l22_dormer_tops": 9.45,
+   "l24_eaves": 12.6,
+   "l24_attic": 15.1,
+   "l24_balconies": [
+    4.25,
+    8.3
+   ]
+  }
+ },
+ "collision": {
+  "floor_samples": 110,
+  "floor_failures": 0,
+  "capsule_segments": 101,
+  "obstructions": 0,
+  "unresolved": 0,
+  "routes": 9
+ },
+ "calibration": {
+  "features": 42,
+  "median_px": 3.0,
+  "max_px": 9,
+  "within_8_px": 41
+ },
+ "fixed_during_the_pass": [
+  "Larmgatan 24 attic dormers were hidden behind the cornice in the calibration view; the sight line over the cornice moved them to the wall line, as a set-back attic storey",
+  "Larmgatan 22 dormers rebuilt wider under segmental roofs (the round-topped ones stood 0.6 m high)",
+  "Larmgatan 24 balconies lowered 0.15-0.2 m (facade-plane readings overstate projecting parts)"
+ ],
+ "backups": "source/backups/block32/",
+ "status": "passed"
+}

@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "One panorama about 4.2 m from the gable, resected on the south corner and on the base row (camera 2.3 m, residuals under 3 px). It puts the north corner at y 24.41, 0.63 m short of the district outline: a gap closed at the street by white boarding separates the house from the pass 70 infill house. The zone ends at the measured corner and the strip is released; pass 70 draws that house's south wall only above the district height, so this pass completes the wall below it. Eaves and apex are measured; the roof's rear half and the yard side are estimates.",
+  "views": {
+    "363_Block71_Cal_Gable": [
+      {
+        "feature": "south corner",
+        "deviation_px": 4
+      },
+      {
+        "feature": "north corner",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "gable window",
+        "deviation_px": 8
+      },
+      {
+        "feature": "apex",
+        "deviation_px": 10
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 6,
+  "median_px": 8.0,
+  "max_px": 10,
+  "within_8_px": 4
+}

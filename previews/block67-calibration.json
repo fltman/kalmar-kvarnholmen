@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "The house stands free of its neighbours: the pass 66 panorama at number 50 (its camera already fixed) shows a fenced gap of about 0.5 m to number 49 and puts the plinth ends at x 134.8 and about 150.0, at the same base height; the district outline runs on to 152.04 over a fenced yard gate, which is released as open ground. The close panorama facing the house was resected on those two corners and reads the pilasters and windows; its pilaster edges agree with the view along the street within 0.15 m. Heights are taken with the base row 0.25 m below the first assumption (cameras 2.55 m). The roof pitch, the ridge and the rear wall are estimates.",
+  "views": {
+    "352_Block67_Cal_Front": [
+      {
+        "feature": "pilasters",
+        "deviation_px": 10
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "door",
+        "deviation_px": 12
+      },
+      {
+        "feature": "plinth ledge",
+        "deviation_px": 8
+      }
+    ],
+    "353_Block67_Cal_Along": [
+      {
+        "feature": "west corner",
+        "deviation_px": 10
+      },
+      {
+        "feature": "east corner",
+        "deviation_px": 14
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 12
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 14
+      }
+    ]
+  },
+  "features": 9,
+  "median_px": 10.0,
+  "max_px": 14,
+  "within_8_px": 3
+}

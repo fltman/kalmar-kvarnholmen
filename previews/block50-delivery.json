@@ -1,0 +1,64 @@
+{
+  "pass": 50,
+  "subject": "The district volume 92379264 on the south side of Ölandsgatan: house number 14, the white two-storey house with the arched gateway, two shop windows, two round-headed doors and two dormers.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block50-zones": "passed",
+    "block50-build": "passed",
+    "block50-repeatability": "passed",
+    "block50-materials": "passed",
+    "block50-import": "passed",
+    "block50-render-audit": "passed",
+    "block50-collision": "passed",
+    "block50-calibration": "passed",
+    "block50-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_92379264": 14241
+  },
+  "triangles": 14241,
+  "collision": {
+    "floor_samples": 46,
+    "floor_failures": 0,
+    "capsule_segments": 43,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 16,
+    "median_px": 8.0,
+    "max_px": 38,
+    "within_8_px": 10
+  },
+  "fixed_during_the_pass": [
+    "the neighbour probe for 92379272 rebuilt with its courtyard hole, so the west end is a party wall"
+  ],
+  "incidents": [
+    "the disk filled during the second rebuild; the .blend save failed but left the saved file intact (hashes checked), and the rebuild was repeated once space returned",
+    "the Unreal editor was killed under memory pressure and hung once on relaunch; it was restarted and the pass imported and validated"
+  ],
+  "backups": "source/backups/block50/",
+  "status": "passed"
+}

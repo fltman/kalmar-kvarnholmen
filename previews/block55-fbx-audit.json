@@ -1,0 +1,22 @@
+{
+  "SM_Building_92379255": {
+    "Normals": {
+      "vectors": 19915,
+      "min_length": 0.9999998606463488,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 109758,
+      "min_length": 0.9999998472551354,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 109758,
+      "min_length": 0.9999997438821239,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

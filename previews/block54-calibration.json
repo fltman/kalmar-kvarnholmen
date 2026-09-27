@@ -1,0 +1,85 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1372x871, pitched 10 degrees up) with its dry render (1200x706) from the same camera at 90 degree vertical field of view; panorama pixels are scaled by 0.81 about the image centre.",
+  "note": "The middle panorama's facade foot is hidden by the entrance steps, so its distance was solved from the shared edges instead of the base row. The attic is set back and was read on the facade plane; its height is an estimate.",
+  "views": {
+    "308_Block54_Cal_West": [
+      {
+        "feature": "west corner",
+        "deviation_px": 4
+      },
+      {
+        "feature": "west wing windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "west risalit",
+        "deviation_px": 10
+      },
+      {
+        "feature": "string course",
+        "deviation_px": 6
+      },
+      {
+        "feature": "main cornice",
+        "deviation_px": 8
+      }
+    ],
+    "309_Block54_Cal_Centre": [
+      {
+        "feature": "west risalit",
+        "deviation_px": 8
+      },
+      {
+        "feature": "east risalit",
+        "deviation_px": 20
+      },
+      {
+        "feature": "centre windows",
+        "deviation_px": 5
+      },
+      {
+        "feature": "ground arches",
+        "deviation_px": 6
+      },
+      {
+        "feature": "main cornice",
+        "deviation_px": 8
+      },
+      {
+        "feature": "pediment apex",
+        "deviation_px": 14
+      },
+      {
+        "feature": "attic",
+        "deviation_px": 15
+      }
+    ],
+    "310_Block54_Cal_East": [
+      {
+        "feature": "annex windows",
+        "deviation_px": 4
+      },
+      {
+        "feature": "annex cornice",
+        "deviation_px": 10
+      },
+      {
+        "feature": "east wing door",
+        "deviation_px": 6
+      },
+      {
+        "feature": "east wing windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "east risalit",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 17,
+  "median_px": 8.0,
+  "max_px": 20,
+  "within_8_px": 11
+}

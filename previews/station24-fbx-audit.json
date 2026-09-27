@@ -1,48 +1,48 @@
 {
   "SM_Kvarnholmen_House_90965009": {
     "Normals": {
-      "vectors": 67857,
-      "min_length": 0.9999998568436834,
+      "vectors": 67859,
+      "min_length": 0.9999998567774759,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Tangents": {
-      "vectors": 313599,
-      "min_length": 0.9999998405371906,
+      "vectors": 313338,
+      "min_length": 0.999999839677962,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Binormals": {
-      "vectors": 313599,
-      "min_length": 0.9999997447645463,
+      "vectors": 313338,
+      "min_length": 0.9999997360526364,
       "near_zero": 0,
       "nonfinite": 0
     }
   },
   "SM_Kvarnholmen_House_90965025": {
     "Normals": {
-      "vectors": 101473,
-      "min_length": 0.9999998477930551,
+      "vectors": 101825,
+      "min_length": 0.9999998544025727,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Tangents": {
-      "vectors": 501054,
-      "min_length": 0.9999998360073229,
+      "vectors": 501174,
+      "min_length": 0.9999998349566851,
       "near_zero": 0,
       "nonfinite": 0
     },
     "Binormals": {
-      "vectors": 501054,
-      "min_length": 0.8160540366898911,
+      "vectors": 501174,
+      "min_length": 0.999999746802619,
       "near_zero": 0,
       "nonfinite": 0
     }
   },
   "SM_Station24_Canopy": {
     "Normals": {
-      "vectors": 881,
-      "min_length": 0.999999893271667,
+      "vectors": 840,
+      "min_length": 0.999999888935629,
       "near_zero": 0,
       "nonfinite": 0
     },
@@ -54,7 +54,7 @@
     },
     "Binormals": {
       "vectors": 4008,
-      "min_length": 0.9999997886769697,
+      "min_length": 0.9999998076259967,
       "near_zero": 0,
       "nonfinite": 0
     }

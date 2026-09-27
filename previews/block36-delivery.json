@@ -1,0 +1,68 @@
+{
+ "pass": 36,
+ "subject": "OSM way 92379286 on the south side of Södra Långgatan: the cream house next to the palace and the stone corner house on Kaggensgatan with the 1659 portal, with their rear ranges.",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block36-zones": "passed",
+  "block36-build": "passed",
+  "block36-repeatability": "passed",
+  "block36-materials": "passed",
+  "block36-import": "passed",
+  "block36-render-audit": "passed",
+  "block36-collision": "passed",
+  "block36-calibration": "passed",
+  "block36-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379286": 125763
+ },
+ "triangles": 125763,
+ "collision": {
+  "floor_samples": 154,
+  "floor_failures": 0,
+  "capsule_segments": 148,
+  "obstructions": 8,
+  "unresolved": 0,
+  "verified_detours": [
+   {
+    "route": "kh front 1 1.2 m",
+    "actor": "Kvarnholmen_House_92379286",
+    "segments": 4,
+    "length_m": 4.13,
+    "offset_m": 1.25
+   },
+   {
+    "route": "kh front 1 2.0 m",
+    "actor": "Kvarnholmen_House_92379286",
+    "segments": 4,
+    "length_m": 4.13,
+    "offset_m": 0.8
+   }
+  ]
+ },
+ "calibration": {
+  "features": 72,
+  "median_px": 3.0,
+  "max_px": 9,
+  "within_8_px": 71
+ },
+ "fixed_during_the_pass": [
+  "the gate and the portal door as rectangular holes with closed spandrel prisms (arched holes left slivers at the crowns)",
+  "the palace's and 92379292's party walls filled above the new, lower roofs (they were built against the old district height 9.75 m)",
+  "the copper roof behind the gable closed with cheeks",
+  "the gate 2.32 m wide with its inner crown at 3.08 and its leaves nearly flush",
+  "the gable moved to s 3.82, 0.08 m behind the facade (it stood about 9 px off in the oblique view)",
+  "the portal's piers 0.60 m wide instead of 0.72, the door without a light casing",
+  "the corner house's gutter 0.45 m out instead of 0.57"
+ ],
+ "backups": "source/backups/block36/",
+ "status": "passed"
+}

@@ -1,0 +1,438 @@
+{
+  "status": "passed",
+  "floor_samples": 94,
+  "floor_failures": [],
+  "capsule_segments": 77,
+  "obstructions": [
+    {
+      "route": "gr front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.6987726939347,
+        -122.87335557510859
+      ],
+      "to": [
+        47.72067545949183,
+        -121.74821350881778
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4753.80908203125,
+        12249.4951171875,
+        33.700225830078125
+      ],
+      "verified_detour": [
+        [
+          47.65984673542037,
+          -124.87297673166644
+        ],
+        [
+          48.45969519804351,
+          -124.88854711507217
+        ],
+        [
+          48.581352646186424,
+          -118.63902066937486
+        ],
+        [
+          47.781504183563285,
+          -118.62345028596913
+        ]
+      ]
+    },
+    {
+      "route": "gr front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.72067545949183,
+        -121.74821350881778
+      ],
+      "to": [
+        47.74257822504896,
+        -120.62307144252698
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4755.26904296875,
+        12174.494140625,
+        34.0
+      ],
+      "verified_detour": [
+        [
+          47.65984673542037,
+          -124.87297673166644
+        ],
+        [
+          48.45969519804351,
+          -124.88854711507217
+        ],
+        [
+          48.581352646186424,
+          -118.63902066937486
+        ],
+        [
+          47.781504183563285,
+          -118.62345028596913
+        ]
+      ]
+    },
+    {
+      "route": "ye front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.55677752239007,
+        -130.19174667483205
+      ],
+      "to": [
+        47.57677802726525,
+        -129.15733207377
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4752.39208984375,
+        12942.146484375,
+        33.799339294433594
+      ],
+      "verified_detour": [
+        [
+          47.51811455814135,
+          -132.1913729337103
+        ],
+        [
+          48.317965061692654,
+          -132.2068381194098
+        ],
+        [
+          48.435291999940446,
+          -126.13875639952916
+        ],
+        [
+          47.63544149638914,
+          -126.12329121382967
+        ]
+      ]
+    },
+    {
+      "route": "ye front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.57677802726525,
+        -129.15733207377
+      ],
+      "to": [
+        47.59677853214042,
+        -128.12291747270794
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4752.87646484375,
+        12915.640625,
+        34.0
+      ],
+      "verified_detour": [
+        [
+          47.51811455814135,
+          -132.1913729337103
+        ],
+        [
+          48.317965061692654,
+          -132.2068381194098
+        ],
+        [
+          48.435291999940446,
+          -126.13875639952916
+        ],
+        [
+          47.63544149638914,
+          -126.12329121382967
+        ]
+      ]
+    }
+  ],
+  "routes": {
+    "bc front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "bc front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "bs front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "bs front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "h2 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 6,
+      "floor_failures": 0,
+      "capsule_segments": 5,
+      "obstructions": 0
+    },
+    "h2 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "hc front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "hc front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "gr front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 2
+    },
+    "gr front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "ye front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 2
+    },
+    "ye front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (4536096)": {
+      "kind": "street",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (92412834)": {
+      "kind": "street",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (92412850)": {
+      "kind": "street",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (143458564)": {
+      "kind": "street",
+      "floor_samples": 6,
+      "floor_failures": 0,
+      "capsule_segments": 5,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (543050229)": {
+      "kind": "street",
+      "floor_samples": 19,
+      "floor_failures": 0,
+      "capsule_segments": 18,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:25:19.199799",
+  "verified_detours": [
+    {
+      "route": "gr front 1 1.2 m",
+      "actor": "Kvarnholmen_House_92412873",
+      "segments": 2,
+      "length_m": 2.25,
+      "offset_m": 0.8
+    },
+    {
+      "route": "ye front 1 1.2 m",
+      "actor": "Kvarnholmen_House_92412873",
+      "segments": 2,
+      "length_m": 2.07,
+      "offset_m": 0.8
+    }
+  ],
+  "unresolved_obstructions": [],
+  "house_obstructions": [
+    {
+      "route": "gr front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.6987726939347,
+        -122.87335557510859
+      ],
+      "to": [
+        47.72067545949183,
+        -121.74821350881778
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4753.80908203125,
+        12249.4951171875,
+        33.700225830078125
+      ],
+      "verified_detour": [
+        [
+          47.65984673542037,
+          -124.87297673166644
+        ],
+        [
+          48.45969519804351,
+          -124.88854711507217
+        ],
+        [
+          48.581352646186424,
+          -118.63902066937486
+        ],
+        [
+          47.781504183563285,
+          -118.62345028596913
+        ]
+      ]
+    },
+    {
+      "route": "gr front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.72067545949183,
+        -121.74821350881778
+      ],
+      "to": [
+        47.74257822504896,
+        -120.62307144252698
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4755.26904296875,
+        12174.494140625,
+        34.0
+      ],
+      "verified_detour": [
+        [
+          47.65984673542037,
+          -124.87297673166644
+        ],
+        [
+          48.45969519804351,
+          -124.88854711507217
+        ],
+        [
+          48.581352646186424,
+          -118.63902066937486
+        ],
+        [
+          47.781504183563285,
+          -118.62345028596913
+        ]
+      ]
+    },
+    {
+      "route": "ye front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.55677752239007,
+        -130.19174667483205
+      ],
+      "to": [
+        47.57677802726525,
+        -129.15733207377
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4752.39208984375,
+        12942.146484375,
+        33.799339294433594
+      ],
+      "verified_detour": [
+        [
+          47.51811455814135,
+          -132.1913729337103
+        ],
+        [
+          48.317965061692654,
+          -132.2068381194098
+        ],
+        [
+          48.435291999940446,
+          -126.13875639952916
+        ],
+        [
+          47.63544149638914,
+          -126.12329121382967
+        ]
+      ]
+    },
+    {
+      "route": "ye front 1 1.2 m",
+      "kind": "front",
+      "from": [
+        47.57677802726525,
+        -129.15733207377
+      ],
+      "to": [
+        47.59677853214042,
+        -128.12291747270794
+      ],
+      "actor": "Kvarnholmen_House_92412873",
+      "impact_cm": [
+        4752.87646484375,
+        12915.640625,
+        34.0
+      ],
+      "verified_detour": [
+        [
+          47.51811455814135,
+          -132.1913729337103
+        ],
+        [
+          48.317965061692654,
+          -132.2068381194098
+        ],
+        [
+          48.435291999940446,
+          -126.13875639952916
+        ],
+        [
+          47.63544149638914,
+          -126.12329121382967
+        ]
+      ]
+    }
+  ],
+  "houses_on_streets": []
+}

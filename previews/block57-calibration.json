@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched 15 degrees up) with its dry render at the same size from the same camera at 90 degree vertical field of view.",
+  "note": "The upper axes are irregularly spaced (1.6-3.0 m) and were read one by one; the Östra Sjögatan end is plain (seen obliquely) and the roof is an estimate.",
+  "views": {
+    "318_Block57_Cal_West": [
+      {
+        "feature": "gateway",
+        "deviation_px": 15
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 20
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 15
+      },
+      {
+        "feature": "string course",
+        "deviation_px": 6
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 5
+      }
+    ],
+    "319_Block57_Cal_Door": [
+      {
+        "feature": "door",
+        "deviation_px": 8
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 15
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "string course",
+        "deviation_px": 4
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 5
+      },
+      {
+        "feature": "roof edge",
+        "deviation_px": 25
+      }
+    ],
+    "320_Block57_Cal_Corner": [
+      {
+        "feature": "Östra Sjögatan corner",
+        "deviation_px": 4
+      },
+      {
+        "feature": "east upper windows",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 13,
+  "median_px": 10.0,
+  "max_px": 25,
+  "within_8_px": 6
+}

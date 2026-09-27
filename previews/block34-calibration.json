@@ -1,0 +1,483 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are marked on the Unreal review shot of the same camera (same heading, pitch and vertical field of view, registered position); deviations in panorama pixels, read from 2x crops round each mark.",
+  "views": {
+    "190_Block34_Cal_Blanc": {
+      "panorama": "Xmo73PhNgNNOfPRmjGolig heading 345 tilt 90",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block34-190_Block34_Cal_Blanc.png",
+      "features": [
+        {
+          "feature": "west joint",
+          "panorama_px": [
+            743,
+            460
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "east joint",
+          "panorama_px": [
+            1308,
+            460
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "W1 top-left",
+          "panorama_px": [
+            811,
+            214
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "W2 bottom-right",
+          "panorama_px": [
+            994,
+            323
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "W3 top-left",
+          "panorama_px": [
+            1097,
+            249
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "W4 bottom-right",
+          "panorama_px": [
+            1270,
+            343
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "band top",
+          "panorama_px": [
+            843,
+            354
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "band bottom",
+          "panorama_px": [
+            843,
+            369
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "shop 1 top-left",
+          "panorama_px": [
+            763,
+            409
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "door top",
+          "panorama_px": [
+            903,
+            431
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "dividing pilaster left",
+          "panorama_px": [
+            1040,
+            480
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "side door top",
+          "panorama_px": [
+            1117,
+            403
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "gate top",
+          "panorama_px": [
+            1244,
+            397
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "eaves board bottom (left)",
+          "panorama_px": [
+            745,
+            183
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "gutter (left)",
+          "panorama_px": [
+            745,
+            135
+          ],
+          "deviation_px": 3,
+          "note": "the eaves were raised 0.13 m after the first review shots put the gutter 13 px low"
+        }
+      ],
+      "median_px": 3,
+      "max_px": 8
+    },
+    "192_Block34_Cal_Yellow": {
+      "panorama": "ZvWlBFFZeDtHzudnWbrZCA heading 332 tilt 90",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block34-192_Block34_Cal_Yellow.png",
+      "features": [
+        {
+          "feature": "west joint",
+          "panorama_px": [
+            166,
+            470
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "east joint",
+          "panorama_px": [
+            1036,
+            470
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "W2 top-left",
+          "panorama_px": [
+            418,
+            219
+          ],
+          "deviation_px": 5,
+          "note": "the panorama's window top is the lower edge of the fabric awning; the windows reach higher under it"
+        },
+        {
+          "feature": "W3 bottom-right",
+          "panorama_px": [
+            651,
+            311
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "W5 top-right",
+          "panorama_px": [
+            958,
+            219
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "band top",
+          "panorama_px": [
+            610,
+            343
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "band bottom",
+          "panorama_px": [
+            610,
+            367
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "door top-left",
+          "panorama_px": [
+            486,
+            429
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "shop R top-left",
+          "panorama_px": [
+            619,
+            449
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "gate top-left",
+          "panorama_px": [
+            840,
+            396
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "transom bottom",
+          "panorama_px": [
+            915,
+            432
+          ],
+          "deviation_px": 1
+        },
+        {
+          "feature": "plinth top",
+          "panorama_px": [
+            700,
+            567
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "eaves board bottom",
+          "panorama_px": [
+            600,
+            148
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "gutter top",
+          "panorama_px": [
+            600,
+            113
+          ],
+          "deviation_px": 2
+        }
+      ],
+      "median_px": 3.0,
+      "max_px": 8
+    },
+    "193_Block34_Cal_Yellow_Roof": {
+      "panorama": "ZvWlBFFZeDtHzudnWbrZCA heading 332 tilt 118",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block34-193_Block34_Cal_Yellow_Roof.png",
+      "features": [
+        {
+          "feature": "gutter",
+          "panorama_px": [
+            650,
+            365
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "dormer gable apex",
+          "panorama_px": [
+            648,
+            288
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "dormer front top",
+          "panorama_px": [
+            646,
+            312
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "dormer left",
+          "panorama_px": [
+            620,
+            340
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "dormer right",
+          "panorama_px": [
+            673,
+            340
+          ],
+          "deviation_px": 8
+        }
+      ],
+      "median_px": 5,
+      "max_px": 8
+    },
+    "194_Block34_Cal_Cream_West": {
+      "panorama": "ZvWlBFFZeDtHzudnWbrZCA heading 30 tilt 95",
+      "screenshot_size": [
+        1416,
+        840
+      ],
+      "render": "previews/block34-194_Block34_Cal_Cream_West.png",
+      "features": [
+        {
+          "feature": "W1 top-left",
+          "panorama_px": [
+            643,
+            292
+          ],
+          "deviation_px": 11,
+          "note": "the two oblique views disagree by 0.37 m on the window tops; the model takes the mean (11 px low here, 11 px high from the east)"
+        },
+        {
+          "feature": "W1 bottom",
+          "panorama_px": [
+            660,
+            387
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "W2 left",
+          "panorama_px": [
+            715,
+            360
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "W4 right",
+          "panorama_px": [
+            795,
+            390
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop W top",
+          "panorama_px": [
+            650,
+            437
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "door top",
+          "panorama_px": [
+            716,
+            448
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "eaves at W end",
+          "panorama_px": [
+            605,
+            225
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "east end",
+          "panorama_px": [
+            811,
+            470
+          ],
+          "deviation_px": 3
+        }
+      ],
+      "median_px": 3.0,
+      "max_px": 11
+    },
+    "195_Block34_Cal_Cream_East": {
+      "panorama": "lTpzf8ey8x4uI_Oq8pJ_iw heading 285 tilt 95",
+      "screenshot_size": [
+        1421,
+        840
+      ],
+      "render": "previews/block34-195_Block34_Cal_Cream_East.png",
+      "features": [
+        {
+          "feature": "W4 top",
+          "panorama_px": [
+            727,
+            284
+          ],
+          "deviation_px": 11,
+          "note": "see the west view"
+        },
+        {
+          "feature": "W4 bottom",
+          "panorama_px": [
+            727,
+            385
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "W4 left",
+          "panorama_px": [
+            705,
+            330
+          ],
+          "deviation_px": 11,
+          "note": "70 degrees off axis"
+        },
+        {
+          "feature": "W1 left",
+          "panorama_px": [
+            554,
+            380
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop window top E",
+          "panorama_px": [
+            758,
+            444
+          ],
+          "deviation_px": 5
+        },
+        {
+          "feature": "door top",
+          "panorama_px": [
+            625,
+            449
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "eaves top at E end",
+          "panorama_px": [
+            770,
+            216
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "east pilaster right",
+          "panorama_px": [
+            795,
+            500
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "base E",
+          "panorama_px": [
+            778,
+            598
+          ],
+          "deviation_px": 5
+        }
+      ],
+      "median_px": 3,
+      "max_px": 11
+    }
+  },
+  "features": 51,
+  "median_px": 3,
+  "max_px": 11,
+  "within_8_px": 48
+}

@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "floor_samples": 42,
+  "floor_failures": [],
+  "capsule_segments": 40,
+  "obstructions": [],
+  "routes": {
+    "wi front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 22,
+      "floor_failures": 0,
+      "capsule_segments": 21,
+      "obstructions": 0
+    },
+    "wi front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 20,
+      "floor_failures": 0,
+      "capsule_segments": 19,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:28:36.904922",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

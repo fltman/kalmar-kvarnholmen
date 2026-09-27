@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_92379316": {
+      "mikk_zero_loops_before_export_repair": 48,
+      "vertices": 27068,
+      "polygons": 48434,
+      "reprojected_polygons": 300,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 48,
+        "Binormals": 48
+      }
+    },
+    "SM_Kvarnholmen_House_92379296": {
+      "mikk_zero_loops_before_export_repair": 123,
+      "vertices": 44875,
+      "polygons": 81749,
+      "reprojected_polygons": 186,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 123,
+        "Binormals": 123
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_92379316",
+    "SM_Kvarnholmen_House_92379296"
+  ],
+  "cameras": [
+    "197_Block35_Cal_Wood",
+    "198_Block35_Cal_Wood_Roof",
+    "199_Block35_Cal_Palace",
+    "200_Block35_Cal_Palace_Roof",
+    "201_Block35_Cal_Palace_East",
+    "202_Block35_Cal_Palace_Pediment",
+    "203_Block35_Cal_Palace_Oblique",
+    "204_Block35_Aerial"
+  ],
+  "prepared_unchanged": [
+    "SM_Kvarnholmen_House_91222222",
+    "SM_Kvarnholmen_House_91856621",
+    "SM_Kvarnholmen_House_91856599",
+    "SM_Kvarnholmen_House_91856613",
+    "SM_Kvarnholmen_House_91856604",
+    "SM_Kvarnholmen_House_91856615",
+    "SM_Kvarnholmen_House_91856624",
+    "SM_Kvarnholmen_House_91856594",
+    "SM_Kvarnholmen_House_91856619",
+    "SM_Kvarnholmen_House_91856622",
+    "SM_Kvarnholmen_House_92204156",
+    "SM_Kvarnholmen_House_92204161",
+    "SM_Kvarnholmen_House_92204198",
+    "SM_Kvarnholmen_House_92204187",
+    "SM_Kvarnholmen_House_92204189",
+    "SM_Kvarnholmen_House_92204170",
+    "SM_Kvarnholmen_House_92204162",
+    "SM_Kvarnholmen_House_92204181",
+    "SM_Kvarnholmen_House_92204160",
+    "SM_Kvarnholmen_House_92379302",
+    "SM_Kvarnholmen_House_92379287",
+    "SM_Kvarnholmen_House_92379267",
+    "SM_Kvarnholmen_House_92379282"
+  ]
+}

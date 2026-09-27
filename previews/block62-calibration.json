@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "The second panorama's GPS spacing put it 0.8 m off; it was placed on three window edges shared with the first. The north end (y 100.2-102.8) is not in the panoramas; its axis continues the rhythm.",
+  "views": {
+    "336_Block62_Cal_South": [
+      {
+        "feature": "joint with pass 61",
+        "deviation_px": 4
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "ground pairs",
+        "deviation_px": 10
+      }
+    ],
+    "337_Block62_Cal_North": [
+      {
+        "feature": "upper windows",
+        "deviation_px": 5
+      },
+      {
+        "feature": "ground pairs",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cellar hatches",
+        "deviation_px": 8
+      },
+      {
+        "feature": "frieze",
+        "deviation_px": 6
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      },
+      {
+        "feature": "attic band",
+        "deviation_px": 15
+      },
+      {
+        "feature": "door",
+        "deviation_px": 15
+      }
+    ]
+  },
+  "features": 10,
+  "median_px": 8.0,
+  "max_px": 15,
+  "within_8_px": 7
+}

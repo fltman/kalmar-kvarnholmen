@@ -1,0 +1,138 @@
+{
+  "status": "passed",
+  "method": "Side-by-side crops of the panorama and the Unreal review shot of the same camera at the same angular scale; one value per feature group (its worst member), in panorama pixels.",
+  "views": {
+    "219_Block38_Cal_No27": [
+      {
+        "feature": "window surround tops",
+        "deviation_px": 4
+      },
+      {
+        "feature": "window surround bottoms",
+        "deviation_px": 8
+      },
+      {
+        "feature": "window heads",
+        "deviation_px": 10
+      },
+      {
+        "feature": "band",
+        "deviation_px": 5
+      },
+      {
+        "feature": "shop surrounds",
+        "deviation_px": 4
+      },
+      {
+        "feature": "door edges",
+        "deviation_px": 2
+      },
+      {
+        "feature": "west shop edges",
+        "deviation_px": 5
+      },
+      {
+        "feature": "Barometern glass band",
+        "deviation_px": 2
+      },
+      {
+        "feature": "garage",
+        "deviation_px": 4
+      },
+      {
+        "feature": "joint",
+        "deviation_px": 3
+      }
+    ],
+    "221_Block38_Cal_Barometern": [
+      {
+        "feature": "ground-floor window tops",
+        "deviation_px": 4
+      },
+      {
+        "feature": "1F window tops",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F window bottoms",
+        "deviation_px": 3
+      },
+      {
+        "feature": "horizontal band",
+        "deviation_px": 5
+      },
+      {
+        "feature": "vertical band",
+        "deviation_px": 4
+      },
+      {
+        "feature": "window edges",
+        "deviation_px": 3
+      },
+      {
+        "feature": "downpipe",
+        "deviation_px": 4
+      },
+      {
+        "feature": "shop window edges",
+        "deviation_px": 5
+      }
+    ],
+    "222_Block38_Cal_Barometern_Roof": [
+      {
+        "feature": "2F window tops",
+        "deviation_px": 9
+      },
+      {
+        "feature": "2F window bottoms",
+        "deviation_px": 2
+      },
+      {
+        "feature": "1F windows",
+        "deviation_px": 4
+      },
+      {
+        "feature": "band",
+        "deviation_px": 4
+      },
+      {
+        "feature": "parapet top",
+        "deviation_px": 2
+      }
+    ],
+    "223_Block38_Cal_Barometern_Corner": [
+      {
+        "feature": "1F windows",
+        "deviation_px": 3
+      },
+      {
+        "feature": "band",
+        "deviation_px": 5
+      },
+      {
+        "feature": "shop windows",
+        "deviation_px": 4
+      },
+      {
+        "feature": "arcade",
+        "deviation_px": 6
+      },
+      {
+        "feature": "tile bay edge",
+        "deviation_px": 5
+      },
+      {
+        "feature": "vertical band",
+        "deviation_px": 3
+      },
+      {
+        "feature": "downpipe",
+        "deviation_px": 3
+      }
+    ]
+  },
+  "features": 30,
+  "median_px": 4.0,
+  "max_px": 10,
+  "within_8_px": 28
+}

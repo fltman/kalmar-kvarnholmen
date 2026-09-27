@@ -1,0 +1,211 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are marked on the Unreal review shot of the same camera (same heading, pitch and vertical field of view, registered position); deviations in panorama pixels (1512x812, f 406).",
+  "views": {
+    "176_Block31_Cal_Front": {
+      "panorama": "odQ_iAstExzgOBBXqvfbUQ heading 62 tilt 90",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block31-176_Block31_Cal_Front.png",
+      "features": [
+        {
+          "feature": "lesene N left edge",
+          "panorama_px": [
+            345,
+            450
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "lesene S right edge",
+          "panorama_px": [
+            1215,
+            450
+          ],
+          "deviation_px": 2
+        },
+        {
+          "feature": "shop L frame top-left",
+          "panorama_px": [
+            405,
+            355
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop R frame top-right",
+          "panorama_px": [
+            1160,
+            355
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "door L top-left",
+          "panorama_px": [
+            625,
+            405
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "door R top-right",
+          "panorama_px": [
+            935,
+            405
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "passage arch top",
+          "panorama_px": [
+            776,
+            375
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "cartouche top",
+          "panorama_px": [
+            778,
+            318
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "shop-floor cornice top",
+          "panorama_px": [
+            700,
+            295
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 1 top-left",
+          "panorama_px": [
+            408,
+            85
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 3 top-left",
+          "panorama_px": [
+            737,
+            85
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 5 top-right",
+          "panorama_px": [
+            1155,
+            85
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "window 3 sill",
+          "panorama_px": [
+            777,
+            237
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "pediment top",
+          "panorama_px": [
+            780,
+            10
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "plinth top",
+          "panorama_px": [
+            500,
+            555
+          ],
+          "deviation_px": 4
+        }
+      ],
+      "median_px": 3,
+      "max_px": 4
+    },
+    "177_Block31_Cal_Roof": {
+      "panorama": "odQ_iAstExzgOBBXqvfbUQ heading 62 tilt 118",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block31-177_Block31_Cal_Roof.png",
+      "features": [
+        {
+          "feature": "main cornice top",
+          "panorama_px": [
+            770,
+            238
+          ],
+          "deviation_px": 6
+        },
+        {
+          "feature": "main cornice bottom",
+          "panorama_px": [
+            770,
+            262
+          ],
+          "deviation_px": 8
+        },
+        {
+          "feature": "dormer top",
+          "panorama_px": [
+            772,
+            185
+          ],
+          "deviation_px": 14,
+          "note": "the dormers were moved forward and their windows made taller after the first review shots put them 20 px low; 14 px remain"
+        },
+        {
+          "feature": "dormer base",
+          "panorama_px": [
+            772,
+            240
+          ],
+          "deviation_px": 4
+        },
+        {
+          "feature": "upper window top",
+          "panorama_px": [
+            777,
+            335
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "upper window sill",
+          "panorama_px": [
+            777,
+            445
+          ],
+          "deviation_px": 3
+        },
+        {
+          "feature": "shop-floor cornice",
+          "panorama_px": [
+            777,
+            505
+          ],
+          "deviation_px": 4
+        }
+      ],
+      "median_px": 4,
+      "max_px": 14
+    }
+  },
+  "features": 22,
+  "median_px": 3.0,
+  "max_px": 14,
+  "within_8_px": 21
+}

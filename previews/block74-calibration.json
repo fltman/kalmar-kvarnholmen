@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "No panorama stands in front of this front. Two panoramas whose cameras are already fixed (pass 73's from the south and pass 70's from the north) see it at about 95 degrees to each other; the three vertical joints they share triangulate on one straight line about 0.8 m in front of the district outline, with the joint to the pass 73 house 0.32 m north of the outline's. The front is kept on the outline, and positions along it are read on the triangulated line and shifted by that 0.32 m. The window heights read from the oblique south view grow with height (1.64, 1.89, 2.06 m) and the upper two rows are drawn at 1.9 m; roofs and dormer depths are estimates.",
+  "views": {
+    "371_Block74_Cal_FromSouth": [
+      {
+        "feature": "joint to pass 73",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 14
+      },
+      {
+        "feature": "band",
+        "deviation_px": 10
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 14
+      }
+    ],
+    "372_Block74_Cal_FromNorth": [
+      {
+        "feature": "white house joints",
+        "deviation_px": 12
+      },
+      {
+        "feature": "red door",
+        "deviation_px": 10
+      },
+      {
+        "feature": "beige windows",
+        "deviation_px": 16
+      }
+    ]
+  },
+  "features": 7,
+  "median_px": 12.0,
+  "max_px": 16,
+  "within_8_px": 1
+}

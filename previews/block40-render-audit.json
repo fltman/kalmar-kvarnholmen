@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Building_92412846": {
+      "vertices": 193177,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    }
+  }
+}

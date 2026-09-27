@@ -1,0 +1,429 @@
+{
+  "status": "passed",
+  "method": "feature rows read in the Street View screenshot and in the render of the same camera (1600x1000, 90 deg vertical field of view), converted to the screenshot frame; cameras stand the measured distance from the modelled facade surface, which is 0.355 m proud of the OSM line",
+  "features": 71,
+  "median_abs_px": 3.5,
+  "max_abs_px": 16.5,
+  "within_8_px": 63,
+  "views": {
+    "151_Block28_Cal_SL8": {
+      "panorama": "56.6625147,16.3626175 heading 152 tilt 110 (1568x784)",
+      "camera": "resected: 5.63 m from the OSM line, 2.21 m above the facade base",
+      "features": {
+        "pediment apex": [
+          95,
+          95.6
+        ],
+        "pediment base left": [
+          190,
+          188.2
+        ],
+        "pediment base right": [
+          190,
+          186.6
+        ],
+        "cornice top": [
+          196,
+          194.4
+        ],
+        "frieze bottom": [
+          232,
+          228.9
+        ],
+        "first-floor window top": [
+          262,
+          261.1
+        ],
+        "string course top": [
+          402,
+          398.3
+        ],
+        "string course bottom": [
+          420,
+          417.9
+        ],
+        "ground-floor window top": [
+          455,
+          454.7
+        ],
+        "ground-floor window bottom": [
+          655,
+          657.0
+        ],
+        "plinth top": [
+          670,
+          670.3
+        ]
+      },
+      "residual_px": {
+        "pediment apex": 0.6,
+        "pediment base left": -1.8,
+        "pediment base right": -3.4,
+        "cornice top": -1.6,
+        "frieze bottom": -3.1,
+        "first-floor window top": -0.9,
+        "string course top": -3.7,
+        "string course bottom": -2.1,
+        "ground-floor window top": -0.3,
+        "ground-floor window bottom": 2.0,
+        "plinth top": 0.3
+      }
+    },
+    "152_Block28_SL10_Risalit": {
+      "panorama": "56.6626415,16.3630602 heading 152 tilt 112 (1568x784)",
+      "camera": "anchored on Södra Långgatan 8",
+      "features": {
+        "pediment apex": [
+          126.1,
+          119.2
+        ],
+        "pediment base left": [
+          168,
+          163.1
+        ],
+        "pediment base right": [
+          165.3,
+          161.5
+        ],
+        "cornice top": [
+          174,
+          174.0
+        ],
+        "capital top": [
+          225,
+          223.4
+        ],
+        "risalit window top": [
+          274,
+          270.5
+        ],
+        "gate arch top": [
+          484,
+          478.2
+        ],
+        "shop arch top": [
+          470,
+          470.4
+        ],
+        "shop window bottom": [
+          685,
+          672.7
+        ]
+      },
+      "residual_px": {
+        "pediment apex": -6.9,
+        "pediment base left": -4.9,
+        "pediment base right": -3.8,
+        "cornice top": 0.0,
+        "capital top": -1.6,
+        "risalit window top": -3.5,
+        "gate arch top": -5.8,
+        "shop arch top": 0.4,
+        "shop window bottom": -12.3
+      }
+    },
+    "156_Block28_Olands_W": {
+      "panorama": "56.6620001,16.363351 heading 332 tilt 122 (1500x750)",
+      "camera": "base-row distance 5.49 m, anchored at the OSM joint with Larmgatan 6",
+      "features": {
+        "eaves": [
+          255,
+          253.5
+        ],
+        "loft hatches": [
+          316,
+          317.3
+        ],
+        "arched window apex": [
+          390,
+          393.8
+        ],
+        "west window top": [
+          362,
+          367.5
+        ]
+      },
+      "residual_px": {
+        "eaves": -1.5,
+        "loft hatches": 1.3,
+        "arched window apex": 3.8,
+        "west window top": 5.5
+      }
+    },
+    "157_Block28_Cal_Olands_E": {
+      "panorama": "56.6620824,16.3636418 heading 332 tilt 122 (1500x750)",
+      "camera": "base-row distance 5.68 m, anchored at the carriage gate",
+      "features": {
+        "gate house eaves": [
+          279,
+          273.8
+        ],
+        "gate house window top": [
+          431,
+          427.5
+        ],
+        "gate house window bottom": [
+          560,
+          561.0
+        ],
+        "corner house eaves": [
+          210,
+          204.0
+        ],
+        "corner house second floor top": [
+          264,
+          257.0
+        ],
+        "corner house second floor bottom": [
+          331,
+          318.8
+        ],
+        "corner house first floor top": [
+          429,
+          412.5
+        ]
+      },
+      "residual_px": {
+        "gate house eaves": -5.2,
+        "gate house window top": -3.5,
+        "gate house window bottom": 1.0,
+        "corner house eaves": -6.0,
+        "corner house second floor top": -7.0,
+        "corner house second floor bottom": -12.2,
+        "corner house first floor top": -16.5
+      }
+    },
+    "159_Block28_OddFellows": {
+      "panorama": "56.6616055,16.3626337 heading 62 tilt 122 (1500x750)",
+      "camera": "base-row distance 6.20 m",
+      "features": {
+        "cornice top": [
+          118,
+          120.0
+        ],
+        "frieze": [
+          161,
+          156.0
+        ],
+        "second-floor window top": [
+          232,
+          228.8
+        ],
+        "second-floor window bottom": [
+          287,
+          276.0
+        ],
+        "first-floor window top": [
+          340,
+          335.3
+        ],
+        "first-floor window bottom": [
+          428,
+          421.5
+        ]
+      },
+      "residual_px": {
+        "cornice top": 2.0,
+        "frieze": -5.0,
+        "second-floor window top": -3.2,
+        "second-floor window bottom": -11.0,
+        "first-floor window top": -4.7,
+        "first-floor window bottom": -6.5
+      }
+    },
+    "160_Block28_Larm8": {
+      "panorama": "56.6620328,16.3622273 heading 62 tilt 118 (1568x784)",
+      "camera": "resected: 5.98 m from the OSM line, 2.10 m",
+      "features": {
+        "main cornice top": [
+          205,
+          205.4
+        ],
+        "attic window top": [
+          155,
+          166.2
+        ],
+        "tower finial": [
+          70,
+          74.5
+        ],
+        "twin window top": [
+          235,
+          239.1
+        ],
+        "twin window bottom": [
+          295,
+          290.0
+        ],
+        "first-floor window top": [
+          355,
+          362.2
+        ],
+        "first-floor window bottom": [
+          455,
+          458.6
+        ],
+        "shop-floor band": [
+          505,
+          501.8
+        ]
+      },
+      "residual_px": {
+        "main cornice top": 0.4,
+        "attic window top": 11.2,
+        "tower finial": 4.5,
+        "twin window top": 4.1,
+        "twin window bottom": -5.0,
+        "first-floor window top": 7.2,
+        "first-floor window bottom": 3.6,
+        "shop-floor band": -3.2
+      }
+    },
+    "161_Block28_Cal_Larm10": {
+      "panorama": "56.6624715,16.3624667 heading 152 tilt 112 (1500x750)",
+      "camera": "anchored on Södra Långgatan 8",
+      "features": {
+        "Larmgatan 10 cornice": [
+          99,
+          105.0
+        ],
+        "dormer top": [
+          64,
+          73.5
+        ],
+        "second-floor window top": [
+          160,
+          155.3
+        ],
+        "second-floor window bottom": [
+          218,
+          206.0
+        ],
+        "first-floor window top": [
+          305,
+          300.0
+        ],
+        "first-floor window bottom": [
+          392,
+          384.0
+        ],
+        "Södra Långgatan 8 cornice top": [
+          203,
+          198.8
+        ],
+        "Södra Långgatan 8 window top": [
+          256,
+          256.5
+        ],
+        "Södra Långgatan 8 sill": [
+          347,
+          339.0
+        ],
+        "Södra Långgatan 8 string course": [
+          388,
+          384.0
+        ]
+      },
+      "residual_px": {
+        "Larmgatan 10 cornice": 6.0,
+        "dormer top": 9.5,
+        "second-floor window top": -4.7,
+        "second-floor window bottom": -12.0,
+        "first-floor window top": -5.0,
+        "first-floor window bottom": -8.0,
+        "Södra Långgatan 8 cornice top": -4.2,
+        "Södra Långgatan 8 window top": 0.5,
+        "Södra Långgatan 8 sill": -8.0,
+        "Södra Långgatan 8 string course": -4.0
+      }
+    },
+    "162_Station_Cal_Resected": {
+      "panorama": "56.6618287,16.3603163 heading 197 tilt 90 (1500x750)",
+      "camera": "resected against the 1910 corner and the tower: 26.0 m from the 1910 front, 2.22 m above the base",
+      "features": {
+        "tower left silhouette (column)": [
+          392.5,
+          393.8
+        ],
+        "1910 corner at the step (column)": [
+          720,
+          727.5
+        ],
+        "1874 north-west end (column)": [
+          1032.5,
+          1041.0
+        ],
+        "facade base": [
+          405,
+          405.0
+        ],
+        "1910 cornice top": [
+          227.5,
+          230.3
+        ],
+        "second-floor window top": [
+          248,
+          247.5
+        ],
+        "second-floor window bottom": [
+          275,
+          276.0
+        ],
+        "first-floor window top": [
+          299,
+          298.5
+        ],
+        "first-floor window bottom": [
+          328.5,
+          328.5
+        ],
+        "ground-floor arch top": [
+          352.5,
+          351.0
+        ],
+        "clock centre": [
+          195,
+          192.8
+        ],
+        "roof break": [
+          197.5,
+          201.0
+        ],
+        "lantern base": [
+          166,
+          163.5
+        ],
+        "tower drum top": [
+          268.5,
+          271.5
+        ],
+        "tower spire": [
+          142.5,
+          146.3
+        ],
+        "1874 eave": [
+          282.5,
+          283.5
+        ]
+      },
+      "residual_px": {
+        "tower left silhouette (column)": 1.3,
+        "1910 corner at the step (column)": 7.5,
+        "1874 north-west end (column)": 8.5,
+        "facade base": 0.0,
+        "1910 cornice top": 2.8,
+        "second-floor window top": -0.5,
+        "second-floor window bottom": 1.0,
+        "first-floor window top": -0.5,
+        "first-floor window bottom": 0.0,
+        "ground-floor arch top": -1.5,
+        "clock centre": -2.2,
+        "roof break": 3.5,
+        "lantern base": -2.5,
+        "tower drum top": 3.0,
+        "tower spire": 3.8,
+        "1874 eave": 1.0
+      }
+    }
+  }
+}

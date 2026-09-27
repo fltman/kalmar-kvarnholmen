@@ -1,0 +1,132 @@
+{
+ "status": "passed",
+ "method": "Side-by-side crops of the panorama and the Unreal review shot of the same camera at the same angular scale (75° vertical field of view, scale 1.4165), a cross-hair on the reading; one value per feature, in panorama pixels, read on the final review shots (the downpipe and the chimney after their correction).",
+ "views": {
+  "238_Block40_Cal_Portal": [
+   {
+    "feature": "window edge",
+    "deviation_px": 1
+   },
+   {
+    "feature": "window top",
+    "deviation_px": 5
+   },
+   {
+    "feature": "window bottom",
+    "deviation_px": 2
+   },
+   {
+    "feature": "portal edge",
+    "deviation_px": 3
+   },
+   {
+    "feature": "portal lintel",
+    "deviation_px": 2
+   },
+   {
+    "feature": "eastern window edge",
+    "deviation_px": 0
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 0
+   },
+   {
+    "feature": "upper window bottom",
+    "deviation_px": 3
+   }
+  ],
+  "236_Block40_Cal_Middle": [
+   {
+    "feature": "window edge (east)",
+    "deviation_px": 1
+   },
+   {
+    "feature": "window edge (west)",
+    "deviation_px": 3
+   },
+   {
+    "feature": "window top",
+    "deviation_px": 5
+   },
+   {
+    "feature": "window bottom",
+    "deviation_px": 0
+   },
+   {
+    "feature": "downpipe",
+    "deviation_px": 1
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 1
+   }
+  ],
+  "237_Block40_Cal_Middle_Roof": [
+   {
+    "feature": "upper window top",
+    "deviation_px": 0
+   },
+   {
+    "feature": "upper window bottom",
+    "deviation_px": 2
+   },
+   {
+    "feature": "cornice foot",
+    "deviation_px": 0
+   },
+   {
+    "feature": "cornice top edge",
+    "deviation_px": 1
+   },
+   {
+    "feature": "chimney top",
+    "deviation_px": 6
+   },
+   {
+    "feature": "wall anchor",
+    "deviation_px": 3
+   }
+  ],
+  "235_Block40_Cal_West": [
+   {
+    "feature": "window edge",
+    "deviation_px": 2
+   },
+   {
+    "feature": "western window edge",
+    "deviation_px": 0
+   },
+   {
+    "feature": "window top",
+    "deviation_px": 9
+   },
+   {
+    "feature": "window bottom",
+    "deviation_px": 0
+   },
+   {
+    "feature": "joint and downpipe",
+    "deviation_px": 3
+   }
+  ],
+  "239_Block40_Cal_Corner": [
+   {
+    "feature": "street corner",
+    "deviation_px": 5
+   },
+   {
+    "feature": "eastern window edge",
+    "deviation_px": 5
+   },
+   {
+    "feature": "portal lintel",
+    "deviation_px": 4
+   }
+  ]
+ },
+ "features": 28,
+ "median_px": 2.0,
+ "max_px": 9,
+ "within_8_px": 27
+}

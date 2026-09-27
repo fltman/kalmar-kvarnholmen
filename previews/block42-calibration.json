@@ -1,0 +1,115 @@
+{
+ "status": "passed",
+ "method": "Side-by-side crops of the panorama and the Unreal review shot of the same camera at the same angular scale (90° vertical field of view), a cross-hair on the reading; one value per feature, in panorama pixels (1 px is about 8 mm at these 3.3-3.8 m distances).",
+ "note": "The upper storeys were checked in the pitched views (35°) by overlay only: the rows, the gables and the attic storeys line up to within about 10 px; a 35° pitch at 3.4 m magnifies small camera errors, so no pixel values are recorded there. The largest level-view deviation is house 2's downpipe, about 0.16 m.",
+ "views": {
+  "248_Block42_Cal_Brewery": [
+   {
+    "feature": "great window edge",
+    "deviation_px": 12
+   },
+   {
+    "feature": "great window sill",
+    "deviation_px": 5
+   },
+   {
+    "feature": "quoin strip",
+    "deviation_px": 3
+   },
+   {
+    "feature": "tall window edge",
+    "deviation_px": 3
+   },
+   {
+    "feature": "window sill",
+    "deviation_px": 4
+   },
+   {
+    "feature": "segmental crown",
+    "deviation_px": 5
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 2
+   }
+  ],
+  "250_Block42_Cal_House2": [
+   {
+    "feature": "window edge",
+    "deviation_px": 6
+   },
+   {
+    "feature": "window top",
+    "deviation_px": 3
+   },
+   {
+    "feature": "window bottom",
+    "deviation_px": 5
+   },
+   {
+    "feature": "first-floor window bottom",
+    "deviation_px": 6
+   },
+   {
+    "feature": "downpipe",
+    "deviation_px": 20
+   }
+  ],
+  "252_Block42_Cal_Grey": [
+   {
+    "feature": "window edge",
+    "deviation_px": 6
+   },
+   {
+    "feature": "window top",
+    "deviation_px": 4
+   },
+   {
+    "feature": "entrance edge",
+    "deviation_px": 6
+   },
+   {
+    "feature": "blind panel top",
+    "deviation_px": 4
+   },
+   {
+    "feature": "stone strip",
+    "deviation_px": 3
+   },
+   {
+    "feature": "narrow house window bottom",
+    "deviation_px": 5
+   }
+  ],
+  "254_Block42_Cal_Yellow": [
+   {
+    "feature": "window edge",
+    "deviation_px": 5
+   },
+   {
+    "feature": "window top",
+    "deviation_px": 8
+   },
+   {
+    "feature": "window bottom",
+    "deviation_px": 6
+   },
+   {
+    "feature": "door edge",
+    "deviation_px": 8
+   },
+   {
+    "feature": "string course",
+    "deviation_px": 3
+   },
+   {
+    "feature": "plinth top",
+    "deviation_px": 5
+   }
+  ]
+ },
+ "features": 24,
+ "median_px": 5.0,
+ "max_px": 20,
+ "within_8_px": 22
+}

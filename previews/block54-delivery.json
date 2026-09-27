@@ -1,0 +1,61 @@
+{
+  "pass": 54,
+  "subject": "The district volume 91285838 at the east end of Ölandsgatan: the classical two-storey building with two pedimented risalits, a central attic and a one-storey annex with a rounded east end.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block54-zones": "passed",
+    "block54-build": "passed",
+    "block54-repeatability": "passed",
+    "block54-materials": "passed",
+    "block54-import": "passed",
+    "block54-render-audit": "passed",
+    "block54-collision": "passed",
+    "block54-calibration": "passed",
+    "block54-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed",
+    "block51-repeatability (unchanged)": "passed",
+    "block52-repeatability (unchanged)": "passed",
+    "block53-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_91285838": 76368
+  },
+  "triangles": 76368,
+  "collision": {
+    "floor_samples": 117,
+    "floor_failures": 0,
+    "capsule_segments": 110,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 17,
+    "median_px": 8.0,
+    "max_px": 20,
+    "within_8_px": 11
+  },
+  "backups": "source/backups/block54/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed"
+}

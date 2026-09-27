@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "The panoramas stand only 4-5 m from the facades; each was placed on one corner of its house and its base row (cameras about 2.3 m high). The three houses share one design; their window positions were read per house. The rear wings and the roofs are estimates.",
+  "views": {
+    "345_Block65_Cal_East": [
+      {
+        "feature": "east corner",
+        "deviation_px": 5
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 6
+      }
+    ],
+    "346_Block65_Cal_Middle": [
+      {
+        "feature": "east corner",
+        "deviation_px": 5
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 12
+      }
+    ],
+    "347_Block65_Cal_West": [
+      {
+        "feature": "east corner",
+        "deviation_px": 5
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cellar grilles",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 12,
+  "median_px": 10.0,
+  "max_px": 12,
+  "within_8_px": 5
+}

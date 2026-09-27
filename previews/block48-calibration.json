@@ -1,0 +1,67 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama with its dry render from the same camera (90 degree vertical field of view, same image aspect), read on the render and scaled by 1.19 to panorama pixels.",
+  "note": "The two views disagree on the dormer: it lands about 40 px off in each. The dormer's front was set 0.4 m behind the wall line, which splits the difference; the sheet roof and its railing are estimates.",
+  "views": {
+    "288_Block48_Cal_West": [
+      {
+        "feature": "joint with the white stone house",
+        "deviation_px": 4
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 5
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 6
+      },
+      {
+        "feature": "eaves and cornice",
+        "deviation_px": 19
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 37
+      }
+    ],
+    "289_Block48_Cal_Gate": [
+      {
+        "feature": "upper windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "gateway head",
+        "deviation_px": 11
+      },
+      {
+        "feature": "gate",
+        "deviation_px": 8
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 4
+      },
+      {
+        "feature": "eaves and cornice",
+        "deviation_px": 10
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 46
+      }
+    ]
+  },
+  "features": 13,
+  "median_px": 6.0,
+  "max_px": 46,
+  "within_8_px": 8
+}

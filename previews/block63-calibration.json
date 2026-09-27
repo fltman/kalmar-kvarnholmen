@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "Each panorama was resected on its house's corners (number 19 also on its centred gateway, the facade being symmetric); the plinth foot shows the cameras 2.6 m above the facade base. Roofs and the courtyard wings are estimates.",
+  "views": {
+    "339_Block63_Cal_Seventeen": [
+      {
+        "feature": "corners",
+        "deviation_px": 5
+      },
+      {
+        "feature": "pilasters",
+        "deviation_px": 12
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 8
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 30
+      }
+    ],
+    "340_Block63_Cal_Nineteen": [
+      {
+        "feature": "gateway",
+        "deviation_px": 5
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "frieze",
+        "deviation_px": 10
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 10
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 20
+      }
+    ]
+  },
+  "features": 12,
+  "median_px": 10.0,
+  "max_px": 30,
+  "within_8_px": 5
+}

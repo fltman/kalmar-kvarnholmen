@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched 20 degrees up) with its dry render at the same size from the same camera at 90 degree vertical field of view.",
+  "note": "The long Storgatan side (a pedestrian street) is not in Street View and repeats the Västra Sjögatan rhythm as an estimate; the corner arcade's depth (2.4 m) is estimated from one oblique view.",
+  "views": {
+    "312_Block55_Cal_Entrance": [
+      {
+        "feature": "second-floor windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "first-floor windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "fascia",
+        "deviation_px": 4
+      },
+      {
+        "feature": "entrance door",
+        "deviation_px": 8
+      },
+      {
+        "feature": "entrance surround",
+        "deviation_px": 10
+      },
+      {
+        "feature": "shop window",
+        "deviation_px": 30
+      },
+      {
+        "feature": "shopfront",
+        "deviation_px": 12
+      },
+      {
+        "feature": "sign band",
+        "deviation_px": 6
+      }
+    ],
+    "313_Block55_Cal_South": [
+      {
+        "feature": "joint with the wooden house",
+        "deviation_px": 10
+      },
+      {
+        "feature": "garage door",
+        "deviation_px": 25
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "fascia",
+        "deviation_px": 6
+      }
+    ]
+  },
+  "features": 12,
+  "median_px": 8.0,
+  "max_px": 30,
+  "within_8_px": 7
+}

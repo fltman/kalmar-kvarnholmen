@@ -1,0 +1,327 @@
+{
+  "status": "passed",
+  "method": "Panorama features read in the browser (April 2025, view only) are marked on the Unreal review shot of the same camera (same heading, pitch and vertical field of view, resected position); the deviation is read from 2x crops round each mark and given in panorama pixels (1512x812, f 406).",
+  "views": {
+    "163_Block29_Cal_SL9": {
+      "panorama": "VzD17BYWiFNzLPEnc3vQig heading 332 tilt 120",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block29-163_Block29_Cal_SL9.png",
+      "features": [
+        {
+          "feature": "SL9 wall gable apex",
+          "panorama_px": [
+            500,
+            292
+          ],
+          "deviation_px": 7.3
+        },
+        {
+          "feature": "SL9 lunette top",
+          "panorama_px": [
+            490,
+            330
+          ],
+          "deviation_px": 8.6
+        },
+        {
+          "feature": "SL9 gutter band top",
+          "panorama_px": [
+            450,
+            386
+          ],
+          "deviation_px": 7.0
+        },
+        {
+          "feature": "SL9 window 3 glass top-left",
+          "panorama_px": [
+            390,
+            425
+          ],
+          "deviation_px": null,
+          "note": "excluded: the modelled awning hides the glass top-left"
+        },
+        {
+          "feature": "SL9/SL11 joint",
+          "panorama_px": [
+            812,
+            478
+          ],
+          "deviation_px": 2.0
+        },
+        {
+          "feature": "SL11 W1 surround top-left",
+          "panorama_px": [
+            875.3,
+            399.4
+          ],
+          "deviation_px": 4.0
+        },
+        {
+          "feature": "SL11 W1 sill left",
+          "panorama_px": [
+            886.3,
+            534.3
+          ],
+          "deviation_px": 4.0,
+          "note": "row only: the panorama reading was the glass top-left column"
+        },
+        {
+          "feature": "SL11 W2 surround top-left",
+          "panorama_px": [
+            1091.9,
+            398.4
+          ],
+          "deviation_px": 9.0
+        },
+        {
+          "feature": "SL11 gable crest",
+          "panorama_px": [
+            1114.6,
+            292.7
+          ],
+          "deviation_px": 22.0,
+          "note": "the crest of the segmental gable stands left of its fan light in the render, not in the panorama"
+        },
+        {
+          "feature": "SL11 fan light top",
+          "panorama_px": [
+            1116.5,
+            330.5
+          ],
+          "deviation_px": 6.0
+        },
+        {
+          "feature": "SL11 cornice top (west piece)",
+          "panorama_px": [
+            957,
+            335.5
+          ],
+          "deviation_px": 1.0
+        },
+        {
+          "feature": "SL11 east round dormer",
+          "panorama_px": [
+            1313.5,
+            330.5
+          ],
+          "deviation_px": 11.0
+        }
+      ],
+      "median_px": 7.0,
+      "max_px": 22.0
+    },
+    "165_Block29_Cal_Ochre": {
+      "panorama": "QVCx3-YnTXq8zVxalQd1xA heading 332 tilt 118",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block29-165_Block29_Cal_Ochre.png",
+      "features": [
+        {
+          "feature": "eaves edge",
+          "panorama_px": [
+            400,
+            243.5
+          ],
+          "deviation_px": 8.0
+        },
+        {
+          "feature": "cornice bottom",
+          "panorama_px": [
+            400,
+            285.5
+          ],
+          "deviation_px": 2.0
+        },
+        {
+          "feature": "upper window surround top",
+          "panorama_px": [
+            600,
+            297.3
+          ],
+          "deviation_px": 6.0
+        },
+        {
+          "feature": "upper window sill",
+          "panorama_px": [
+            600,
+            392
+          ],
+          "deviation_px": 12.0
+        },
+        {
+          "feature": "band top",
+          "panorama_px": [
+            600,
+            442.4
+          ],
+          "deviation_px": 2.0
+        },
+        {
+          "feature": "band bottom",
+          "panorama_px": [
+            600,
+            467.6
+          ],
+          "deviation_px": 2.0
+        },
+        {
+          "feature": "dormer 3 top",
+          "panorama_px": [
+            1063,
+            195.6
+          ],
+          "deviation_px": 1.0
+        },
+        {
+          "feature": "dormer 4 top",
+          "panorama_px": [
+            1226,
+            191.5
+          ],
+          "deviation_px": 0.0
+        },
+        {
+          "feature": "dormer 1 top",
+          "panorama_px": [
+            118,
+            212
+          ],
+          "deviation_px": 5.0
+        },
+        {
+          "feature": "shop door left jamb",
+          "panorama_px": [
+            400,
+            700
+          ],
+          "deviation_px": 4.0
+        },
+        {
+          "feature": "gateway arch top",
+          "panorama_px": [
+            1057,
+            517
+          ],
+          "deviation_px": 2.0
+        }
+      ],
+      "median_px": 2.0,
+      "max_px": 12.0
+    },
+    "166_Block29_Corner_House": {
+      "panorama": "oDGkc0J4QK6BsVwjeJGcxw heading 345 tilt 125",
+      "screenshot_size": [
+        1512,
+        812
+      ],
+      "render": "previews/block29-166_Block29_Corner_House.png",
+      "features": [
+        {
+          "feature": "corner house eaves at the joint",
+          "panorama_px": [
+            817.4,
+            217.6
+          ],
+          "deviation_px": 11.0
+        },
+        {
+          "feature": "2nd floor W1 top-left",
+          "panorama_px": [
+            890,
+            262
+          ],
+          "deviation_px": 9.0
+        },
+        {
+          "feature": "2nd floor W2 top-left",
+          "panorama_px": [
+            996,
+            287
+          ],
+          "deviation_px": 10.0
+        },
+        {
+          "feature": "2nd floor W3 top-left",
+          "panorama_px": [
+            1077,
+            304
+          ],
+          "deviation_px": 8.0
+        },
+        {
+          "feature": "1st floor W1 top-left",
+          "panorama_px": [
+            923,
+            371
+          ],
+          "deviation_px": 6.0
+        },
+        {
+          "feature": "1st floor W2 top-left",
+          "panorama_px": [
+            1052,
+            390
+          ],
+          "deviation_px": 9.0
+        },
+        {
+          "feature": "1st floor W3 top-left",
+          "panorama_px": [
+            1146,
+            407
+          ],
+          "deviation_px": 7.0
+        },
+        {
+          "feature": "eyebrow dormer top",
+          "panorama_px": [
+            968,
+            227.7
+          ],
+          "deviation_px": 16.0
+        },
+        {
+          "feature": "ochre dormer a top",
+          "panorama_px": [
+            571,
+            225
+          ],
+          "deviation_px": 25.0,
+          "note": "the two panoramas disagree by 0.5 m on the dormer height; the near-frontal view 165 is matched"
+        },
+        {
+          "feature": "ochre dormer b top",
+          "panorama_px": [
+            727,
+            252
+          ],
+          "deviation_px": 27.0,
+          "note": "as above"
+        },
+        {
+          "feature": "corner house band top",
+          "panorama_px": [
+            950,
+            500
+          ],
+          "deviation_px": 2.0
+        }
+      ],
+      "median_px": 9.0,
+      "max_px": 27.0
+    }
+  },
+  "features": 33,
+  "median_px": 7.0,
+  "max_px": 27.0,
+  "within_8_px": 21,
+  "known_deviations": [
+    "Ochre house dormers: 0-5 px in view 165, 25-27 px low in the steep view 166 (the two panoramas disagree by about 0.5 m).",
+    "Corner house: the panoramas suggest its south front is 1-1.5 m narrower than OSM; its corner stays on OSM."
+  ]
+}

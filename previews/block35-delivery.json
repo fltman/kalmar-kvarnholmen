@@ -1,0 +1,146 @@
+{
+ "pass": 35,
+ "subject": "Two houses on the south side of Södra Långgatan, opposite pass 34: the wooden house (22, OSM 92379316) and the yellow palace with the stone portal (92379296), with their rear ranges.",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block35-zones": "passed",
+  "block35-build": "passed",
+  "block35-repeatability": "passed",
+  "block35-materials": "passed",
+  "block35-import": "passed",
+  "block35-render-audit": "passed",
+  "block35-collision": "passed",
+  "block35-calibration": "passed",
+  "block35-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379316": 48434,
+  "SM_Kvarnholmen_House_92379296": 81749
+ },
+ "triangles": 130183,
+ "data": {
+  "zones": {
+   "w22": {
+    "area_m2": 123.0,
+    "polygons": 1,
+    "walls": 3,
+    "outer_m": 20.7
+   },
+   "w22r": {
+    "area_m2": 109.4,
+    "polygons": 1,
+    "walls": 7,
+    "outer_m": 40.4
+   },
+   "pal": {
+    "area_m2": 282.5,
+    "polygons": 1,
+    "walls": 7,
+    "outer_m": 37.7
+   },
+   "palr": {
+    "area_m2": 250.6,
+    "polygons": 1,
+    "walls": 6,
+    "outer_m": 32.7
+   }
+  },
+  "checks": {
+   "footprint_m2": 765.2,
+   "zoned_m2": 765.4,
+   "outside_osm_m2": 0.17,
+   "osm_not_zoned_m2": 0.01,
+   "overlap_m2": 0.0,
+   "joint_moved_m": 0.83,
+   "strip_m2": 10.45
+  },
+  "registration": {
+   "method": "one straight camera track with the reported spacing (20.20 m \"22\"-\"21\", 20.50 m \"21\"-\"18\"), the facade on the OSM line and the wooden house's east joint on OSM; checked by two-panorama triangulation of window edges (within 0.1 m of the facade line on both wings)",
+   "22": {
+    "camera": [
+     -113.22,
+     -73.56,
+     2.24
+    ]
+   },
+   "21": {
+    "camera": [
+     -133.42,
+     -73.56,
+     2.3
+    ]
+   },
+   "18": {
+    "camera": [
+     -153.92,
+     -73.56,
+     null
+    ]
+   },
+   "joint_between_the_houses_moved_m": 0.83
+  },
+  "modelled_m": {
+   "wooden_eaves": 5.85,
+   "wooden_roof_profile_o_z": [
+    [
+     0.65,
+     5.92
+    ],
+    [
+     0.3,
+     6.64
+    ],
+    [
+     -1.345,
+     8.8
+    ],
+    [
+     -4.6,
+     11.33
+    ],
+    [
+     -9.95,
+     7.4
+    ]
+   ],
+   "palace_band": [
+    4.25,
+    4.48
+   ],
+   "palace_cornice_top": 11.6,
+   "palace_pediment_apex": 13.68,
+   "palace_ridge": 15.7
+  }
+ },
+ "collision": {
+  "floor_samples": 85,
+  "floor_failures": 0,
+  "capsule_segments": 80,
+  "obstructions": 0,
+  "unresolved": 0,
+  "routes": 5
+ },
+ "calibration": {
+  "features": 80,
+  "median_px": 2.0,
+  "max_px": 11,
+  "within_8_px": 77
+ },
+ "fixed_during_the_pass": [
+  "the wooden house's roof broken, with a steep lower slope as the west fire wall shows; the dormers stand on it (they first stood on a red front above the eaves)",
+  "the palace's ground-floor joinery 0.43 m behind the wall face (the oblique view shows deep reveals); the portal's piers 0.55 m wide instead of 0.80",
+  "the palace's roof dormers all 0.6 m behind the wall face with their tops at 13.8 (the east three first stood 0.15 m back and 10-11 px too high)",
+  "the palace's band from 4.25 instead of 4.12; the wooden house's band top at 2.40 instead of 2.48",
+  "the palace's pilasters 0.70 m wide instead of 0.80; dark door casings instead of light ones",
+  "the cornices and bands corrected for their projection; the wooden house's eaves at 5.85 (6.08 on the facade plane)"
+ ],
+ "backups": "source/backups/block35/",
+ "status": "passed"
+}

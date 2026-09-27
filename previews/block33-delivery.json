@@ -1,0 +1,125 @@
+{
+ "pass": 33,
+ "subject": "Södra Långgatan 16 (OSM 92379302), the palace-like corner house on the north-east corner of Södra Långgatan and Kaggensgatan.",
+ "author": "Claude (Anthropic), 2026-09-24",
+ "reports": {
+  "block33-zones": "passed",
+  "block33-build": "passed",
+  "block33-repeatability": "passed",
+  "block33-materials": "passed",
+  "block33-import": "passed",
+  "block33-render-audit": "passed",
+  "block33-collision": "passed",
+  "block33-calibration": "passed",
+  "block33-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379302": 117496
+ },
+ "triangles": 117496,
+ "data": {
+  "zones": {
+   "sl16": {
+    "area_m2": 705.0,
+    "walls": 3,
+    "outer_m": 53.3
+   }
+  },
+  "checks": {
+   "footprint_m2": 705.0,
+   "zoned_m2": 705.0,
+   "outside_osm_m2": 0.0,
+   "osm_not_zoned_m2": 0.0,
+   "roof_top_m2": 463.3
+  },
+  "registration": {
+   "west_camera": [
+    -174.91,
+    -73.6,
+    2.34
+   ],
+   "east_camera": [
+    -164.24,
+    -73.75,
+    2.34
+   ],
+   "west_distance_m": 5.18,
+   "east_distance_m": 5.26,
+   "gate_centre_from_both": [
+    -166.3,
+    -166.28
+   ],
+   "first_joint_fit": "rejected: oblique downpipe and recessed gate edges biased the columns (heights disagreed by 8 %)"
+  },
+  "modelled_m": {
+   "band": [
+    4.4,
+    4.7
+   ],
+   "first_floor": [
+    5.5,
+    7.35
+   ],
+   "heads_ledge": [
+    7.92,
+    8.24
+   ],
+   "segmental_pediments_crest": 8.51,
+   "second_floor": [
+    9.25,
+    11.03
+   ],
+   "cornice_top": 11.91,
+   "cornice_projection": 0.8,
+   "risalit_proud": 0.1,
+   "pediment_apex": 12.99,
+   "medallion": 8.1
+  }
+ },
+ "collision": {
+  "floor_samples": 157,
+  "floor_failures": 0,
+  "capsule_segments": 153,
+  "obstructions": 0,
+  "unresolved": 0,
+  "routes": 4
+ },
+ "calibration": {
+  "features": 44,
+  "median_px": 3.0,
+  "max_px": 12,
+  "within_8_px": 40,
+  "triangulated": {
+   "pediment_apex": {
+    "z": 12.99,
+    "out_m": 0.81,
+    "ray_gap_m": 0.03
+   },
+   "medallion_centre": {
+    "z": 8.24,
+    "out_m": 0.18,
+    "ray_gap_m": 0.17
+   },
+   "segmental_frame_top": {
+    "z": 8.63,
+    "out_m": 0.47,
+    "ray_gap_m": 0.04
+   }
+  }
+ },
+ "fixed_during_the_pass": [
+  "medallion placed over the entablature (8.8) -> in it (8.1)",
+  "gate surround 0.31 m -> 0.40 m jambs, arch band 0.28 m (29 px -> 9 px in the oblique view, crown 14 -> 7 px)",
+  "main cornice rebuilt from triangulation: top 11.91 projecting 0.8 m instead of 12.6/0.43; the risalit pediment on it with its apex at 12.99; the risalit 0.1 m proud instead of 0.3",
+  "window heads raised 0.3 m with a festoon frieze under the ledge",
+  "gate grille moved forward (a 0.65 m reveal showed in the oblique view)",
+  "argument order in the new cornice helper (the first cornice was drawn with its height as the angle)"
+ ],
+ "backups": "source/backups/block33/",
+ "status": "passed"
+}

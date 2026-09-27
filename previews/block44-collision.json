@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "floor_samples": 150,
+  "floor_failures": [],
+  "capsule_segments": 140,
+  "obstructions": [],
+  "routes": {
+    "ch front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 29,
+      "floor_failures": 0,
+      "capsule_segments": 28,
+      "obstructions": 0
+    },
+    "ch front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 29,
+      "floor_failures": 0,
+      "capsule_segments": 28,
+      "obstructions": 0
+    },
+    "wh front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "wh front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "yh front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "yh front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Ölandsgatan (35771887)": {
+      "kind": "street",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (138368667)": {
+      "kind": "street",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Ölandsgatan (143458560)": {
+      "kind": "street",
+      "floor_samples": 22,
+      "floor_failures": 0,
+      "capsule_segments": 21,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (519234678)": {
+      "kind": "street",
+      "floor_samples": 21,
+      "floor_failures": 0,
+      "capsule_segments": 20,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:25:33.291952",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

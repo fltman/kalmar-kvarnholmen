@@ -1,0 +1,110 @@
+{
+ "status": "passed",
+ "method": "Whole-view comparison of each panorama with its Unreal review shot at the same angular scale (90 degree vertical field of view, the shot padded to the panorama width), read on half-scale pairs and doubled to panorama pixels (about 4 px reading error).",
+ "views": {
+  "275_Block45_Cal_Yellow": [
+   {
+    "feature": "upper windows",
+    "deviation_px": 4
+   },
+   {
+    "feature": "ground windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "blank panel",
+    "deviation_px": 6
+   },
+   {
+    "feature": "cornice",
+    "deviation_px": 14
+   },
+   {
+    "feature": "plinth",
+    "deviation_px": 6
+   },
+   {
+    "feature": "link door",
+    "deviation_px": 10
+   }
+  ],
+  "276_Block45_Cal_Link": [
+   {
+    "feature": "link door",
+    "deviation_px": 10
+   },
+   {
+    "feature": "relief panel",
+    "deviation_px": 10
+   },
+   {
+    "feature": "east gable",
+    "deviation_px": 20
+   },
+   {
+    "feature": "dormers",
+    "deviation_px": 14
+   },
+   {
+    "feature": "1909 windows",
+    "deviation_px": 8
+   }
+  ],
+  "277_Block45_Cal_1909": [
+   {
+    "feature": "windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "window rows",
+    "deviation_px": 4
+   },
+   {
+    "feature": "eaves",
+    "deviation_px": 8
+   },
+   {
+    "feature": "dormers",
+    "deviation_px": 16
+   },
+   {
+    "feature": "west gable window",
+    "deviation_px": 10
+   },
+   {
+    "feature": "downpipes",
+    "deviation_px": 14
+   }
+  ],
+  "278_Block45_Cal_Frosunda": [
+   {
+    "feature": "large windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "small windows",
+    "deviation_px": 8
+   },
+   {
+    "feature": "upper windows",
+    "deviation_px": 6
+   },
+   {
+    "feature": "eaves",
+    "deviation_px": 12
+   },
+   {
+    "feature": "door",
+    "deviation_px": 10
+   },
+   {
+    "feature": "joint",
+    "deviation_px": 8
+   }
+  ]
+ },
+ "features": 23,
+ "median_px": 8,
+ "max_px": 20,
+ "within_8_px": 12
+}

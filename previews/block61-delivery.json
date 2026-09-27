@@ -1,0 +1,71 @@
+{
+  "pass": 61,
+  "subject": "The district volume 91885539 on the corner of Norra Långgatan and Östra Sjögatan: the pale yellow two-storey house (Norra Långgatan 41) with pilasters, a carved door and a red gambrel roof with its gable to Östra Sjögatan.",
+  "author": "Claude (Anthropic), 2026-09-27",
+  "reports": {
+    "block61-zones": "passed",
+    "block61-build": "passed",
+    "block61-repeatability": "passed",
+    "block61-materials": "passed",
+    "block61-import": "passed",
+    "block61-render-audit": "passed",
+    "block61-collision": "passed",
+    "block61-calibration": "passed",
+    "block61-fbx-audit": "passed",
+    "block28-repeatability (unchanged)": "passed",
+    "block29-repeatability (unchanged)": "passed",
+    "block30-repeatability (unchanged)": "passed",
+    "block31-repeatability (unchanged)": "passed",
+    "block32-repeatability (unchanged)": "passed",
+    "block33-repeatability (unchanged)": "passed",
+    "block34-repeatability (unchanged)": "passed",
+    "block35-repeatability (unchanged)": "passed",
+    "block36-repeatability (unchanged)": "passed",
+    "block37-repeatability (unchanged)": "passed",
+    "block38-repeatability (unchanged)": "passed",
+    "block39-repeatability (unchanged)": "passed",
+    "block40-repeatability (unchanged)": "passed",
+    "block41-repeatability (unchanged)": "passed",
+    "block42-repeatability (unchanged)": "passed",
+    "block43-repeatability (unchanged)": "passed",
+    "block44-repeatability (unchanged)": "passed",
+    "block45-repeatability (unchanged)": "passed",
+    "block46-repeatability (unchanged)": "passed",
+    "block47-repeatability (unchanged)": "passed",
+    "block48-repeatability (unchanged)": "passed",
+    "block49-repeatability (unchanged)": "passed",
+    "block50-repeatability (unchanged)": "passed",
+    "block51-repeatability (unchanged)": "passed",
+    "block52-repeatability (unchanged)": "passed",
+    "block53-repeatability (unchanged)": "passed",
+    "block54-repeatability (unchanged)": "passed",
+    "block55-repeatability (unchanged)": "passed",
+    "block56-repeatability (unchanged)": "passed",
+    "block57-repeatability (unchanged)": "passed",
+    "block58-repeatability (unchanged)": "passed",
+    "block59-repeatability (unchanged)": "passed",
+    "block60-repeatability (unchanged)": "passed"
+  },
+  "meshes": {
+    "SM_Kvarnholmen_House_91885539": 35944
+  },
+  "triangles": 35944,
+  "collision": {
+    "floor_samples": 66,
+    "floor_failures": 0,
+    "capsule_segments": 64,
+    "obstructions": 0,
+    "verified_detours": []
+  },
+  "calibration": {
+    "features": 14,
+    "median_px": 11.0,
+    "max_px": 20,
+    "within_8_px": 5
+  },
+  "backups": "source/backups/block61/ (only the latest pass keeps a copy of the .blend)",
+  "status": "passed",
+  "fixed_during_the_pass": [
+    "the close panorama placed on the overview's door after the first comparison showed a 1 m shift along the street"
+  ]
+}

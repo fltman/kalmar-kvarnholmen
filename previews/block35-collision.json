@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "floor_samples": 85,
+  "floor_failures": [],
+  "capsule_segments": 80,
+  "obstructions": [],
+  "routes": {
+    "w22 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    },
+    "w22 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "pal front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 20,
+      "floor_failures": 0,
+      "capsule_segments": 19,
+      "obstructions": 0
+    },
+    "pal front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 18,
+      "floor_failures": 0,
+      "capsule_segments": 17,
+      "obstructions": 0
+    },
+    "Södra Långgatan (35771877)": {
+      "kind": "street",
+      "floor_samples": 29,
+      "floor_failures": 0,
+      "capsule_segments": 28,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:24:29.600868",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

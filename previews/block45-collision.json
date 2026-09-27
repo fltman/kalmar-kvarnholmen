@@ -1,0 +1,98 @@
+{
+  "status": "passed",
+  "floor_samples": 162,
+  "floor_failures": [],
+  "capsule_segments": 150,
+  "obstructions": [],
+  "routes": {
+    "yl front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 25,
+      "floor_failures": 0,
+      "capsule_segments": 24,
+      "obstructions": 0
+    },
+    "yl front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 25,
+      "floor_failures": 0,
+      "capsule_segments": 24,
+      "obstructions": 0
+    },
+    "ln front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "ln front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "h9 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 19,
+      "floor_failures": 0,
+      "capsule_segments": 18,
+      "obstructions": 0
+    },
+    "h9 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 17,
+      "floor_failures": 0,
+      "capsule_segments": 16,
+      "obstructions": 0
+    },
+    "fr front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 11,
+      "floor_failures": 0,
+      "capsule_segments": 10,
+      "obstructions": 0
+    },
+    "fr front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "Ölandsgatan (35771887)": {
+      "kind": "street",
+      "floor_samples": 25,
+      "floor_failures": 0,
+      "capsule_segments": 24,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (138368667)": {
+      "kind": "street",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Ölandsgatan (143458560)": {
+      "kind": "street",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (519234678)": {
+      "kind": "street",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-09-27T18:25:40.413132",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

@@ -2,21 +2,21 @@
   "status": "passed",
   "meshes": {
     "SM_Kvarnholmen_House_90965009": {
-      "vertices": 286006,
+      "vertices": 285894,
       "zero_tangents": 0,
       "zero_normals": 0,
       "nonfinite_vectors": 0,
       "nonunit_vectors": 0
     },
     "SM_Kvarnholmen_House_90965025": {
-      "vertices": 420607,
+      "vertices": 420408,
       "zero_tangents": 0,
       "zero_normals": 0,
       "nonfinite_vectors": 0,
       "nonunit_vectors": 0
     },
     "SM_Station24_Canopy": {
-      "vertices": 3196,
+      "vertices": 3171,
       "zero_tangents": 0,
       "zero_normals": 0,
       "nonfinite_vectors": 0,

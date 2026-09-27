@@ -1,0 +1,147 @@
+{
+  "status": "passed",
+  "assets": {
+    "SM_Kvarnholmen_House_91222222": {
+      "mikk_zero_loops_before_export_repair": 669,
+      "vertices": 177586,
+      "polygons": 322963,
+      "reprojected_polygons": 2435,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 669,
+        "Binormals": 669
+      }
+    },
+    "SM_Kvarnholmen_House_91856621": {
+      "mikk_zero_loops_before_export_repair": 142,
+      "vertices": 43167,
+      "polygons": 76773,
+      "reprojected_polygons": 424,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 142,
+        "Binormals": 142
+      }
+    },
+    "SM_Kvarnholmen_House_91856599": {
+      "mikk_zero_loops_before_export_repair": 350,
+      "vertices": 34919,
+      "polygons": 63437,
+      "reprojected_polygons": 87,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 350,
+        "Binormals": 350
+      }
+    },
+    "SM_Kvarnholmen_House_91856613": {
+      "mikk_zero_loops_before_export_repair": 144,
+      "vertices": 62808,
+      "polygons": 114788,
+      "reprojected_polygons": 2501,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 144,
+        "Binormals": 144
+      }
+    },
+    "SM_Kvarnholmen_House_91856604": {
+      "mikk_zero_loops_before_export_repair": 290,
+      "vertices": 47051,
+      "polygons": 85016,
+      "reprojected_polygons": 674,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 290,
+        "Binormals": 290
+      }
+    },
+    "SM_Kvarnholmen_House_91856615": {
+      "mikk_zero_loops_before_export_repair": 133,
+      "vertices": 28905,
+      "polygons": 52239,
+      "reprojected_polygons": 280,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 133,
+        "Binormals": 133
+      }
+    },
+    "SM_Kvarnholmen_House_91856624": {
+      "mikk_zero_loops_before_export_repair": 279,
+      "vertices": 70618,
+      "polygons": 128646,
+      "reprojected_polygons": 365,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 279,
+        "Binormals": 279
+      }
+    },
+    "SM_Kvarnholmen_House_91856594": {
+      "mikk_zero_loops_before_export_repair": 288,
+      "vertices": 42696,
+      "polygons": 77754,
+      "reprojected_polygons": 309,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 288,
+        "Binormals": 288
+      }
+    },
+    "SM_Kvarnholmen_House_91856619": {
+      "mikk_zero_loops_before_export_repair": 32,
+      "vertices": 4548,
+      "polygons": 8120,
+      "reprojected_polygons": 90,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 32,
+        "Binormals": 32
+      }
+    },
+    "SM_Kvarnholmen_House_91856622": {
+      "mikk_zero_loops_before_export_repair": 287,
+      "vertices": 45394,
+      "polygons": 81775,
+      "reprojected_polygons": 380,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 287,
+        "Binormals": 287
+      }
+    }
+  },
+  "changed": [
+    "SM_Kvarnholmen_House_91222222",
+    "SM_Kvarnholmen_House_91856621",
+    "SM_Kvarnholmen_House_91856599",
+    "SM_Kvarnholmen_House_91856613",
+    "SM_Kvarnholmen_House_91856604",
+    "SM_Kvarnholmen_House_91856615",
+    "SM_Kvarnholmen_House_91856624",
+    "SM_Kvarnholmen_House_91856594",
+    "SM_Kvarnholmen_House_91856619",
+    "SM_Kvarnholmen_House_91856622"
+  ],
+  "cameras": [
+    "137_Larm_Bank_Plaza",
+    "138_Larm_Bank_North",
+    "139_Larm_Street_North",
+    "140_Larm_L8",
+    "141_Larm_OddFellow",
+    "142_Larm_Aerial",
+    "143_Larm_Cal_Plaza",
+    "151_Block28_Cal_SL8",
+    "152_Block28_SL10_Risalit",
+    "153_Block28_Corner",
+    "154_Block28_Kaggensgatan",
+    "155_Block28_K5",
+    "156_Block28_Olands_W",
+    "157_Block28_Cal_Olands_E",
+    "158_Block28_Aerial",
+    "159_Block28_OddFellows",
+    "160_Block28_Larm8",
+    "161_Block28_Cal_Larm10"
+  ]
+}

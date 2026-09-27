@@ -1,0 +1,58 @@
+{
+ "pass": 47,
+ "subject": "The district volumes 92379306 and 92379253 on the north side of Ölandsgatan: the cream house, the narrow white wooden house with the garage (number 13) and the white stone house.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block47-zones": "passed",
+  "block47-build": "passed",
+  "block47-repeatability": "passed",
+  "block47-materials": "passed",
+  "block47-import": "passed",
+  "block47-render-audit": "passed",
+  "block47-collision": "passed",
+  "block47-calibration": "passed",
+  "block47-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed",
+  "block41-repeatability (unchanged)": "passed",
+  "block42-repeatability (unchanged)": "passed",
+  "block43-repeatability (unchanged)": "passed",
+  "block44-repeatability (unchanged)": "passed",
+  "block45-repeatability (unchanged)": "passed",
+  "block46-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Kvarnholmen_House_92379306": 21758,
+  "SM_Kvarnholmen_House_92379253": 28600
+ },
+ "triangles": 50358,
+ "collision": {
+  "floor_samples": 58,
+  "floor_failures": 0,
+  "capsule_segments": 51,
+  "obstructions": 0,
+  "verified_detours": []
+ },
+ "calibration": {
+  "features": 12,
+  "median_px": 8.0,
+  "max_px": 30,
+  "within_8_px": 9
+ },
+ "fixed_during_the_pass": [
+  "the cream house roof raised (ridge 10.8) and its dormers enlarged after the first comparison"
+ ],
+ "backups": "source/backups/block47/",
+ "status": "passed"
+}

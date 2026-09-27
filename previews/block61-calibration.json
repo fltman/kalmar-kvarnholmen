@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "The overview from the crossing was resected on three corners (residuals up to 22 px); the close panorama's GPS position was about 1 m off along the street and was placed on the door measured in the overview. Heights come from the close view (the camera 4.1 m from the facade).",
+  "views": {
+    "333_Block61_Cal_Door": [
+      {
+        "feature": "pilasters",
+        "deviation_px": 15
+      },
+      {
+        "feature": "door",
+        "deviation_px": 15
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "band",
+        "deviation_px": 6
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 5
+      }
+    ],
+    "334_Block61_Cal_Corner": [
+      {
+        "feature": "south-west corner",
+        "deviation_px": 4
+      },
+      {
+        "feature": "east end",
+        "deviation_px": 8
+      },
+      {
+        "feature": "north-west corner",
+        "deviation_px": 9
+      },
+      {
+        "feature": "gable windows",
+        "deviation_px": 15
+      },
+      {
+        "feature": "gable break",
+        "deviation_px": 20
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 15
+      },
+      {
+        "feature": "south axes",
+        "deviation_px": 12
+      }
+    ]
+  },
+  "features": 14,
+  "median_px": 11.0,
+  "max_px": 20,
+  "within_8_px": 5
+}

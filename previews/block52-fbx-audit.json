@@ -1,0 +1,42 @@
+{
+  "SM_Kvarnholmen_House_91856606": {
+    "Normals": {
+      "vectors": 17427,
+      "min_length": 0.9999998548318756,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 98502,
+      "min_length": 0.9999998331585683,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 98502,
+      "min_length": 0.999999751652398,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91856592": {
+    "Normals": {
+      "vectors": 18269,
+      "min_length": 0.9999998596341717,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 102228,
+      "min_length": 0.9999998540919879,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 102228,
+      "min_length": 0.999999758702167,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

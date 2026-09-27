@@ -1,0 +1,68 @@
+{
+ "pass": 41,
+ "subject": "The district volume 92412838 on the north side of Södra Långgatan (numbers 39-43): the white two-storey range of 1888 and 1940 with the rusticated portal and two gables.",
+ "author": "Claude (Anthropic), 2026-09-27",
+ "reports": {
+  "block41-zones": "passed",
+  "block41-build": "passed",
+  "block41-repeatability": "passed",
+  "block41-materials": "passed",
+  "block41-import": "passed",
+  "block41-render-audit": "passed",
+  "block41-collision": "passed",
+  "block41-calibration": "passed",
+  "block41-fbx-audit": "passed",
+  "block28-repeatability (unchanged)": "passed",
+  "block29-repeatability (unchanged)": "passed",
+  "block30-repeatability (unchanged)": "passed",
+  "block31-repeatability (unchanged)": "passed",
+  "block32-repeatability (unchanged)": "passed",
+  "block33-repeatability (unchanged)": "passed",
+  "block34-repeatability (unchanged)": "passed",
+  "block35-repeatability (unchanged)": "passed",
+  "block36-repeatability (unchanged)": "passed",
+  "block37-repeatability (unchanged)": "passed",
+  "block38-repeatability (unchanged)": "passed",
+  "block39-repeatability (unchanged)": "passed",
+  "block40-repeatability (unchanged)": "passed"
+ },
+ "meshes": {
+  "SM_Building_92412838": 179388
+ },
+ "triangles": 179388,
+ "collision": {
+  "floor_samples": 190,
+  "floor_failures": 0,
+  "capsule_segments": 182,
+  "obstructions": 5,
+  "verified_detours": [
+   {
+    "route": "fr front 1 1.2 m",
+    "actor": "Building_92412838",
+    "segments": 4,
+    "length_m": 4.07,
+    "offset_m": 0.8
+   },
+   {
+    "route": "Östra Sjögatan (143458564)",
+    "actor": "Street_Furniture",
+    "segments": 1,
+    "length_m": 3.79,
+    "offset_m": 0.8
+   }
+  ]
+ },
+ "calibration": {
+  "features": 25,
+  "median_px": 3,
+  "max_px": 18,
+  "within_8_px": 23
+ },
+ "fixed_during_the_pass": [
+  "the camera chain: the south-side bundle positions put the north facade 1.5 m too far away (window widths grew towards the edges of the 90° views); re-solved as a chain on shared window edges, anchored at both ends of the building",
+  "the gables: first read on the facade plane (the central crown at 13.15 m), then triangulated from two panoramas each (crown 11.78 m; the lunette gable 0.3 m in front of the wall, on the cornice)",
+  "the cornice: 0.61 m deep with its top at 8.88 hid the lunette; now 0.45 m, top 8.75, the corona stopping under the lunette gable"
+ ],
+ "backups": "source/backups/block41/",
+ "status": "passed"
+}

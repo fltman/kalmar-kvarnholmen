@@ -1,0 +1,85 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1372x871) with its dry render (1200x706) from the same camera at 90 degree vertical field of view; panorama pixels are scaled by 0.81 about the image centre.",
+  "note": "The gables were read on the facade plane from views tilted up 30-35 degrees: Kronan's apex 15.9 m (modelled 15.85), the old stone house's half gable from 7.84 m to about 13.3 m at the party wall. The roofs behind the street front, the low range's roof and the rest of the block are estimates.",
+  "views": {
+    "298_Block51_Cal_StoneHouse": [
+      {
+        "feature": "carriage arch",
+        "deviation_px": 5
+      },
+      {
+        "feature": "arch crown",
+        "deviation_px": 9
+      },
+      {
+        "feature": "door",
+        "deviation_px": 3
+      },
+      {
+        "feature": "window",
+        "deviation_px": 5
+      },
+      {
+        "feature": "gable window",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 18
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 2
+      },
+      {
+        "feature": "joint with pass 48",
+        "deviation_px": 15
+      }
+    ],
+    "299_Block51_Cal_Arch": [
+      {
+        "feature": "carriage arch",
+        "deviation_px": 8
+      },
+      {
+        "feature": "Kronan's east quoin",
+        "deviation_px": 5
+      },
+      {
+        "feature": "Kronan's windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      }
+    ],
+    "300_Block51_Cal_Kronan": [
+      {
+        "feature": "Kaggensgatan corner",
+        "deviation_px": 2
+      },
+      {
+        "feature": "ground windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "upper windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "door",
+        "deviation_px": 8
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 5
+      }
+    ]
+  },
+  "features": 17,
+  "median_px": 8.0,
+  "max_px": 18,
+  "within_8_px": 12
+}
