@@ -1,0 +1,735 @@
+{
+ "source": "pass 143: Möller 1882 (PK006-00041, \"Rut-salen\"), Olsson 1974 fig. 1 and text (registered, read only), photographs (DigitaltMuseum/KLM PDM, Commons KMB); see references/block143-notes.md",
+ "moller": {
+  "px_per_m": 57.97,
+  "bar_check_px_per_m": [
+   57.95,
+   57.7
+  ],
+  "caption": "Profil genom s.k. \"Rut-salen\" (N:o 63 å planen af öfre våningen)",
+  "floor_row": 9926,
+  "x_court_out": 3345,
+  "x_court_in": 3417,
+  "x_spine_in": 4044,
+  "x_spine_out": 4188,
+  "x_outer_in": 4483,
+  "x_outer_out": 4528,
+  "ceiling_under_row": 9562,
+  "ceiling_top_row": 9538,
+  "glass_sill_row": 9858,
+  "glass_head_row": 9712,
+  "niche_head_room_row": 9700,
+  "spine_niche_head_rows": [
+   9700,
+   9716
+  ],
+  "spine_niche_back_x": 4170,
+  "spine_door_rows": [
+   9795,
+   9905
+  ],
+  "panel_top_row": 9750,
+  "ground_court_row": 10254,
+  "read_m": {
+   "court_wall": 1.24,
+   "hall": 10.82,
+   "spine_wall": 2.48,
+   "outer_rooms": 5.09,
+   "outer_wall": 0.78,
+   "depth": 20.41,
+   "ceiling": 6.28,
+   "ceiling_top": 6.69,
+   "glass": [
+    1.17,
+    3.69
+   ],
+   "niche_head_room": 3.9,
+   "spine_niche_head": [
+    3.9,
+    3.62
+   ],
+   "spine_niche_depth": 2.17,
+   "spine_door_h": 1.9,
+   "panel": 3.04,
+   "floor_above_court_ground": 5.66
+  }
+ },
+ "olsson": {
+  "read": "Fornvännen 69 (1974) fig. 1, pass 131 registration (SCR/p131/reg.json), rectified into the NE frame (SCR/p143/pz.png); ±1 m",
+  "room63_NE": {
+   "s": [
+    18.0,
+    27.2
+   ],
+   "west_wall_skew_s": [
+    26.3,
+    28.0
+   ],
+   "outer_face_c": -5.0,
+   "court_face_c": -15.0,
+   "court_windows_s": [
+    19.7,
+    22.9,
+    25.9
+   ]
+  },
+  "room65_NE": {
+   "s": [
+    6.2,
+    16.9
+   ],
+   "outer_face_c": -5.8,
+   "court_face_c": -15.0,
+   "court_windows_s": [
+    8.0,
+    11.7,
+    15.3
+   ],
+   "outer_windows_s": [
+    8.2,
+    13.9
+   ]
+  },
+  "wall_63_65_NE_s": [
+   16.9,
+   18.1
+  ],
+  "text": {
+   "room63_m": [
+    11,
+    10.5
+   ],
+   "wall_63_65_m": 0.45,
+   "court_windows_each": 3
+  }
+ },
+ "facade": {
+  "read": "SM_Kalmar_Slott glass, saved scene after pass 141, SCR/p143/dump143.py",
+  "NE_court": [
+   [
+    0.64,
+    -18.606
+   ],
+   [
+    5.94,
+    -18.645
+   ],
+   [
+    9.74,
+    -18.675
+   ],
+   [
+    13.54,
+    -18.705
+   ],
+   [
+    19.15,
+    -18.748
+   ],
+   [
+    22.95,
+    -18.777
+   ],
+   [
+    26.75,
+    -18.806
+   ]
+  ],
+  "w": 1.2,
+  "state_z": [
+   11.57,
+   14.77
+  ],
+  "NE_outer_state": [
+   1.82,
+   6.17,
+   10.53,
+   14.88,
+   19.24,
+   23.6
+  ],
+  "note": "the outer front state row lights the space behind the spine wall (no rooms built)"
+ },
+ "frame": {
+  "origin": [
+   -831.194,
+   -308.772
+  ],
+  "u": [
+   -0.37366059818260194,
+   0.9275655003102585
+  ],
+  "n": [
+   0.9275655003102585,
+   0.37366059818260194
+  ]
+ },
+ "levels": {
+  "floor": 10.47,
+  "z0": 10.17,
+  "sill": 11.57,
+  "glass_top": 14.77,
+  "board_under": 16.75,
+  "ztop": 17.16,
+  "panel_top": 13.51,
+  "door_head": 12.87,
+  "cornice": 16.55
+ },
+ "walls": {
+  "bcb": -18.399,
+  "bci": -16.609,
+  "boi": -5.789,
+  "bob": -3.309,
+  "court": 2.245
+ },
+ "rut": {
+  "a": [
+   17.844,
+   28.344
+  ],
+  "env": [
+   17.394,
+   29.544
+  ],
+  "part": [
+   17.394,
+   17.844
+  ],
+  "t_w": 1.2
+ },
+ "dro": {
+  "a": [
+   5.443,
+   17.394
+  ],
+  "env": [
+   4.443,
+   17.394
+  ],
+  "t_e": 1.0
+ },
+ "court_back_top": [
+  [
+   4.44,
+   17.096
+  ],
+  [
+   5.07,
+   17.096
+  ],
+  [
+   5.7,
+   17.096
+  ],
+  [
+   6.33,
+   17.096
+  ],
+  [
+   6.95,
+   17.096
+  ],
+  [
+   7.58,
+   17.096
+  ],
+  [
+   8.21,
+   17.096
+  ],
+  [
+   8.84,
+   17.096
+  ],
+  [
+   9.46,
+   17.096
+  ],
+  [
+   10.09,
+   17.096
+  ],
+  [
+   10.72,
+   17.096
+  ],
+  [
+   11.35,
+   17.096
+  ],
+  [
+   11.97,
+   17.096
+  ],
+  [
+   12.6,
+   17.096
+  ],
+  [
+   13.23,
+   17.096
+  ],
+  [
+   13.86,
+   17.096
+  ],
+  [
+   14.48,
+   17.096
+  ],
+  [
+   15.11,
+   17.096
+  ],
+  [
+   15.74,
+   17.096
+  ],
+  [
+   16.37,
+   17.096
+  ],
+  [
+   16.99,
+   17.096
+  ],
+  [
+   17.62,
+   17.096
+  ],
+  [
+   18.25,
+   17.096
+  ],
+  [
+   18.88,
+   17.096
+  ],
+  [
+   19.5,
+   17.096
+  ],
+  [
+   20.13,
+   17.096
+  ],
+  [
+   20.76,
+   17.096
+  ],
+  [
+   21.39,
+   17.096
+  ],
+  [
+   22.01,
+   17.096
+  ],
+  [
+   22.64,
+   17.096
+  ],
+  [
+   23.27,
+   17.096
+  ],
+  [
+   23.9,
+   17.096
+  ],
+  [
+   24.52,
+   17.096
+  ],
+  [
+   25.15,
+   17.096
+  ],
+  [
+   25.78,
+   17.096
+  ],
+  [
+   26.41,
+   17.095
+  ],
+  [
+   27.03,
+   17.095
+  ],
+  [
+   27.66,
+   17.095
+  ],
+  [
+   28.29,
+   17.095
+  ],
+  [
+   28.92,
+   17.095
+  ],
+  [
+   29.54,
+   17.095
+  ]
+ ],
+ "niches": [
+  {
+   "room": "rut",
+   "wall": "court",
+   "u_in": 19.294,
+   "r_in": 0.825,
+   "u_out": 19.294,
+   "r_out": 0.65,
+   "kind": "rect",
+   "zb": 10.47,
+   "head": {
+    "z_in": 14.97,
+    "z_out": 14.82
+   },
+   "depth": null,
+   "door": null,
+   "bench": null,
+   "b_glass": -18.6
+  },
+  {
+   "room": "rut",
+   "wall": "court",
+   "u_in": 23.094,
+   "r_in": 0.825,
+   "u_out": 23.094,
+   "r_out": 0.65,
+   "kind": "rect",
+   "zb": 10.47,
+   "head": {
+    "z_in": 14.97,
+    "z_out": 14.82
+   },
+   "depth": null,
+   "door": null,
+   "bench": null,
+   "b_glass": -18.6
+  },
+  {
+   "room": "rut",
+   "wall": "court",
+   "u_in": 26.894,
+   "r_in": 0.825,
+   "u_out": 26.894,
+   "r_out": 0.65,
+   "kind": "rect",
+   "zb": 10.47,
+   "head": {
+    "z_in": 14.97,
+    "z_out": 14.82
+   },
+   "depth": null,
+   "door": null,
+   "bench": null,
+   "b_glass": -18.6
+  },
+  {
+   "room": "dro",
+   "wall": "court",
+   "u_in": 6.443,
+   "r_in": 0.75,
+   "u_out": 6.083,
+   "r_out": 0.65,
+   "kind": "arch",
+   "zb": 10.62,
+   "head": {
+    "zs_in": 14.6,
+    "zs_out": 14.6
+   },
+   "depth": null,
+   "door": null,
+   "bench": null,
+   "b_glass": -18.599
+  },
+  {
+   "room": "dro",
+   "wall": "court",
+   "u_in": 9.883,
+   "r_in": 0.825,
+   "u_out": 9.883,
+   "r_out": 0.65,
+   "kind": "arch",
+   "zb": 10.62,
+   "head": {
+    "zs_in": 14.6,
+    "zs_out": 14.6
+   },
+   "depth": null,
+   "door": null,
+   "bench": null,
+   "b_glass": -18.6
+  },
+  {
+   "room": "dro",
+   "wall": "court",
+   "u_in": 13.684,
+   "r_in": 0.825,
+   "u_out": 13.684,
+   "r_out": 0.65,
+   "kind": "arch",
+   "zb": 10.62,
+   "head": {
+    "zs_in": 14.6,
+    "zs_out": 14.6
+   },
+   "depth": null,
+   "door": null,
+   "bench": null,
+   "b_glass": -18.6
+  },
+  {
+   "room": "rut",
+   "wall": "spine",
+   "u_in": 23.094,
+   "r_in": 0.9,
+   "u_out": 23.094,
+   "r_out": 0.9,
+   "kind": "rect",
+   "zb": 10.47,
+   "head": {
+    "z_in": 14.37,
+    "z_out": 14.09
+   },
+   "depth": 2.17,
+   "door": {
+    "w": 1.0,
+    "h": 1.9
+   },
+   "bench": null,
+   "b_glass": null
+  },
+  {
+   "room": "dro",
+   "wall": "spine",
+   "u_in": 14.034,
+   "r_in": 1.0,
+   "u_out": 14.034,
+   "r_out": 1.0,
+   "kind": "arch",
+   "zb": 10.47,
+   "head": {
+    "zs_in": 13.37,
+    "zs_out": 13.37
+   },
+   "depth": 2.17,
+   "door": {
+    "w": 1.0,
+    "h": 2.0
+   },
+   "bench": null,
+   "b_glass": null
+  },
+  {
+   "room": "dro",
+   "wall": "spine",
+   "u_in": 8.333,
+   "r_in": 0.75,
+   "u_out": 8.333,
+   "r_out": 0.75,
+   "kind": "arch",
+   "zb": 10.47,
+   "head": {
+    "zs_in": 13.02,
+    "zs_out": 13.02
+   },
+   "depth": 1.6,
+   "door": null,
+   "bench": {
+    "h": 0.5,
+    "d": 0.55
+   },
+   "b_glass": null
+  }
+ ],
+ "doors": [
+  {
+   "name": "rut_dro",
+   "wall": "partition",
+   "a0": 17.394,
+   "a1": 17.844,
+   "b": -10.899,
+   "w": 1.25,
+   "h": 2.4,
+   "leaf": false
+  },
+  {
+   "name": "dro_east",
+   "wall": "east65",
+   "a0": 4.443,
+   "a1": 5.443,
+   "b": -8.389,
+   "w": 1.1,
+   "h": 2.3,
+   "leaf": true
+  },
+  {
+   "name": "rut_west",
+   "wall": "west63",
+   "a0": 28.344,
+   "a1": 29.544,
+   "b": -10.599,
+   "w": 1.1,
+   "h": 2.3,
+   "leaf": true
+  }
+ ],
+ "fire": {
+  "a": 11.184,
+  "w": 1.7,
+  "open_w": 1.1,
+  "open_h": 1.35,
+  "proj": 0.42,
+  "recess": 0.55
+ },
+ "bmid": -11.199,
+ "checks": {
+  "rut_outside_body_m2": 0.0,
+  "rut_in_court_m2": 0.0,
+  "rut_in_tower_W_m2": 0.0,
+  "rut_in_tower_S_m2": 0.0,
+  "rut_in_tower_E_m2": 0.0,
+  "rut_in_tower_N_m2": 0.0,
+  "rut_in_kure_m2": 0.0,
+  "rut_in_bay1_m2": 0.0,
+  "rut_in_bay2_m2": 0.0,
+  "dro_outside_body_m2": 0.0,
+  "dro_in_court_m2": 0.0,
+  "dro_in_tower_W_m2": 0.0,
+  "dro_in_tower_S_m2": 0.0,
+  "dro_in_tower_E_m2": 0.0,
+  "dro_in_tower_N_m2": 0.0,
+  "dro_in_kure_m2": 0.0,
+  "dro_in_bay1_m2": 0.0,
+  "dro_in_bay2_m2": 0.0,
+  "rut_vs_pass125_m2": 0.0,
+  "rut_dist_pass125_rooms_m": 2.77,
+  "rut_vs_pass126_m2": 0.0,
+  "rut_vs_pass131_m2": 0.0,
+  "dro_vs_pass125_m2": 0.0,
+  "dro_dist_pass125_rooms_m": 14.31,
+  "dro_vs_pass126_m2": 0.0,
+  "dro_vs_pass131_m2": 0.0,
+  "rut_vs_dro_m2": 0.0,
+  "rut_room_m": [
+   10.5,
+   10.82
+  ],
+  "dro_room_m": [
+   11.95,
+   10.82
+  ],
+  "rut_room_m2": 113.61,
+  "dro_room_m2": 129.31,
+  "walls_m": {
+   "court": 2.245,
+   "court_from_back": 1.79,
+   "spine": 2.48,
+   "depth_model": 22.419,
+   "depth_moller": 20.41,
+   "excess_each": 1.005
+  },
+  "frame_deg_off_NE": 0.44,
+  "court_outline_dev_m": 0.0011,
+  "faces_NE": {
+   "court": -16.76,
+   "spine": -5.94,
+   "spine_back": -3.46,
+   "dro_e": 5.36,
+   "part": [
+    17.31,
+    17.76
+   ],
+   "rut_w": 28.26,
+   "env": [
+    4.36,
+    29.46
+   ]
+  },
+  "vs_olsson": {
+   "court_face": [
+    -16.76,
+    -15.0
+   ],
+   "spine_face": [
+    -5.94,
+    -5.0,
+    -5.8
+   ],
+   "rut_s": [
+    17.76,
+    28.26,
+    [
+     18.0,
+     27.2
+    ]
+   ],
+   "dro_s": [
+    5.36,
+    17.31,
+    [
+     6.2,
+     16.9
+    ]
+   ]
+  },
+  "problems": [],
+  "niche_axes_vs_glass": [
+   [
+    "rut",
+    "court",
+    19.294,
+    -18.6
+   ],
+   [
+    "rut",
+    "court",
+    23.094,
+    -18.6
+   ],
+   [
+    "rut",
+    "court",
+    26.894,
+    -18.6
+   ],
+   [
+    "dro",
+    "court",
+    6.083,
+    -18.599
+   ],
+   [
+    "dro",
+    "court",
+    9.883,
+    -18.6
+   ],
+   [
+    "dro",
+    "court",
+    13.684,
+    -18.6
+   ]
+  ],
+  "glass_to_niche_back_m": [
+   0.251,
+   0.251,
+   0.251,
+   0.25,
+   0.251,
+   0.251
+  ],
+  "court_back_top_min": 17.095,
+  "court_back_top_clipped": 41,
+  "rut_roof_under_min_over_room": 18.396,
+  "rut_roof_under_min_over_env": 17.195,
+  "dro_roof_under_min_over_room": 18.396,
+  "dro_roof_under_min_over_env": 17.196
+ }
+}

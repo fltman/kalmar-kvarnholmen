@@ -1,0 +1,102 @@
+{
+  "status": "passed",
+  "zones": {
+    "m352": {
+      "area_m2": 415.3,
+      "polygons": 1,
+      "walls": 8,
+      "outer_m": 65.1
+    },
+    "w352": {
+      "area_m2": 291.0,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 49.5
+    },
+    "h324": {
+      "area_m2": 94.4,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 23.1
+    },
+    "gw325": {
+      "area_m2": 7.4,
+      "polygons": 1,
+      "walls": 1,
+      "outer_m": 2.2
+    },
+    "lw325": {
+      "area_m2": 14.3,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 4.1
+    },
+    "bk325": {
+      "area_m2": 54.7,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 9.3
+    },
+    "yd325": {
+      "area_m2": 41.3,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 6.7
+    },
+    "f953": {
+      "area_m2": 187.3,
+      "polygons": 1,
+      "walls": 9,
+      "outer_m": 38.8
+    },
+    "w953": {
+      "area_m2": 190.0,
+      "polygons": 1,
+      "walls": 7,
+      "outer_m": 46.6
+    },
+    "y937": {
+      "area_m2": 69.2,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 33.3
+    },
+    "k337": {
+      "area_m2": 70.9,
+      "polygons": 1,
+      "walls": 8,
+      "outer_m": 35.1
+    },
+    "e060": {
+      "area_m2": 115.1,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 41.4
+    },
+    "w060": {
+      "area_m2": 88.8,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 33.5
+    },
+    "t716": {
+      "area_m2": 143.6,
+      "polygons": 1,
+      "walls": 22,
+      "outer_m": 40.1
+    },
+    "a716": {
+      "area_m2": 5.9,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 7.1
+    }
+  },
+  "checks": {
+    "footprint_m2": 1789.3,
+    "zoned_m2": 1789.2,
+    "outside_osm_m2": 0.06,
+    "osm_not_zoned_m2": 0.2,
+    "overlap_m2": 0.03
+  }
+}

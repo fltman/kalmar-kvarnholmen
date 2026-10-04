@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Kvarnholmen_House_90859889": {
+      "vertices": 37762,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_House_90859896": {
+      "vertices": 71928,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_House_90859844": {
+      "vertices": 28342,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    }
+  }
+}

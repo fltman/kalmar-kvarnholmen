@@ -1,0 +1,82 @@
+{
+  "SM_Castle125_GyllenSalen": {
+    "Normals": {
+      "vectors": 50057,
+      "min_length": 0.9999998591966238,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 338973,
+      "min_length": 0.9999998286882917,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 338973,
+      "min_length": 0.9999997385589214,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle125_Forrum": {
+    "Normals": {
+      "vectors": 779,
+      "min_length": 0.99999989595103,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 3432,
+      "min_length": 0.9999998589977873,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 3432,
+      "min_length": 0.9999998197579107,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle125_Kungsmaket": {
+    "Normals": {
+      "vectors": 24085,
+      "min_length": 0.9999998606245334,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 131403,
+      "min_length": 0.9999998461899635,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 131403,
+      "min_length": 0.9999997514844552,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kalmar_Slott_Towers": {
+    "Normals": {
+      "vectors": 148699,
+      "min_length": 0.9999998483231208,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 724020,
+      "min_length": 0.9999998287242668,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 724020,
+      "min_length": 0.9999997081089107,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

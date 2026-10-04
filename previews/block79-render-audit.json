@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "meshes": {
+    "SM_Kvarnholmen_Green79_Lawns": {
+      "vertices": 9761,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_Ringmur_Sodra": {
+      "vertices": 12532,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_Green79_Glacis": {
+      "vertices": 28,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_Trees79": {
+      "vertices": 130772,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    },
+    "SM_Kvarnholmen_Hedge79": {
+      "vertices": 3860,
+      "zero_tangents": 0,
+      "zero_normals": 0,
+      "nonfinite_vectors": 0,
+      "nonunit_vectors": 0
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "SM_Castle131_GronaSalen": {
+    "Normals": {
+      "vectors": 15490,
+      "min_length": 0.9999998609947262,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 79230,
+      "min_length": 0.9999998379779237,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 79230,
+      "min_length": 0.9999997406039262,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle131_GronaInventarier": {
+    "Normals": {
+      "vectors": 2047,
+      "min_length": 0.9999998810903024,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 8436,
+      "min_length": 0.999999857112256,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 8436,
+      "min_length": 0.9999998211860657,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle131_ForbrandaSalen": {
+    "Normals": {
+      "vectors": 20066,
+      "min_length": 0.999999867792619,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 101568,
+      "min_length": 0.9999998498233734,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 101568,
+      "min_length": 0.9999997523744909,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

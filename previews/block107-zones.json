@@ -1,0 +1,101 @@
+{
+  "status": "passed",
+  "zones": {
+    "cemetery": {
+      "area_m2": 9271.8
+    },
+    "lawn": {
+      "area_m2": 8808.3
+    },
+    "gravel": {
+      "area_m2": 463.5
+    },
+    "church_1610": {
+      "area_m2": 2139.4,
+      "inside_cemetery_m2": 1956.1
+    }
+  },
+  "checks": {
+    "cemetery_m2": 9271.8,
+    "lawn_m2": 8808.3,
+    "gravel_m2": 463.5,
+    "lawn_plus_gravel_m2": 9271.8,
+    "overlap_m2": 0.0,
+    "graves": 160,
+    "bars": 48,
+    "blobs": 112,
+    "graves_pushed_inside": 1,
+    "graves_outside": 0,
+    "enclosures": 6,
+    "trees": 17,
+    "kerb_m": 171.0,
+    "church_footprint_m2": 2139.4,
+    "church_footprint_in_cemetery_m2": 1956.1,
+    "wall_m": 264.1,
+    "chapel_r": 2.43,
+    "round_r": 3.98,
+    "church_bbox_uv": [
+      76.9,
+      35.8
+    ]
+  },
+  "georef": {
+    "grave_plan": {
+      "px_per_m_bar": 14.756,
+      "px_per_m_fit": 14.707,
+      "plan_north_bearing_fit": 27.93,
+      "plan_north_bearing_expected": 28.2,
+      "residuals_m": {
+        "south tip": 3.66,
+        "south-west bend": 4.5,
+        "west bend": 2.02,
+        "north-west corner": 1.64,
+        "north-east corner": 1.78,
+        "chapel centre": 1.25
+      },
+      "rms_m": 2.74
+    },
+    "rosman_fixed_bar": {
+      "px_per_m": 19.25,
+      "chapel_m": 1.1,
+      "wall_corner_m": 0.45,
+      "gate_kink_m": 1.65,
+      "se_line_rms_m": 0.36,
+      "se_line_max_m": 0.69
+    },
+    "rosman_free_scale": {
+      "px_per_m": 18.8,
+      "chapel_m": 1.09,
+      "wall_corner_m": 0.24,
+      "gate_kink_m": 1.72,
+      "se_line_rms_m": 0.22,
+      "se_line_max_m": 0.44
+    },
+    "rosman_x_bearing": 109.94,
+    "church_on_rosman_residuals_m": {
+      "kalkkoret_nw": 0.46,
+      "chapel": 0.61,
+      "north_wall_rms": 0.06
+    },
+    "church_axis_bearing_local": 109.41,
+    "church_axis_bearing_true": 81.21,
+    "notable_match_m": {
+      "28": 1.16,
+      "53": 1.9,
+      "54": 2.0,
+      "73": 2.15,
+      "74": 0.45,
+      "96": 3.19,
+      "139": 1.49,
+      "50": 2.07,
+      "167": 3.12,
+      "168": 1.57,
+      "166": 1.8,
+      "15": 0.01,
+      "20": 0.96,
+      "45": 1.57,
+      "22": 1.92,
+      "23": null
+    }
+  }
+}

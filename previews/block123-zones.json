@@ -1,0 +1,119 @@
+{
+  "status": "passed",
+  "zones": {
+    "hm": {
+      "osm": "93332243",
+      "area_m2": 269.1,
+      "polygons": 1,
+      "walls": 8,
+      "outer_m": 53.1
+    },
+    "hr": {
+      "osm": "93332243",
+      "area_m2": 23.6,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 13.7
+    },
+    "hx": {
+      "osm": "93332243",
+      "area_m2": 12.1,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 7.5
+    },
+    "hp": {
+      "osm": "93332243",
+      "area_m2": 27.4,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 13.7
+    },
+    "hg": {
+      "osm": "93332243",
+      "area_m2": 83.5,
+      "polygons": 1,
+      "walls": 8,
+      "outer_m": 28.9
+    },
+    "hl": {
+      "osm": "93332243",
+      "area_m2": 4.9,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 6.6
+    },
+    "ml": {
+      "osm": "91931339",
+      "area_m2": 46.2,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 7.6
+    },
+    "mt": {
+      "osm": "91931339",
+      "area_m2": 154.2,
+      "polygons": 1,
+      "walls": 9,
+      "outer_m": 25.9
+    },
+    "mf": {
+      "osm": "91931339",
+      "area_m2": 24.6,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 10.0
+    },
+    "mc": {
+      "osm": "91931339",
+      "area_m2": 185.3,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 33.1
+    },
+    "by": {
+      "osm": "91222116",
+      "area_m2": 465.5,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 75.6
+    },
+    "pv": {
+      "osm": "874870421",
+      "area_m2": 59.4,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 17.0
+    },
+    "pn": {
+      "osm": "874870421",
+      "area_m2": 51.5,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 24.7
+    },
+    "sh": {
+      "osm": "91222187",
+      "area_m2": 113.2,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 43.8
+    }
+  },
+  "checks": {
+    "footprint_m2": 1520.5,
+    "zoned_m2": 1520.5,
+    "outside_osm_m2": 0.08,
+    "osm_not_zoned_m2": 0.12,
+    "overlap_m2": 0.088,
+    "outlines_overlapping_m2": 0.088,
+    "zones_per_building": {
+      "93332243": 6,
+      "91931339": 4,
+      "91222116": 1,
+      "874870421": 2,
+      "91222187": 1
+    },
+    "empty_zones": []
+  }
+}

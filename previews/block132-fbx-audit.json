@@ -1,0 +1,22 @@
+{
+  "SM_Kalmar_Slott_Towers": {
+    "Normals": {
+      "vectors": 148699,
+      "min_length": 0.9999998483231208,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 724020,
+      "min_length": 0.9999998287242668,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 724020,
+      "min_length": 0.9999997081089107,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

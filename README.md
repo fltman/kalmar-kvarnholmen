@@ -18,7 +18,7 @@ cd kalmar-kvarnholmen
 python3 tools/fetch_assets.py
 ```
 
-On Windows use `python` instead of `python3`. The setup script downloads the version pinned in `assets/manifest.json`, checks the archives and each extracted file, and refuses to overwrite modified local files. Expect several gigabytes of extracted assets plus temporary download space. For Blender only, fetch `--bundle blender-source` and `--bundle textures`; for Unreal only, fetch `--bundle unreal-assets`. The ZIPs can also be downloaded and extracted manually into this repository's root.
+On Windows use `python` instead of `python3`. The setup script downloads the version pinned in `assets/manifest.json`, checks the archives and each extracted file, and refuses to overwrite modified local files. Expect several gigabytes of extracted assets plus temporary download space. For Blender only, fetch `--bundle blender-source` and `--bundle textures`; for Unreal only, fetch `--bundle unreal-assets` and `--bundle unreal-meshes` (the Unreal assets are split in two to stay under GitHub's 2 GB limit per release file). The ZIPs can also be downloaded and extracted manually into this repository's root.
 
 - **Blender:** open `source/Stortorget.blend`. Texture paths are relative to `exports/textures/`.
 - **Unreal:** open `Unreal/KalmarStortorget.uproject`, then `/Game/Kalmar/Maps/Stortorget`. Allow shaders and derived data to build on first launch.

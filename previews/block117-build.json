@@ -1,0 +1,835 @@
+{
+  "status": "uv_review_required",
+  "assets": {
+    "SM_Slott98_Buildings_M": {
+      "mikk_zero_loops_before_export_repair": 2939,
+      "vertices": 1389707,
+      "polygons": 2482889,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2939,
+        "Binormals": 2939
+      }
+    },
+    "SM_Slott117_93292657": {
+      "mikk_zero_loops_before_export_repair": 38,
+      "vertices": 11924,
+      "polygons": 21832,
+      "reprojected_polygons": 400,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 38,
+        "Binormals": 38
+      }
+    },
+    "SM_Slott117_93292658": {
+      "mikk_zero_loops_before_export_repair": 59,
+      "vertices": 8190,
+      "polygons": 14966,
+      "reprojected_polygons": 4,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 59,
+        "Binormals": 59
+      }
+    },
+    "SM_Slott117_93292659": {
+      "mikk_zero_loops_before_export_repair": 14,
+      "vertices": 7268,
+      "polygons": 13292,
+      "reprojected_polygons": 152,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 14,
+        "Binormals": 14
+      }
+    },
+    "SM_Slott117_93292660": {
+      "mikk_zero_loops_before_export_repair": 8,
+      "vertices": 18304,
+      "polygons": 33484,
+      "reprojected_polygons": 476,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 8,
+        "Binormals": 8
+      }
+    },
+    "SM_Slott117_93292661": {
+      "mikk_zero_loops_before_export_repair": 39,
+      "vertices": 10724,
+      "polygons": 19624,
+      "reprojected_polygons": 92,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 39,
+        "Binormals": 39
+      }
+    },
+    "SM_Slott117_93292662": {
+      "mikk_zero_loops_before_export_repair": 2,
+      "vertices": 3164,
+      "polygons": 5764,
+      "reprojected_polygons": 20,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2,
+        "Binormals": 2
+      }
+    },
+    "SM_Slott117_93292663": {
+      "mikk_zero_loops_before_export_repair": 27,
+      "vertices": 13004,
+      "polygons": 23804,
+      "reprojected_polygons": 332,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 27,
+        "Binormals": 27
+      }
+    },
+    "SM_Slott117_93292664": {
+      "mikk_zero_loops_before_export_repair": 21,
+      "vertices": 9380,
+      "polygons": 17160,
+      "reprojected_polygons": 4,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 21,
+        "Binormals": 21
+      }
+    },
+    "SM_Slott117_93292665": {
+      "mikk_zero_loops_before_export_repair": 31,
+      "vertices": 15876,
+      "polygons": 29048,
+      "reprojected_polygons": 777,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 31,
+        "Binormals": 31
+      }
+    },
+    "SM_Slott117_93292668": {
+      "mikk_zero_loops_before_export_repair": 8,
+      "vertices": 8516,
+      "polygons": 15576,
+      "reprojected_polygons": 32,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 8,
+        "Binormals": 8
+      }
+    },
+    "SM_Slott117_93292669": {
+      "mikk_zero_loops_before_export_repair": 1,
+      "vertices": 7604,
+      "polygons": 13905,
+      "reprojected_polygons": 161,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 1,
+        "Binormals": 1
+      }
+    },
+    "SM_Slott117_93292670": {
+      "mikk_zero_loops_before_export_repair": 23,
+      "vertices": 5144,
+      "polygons": 9400,
+      "reprojected_polygons": 40,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 23,
+        "Binormals": 23
+      }
+    },
+    "SM_Slott117_93292671": {
+      "mikk_zero_loops_before_export_repair": 10,
+      "vertices": 7340,
+      "polygons": 13420,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 10,
+        "Binormals": 10
+      }
+    },
+    "SM_Slott117_93292674": {
+      "mikk_zero_loops_before_export_repair": 29,
+      "vertices": 17876,
+      "polygons": 32736,
+      "reprojected_polygons": 612,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 29,
+        "Binormals": 29
+      }
+    },
+    "SM_Slott117_93292675": {
+      "mikk_zero_loops_before_export_repair": 2,
+      "vertices": 4024,
+      "polygons": 7340,
+      "reprojected_polygons": 220,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 2,
+        "Binormals": 2
+      }
+    },
+    "SM_Slott117_93292676": {
+      "mikk_zero_loops_before_export_repair": 36,
+      "vertices": 6384,
+      "polygons": 11688,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 36,
+        "Binormals": 36
+      }
+    },
+    "SM_Slott117_93292678": {
+      "mikk_zero_loops_before_export_repair": 58,
+      "vertices": 11652,
+      "polygons": 21268,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 58,
+        "Binormals": 58
+      }
+    },
+    "SM_Slott117_93292681": {
+      "mikk_zero_loops_before_export_repair": 1,
+      "vertices": 3356,
+      "polygons": 6116,
+      "reprojected_polygons": 60,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 1,
+        "Binormals": 1
+      }
+    },
+    "SM_Slott117_93292684": {
+      "mikk_zero_loops_before_export_repair": 11,
+      "vertices": 9908,
+      "polygons": 18132,
+      "reprojected_polygons": 316,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 11,
+        "Binormals": 11
+      }
+    },
+    "SM_Slott117_93292686": {
+      "mikk_zero_loops_before_export_repair": 3,
+      "vertices": 5684,
+      "polygons": 10388,
+      "reprojected_polygons": 240,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 3,
+        "Binormals": 3
+      }
+    },
+    "SM_Slott117_93292687": {
+      "mikk_zero_loops_before_export_repair": 13,
+      "vertices": 8300,
+      "polygons": 15180,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 13,
+        "Binormals": 13
+      }
+    },
+    "SM_Slott117_93292691": {
+      "mikk_zero_loops_before_export_repair": 3,
+      "vertices": 8488,
+      "polygons": 15492,
+      "reprojected_polygons": 183,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 3,
+        "Binormals": 3
+      }
+    },
+    "SM_Slott117_93292692": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 2204,
+      "polygons": 4004,
+      "reprojected_polygons": 12,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Slott117_93292693": {
+      "mikk_zero_loops_before_export_repair": 50,
+      "vertices": 24476,
+      "polygons": 44788,
+      "reprojected_polygons": 1396,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 50,
+        "Binormals": 50
+      }
+    },
+    "SM_Slott117_93292694": {
+      "mikk_zero_loops_before_export_repair": 163,
+      "vertices": 13924,
+      "polygons": 25624,
+      "reprojected_polygons": 17,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 163,
+        "Binormals": 163
+      }
+    },
+    "SM_Slott117_93292695": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 2972,
+      "polygons": 5412,
+      "reprojected_polygons": 49,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Slott117_93292697": {
+      "mikk_zero_loops_before_export_repair": 5,
+      "vertices": 5708,
+      "polygons": 10428,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 5,
+        "Binormals": 5
+      }
+    },
+    "SM_Slott117_93292698": {
+      "mikk_zero_loops_before_export_repair": 28,
+      "vertices": 5808,
+      "polygons": 10632,
+      "reprojected_polygons": 0,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 28,
+        "Binormals": 28
+      }
+    },
+    "SM_Slott117_93292699": {
+      "mikk_zero_loops_before_export_repair": 40,
+      "vertices": 13508,
+      "polygons": 24688,
+      "reprojected_polygons": 737,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 40,
+        "Binormals": 40
+      }
+    },
+    "SM_Slott117_93292700": {
+      "mikk_zero_loops_before_export_repair": 55,
+      "vertices": 12864,
+      "polygons": 23584,
+      "reprojected_polygons": 12,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 55,
+        "Binormals": 55
+      }
+    },
+    "SM_Slott117_93292703": {
+      "mikk_zero_loops_before_export_repair": 49,
+      "vertices": 9260,
+      "polygons": 16940,
+      "reprojected_polygons": 8,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 49,
+        "Binormals": 49
+      }
+    },
+    "SM_Slott117_93292704": {
+      "mikk_zero_loops_before_export_repair": 47,
+      "vertices": 16542,
+      "polygons": 30288,
+      "reprojected_polygons": 204,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 47,
+        "Binormals": 47
+      }
+    },
+    "SM_Slott117_93292705": {
+      "mikk_zero_loops_before_export_repair": 41,
+      "vertices": 11516,
+      "polygons": 21076,
+      "reprojected_polygons": 542,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 41,
+        "Binormals": 41
+      }
+    },
+    "SM_Slott117_93292707": {
+      "mikk_zero_loops_before_export_repair": 24,
+      "vertices": 14640,
+      "polygons": 26824,
+      "reprojected_polygons": 620,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 24,
+        "Binormals": 24
+      }
+    },
+    "SM_Slott117_93292708": {
+      "mikk_zero_loops_before_export_repair": 3,
+      "vertices": 6212,
+      "polygons": 11352,
+      "reprojected_polygons": 328,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 3,
+        "Binormals": 3
+      }
+    },
+    "SM_Slott117_93306344": {
+      "mikk_zero_loops_before_export_repair": 11,
+      "vertices": 8236,
+      "polygons": 15017,
+      "reprojected_polygons": 434,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 11,
+        "Binormals": 11
+      }
+    },
+    "SM_Slott117_93306348": {
+      "mikk_zero_loops_before_export_repair": 0,
+      "vertices": 9986,
+      "polygons": 18222,
+      "reprojected_polygons": 509,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 0,
+        "Binormals": 0
+      }
+    },
+    "SM_Slott117_93306357": {
+      "mikk_zero_loops_before_export_repair": 12,
+      "vertices": 16176,
+      "polygons": 29685,
+      "reprojected_polygons": 695,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 12,
+        "Binormals": 12
+      }
+    },
+    "SM_Slott117_93309098": {
+      "mikk_zero_loops_before_export_repair": 40,
+      "vertices": 5568,
+      "polygons": 10192,
+      "reprojected_polygons": 128,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 40,
+        "Binormals": 40
+      }
+    },
+    "SM_Slott117_149905962": {
+      "mikk_zero_loops_before_export_repair": 14,
+      "vertices": 5104,
+      "polygons": 9320,
+      "reprojected_polygons": 280,
+      "zero_uv_triangles": 0,
+      "export_frame_repairs": {
+        "Tangents": 14,
+        "Binormals": 14
+      }
+    }
+  },
+  "changed": [
+    "SM_Slott98_Buildings_M",
+    "SM_Slott117_93292657",
+    "SM_Slott117_93292658",
+    "SM_Slott117_93292659",
+    "SM_Slott117_93292660",
+    "SM_Slott117_93292661",
+    "SM_Slott117_93292662",
+    "SM_Slott117_93292663",
+    "SM_Slott117_93292664",
+    "SM_Slott117_93292665",
+    "SM_Slott117_93292668",
+    "SM_Slott117_93292669",
+    "SM_Slott117_93292670",
+    "SM_Slott117_93292671",
+    "SM_Slott117_93292674",
+    "SM_Slott117_93292675",
+    "SM_Slott117_93292676",
+    "SM_Slott117_93292678",
+    "SM_Slott117_93292681",
+    "SM_Slott117_93292684",
+    "SM_Slott117_93292686",
+    "SM_Slott117_93292687",
+    "SM_Slott117_93292691",
+    "SM_Slott117_93292692",
+    "SM_Slott117_93292693",
+    "SM_Slott117_93292694",
+    "SM_Slott117_93292695",
+    "SM_Slott117_93292697",
+    "SM_Slott117_93292698",
+    "SM_Slott117_93292699",
+    "SM_Slott117_93292700",
+    "SM_Slott117_93292703",
+    "SM_Slott117_93292704",
+    "SM_Slott117_93292705",
+    "SM_Slott117_93292707",
+    "SM_Slott117_93292708",
+    "SM_Slott117_93306344",
+    "SM_Slott117_93306348",
+    "SM_Slott117_93306357",
+    "SM_Slott117_93309098",
+    "SM_Slott117_149905962"
+  ],
+  "cameras": [
+    "601_Block117_Cal_RedGableHouse",
+    "602_Block117_Cal_Vasterlanggatan25",
+    "603_Block117_Cal_PatersGrand",
+    "604_Block117_Cal_GreenShutters",
+    "605_Block117_Aerial"
+  ],
+  "prepared_unchanged": [
+    "SM_Kvarnholmen_House_91222222",
+    "SM_Kvarnholmen_House_91856621",
+    "SM_Kvarnholmen_House_91856599",
+    "SM_Kvarnholmen_House_91856613",
+    "SM_Kvarnholmen_House_91856604",
+    "SM_Kvarnholmen_House_91856615",
+    "SM_Kvarnholmen_House_91856624",
+    "SM_Kvarnholmen_House_91856594",
+    "SM_Kvarnholmen_House_91856619",
+    "SM_Kvarnholmen_House_91856622",
+    "SM_Kvarnholmen_House_92204156",
+    "SM_Kvarnholmen_House_92204161",
+    "SM_Kvarnholmen_House_92204198",
+    "SM_Kvarnholmen_House_92204187",
+    "SM_Kvarnholmen_House_92204189",
+    "SM_Kvarnholmen_House_92204170",
+    "SM_Kvarnholmen_House_92204162",
+    "SM_Kvarnholmen_House_92204181",
+    "SM_Kvarnholmen_House_92204160",
+    "SM_Kvarnholmen_House_92379302",
+    "SM_Kvarnholmen_House_92379287",
+    "SM_Kvarnholmen_House_92379267",
+    "SM_Kvarnholmen_House_92379282",
+    "SM_Kvarnholmen_House_92379316",
+    "SM_Kvarnholmen_House_92379296",
+    "SM_Kvarnholmen_House_92379286",
+    "SM_Kvarnholmen_House_92379313",
+    "SM_Building_92379256",
+    "SM_Building_92379310",
+    "SM_Building_92412869",
+    "SM_Building_92412859",
+    "SM_Building_92412832",
+    "SM_Building_92412846",
+    "SM_Building_92412838",
+    "SM_Kvarnholmen_House_92412873",
+    "SM_Building_91846978",
+    "SM_Kvarnholmen_House_92412862",
+    "SM_Kvarnholmen_House_92379262",
+    "SM_Kvarnholmen_House_92379314",
+    "SM_Kvarnholmen_House_92379258",
+    "SM_Kvarnholmen_House_92379298",
+    "SM_Kvarnholmen_House_92379306",
+    "SM_Kvarnholmen_House_92379253",
+    "SM_Kvarnholmen_House_92379261",
+    "SM_Kvarnholmen_House_92379272",
+    "SM_Kvarnholmen_House_92379264",
+    "SM_Kvarnholmen_House_92379292",
+    "SM_Kvarnholmen_House_91856606",
+    "SM_Kvarnholmen_House_91856592",
+    "SM_Kvarnholmen_House_91856590",
+    "SM_Kvarnholmen_House_91856614",
+    "SM_Kvarnholmen_House_91285838",
+    "SM_Building_92379255",
+    "SM_Building_92379307",
+    "SM_Building_91970300",
+    "SM_Kvarnholmen_House_91970261",
+    "SM_Kvarnholmen_House_91970317",
+    "SM_Building_91856608",
+    "SM_Kvarnholmen_House_91885539",
+    "SM_Kvarnholmen_House_91885537",
+    "SM_Building_91970370",
+    "SM_Building_91970388",
+    "SM_Kvarnholmen_House_91885528",
+    "SM_Kvarnholmen_House_91846981",
+    "SM_Kvarnholmen_House_91846966",
+    "SM_Kvarnholmen_House_91846970",
+    "SM_Kvarnholmen_House_91885531",
+    "SM_Kvarnholmen_House_91885524",
+    "SM_Kvarnholmen_House_91926340",
+    "SM_Kvarnholmen_House_91926315",
+    "SM_Kvarnholmen_House_93238145",
+    "SM_Kvarnholmen_House_91926323",
+    "SM_Kvarnholmen_House_91926300",
+    "SM_Kvarnholmen_House_93192422",
+    "SM_Kvarnholmen_House_93192350",
+    "SM_Kvarnholmen_House_93192446",
+    "SM_Kvarnholmen_House_90859889",
+    "SM_Kvarnholmen_House_90859896",
+    "SM_Kvarnholmen_House_90859844",
+    "SM_Kvarnholmen_House_93192402",
+    "SM_Kvarnholmen_House_93192406",
+    "SM_Kvarnholmen_House_93192377",
+    "SM_Kvarnholmen_Green79_Lawns",
+    "SM_Kvarnholmen_Ringmur_Sodra",
+    "SM_Kvarnholmen_Green79_Glacis",
+    "SM_Kvarnholmen_Trees79",
+    "SM_Kvarnholmen_Hedge79",
+    "SM_Kvarnholmen_House_90859833",
+    "SM_Kvarnholmen_House_90859904",
+    "SM_Kvarnholmen_House_90859843",
+    "SM_Kvarnholmen_House_90859883",
+    "SM_Kvarnholmen_House_93192447",
+    "SM_Kvarnholmen_House_93192416",
+    "SM_Kvarnholmen_House_93192390",
+    "SM_Kvarnholmen_House_93192433",
+    "SM_Kvarnholmen_House_90859897",
+    "SM_Kvarnholmen_House_90859890",
+    "SM_Kvarnholmen_House_90859875",
+    "SM_Kvarnholmen_House_90859864",
+    "SM_Kvarnholmen_House_90859880",
+    "SM_Kvarnholmen_House_91915626",
+    "SM_Kvarnholmen_House_91915628",
+    "SM_Kvarnholmen_House_91915620",
+    "SM_Kvarnholmen_House_91915631",
+    "SM_Kvarnholmen_House_91915622",
+    "SM_Kvarnholmen_House_91915624",
+    "SM_Kvarnholmen_House_91915619",
+    "SM_Prison85_Ground",
+    "SM_Prison85_Anstalten",
+    "SM_Prison85_Walls",
+    "SM_Prison85_Rotunda",
+    "SM_Kvarnholmen_House_91928565",
+    "SM_Kvarnholmen_House_91928576",
+    "SM_Kvarnholmen_House_91928540",
+    "SM_Kvarnholmen_House_91928545",
+    "SM_Kvarnholmen_House_91928582",
+    "SM_Kvarnholmen_House_91928581",
+    "SM_Kvarnholmen_House_91928560",
+    "SM_Kvarnholmen_House_91928553",
+    "SM_Kvarnholmen_House_91928566",
+    "SM_Kvarnholmen_House_92379283",
+    "SM_Kvarnholmen_House_92379259",
+    "SM_Kvarnholmen_House_91856598",
+    "SM_Kvarnholmen_House_91856586",
+    "SM_Kvarnholmen_House_91856600",
+    "SM_Kvarnholmen_House_91928538",
+    "SM_Kvarnholmen_House_91928591",
+    "SM_Kvarnholmen_House_91928561",
+    "SM_Kvarnholmen_House_91928583",
+    "SM_Kvarnholmen_House_91928590",
+    "SM_Kvarnholmen_House_93192351",
+    "SM_Kvarnholmen_House_93192354",
+    "SM_Kvarnholmen_House_93192423",
+    "SM_Kvarnholmen_House_93192353",
+    "SM_Kvarnholmen_House_93192374",
+    "SM_Kvarnholmen_House_93192424",
+    "SM_Kvarnholmen_House_93192442",
+    "SM_Kvarnholmen_House_93192397",
+    "SM_Kvarnholmen_House_91928597",
+    "SM_Kvarnholmen_House_91928575",
+    "SM_Kvarnholmen_House_93192387",
+    "SM_Kvarnholmen_House_93192432",
+    "SM_Kvarnholmen_House_93192395",
+    "SM_Kvarnholmen_House_93192444",
+    "SM_Kvarnholmen_House_93192382",
+    "SM_Kvarnholmen_House_93199599",
+    "SM_Kvarnholmen_House_93238178",
+    "SM_Kvarnholmen_House_93238200",
+    "SM_Kvarnholmen_House_93238168",
+    "SM_Kvarnholmen_House_93238182",
+    "SM_Kvarnholmen_House_93238147",
+    "SM_Kvarnholmen_House_91885523",
+    "SM_Kvarnholmen_House_91926303",
+    "SM_Kvarnholmen_House_91926337",
+    "SM_Kvarnholmen_House_91926333",
+    "SM_Kvarnholmen_House_91926308",
+    "SM_Kvarnholmen_House_91926299",
+    "SM_Kvarnholmen_House_91926297",
+    "SM_Kvarnholmen_House_91926357",
+    "SM_Kvarnholmen_House_90859877",
+    "SM_Kvarnholmen_House_90859878",
+    "SM_Kvarnholmen_House_90859832",
+    "SM_Kvarnholmen_House_90859848",
+    "SM_Kvarnholmen_House_90859847",
+    "SM_Building_91970395",
+    "SM_Building_91970343",
+    "SM_Kvarnholmen_House_91885535",
+    "SM_Kvarnholmen_House_91885540",
+    "SM_Building_91926309",
+    "SM_Kvarnholmen_House_91926329",
+    "SM_Slott98_Ground",
+    "SM_Slott98_Streets",
+    "SM_Slott98_Greens",
+    "SM_Slott98_Cemeteries",
+    "SM_Slott98_Trees",
+    "SM_Slott98_Buildings_E",
+    "SM_Slott98_Buildings_M",
+    "SM_Slott98_Buildings_W",
+    "SM_Kvarnholmen_House_90859885",
+    "SM_Kvarnholmen_House_90859837",
+    "SM_Kvarnholmen_House_90859849",
+    "SM_Kvarnholmen_House_90859898",
+    "SM_Kvarnholmen_House_93238210",
+    "SM_Kvarnholmen_House_93238172",
+    "SM_Kvarnholmen_House_93238187",
+    "SM_Kvarnholmen_House_93238156",
+    "SM_Kvarnholmen_House_93238202",
+    "SM_Kvarnholmen_House_93238179",
+    "SM_Kvarnholmen_House_93238159",
+    "SM_Kvarnholmen_House_93238211",
+    "SM_Kvarnholmen_House_93238209",
+    "SM_Kvarnholmen_House_93238165",
+    "SM_Kvarnholmen_House_93238196",
+    "SM_Kvarnholmen_House_93238164",
+    "SM_Kvarnholmen_House_93238222",
+    "SM_Kvarnholmen_House_93199630",
+    "SM_Kvarnholmen_House_93199675",
+    "SM_Kvarnholmen_House_93199606",
+    "SM_Prison85_Anstalten",
+    "SM_Kvarnholmen_House_92204193",
+    "SM_Kvarnholmen_House_92379265",
+    "SM_Kvarnholmen_House_92204176",
+    "SM_Kvarnholmen_House_550598948",
+    "SM_Kvarnholmen_House_92204196",
+    "SM_Kvarnholmen_House_92204205",
+    "SM_Kvarnholmen_House_92204158",
+    "SM_Kvarnholmen_House_92204154",
+    "SM_Kvarnholmen_House_92204191",
+    "SM_Kvarnholmen_House_92379281",
+    "SM_Kvarnholmen_House_91285791",
+    "SM_Kvarnholmen_House_91928568",
+    "SM_Kvarnholmen_House_91928594",
+    "SM_Kvarnholmen_House_93199647",
+    "SM_Kvarnholmen_House_93199649",
+    "SM_Kvarnholmen_House_91928552",
+    "SM_Kvarnholmen_House_91928587",
+    "SM_Kvarnholmen_House_93199672",
+    "SM_Kvarnholmen_House_93199626",
+    "SM_Slott98_Cemeteries",
+    "SM_Slott98_Trees",
+    "SM_Slott98_Buildings_M",
+    "SM_GamlaKyrkogarden107",
+    "SM_GamlaKyrkogarden107_Trees",
+    "SM_Stagnellska107",
+    "SM_Bykyrkan1610",
+    "SM_Kvarnholmen_House_92204167",
+    "SM_Building_92379295",
+    "SM_Kvarnholmen_House_92379291",
+    "SM_Kvarnholmen_House_92204171",
+    "SM_Kvarnholmen_House_92379305",
+    "SM_Kvarnholmen_House_92204179",
+    "SM_Kvarnholmen_House_92204177",
+    "SM_Kvarnholmen_House_92204174",
+    "SM_Kvarnholmen_House_886305409",
+    "SM_Building_91846958",
+    "SM_Building_91846925",
+    "SM_Kvarnholmen_House_91846945",
+    "SM_Building_91265011",
+    "SM_Building_91970373",
+    "SM_Building_91970296",
+    "SM_Building_92379278",
+    "SM_Building_92379304",
+    "SM_Building_92379276",
+    "SM_Kvarnholmen_House_92412841",
+    "SM_Kvarnholmen_House_92204180",
+    "SM_Building_91264997",
+    "SM_Building_91970385",
+    "SM_Building_91926352",
+    "SM_Kvarnholmen_House_91926324",
+    "SM_Kvarnholmen_House_91926325",
+    "SM_Kvarnholmen_House_91846953",
+    "SM_Kvarnholmen_House_91846937",
+    "SM_Kvarnholmen_House_91931337",
+    "SM_Kvarnholmen_House_149000060",
+    "SM_Kvarnholmen_House_91072716",
+    "SM_Kvarnholmen_House_91846945",
+    "SM_Kvarnholmen_House_91072716",
+    "SM_Kvarnholmen_House_92204191",
+    "SM_Kvarnholmen_House_93238202",
+    "SM_Kvarnholmen_House_90977144",
+    "SM_Kvarnholmen_House_91915629",
+    "SM_Kvarnholmen_House_91846927",
+    "SM_Kvarnholmen_House_1049819215",
+    "SM_Kvarnholmen_House_149000062",
+    "SM_Kvarnholmen_House_90859836",
+    "SM_Kvarnholmen_House_90859884",
+    "SM_Kvarnholmen_House_90859852",
+    "SM_Kvarnholmen_House_93238185",
+    "SM_Kvarnholmen_House_93192417",
+    "SM_Kvarnholmen_House_92204195",
+    "SM_Kvarnholmen_House_1549543685",
+    "SM_Kvarnholmen_House_886305409",
+    "SM_Slott98_Buildings_E",
+    "SM_Slott98_Buildings_M",
+    "SM_Slott115_91931339",
+    "SM_Slott115_91222116",
+    "SM_Slott115_91222187",
+    "SM_Slott115_874870421",
+    "SM_Slott115_93332243",
+    "SM_Slott115_93332252",
+    "SM_Slott115_93306354",
+    "SM_Slott115_387312778",
+    "SM_Slott115_387312779",
+    "SM_Slott115_91970278",
+    "SM_Slott115_91970355",
+    "SM_Slott115_91970390",
+    "SM_Slott115_91970274",
+    "SM_Slott115_564958332",
+    "SM_Slott98_Buildings_E",
+    "SM_Slott98_Buildings_M",
+    "SM_Slott116_93306337",
+    "SM_Slott116_93306339",
+    "SM_Slott116_93306341",
+    "SM_Slott116_93306345",
+    "SM_Slott116_93306347",
+    "SM_Slott116_93306350",
+    "SM_Slott116_93306353",
+    "SM_Slott116_93306358",
+    "SM_Slott116_93306359",
+    "SM_Slott116_93306360",
+    "SM_Slott116_93309084",
+    "SM_Slott116_93309091",
+    "SM_Slott116_93309092",
+    "SM_Slott116_93332235",
+    "SM_Slott116_93332236",
+    "SM_Slott116_93332237",
+    "SM_Slott116_93332238",
+    "SM_Slott116_93332239",
+    "SM_Slott116_93332240",
+    "SM_Slott116_93332241",
+    "SM_Slott116_93332244",
+    "SM_Slott116_93332245",
+    "SM_Slott116_93332246",
+    "SM_Slott116_93332247",
+    "SM_Slott116_93332250",
+    "SM_Slott116_93332251",
+    "SM_Slott116_93332253",
+    "SM_Slott116_93332254",
+    "SM_Slott116_93333618",
+    "SM_Slott116_93333625",
+    "SM_Slott116_93333634",
+    "SM_Slott116_93333644",
+    "SM_Slott116_93333651",
+    "SM_Slott116_93333661",
+    "SM_Slott116_93333666",
+    "SM_Slott116_387312777",
+    "SM_Slott116_1433973300"
+  ]
+}

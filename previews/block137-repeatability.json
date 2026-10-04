@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "39fc5b78cb03b4d9ec69df763f420ccdd521b261a5bd8fe1fd66928b2e124a49",
+      "vertices": 199922,
+      "polygons": 318348
+    },
+    "SM_Castle124_Portals": {
+      "sha256_geometry_uv_materials": "eb15f1b65e0c32a34484282123f3ef6b9b177b4f94fe7a304169636b5a4d993f",
+      "vertices": 10258,
+      "polygons": 19432
+    },
+    "SM_Castle124_Paving": {
+      "sha256_geometry_uv_materials": "590aaed98881068af395f0e7bd5f7e98be096c8b148f3fe9958e51c60ba237cc",
+      "vertices": 960,
+      "polygons": 1760
+    },
+    "SM_Castle135_Kungskoket": {
+      "sha256_geometry_uv_materials": "272cbd67aff3dc6a7ef877738596e2e8402dc7f1d3208ba8ff4e3cd2f192b796",
+      "vertices": 6296,
+      "polygons": 11480
+    },
+    "SM_Castle135_KungskoketInventarier": {
+      "sha256_geometry_uv_materials": "851a696697d989103531c7520ce3b22dbbfc47c061c7b67630226f6fcecb332b",
+      "vertices": 1848,
+      "polygons": 3488
+    },
+    "SM_Castle131_GronaSalen": {
+      "sha256_geometry_uv_materials": "47b2709a117a6aee5829843f1ff00b3a39b7af8eec1353b031f20a85c56fc03e",
+      "vertices": 14230,
+      "polygons": 26410
+    }
+  }
+}

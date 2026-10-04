@@ -1,0 +1,225 @@
+{
+ "pass": 143,
+ "rooms": {
+  "rut": {
+   "room": [
+    [
+     -853.2675,
+     -298.4267
+    ],
+    [
+     -857.191,
+     -288.6872
+    ],
+    [
+     -847.1547,
+     -284.6442
+    ],
+    [
+     -843.2313,
+     -294.3836
+    ]
+   ],
+   "envelope": [
+    [
+     -854.7597,
+     -299.5129
+    ],
+    [
+     -859.2997,
+     -288.243
+    ],
+    [
+     -845.3027,
+     -282.6044
+    ],
+    [
+     -840.7628,
+     -293.8744
+    ]
+   ]
+  },
+  "dro": {
+   "room": [
+    [
+     -848.6338,
+     -309.9294
+    ],
+    [
+     -853.0994,
+     -298.8441
+    ],
+    [
+     -843.0631,
+     -294.801
+    ],
+    [
+     -838.5975,
+     -305.8864
+    ]
+   ],
+   "envelope": [
+    [
+     -849.9205,
+     -311.5258
+    ],
+    [
+     -854.7597,
+     -299.5129
+    ],
+    [
+     -840.7628,
+     -293.8744
+    ],
+    [
+     -835.9235,
+     -305.8873
+    ]
+   ]
+  }
+ },
+ "checks": {
+  "rut_outside_body_m2": 0.0,
+  "rut_in_court_m2": 0.0,
+  "rut_in_tower_W_m2": 0.0,
+  "rut_in_tower_S_m2": 0.0,
+  "rut_in_tower_E_m2": 0.0,
+  "rut_in_tower_N_m2": 0.0,
+  "rut_in_kure_m2": 0.0,
+  "rut_in_bay1_m2": 0.0,
+  "rut_in_bay2_m2": 0.0,
+  "dro_outside_body_m2": 0.0,
+  "dro_in_court_m2": 0.0,
+  "dro_in_tower_W_m2": 0.0,
+  "dro_in_tower_S_m2": 0.0,
+  "dro_in_tower_E_m2": 0.0,
+  "dro_in_tower_N_m2": 0.0,
+  "dro_in_kure_m2": 0.0,
+  "dro_in_bay1_m2": 0.0,
+  "dro_in_bay2_m2": 0.0,
+  "rut_vs_pass125_m2": 0.0,
+  "rut_dist_pass125_rooms_m": 2.77,
+  "rut_vs_pass126_m2": 0.0,
+  "rut_vs_pass131_m2": 0.0,
+  "dro_vs_pass125_m2": 0.0,
+  "dro_dist_pass125_rooms_m": 14.31,
+  "dro_vs_pass126_m2": 0.0,
+  "dro_vs_pass131_m2": 0.0,
+  "rut_vs_dro_m2": 0.0,
+  "rut_room_m": [
+   10.5,
+   10.82
+  ],
+  "dro_room_m": [
+   11.95,
+   10.82
+  ],
+  "rut_room_m2": 113.61,
+  "dro_room_m2": 129.31,
+  "walls_m": {
+   "court": 2.245,
+   "court_from_back": 1.79,
+   "spine": 2.48,
+   "depth_model": 22.419,
+   "depth_moller": 20.41,
+   "excess_each": 1.005
+  },
+  "frame_deg_off_NE": 0.44,
+  "court_outline_dev_m": 0.0011,
+  "faces_NE": {
+   "court": -16.76,
+   "spine": -5.94,
+   "spine_back": -3.46,
+   "dro_e": 5.36,
+   "part": [
+    17.31,
+    17.76
+   ],
+   "rut_w": 28.26,
+   "env": [
+    4.36,
+    29.46
+   ]
+  },
+  "vs_olsson": {
+   "court_face": [
+    -16.76,
+    -15.0
+   ],
+   "spine_face": [
+    -5.94,
+    -5.0,
+    -5.8
+   ],
+   "rut_s": [
+    17.76,
+    28.26,
+    [
+     18.0,
+     27.2
+    ]
+   ],
+   "dro_s": [
+    5.36,
+    17.31,
+    [
+     6.2,
+     16.9
+    ]
+   ]
+  },
+  "problems": [],
+  "niche_axes_vs_glass": [
+   [
+    "rut",
+    "court",
+    19.294,
+    -18.6
+   ],
+   [
+    "rut",
+    "court",
+    23.094,
+    -18.6
+   ],
+   [
+    "rut",
+    "court",
+    26.894,
+    -18.6
+   ],
+   [
+    "dro",
+    "court",
+    6.083,
+    -18.599
+   ],
+   [
+    "dro",
+    "court",
+    9.883,
+    -18.6
+   ],
+   [
+    "dro",
+    "court",
+    13.684,
+    -18.6
+   ]
+  ],
+  "glass_to_niche_back_m": [
+   0.251,
+   0.251,
+   0.251,
+   0.25,
+   0.251,
+   0.251
+  ],
+  "court_back_top_min": 17.095,
+  "court_back_top_clipped": 41,
+  "rut_roof_under_min_over_room": 18.396,
+  "rut_roof_under_min_over_env": 17.195,
+  "dro_roof_under_min_over_room": 18.396,
+  "dro_roof_under_min_over_env": 17.196
+ }
+}

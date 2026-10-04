@@ -1,0 +1,985 @@
+{
+ "note": "Reference images for the Kalmar slott approach and interior (research pass 2026-10-02). Working references only; keep licences; not redistributed with the public edition unless the licence allows.",
+ "files": {
+  "commons-kalmar-slott.gyllene-salen.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar slott.Gyllene salen.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_slott.Gyllene_salen.jpg",
+   "author": "Alexandru Baboş Albabos",
+   "date": "2009-10-02",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "original_size": [
+    4071,
+    1334
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-castle-golden-hall-ceiling-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar Castle, Golden Hall, ceiling 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_Castle,_Golden_Hall,_ceiling_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4752,
+    3168
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-slott.kungsgemaket.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar slott.kungsgemaket.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_slott.kungsgemaket.jpg",
+   "author": "Alexandru Baboş Albabos",
+   "date": "2009-10-02",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "original_size": [
+    5906,
+    2794
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-gr-na-salen-at-kalmar-slott-02.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Gröna salen at Kalmar Slott 02.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_salen_at_Kalmar_Slott_02.JPG",
+   "author": "Jopparn",
+   "date": "2015-03-29 14:34:39",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    8192,
+    1856
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-castle-museum-green-hall-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar Castle Museum, Green Hall, 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_Castle_Museum,_Green_Hall,_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30 13:51:24",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4752,
+    3168
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-slott.slottskyrka.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar slott.slottskyrka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_slott.slottskyrka.jpg",
+   "author": "Alexandru Baboş Albabos",
+   "date": "2009-10-02",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "original_size": [
+    4134,
+    2934
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-slottskyrkan-i-kalmar-slott-08.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Slottskyrkan i Kalmar slott 08.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Slottskyrkan_i_Kalmar_slott_08.JPG",
+   "author": "Jopparn",
+   "date": "2015-03-29 14:30:44",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    8192,
+    1856
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-castle-entrance-corridor-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar Castle, entrance corridor, 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_Castle,_entrance_corridor,_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4752,
+    3168
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-entrance-bridge-to-the-kalmar-castle-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Entrance bridge to the Kalmar Castle 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Entrance_bridge_to_the_Kalmar_Castle_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30 14:48:04",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4752,
+    3168
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-castle-bridge-and-entrance-june-2018.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Kalmar castle bridge and entrance June 2018.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_castle_bridge_and_entrance_June_2018.jpg",
+   "author": "ThomasLendt",
+   "date": "2018-06-04 12:42:55",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    5161,
+    3441
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-zugbr-cke-schloss-kalmar.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Zugbrücke Schloss Kalmar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Zugbr%C3%BCcke_Schloss_Kalmar.jpg",
+   "author": "Steinkatz",
+   "date": "2024-05-14 11:24:23",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "original_size": [
+    1024,
+    682
+   ],
+   "downloaded_width": 1024
+  },
+  "commons-part-of-the-entrance-to-kalmar-castle-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Part of the entrance to Kalmar Castle, 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Part_of_the_entrance_to_Kalmar_Castle,_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4539,
+    3017
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-ing-ngen-till-kalmar-slott.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Ingången till Kalmar slott.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Ing%C3%A5ngen_till_Kalmar_slott.JPG",
+   "author": "Oregran",
+   "date": "2014-07-25 15:54:21",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "original_size": [
+    1536,
+    2048
+   ],
+   "downloaded_width": 1536
+  },
+  "commons-commission-scientifique-du-nord---a.-mayer---cour-du-ch-teau-de-kalmar.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Commission scientifique du Nord - A. Mayer - Cour du château de Kalmar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Commission_scientifique_du_Nord_-_A._Mayer_-_Cour_du_ch%C3%A2teau_de_Kalmar.jpg",
+   "author": "Auguste Étienne François Mayer",
+   "date": "circa 1840date QS:P571,+1840-0",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    1923,
+    1184
+   ],
+   "downloaded_width": 1923
+  },
+  "commons-nils-kreuger-schlossinterieur-1880.jpg": {
+   "source": "Wikimedia Commons",
+   "title": "File:Nils Kreuger Schlossinterieur 1880.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nils_Kreuger_Schlossinterieur_1880.jpg",
+   "author": "Nils Kreuger",
+   "date": "1880date QS:P571,+1880-00-00T0",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    1200,
+    973
+   ],
+   "downloaded_width": 1200
+  },
+  "dimu-021017081741.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Gyllene salen på Kalmar slott. Skisser av Nils Månsson Mandelgren 1848. Plan av taket och detalj av taklisten och taket i en fönstersmyg. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017081741",
+   "identifier": "KLMF.MO00608",
+   "persons": [
+    "Olsson, Martin",
+    "Mandelgren, Nils Månsson"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    3220,
+    3054
+   ]
+  },
+  "dimu-021017089031.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Gyllene salen på Kalmar slott, interiör mot öster. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017089031",
+   "identifier": "KLMF.MO00513",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    2211,
+    1599
+   ]
+  },
+  "dimu-021017081612.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar Slott. Ingången från konungens förstuga (rum nummer 55, plasch 10) till gyllene salen (rum 59). På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017081612",
+   "identifier": "KLMF.MO00372",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    933,
+    1420
+   ]
+  },
+  "dimu-021017089028.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott. Kungsmakets kassettak med ramverkets tre olika moreskmönster i intarsia. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017089028",
+   "identifier": "KLMF.MO00502",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1667,
+    1077
+   ]
+  },
+  "dimu-021017436079.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott: Kungsmaket västra fönsternischen orestaurerad målning från omkring 1560 i medaljongen. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017436079",
+   "identifier": "KLMF.MO00578",
+   "persons": [
+    "Olsson, Martin",
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1199,
+    1181
+   ]
+  },
+  "dimu-021017089011.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott, spiseln i Grå salen (rum nr 61 pl 10) med omfattning av huggen kalksten. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017089011",
+   "identifier": "KLMF.MO00365",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    995,
+    1372
+   ]
+  },
+  "dimu-021017072915.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Grå salen med kassettak och säng på Kalmar slott.",
+   "page": "https://digitaltmuseum.se/021017072915",
+   "identifier": "KLMF.6-39",
+   "persons": [
+    "Okänd fotograf, "
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1277,
+    1816
+   ]
+  },
+  "dimu-021017090130.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott, Gröna salen efter restaureringen, rum 87.",
+   "page": "https://digitaltmuseum.se/021017090130",
+   "identifier": "KLMF.Slottin002-23",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    3644,
+    2547
+   ]
+  },
+  "dimu-021017090063.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Stora östra  salen, Förbrända salen, på Kalmar slott.",
+   "page": "https://digitaltmuseum.se/021017090063",
+   "identifier": "KLMF.Slottin001-12",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    2383,
+    3288
+   ]
+  },
+  "dimu-021017083365.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott, skiss av bottenvåningen, östra längan rum 43 - Kungsköket.",
+   "page": "https://digitaltmuseum.se/021017083365",
+   "identifier": "KLMF.Slottin001-69",
+   "persons": [
+    "Lindegren, Sten"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1630,
+    1423
+   ]
+  },
+  "dimu-021017090102.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott, bottenvåningen, östra längan rum 43 - Kungsköket. Västra väggen, mittpartiet med den sydliga utgången till borggården.",
+   "page": "https://digitaltmuseum.se/021017090102",
+   "identifier": "KLMF.Slottin001-66",
+   "persons": [
+    "Selling, Dagmar"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    914,
+    1381
+   ]
+  },
+  "dimu-021017081571.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Ritning över Kalmar slott. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017081571",
+   "identifier": "KLMF.MO00256",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1240,
+    1003
+   ]
+  },
+  "dimu-021017066800.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Västra frontens mittparti sedan vallgraven utgrävts. Hemliga värnets murverk konserverats och har med dess vindbrygga rekonstruerats. Vattnet är ännu inte insläppt i vallgraven. Foto: H.Å. 1934. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017066800",
+   "identifier": "KLMF.MO00313",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1771,
+    1269
+   ]
+  },
+  "dimu-021016518916.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Vindbryggan som leder in på Kalmar slotts yttre borggård.",
+   "page": "https://digitaltmuseum.se/021016518916",
+   "identifier": "KLMF.B00859",
+   "persons": [
+    "Okänd fotograf, "
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    3751,
+    2656
+   ]
+  },
+  "dimu-021017081614.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Kalmar slott. Västra förborgen mellersta del. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017081614",
+   "identifier": "KLMF.MO00374",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1668,
+    1419
+   ]
+  },
+  "dimu-021017066837.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Västra vallens mellersta del. Till höger vallens inre stödmur med en rundbåbig port \"Som man går på slottsvallen\" huggen i Roland Modelas verkstad och uppsatt 1567. Stensättningen i förborgen är en del av körvägen upp på vallen.  Foto N.L. 1955. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017066837",
+   "identifier": "KLMF.MO00379",
+   "persons": [
+    "Olsson, Martin"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1704,
+    1416
+   ]
+  },
+  "dimu-021017025491.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Portal från yttre borggården mot inre borggården i Kalmar slott.",
+   "page": "https://digitaltmuseum.se/021017025491",
+   "identifier": "KLMF.45930-12",
+   "persons": [
+    "Dillbergska Bokhandeln"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    740,
+    1181
+   ]
+  },
+  "dimu-021017054934.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Valvet till inre borggården på Kalmar slott.",
+   "page": "https://digitaltmuseum.se/021017054934",
+   "identifier": "KLMF.61472",
+   "persons": [
+    "Nilsson, Louis"
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    1389,
+    1952
+   ]
+  },
+  "dimu-021017055878.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "title": "Brunnsöverbyggnad från år 1578 i inre borggården på Kalmar slott. Renässansborggård.",
+   "page": "https://digitaltmuseum.se/021017055878",
+   "identifier": "KLMF.A05647",
+   "persons": [
+    "Okänd fotograf, "
+   ],
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum (\"Utgången skyddstid\")",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "original_size": [
+    973,
+    1319
+   ]
+  },
+  "riksarkivet/PK006-00034_1858_Scholander_fasader.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00034",
+   "title": "\"Restaurerad façade af Calmar slott efter ombyggnaden som skedde under Erik XIV o Johan III\" — never built. Pasted overlay: profile of the road embankment (former bridge) leading to the castle, signed Carl Möller, Calmar 1881",
+   "author": "F. W. Scholander (overlay Carl Möller)",
+   "date": "1858 (overlay 1881)",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001453_00001",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001453_00001/info.json",
+   "original_size": [
+    7625,
+    5579
+   ]
+  },
+  "riksarkivet/PK006-00041_1882_Moller_profiler.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00041",
+   "title": "Calmar slott, profiler: sections through Kungsmaket (62), western tower (33), southern tower (34), Vattentornet (55/56), Förbrända salen (76), Unionssalen (87), Gyllene salen (59), Röda salen (63), Kyrkan (86); scale in fot",
+   "author": "Carl Möller",
+   "date": "1882-01",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001454_00001",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001454_00001/info.json",
+   "original_size": [
+    7856,
+    11828
+   ]
+  },
+  "riksarkivet/PK006-00048_1885_Moller_tak-Vattentornet.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00048",
+   "title": "Ritning till nytt tak å Vattentornet: elevation, plans A-B and C-D, section; dimensions in fot (decimal)",
+   "author": "Carl Möller",
+   "date": "1885-05",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001455_00001",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001455_00001/info.json",
+   "original_size": [
+    11328,
+    7578
+   ]
+  },
+  "riksarkivet/PK006-00049_1885_Moller_tak-Norra-tornet.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00049",
+   "title": "Ritning till nytt tak å Norra tornet: elevation, plan, section",
+   "author": "Carl Möller",
+   "date": "1885-07",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001455_00002",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001455_00002/info.json",
+   "original_size": [
+    11067,
+    7267
+   ]
+  },
+  "riksarkivet/PK006-00050_1885_Moller_tak-Sodra-tornet.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00050",
+   "title": "Ritning till nytt tak å Södra tornet: elevation, plan, section",
+   "author": "Carl Möller",
+   "date": "1885-08",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001455_00003",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001455_00003/info.json",
+   "original_size": [
+    11077,
+    7320
+   ]
+  },
+  "riksarkivet/PK006-00051_1885_Moller_tak-Vastra-tornet.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00051",
+   "title": "Ritning till nytt tak å Vestra tornet: elevation, plan, section",
+   "author": "Carl Möller",
+   "date": "1885-08",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001455_00004",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001455_00004/info.json",
+   "original_size": [
+    11088,
+    7279
+   ]
+  },
+  "riksarkivet/PK006-00052_1885_Moller_tak-Ostra-tornet.jpg": {
+   "source": "Riksarkivet, Överintendentsämbetet, dossier PK006 'Kalmar. Kalmar slott'",
+   "dossier": "https://sok.riksarkivet.se/arkiv/dlJzBePRSo5NsW4xT8Spr4",
+   "licence": "Public domain (creators died before 1956; Riksarkivet releases its digitised images for free reuse)",
+   "downloaded": "2026-10-03, IIIF full/full",
+   "reference": "SE/RA/420475/01/J I/a/PK006/00052",
+   "title": "Ritning till nytt tak å Östra tornet: elevation, plan, section",
+   "author": "Carl Möller",
+   "date": "1885-09",
+   "page": "https://sok.riksarkivet.se/bildvisning/R0001455_00005",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!R0001455_00005/info.json",
+   "original_size": [
+    11299,
+    7390
+   ]
+  },
+  "riksarkivet/KrA-0424-058-212a_c1780_plan-slottskyrkan.jpg": {
+   "source": "Riksarkivet, Krigsarkivet, Svenska stads- och fästningsplaner (KrA 0424)",
+   "reference": "0424:058:212a",
+   "title": "Kalmar. Fortifikationen. Planer. [Kronans hus i Kalmar slott. Plan av slottskyrkan.] 'Plan af Calmare Slotts Kyrka N:o 1' with key (altar, pulpit, pews) and scale in alnar",
+   "author": "unknown",
+   "date": "1780?",
+   "page": "https://sok.riksarkivet.se/bildvisning/K0028954",
+   "iiif": "https://lbiiif.riksarkivet.se/v2/arkis!K0028954_00001/info.json",
+   "licence": "Public domain (18th century; Riksarkivet releases its digitised images for free reuse)",
+   "original_size": [
+    3587,
+    2558
+   ],
+   "downloaded": "2026-10-03, IIIF full/full"
+  },
+  "commons-kalmar-castle-church-2017-07-30-2.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 130 (Slottskyrkan)",
+   "title": "File:Kalmar Castle Church 2017-07-30-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_Castle_Church_2017-07-30-2.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4752,
+    3168
+   ],
+   "downloaded_width": 3840
+  },
+  "commons-kalmar-castle-church-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 130 (Slottskyrkan)",
+   "title": "File:Kalmar Castle Church 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_Castle_Church_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "original_size": [
+    4681,
+    2901
+   ],
+   "downloaded_width": 3840
+  },
+  "commons-slottskyrkan-i-kalmar-slott-01.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 130 (Slottskyrkan)",
+   "title": "File:Slottskyrkan i Kalmar slott 01.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Slottskyrkan_i_Kalmar_slott_01.JPG",
+   "author": "Jopparn",
+   "date": "2015-03-29 14:28:39",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    4872,
+    3264
+   ],
+   "downloaded_width": 3840
+  },
+  "commons-slottskyrkan-i-kalmar-slott-03.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 130 (Slottskyrkan)",
+   "title": "File:Slottskyrkan i Kalmar slott 03.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Slottskyrkan_i_Kalmar_slott_03.JPG",
+   "author": "Jopparn",
+   "date": "2015-03-29 14:29:13",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    3264,
+    4912
+   ],
+   "downloaded_width": 1920
+  },
+  "commons-slottskyrkan-i-kalmar-slott-05.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 130 (Slottskyrkan)",
+   "title": "File:Slottskyrkan i Kalmar slott 05.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Slottskyrkan_i_Kalmar_slott_05.JPG",
+   "author": "Jopparn",
+   "date": "2015-03-29 14:29:32",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    4844,
+    3176
+   ],
+   "downloaded_width": 3840
+  },
+  "commons-slottskyrkan-i-kalmar-slott-10.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 130 (Slottskyrkan)",
+   "title": "File:Slottskyrkan i Kalmar slott 10.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Slottskyrkan_i_Kalmar_slott_10.JPG",
+   "author": "Jopparn",
+   "date": "2015-03-29 14:31:13",
+   "licence": "CC BY-SA 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "original_size": [
+    4912,
+    3264
+   ],
+   "downloaded_width": 3840
+  },
+  "commons-isabelle-de-borchgrave-exhibition-in-kalmar-castle-2017-07-30.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 131 (Gröna salen, Förbrända salen)",
+   "title": "File:Isabelle de Borchgrave exhibition in Kalmar Castle 2017-07-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File%3AIsabelle_de_Borchgrave_exhibition_in_Kalmar_Castle_2017-07-30.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "description": "Isabelle de Borchgrave exhibition in Kalmar Castle label QS:Len,\"Isabelle de Borchgrave exhibition in Kalmar Castle\" label QS:Lhu,\"Isabelle de Borchgrave kiállítása a kalmari várban a Mediciek öltözkö",
+   "original_size": [
+    4281,
+    2999
+   ],
+   "downloaded_width": 2000
+  },
+  "commons-kalmar-slott-kmb-16001000022065.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 131 (Gröna salen, Förbrända salen)",
+   "title": "File:Kalmar slott - KMB - 16001000022065.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKalmar_slott_-_KMB_-_16001000022065.jpg",
+   "author": "Martin Olsson",
+   "date": "1923",
+   "licence": "Public domain",
+   "licence_url": "",
+   "description": "Rum 74 och 76, Förbrända salen. Interiör mot söder efter restaureringen 1923. Motiv: Kalmar slott Nyckelord: Byggnadsminnen:Statl, Riksintressen Kategori: Slott",
+   "original_size": [
+    768,
+    523
+   ],
+   "downloaded_width": 768
+  },
+  "commons-kalmar-slott-kmb-16001000022071.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 131 (Gröna salen, Förbrända salen)",
+   "title": "File:Kalmar slott - KMB - 16001000022071.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKalmar_slott_-_KMB_-_16001000022071.jpg",
+   "author": "Martin Olsson",
+   "date": "1919",
+   "licence": "Public domain",
+   "licence_url": "",
+   "description": "Andra våningen, rum 76, Förbrända salens södra del före restaurering. Motiv: Kalmar slott Nyckelord: Byggnadsminnen:Statl, Riksintressen Kategori: Slott",
+   "original_size": [
+    595,
+    768
+   ],
+   "downloaded_width": 595
+  },
+  "commons-medici-family-isabelle-de-borchgrave-exhibition-in-kalmar-castle-2017-07-30-3.jpg": {
+   "source": "Wikimedia Commons",
+   "note": "pass 131 (Gröna salen, Förbrända salen)",
+   "title": "File:Medici family, Isabelle de Borchgrave exhibition in Kalmar Castle 2017-07-30-3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMedici_family%2C_Isabelle_de_Borchgrave_exhibition_in_Kalmar_Castle_2017-07-30-3.jpg",
+   "author": "Own work",
+   "date": "2017-07-30",
+   "licence": "Public domain",
+   "licence_url": "",
+   "description": "Isabelle de Borchgrave exhibition in Kalmar Castle label QS:Len,\"Isabelle de Borchgrave exhibition in Kalmar Castle\" label QS:Lhu,\"Isabelle de Borchgrave kiállítása a kalmari várban a Mediciek öltözkö",
+   "original_size": [
+    4752,
+    3168
+   ],
+   "downloaded_width": 2000
+  },
+  "dimu-021017090086.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "Bottenvåningen, östra längan rum 43 - Kungsköket i Kalmar slott.  Spisen, östra väggen (från trappan i Norra muren).",
+   "page": "https://digitaltmuseum.se/021017090086",
+   "identifier": "KLMF.Slottin001-50",
+   "persons": [
+    "Selling, Dagmar"
+   ],
+   "date": "1969",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1200,
+    816
+   ]
+  },
+  "dimu-021017090089.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "Bottenvåningen, östra längan rum 43 - Kungsköket i Kalmar slott.  Spisens norra del.",
+   "page": "https://digitaltmuseum.se/021017090089",
+   "identifier": "KLMF.Slottin001-53",
+   "persons": [
+    "Selling, Dagmar"
+   ],
+   "date": "1969",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1200,
+    888
+   ]
+  },
+  "dimu-021017090090.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "KaBottenvåningen, östra längan rum 43 - Kungsköket i Kalmar slott. Spisens södra del.",
+   "page": "https://digitaltmuseum.se/021017090090",
+   "identifier": "KLMF.Slottin001-54",
+   "persons": [
+    "Selling, Dagmar"
+   ],
+   "date": "1969",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1200,
+    893
+   ]
+  },
+  "dimu-021017090101.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "Kalmar slott, bottenvåningen,östra längan rum 43 - Kungsköket. västra väggen, södra delen.",
+   "page": "https://digitaltmuseum.se/021017090101",
+   "identifier": "KLMF.Slottin001-65",
+   "persons": [
+    "Selling, Dagmar"
+   ],
+   "date": "1969",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1200,
+    913
+   ]
+  },
+  "dimu-021017090103.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "Klamar slott. bottenvåningen, Östra längan rum 43 - Kungsköket. Västra väggen. norra delen med den nordliga utgången till borggården. Till vänster spisens norra mur till höger trumma till ytre borggården och sjön.",
+   "page": "https://digitaltmuseum.se/021017090103",
+   "identifier": "KLMF.Slottin001-67",
+   "persons": [
+    "Selling, Dagmar"
+   ],
+   "date": "1969",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1200,
+    810
+   ]
+  },
+  "dimu-021017083364.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "Skiss av bottenvåningen i Kalmar slott, östra längan rum 43 - Kungsköket.",
+   "page": "https://digitaltmuseum.se/021017083364",
+   "identifier": "KLMF.Slottin001-68",
+   "persons": [],
+   "date": "",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1200,
+    1047
+   ]
+  },
+  "dimu-021017057393.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 135 (portal G, Kungsköket)",
+   "title": "Sydvästra portalen på Kalmar slott.",
+   "page": "https://digitaltmuseum.se/021017057393",
+   "identifier": "KLMF.A15190",
+   "persons": [
+    "Petersson, Karl-Gustav"
+   ],
+   "date": "1960",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    924,
+    927
+   ]
+  },
+  "dimu-021016468882.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 143 (Drottningsalen)",
+   "title": "Drottningsalen med tavlor och Trompe-l'oeil i Kalmar slott.",
+   "page": "https://digitaltmuseum.se/021016468882",
+   "identifier": "KLMF.A00827",
+   "persons": [
+    "Okänd fotograf"
+   ],
+   "date": "",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    1181,
+    829
+   ]
+  },
+  "dimu-021017088983.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 143 (Drottningsalen)",
+   "title": "Drottningsalen på Kalmar slott, sedd mot nordost. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017088983",
+   "identifier": "KLMF.MO00203",
+   "persons": [
+    "Martin Olsson (plate series)"
+   ],
+   "date": "1933",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    2000,
+    1191
+   ]
+  },
+  "dimu-021017081516.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 143 (Drottningsalen, window-niche vault)",
+   "title": "Detalj från Drottningsalen på Kalmar slott. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017081516",
+   "identifier": "KLMF.MO00148",
+   "persons": [
+    "Martin Olsson (plate series)"
+   ],
+   "date": "1922",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    984,
+    545
+   ]
+  },
+  "dimu-021017081519.jpg": {
+   "source": "DigitaltMuseum / Kalmar läns museum",
+   "note": "pass 143 (Drottningsalen, painted frieze)",
+   "title": "Detalj från Drottningsalen på Kalmar slott. På vissa plåtar har Martin Olsson klistrat eltejp för att markera hur bilden skulle beskäras i boken.",
+   "page": "https://digitaltmuseum.se/021017081519",
+   "identifier": "KLMF.MO00151",
+   "persons": [
+    "Martin Olsson (plate series)"
+   ],
+   "date": "1933",
+   "licence": "Public Domain Mark (CC PDM 1.0) as stated by the museum",
+   "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "downloaded_size": [
+    2000,
+    356
+   ]
+  },
+  "commons-kalmar-slott-kmb-16001000022069.jpg": {
+   "source": "Wikimedia Commons (Riksantikvarieämbetet, Kulturmiljöbild)",
+   "note": "pass 143 (Drottningsalen, fireplace)",
+   "title": "Kalmar slott - KMB - 16001000022069 ('Andra våningen, rum 65, Drottningsalen. Spiseln med rest av överstycke i kalkmålning före konserveringen.')",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalmar_slott_-_KMB_-_16001000022069.jpg",
+   "identifier": "KMB 16001000022069",
+   "persons": [
+    "Martin Olsson"
+   ],
+   "date": "1922",
+   "licence": "Public domain",
+   "licence_url": "https://commons.wikimedia.org/wiki/File:Kalmar_slott_-_KMB_-_16001000022069.jpg",
+   "downloaded_size": [
+    562,
+    768
+   ]
+  }
+ }
+}

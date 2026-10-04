@@ -1,0 +1,202 @@
+{
+  "SM_Castle27_Walls": {
+    "Normals": {
+      "vectors": 33103,
+      "min_length": 0.9999998627839618,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 111135,
+      "min_length": 0.9999998374937579,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 111135,
+      "min_length": 0.9999997301335521,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kalmar_Slott": {
+    "Normals": {
+      "vectors": 199263,
+      "min_length": 0.9999998552295354,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 955044,
+      "min_length": 0.9999998413764815,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 955044,
+      "min_length": 0.999999734235862,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kalmar_Slott_Towers": {
+    "Normals": {
+      "vectors": 148699,
+      "min_length": 0.9999998483231208,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 724020,
+      "min_length": 0.9999998287242668,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 724020,
+      "min_length": 0.9999997081089107,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Approach": {
+    "Normals": {
+      "vectors": 14557,
+      "min_length": 0.9999998596752716,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 53175,
+      "min_length": 0.9999998582415106,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 53175,
+      "min_length": 0.9999997505074854,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott98_Trees": {
+    "Normals": {
+      "vectors": 364059,
+      "min_length": 0.9999998604035407,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 2071080,
+      "min_length": 0.9999998306358784,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 2071080,
+      "min_length": 0.999999740539068,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle27_Bridge": {
+    "Normals": {
+      "vectors": 11672,
+      "min_length": 0.9999998643705899,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 60084,
+      "min_length": 0.999999845211255,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 60084,
+      "min_length": 0.9999997455040696,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Passage": {
+    "Normals": {
+      "vectors": 16060,
+      "min_length": 0.9999998570217016,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 61128,
+      "min_length": 0.9999998425609782,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 61128,
+      "min_length": 0.9999997562001952,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Portals": {
+    "Normals": {
+      "vectors": 15668,
+      "min_length": 0.9999998730392233,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 58296,
+      "min_length": 0.9999998427173425,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 58296,
+      "min_length": 0.9999997324631436,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Well": {
+    "Normals": {
+      "vectors": 13074,
+      "min_length": 0.9999998712812032,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 51876,
+      "min_length": 0.9999998545935512,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 51876,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Paving": {
+    "Normals": {
+      "vectors": 1600,
+      "min_length": 0.9999998774276135,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 5280,
+      "min_length": 0.9999998745291238,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 5280,
+      "min_length": 0.9999998125930729,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

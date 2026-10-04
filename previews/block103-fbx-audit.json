@@ -1,0 +1,22 @@
+{
+  "SM_Prison85_Anstalten": {
+    "Normals": {
+      "vectors": 68267,
+      "min_length": 0.999999857854541,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 558549,
+      "min_length": 0.9999998401184316,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 558549,
+      "min_length": 0.999999742750867,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

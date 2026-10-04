@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kvarnholmen_Green79_Lawns": {
+      "sha256_geometry_uv_materials": "fc4e754067b5a58e5d047554cf2d255e85cdaee04f0c3f3d1e866a924647e780",
+      "vertices": 10486,
+      "polygons": 4504
+    },
+    "SM_Kvarnholmen_Ringmur_Sodra": {
+      "sha256_geometry_uv_materials": "8589d8b9daea027d14baf06749c0beb9c3981b9afd195961e45eee0212ca1401",
+      "vertices": 3960,
+      "polygons": 6004
+    },
+    "SM_Kvarnholmen_Green79_Glacis": {
+      "sha256_geometry_uv_materials": "1fd3fee416325e4155f8ee4847ac873cb6b8e41a07dbb656240ece4e877ad2f1",
+      "vertices": 28,
+      "polygons": 14
+    },
+    "SM_Kvarnholmen_Trees79": {
+      "sha256_geometry_uv_materials": "0f3b1345d90f9e3512b928ea363b798486310c9c9eb794a14e93bb4c6f719c99",
+      "vertices": 66258,
+      "polygons": 123112
+    },
+    "SM_Kvarnholmen_Hedge79": {
+      "sha256_geometry_uv_materials": "e07a75bce6f019e9d45aa9962db337ab67251ff6a3454f25ba18bf4fd24dddb6",
+      "vertices": 1240,
+      "polygons": 1860
+    }
+  }
+}

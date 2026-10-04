@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kvarnholmen_House_93192377": {
+      "sha256_geometry_uv_materials": "6cda836a73b165ab187f3553d09c3f6f825727d7cc420022dfd2b9dafc18257b",
+      "vertices": 10296,
+      "polygons": 18591
+    }
+  }
+}

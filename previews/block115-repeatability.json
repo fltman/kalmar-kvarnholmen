@@ -1,0 +1,86 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Slott98_Buildings_E": {
+      "sha256_geometry_uv_materials": "c9e0cebb22d5da7a161abbb22856edd08754a9f8c5119a08dd4fb65937d2832f",
+      "vertices": 992037,
+      "polygons": 1772843
+    },
+    "SM_Slott98_Buildings_M": {
+      "sha256_geometry_uv_materials": "48dd00e99d0f7c0dd129b7352698c0dc32143ec025d92af113659e662c0e5c88",
+      "vertices": 1931658,
+      "polygons": 3451330
+    },
+    "SM_Slott115_91931339": {
+      "sha256_geometry_uv_materials": "56a43f5269f84fdc5242ab618f1f6f75f6ab1023e7362a8a74a8c99fbadf63c2",
+      "vertices": 6840,
+      "polygons": 12516
+    },
+    "SM_Slott115_91222116": {
+      "sha256_geometry_uv_materials": "f649df85de50f899a5e45b4f58b8c364e91311210b962057303c1fc8aab7c369",
+      "vertices": 13128,
+      "polygons": 24036
+    },
+    "SM_Slott115_91222187": {
+      "sha256_geometry_uv_materials": "9a92bb8435a3535e0f17721cc268bcc4efd37336d9958d0b88dbd6dc031153ee",
+      "vertices": 5040,
+      "polygons": 9224
+    },
+    "SM_Slott115_874870421": {
+      "sha256_geometry_uv_materials": "8e9d9758ca40be9e1c9d55fdef4f46fed50f677f6bf093d54a00383d7d5e3be6",
+      "vertices": 4140,
+      "polygons": 7568
+    },
+    "SM_Slott115_93332243": {
+      "sha256_geometry_uv_materials": "376a019dfb13fcb927f0eecedaaeb63974f61bec82335d96831bf12319003f03",
+      "vertices": 34024,
+      "polygons": 62272
+    },
+    "SM_Slott115_93332252": {
+      "sha256_geometry_uv_materials": "ab2509a8187a7193572d43337cc18fcfabe39ba05c195076e53c2dc047e5246a",
+      "vertices": 7192,
+      "polygons": 13192
+    },
+    "SM_Slott115_93306354": {
+      "sha256_geometry_uv_materials": "393793ca5ac8c42ed3007f13a9b83fcef54194327be17e369d2a22438e9cbea8",
+      "vertices": 12392,
+      "polygons": 22858
+    },
+    "SM_Slott115_387312778": {
+      "sha256_geometry_uv_materials": "174865f05b7bd48055748e5cd83c1cc7b23014d8e0eb42833ca3c00302e2ae84",
+      "vertices": 3248,
+      "polygons": 5944
+    },
+    "SM_Slott115_387312779": {
+      "sha256_geometry_uv_materials": "99b5a035d8916817aaee22ded3b6a528583074fefad3b512c47281ab19a5344e",
+      "vertices": 11196,
+      "polygons": 20512
+    },
+    "SM_Slott115_91970278": {
+      "sha256_geometry_uv_materials": "f39dd2af22a480d9a4e2630dd27d2241e13dad98ea8a83d8eefc20334e5d7197",
+      "vertices": 39388,
+      "polygons": 73457
+    },
+    "SM_Slott115_91970355": {
+      "sha256_geometry_uv_materials": "bf6579a5bc89242db913af35607cff900ca5fdb22ba5c729b439f1ff583d72e4",
+      "vertices": 15038,
+      "polygons": 28164
+    },
+    "SM_Slott115_91970390": {
+      "sha256_geometry_uv_materials": "8f4541ce00a0b221171759812bf3cd3656f637f53fb0743e15981ee8544a6967",
+      "vertices": 21435,
+      "polygons": 39374
+    },
+    "SM_Slott115_91970274": {
+      "sha256_geometry_uv_materials": "db872a62bc52d38eef686a0e5f6d920deeaba8acfa2c356b9cafe93be9d7315f",
+      "vertices": 12910,
+      "polygons": 23666
+    },
+    "SM_Slott115_564958332": {
+      "sha256_geometry_uv_materials": "68c75fe27a50287d7848f7fde0786640f99c7b3d60c91d21c52a672dfae62150",
+      "vertices": 1192,
+      "polygons": 2200
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+ "chimneys": {
+  "K": {
+   "range": "SE_w",
+   "side": "in",
+   "s": 18.672,
+   "c": -12.647,
+   "plan": [
+    -867.26,
+    -328.41
+   ],
+   "size": [
+    1.0,
+    0.8
+   ],
+   "foot_z": 18.277,
+   "top_z": 22.7769,
+   "status": "measured"
+  },
+  "I": {
+   "range": "SE_w",
+   "side": "out",
+   "s": 10.43,
+   "c": -5.4,
+   "plan": [
+    -873.78,
+    -337.24
+   ],
+   "size": [
+    1.65,
+    1.1
+   ],
+   "foot_z": 24.876,
+   "top_z": 29.2761,
+   "status": "measured"
+  },
+  "C": {
+   "range": "SE_e",
+   "side": "in",
+   "s": 9.71,
+   "c": -12.979,
+   "plan": [
+    -855.18,
+    -323.33
+   ],
+   "size": [
+    0.9,
+    0.8
+   ],
+   "foot_z": 18.642,
+   "top_z": 23.1416,
+   "status": "measured"
+  },
+  "B": {
+   "range": "SE_e",
+   "side": "in",
+   "s": 20.245,
+   "c": -10.758,
+   "plan": [
+    -845.17,
+    -319.36
+   ],
+   "size": [
+    0.9,
+    0.8
+   ],
+   "foot_z": 19.382,
+   "top_z": 23.3816,
+   "status": "measured"
+  },
+  "A": {
+   "range": "NE",
+   "side": "in",
+   "s": 4.7,
+   "c": -11.5,
+   "plan": [
+    -843.62,
+    -308.61
+   ],
+   "size": [
+    0.9,
+    0.8
+   ],
+   "foot_z": 21.696,
+   "top_z": 26.2963,
+   "status": "estimated"
+  },
+  "N1": {
+   "range": "NW",
+   "side": "in",
+   "s": 11.5,
+   "c": -16.1,
+   "plan": [
+    -860.24,
+    -285.8
+   ],
+   "size": [
+    0.8,
+    0.7
+   ],
+   "foot_z": 18.583,
+   "top_z": 20.2833,
+   "status": "estimated"
+  },
+  "N2": {
+   "range": "NE",
+   "side": "in",
+   "s": 33.3,
+   "c": -14.1,
+   "plan": [
+    -856.52,
+    -282.96
+   ],
+   "size": [
+    1.0,
+    0.8
+   ],
+   "foot_z": 20.099,
+   "top_z": 25.3994,
+   "status": "estimated"
+  },
+  "W": {
+   "range": "SW",
+   "side": "in",
+   "s": 6.58,
+   "c": -6.56,
+   "plan": [
+    -896.85,
+    -313.83
+   ],
+   "size": [
+    0.9,
+    0.8
+   ],
+   "foot_z": 21.028,
+   "top_z": 24.4285,
+   "status": "measured"
+  },
+  "SWo1": {
+   "range": "SW",
+   "side": "out",
+   "s": 17.5,
+   "c": -0.8,
+   "plan": [
+    -897.28,
+    -326.17
+   ],
+   "size": [
+    0.8,
+    0.7
+   ],
+   "foot_z": 21.026,
+   "top_z": 23.7261,
+   "status": "estimated"
+  },
+  "SWo2": {
+   "range": "SW",
+   "side": "out",
+   "s": 21.37,
+   "c": -2.1,
+   "plan": [
+    -894.43,
+    -329.09
+   ],
+   "size": [
+    0.9,
+    0.7
+   ],
+   "foot_z": 22.235,
+   "top_z": 25.1351,
+   "status": "estimated"
+  },
+  "SWo3": {
+   "range": "SW",
+   "side": "out",
+   "s": 24.82,
+   "c": -2.1,
+   "plan": [
+    -892.93,
+    -332.2
+   ],
+   "size": [
+    0.9,
+    0.7
+   ],
+   "foot_z": 22.235,
+   "top_z": 25.1351,
+   "status": "estimated"
+  },
+  "SWo4": {
+   "range": "SW",
+   "side": "out",
+   "s": 29.19,
+   "c": -2.1,
+   "plan": [
+    -891.03,
+    -336.13
+   ],
+   "size": [
+    0.9,
+    0.7
+   ],
+   "foot_z": 22.235,
+   "top_z": 25.1351,
+   "status": "estimated"
+  },
+  "NEo1": {
+   "range": "NE",
+   "side": "out",
+   "s": 23.0,
+   "c": 2.0,
+   "plan": [
+    -837.76,
+    -286.64
+   ],
+   "size": [
+    0.9,
+    0.7
+   ],
+   "foot_z": 20.622,
+   "top_z": 24.622,
+   "status": "estimated"
+  },
+  "NEo2": {
+   "range": "NE",
+   "side": "out",
+   "s": 19.7,
+   "c": 2.0,
+   "plan": [
+    -836.55,
+    -289.71
+   ],
+   "size": [
+    1.4,
+    0.8
+   ],
+   "foot_z": 20.594,
+   "top_z": 24.8944,
+   "status": "estimated"
+  },
+  "SEo": {
+   "range": "SE_e",
+   "side": "out",
+   "s": 22.0,
+   "c": -3.0,
+   "plan": [
+    -839.42,
+    -324.86
+   ],
+   "size": [
+    0.9,
+    0.7
+   ],
+   "foot_z": 23.34,
+   "top_z": 26.34,
+   "status": "estimated"
+  }
+ },
+ "checks": {
+  "count": 15,
+  "measured": 5,
+  "estimated": 10,
+  "courtyard_side": 7,
+  "outer_side": 8,
+  "replaces_pass127": 10
+ }
+}

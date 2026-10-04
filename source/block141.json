@@ -1,0 +1,195 @@
+{
+ "source": "references/block141-notes.md",
+ "z_outer_eaves": 20.27,
+ "moller": {
+  "1882": {
+   "sheet": "PK006-00041",
+   "title": "Calmar slott. Profiler, \"Profil genom Kungsmaket\"",
+   "z": 22.63,
+   "how": "eaves 12.16 m over the state floor (z 10.47); Kungsmaket 4.38 m high (pass 125: 4.3)"
+  },
+  "1885": {
+   "sheet": "PK006-00049",
+   "title": "Ritning till nytt tak å norra tornet",
+   "dim_fot": 13.5,
+   "how": "13.5 fot from the tower eaves down to an adjoining bracketed cornice; taken as the range outer eaves",
+   "z": 24.28
+  }
+ },
+ "views": [
+  {
+   "id": "photo2022",
+   "src": "references/castle27/swe-kalmar-slott-004.jpg",
+   "what": "-wuppertaler 2022-06-07, CC BY-SA 4.0, 1920 x 1440",
+   "cam": [
+    -898.89,
+    -176.26,
+    2.0
+   ],
+   "heading": 140.3,
+   "pitch": 9.2,
+   "f_px": 1444,
+   "cam_note": "bearings of both silhouettes of N and W and Kuretornet's corners; f 1444 px is the only focal length for which the curvature of the cornice (front against silhouettes) is consistent; f 950-1000 px fits the bearings as well but not the curvature",
+   "eaves_rows": {
+    "range at N (667,681),(700,681.5)": 20.27
+   },
+   "N": {
+    "front": [
+     24.6,
+     24.8
+    ],
+    "tangent": [
+     25.0,
+     25.2
+    ]
+   },
+   "N_all": [
+    23.9,
+    25.8
+   ],
+   "W": {
+    "front": [
+     24.1,
+     24.5
+    ],
+    "tangent": [
+     24.9,
+     25.2
+    ]
+   }
+  },
+  {
+   "id": "sv2014_bridge",
+   "src": "Street View pano iMd5WI6ugBpN7x-8vlt6pA (Sep 2014), the castle bridge",
+   "what": "screenshots 1014 x 764, viewed only",
+   "cam": [
+    -915.14,
+    -231.9,
+    6.0
+   ],
+   "heading": 92.0,
+   "pitch": 14.0,
+   "f_px": 1049.6,
+   "cam_note": "pano at (-913.60,-233.36); resected on N's silhouettes and Kuretornet's face corners (heading 103, vfov 55): (-915.14,-231.90); camera height 5.5-6.5 m; local pitch +1.5..+2.9 deg from the range eaves",
+   "eaves_rows": {
+    "range NW by N (560..610, 441.7) in 40y/92h/104t": 20.27
+   },
+   "N": {
+    "tangent": [
+     24.5,
+     24.8
+    ]
+   },
+   "N_all": [
+    24.5,
+    25.5
+   ],
+   "W": {
+    "tangent": [
+     25.1,
+     25.4
+    ]
+   }
+  },
+  {
+   "id": "sv2014_terreplein",
+   "src": "Street View pano 81wq-3oJLh_ApLhniDADzg (Sep 2014), the north-east rampart",
+   "what": "screenshots 1014 x 764, viewed only",
+   "cam": [
+    -823.68,
+    -252.79,
+    12.3
+   ],
+   "heading": 219.3,
+   "pitch": 16.5,
+   "f_px": 922.2,
+   "cam_note": "pano at (-826.94,-253.84); resected on N's silhouettes and Kuretornet's axis with the NE outer eaves on outline edge 45-46; camera 11.8-12.8 m; N radius 6.35 (OSM) or 5.9 (Möller 1885) m",
+   "eaves_rows": {
+    "NE outer eaves by N (200,414),(400,418) in 45y/222h/110t": 20.27
+   },
+   "N": {
+    "front": [
+     24.0,
+     24.45
+    ],
+    "tangent": [
+     23.1,
+     24.3
+    ]
+   },
+   "N_all": [
+    23.1,
+    24.5
+   ],
+   "W": null
+  }
+ ],
+ "view_best": {
+  "photo2022": 24.700000000000003,
+  "sv2014_bridge": 24.65,
+  "sv2014_terreplein": 24.225
+ },
+ "view_mean": 24.53,
+ "view_median": 24.65,
+ "view_spread": 0.48,
+ "pairs": [
+  [
+   "Möller 1882",
+   "Möller 1885",
+   1.65
+  ],
+  [
+   "Möller 1882",
+   "views (mean)",
+   1.9
+  ],
+  [
+   "Möller 1885",
+   "views (mean)",
+   0.25
+  ]
+ ],
+ "agree": [
+  [
+   "Möller 1885",
+   "views (mean)",
+   0.25
+  ]
+ ],
+ "towers": {
+  "N": {
+   "top27": 24.6,
+   "z27": 23.27
+  },
+  "S": {
+   "top27": 25.6,
+   "z27": 24.27
+  },
+  "W": {
+   "top27": 25.3,
+   "z27": 23.97
+  },
+  "E": {
+   "top27": 25.3,
+   "z27": 23.97
+  }
+ },
+ "decision": {
+  "key": "N",
+  "z_old": 23.27,
+  "z_new": 24.28,
+  "top_new": 25.61,
+  "dz": 1.01,
+  "others": "W, S and E unchanged (see the notes: W reads 24.1-25.4 against 23.97, inconclusive; S and E not seen side-on)"
+ },
+ "collar": {
+  "note": "where a pass 127 roof's cut edge (against pass 27's bell) lies between the old wall top and 0.6 m above it, outside the wall, a flashing collar in the tower render closes the slot to the raised wall",
+  "z_old": 23.27,
+  "h_top": 0.6,
+  "depth": 0.3,
+  "step_deg": 2.5
+ },
+ "checks": {
+  "n_views": 3
+ }
+}

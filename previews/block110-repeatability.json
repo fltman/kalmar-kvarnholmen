@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Building_91265011": {
+      "sha256_geometry_uv_materials": "b24409a60aba5c5f4eea678687ab049a34b9ffd6f14b0097f77667dfe7fbf529",
+      "vertices": 27672,
+      "polygons": 49648
+    },
+    "SM_Building_91970373": {
+      "sha256_geometry_uv_materials": "dae1f1395f8a242687af3e0914b9e87b3328f10023a7ec24f1887fafeaacf3d0",
+      "vertices": 10816,
+      "polygons": 19396
+    },
+    "SM_Building_91970296": {
+      "sha256_geometry_uv_materials": "4c5243f7e87e21e6bbaba4c5c283e82c5378cf4e39386c286e95fb52eca8993d",
+      "vertices": 17632,
+      "polygons": 31707
+    },
+    "SM_Building_92379278": {
+      "sha256_geometry_uv_materials": "95f6a9c9745ce6814dfa90f6631dae401a097510855e6fb2735ec689aece92b2",
+      "vertices": 6460,
+      "polygons": 11804
+    },
+    "SM_Building_92379304": {
+      "sha256_geometry_uv_materials": "1f9c51107151792254c9b151fb37541a0a2c4dc6310461b7b31cf4804da96483",
+      "vertices": 8308,
+      "polygons": 14880
+    },
+    "SM_Building_92379276": {
+      "sha256_geometry_uv_materials": "a3586ede69b91c468f152503f0f8e7df4d0a4f6f704abdd5addca156085571dd",
+      "vertices": 16228,
+      "polygons": 29038
+    },
+    "SM_Kvarnholmen_House_92412841": {
+      "sha256_geometry_uv_materials": "6a5cd16b1cfdcbd083ec5075abc6c6f30d4d0ee7cbf37b71a028a21178d57868",
+      "vertices": 11214,
+      "polygons": 20348
+    },
+    "SM_Kvarnholmen_House_92204180": {
+      "sha256_geometry_uv_materials": "47c8c5ad864bd8790cbc12d74a27b93acdecb5354258389a36700e14b2027597",
+      "vertices": 22194,
+      "polygons": 39724
+    },
+    "SM_Building_91264997": {
+      "sha256_geometry_uv_materials": "61bbf9d2c129c30dd16d62c098e7a72e4169c80a1f3ad390495359367f67a46a",
+      "vertices": 93190,
+      "polygons": 166994
+    },
+    "SM_Building_91970385": {
+      "sha256_geometry_uv_materials": "28a82585811bcd8a7d260932705e1095fd8622b9e332f1472d672a628073f694",
+      "vertices": 12025,
+      "polygons": 21871
+    }
+  }
+}

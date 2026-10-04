@@ -1,0 +1,983 @@
+{
+  "status": "passed",
+  "zones": {
+    "1453534570_0": {
+      "osm": "1453534570",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 65.9,
+      "walls": 4,
+      "outer_m": 34.5,
+      "door_wall_street": "Stora Dammgatan"
+    },
+    "874145313_0": {
+      "osm": "874145313",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.6,
+      "area_m2": 11.3,
+      "walls": 4,
+      "outer_m": 13.8,
+      "door_wall_street": null
+    },
+    "874145314_0": {
+      "osm": "874145314",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 21.6,
+      "walls": 4,
+      "outer_m": 19.1,
+      "door_wall_street": null
+    },
+    "91970346_0": {
+      "osm": "91970346",
+      "role": "main",
+      "roof": "saddle",
+      "height": 12.4,
+      "area_m2": 285.1,
+      "walls": 2,
+      "outer_m": 36.4,
+      "door_wall_street": "Österlånggatan"
+    },
+    "91970346_1": {
+      "osm": "91970346",
+      "role": "wing",
+      "roof": "hip",
+      "height": 12.4,
+      "area_m2": 195.2,
+      "walls": 4,
+      "outer_m": 34.3,
+      "door_wall_street": "Slottsvägen"
+    },
+    "91970346_2": {
+      "osm": "91970346",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 12.4,
+      "area_m2": 125.9,
+      "walls": 5,
+      "outer_m": 53.6,
+      "door_wall_street": "Österlånggatan"
+    },
+    "91970346_3": {
+      "osm": "91970346",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 12.4,
+      "area_m2": 70.8,
+      "walls": 7,
+      "outer_m": 29.3,
+      "door_wall_street": "Österlånggatan"
+    },
+    "91970346_4": {
+      "osm": "91970346",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 12.4,
+      "area_m2": 64.5,
+      "walls": 3,
+      "outer_m": 11.0,
+      "door_wall_street": "Österlånggatan"
+    },
+    "91970346_5": {
+      "osm": "91970346",
+      "role": "annex",
+      "roof": "flat",
+      "height": 12.4,
+      "area_m2": 33.1,
+      "walls": 3,
+      "outer_m": 9.3,
+      "door_wall_street": "Slottsvägen"
+    },
+    "91970346_6": {
+      "osm": "91970346",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 12.4,
+      "area_m2": 31.0,
+      "walls": 3,
+      "outer_m": 15.9,
+      "door_wall_street": "Slottsvägen"
+    },
+    "93238186_0": {
+      "osm": "93238186",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.3,
+      "area_m2": 9.0,
+      "walls": 4,
+      "outer_m": 12.0,
+      "door_wall_street": "Stora Dammgatan"
+    },
+    "93238220_0": {
+      "osm": "93238220",
+      "role": "main",
+      "roof": "saddle",
+      "height": 7.0,
+      "area_m2": 76.7,
+      "walls": 3,
+      "outer_m": 15.1,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93238220_1": {
+      "osm": "93238220",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 5.8,
+      "walls": 2,
+      "outer_m": 4.8,
+      "door_wall_street": "Stora Dammgatan"
+    },
+    "93238221_0": {
+      "osm": "93238221",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.2,
+      "area_m2": 165.8,
+      "walls": 4,
+      "outer_m": 52.4,
+      "door_wall_street": null
+    },
+    "93238239_0": {
+      "osm": "93238239",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.8,
+      "area_m2": 102.3,
+      "walls": 4,
+      "outer_m": 28.5,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93238239_1": {
+      "osm": "93238239",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 6.9,
+      "walls": 3,
+      "outer_m": 6.4,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93238283_0": {
+      "osm": "93238283",
+      "role": "main",
+      "roof": "hip",
+      "height": 5.8,
+      "area_m2": 112.7,
+      "walls": 4,
+      "outer_m": 42.9,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93238284_0": {
+      "osm": "93238284",
+      "role": "main",
+      "roof": "saddle",
+      "height": 7.0,
+      "area_m2": 86.9,
+      "walls": 4,
+      "outer_m": 26.6,
+      "door_wall_street": "Stora Dammgatan"
+    },
+    "93238290_0": {
+      "osm": "93238290",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 61.6,
+      "walls": 4,
+      "outer_m": 36.7,
+      "door_wall_street": null
+    },
+    "93291962_0": {
+      "osm": "93291962",
+      "role": "main",
+      "roof": "saddle",
+      "height": 5.8,
+      "area_m2": 86.9,
+      "walls": 5,
+      "outer_m": 22.1,
+      "door_wall_street": "Sankta Britas gata"
+    },
+    "93291967_0": {
+      "osm": "93291967",
+      "role": "main",
+      "roof": "saddle",
+      "height": 5.8,
+      "area_m2": 86.0,
+      "walls": 4,
+      "outer_m": 17.3,
+      "door_wall_street": null
+    },
+    "93292008_0": {
+      "osm": "93292008",
+      "role": "main",
+      "roof": "saddle",
+      "height": 5.8,
+      "area_m2": 52.6,
+      "walls": 3,
+      "outer_m": 20.7,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93292689_0": {
+      "osm": "93292689",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.0,
+      "area_m2": 189.4,
+      "walls": 4,
+      "outer_m": 66.0,
+      "door_wall_street": "Kungsgatan"
+    },
+    "93292702_0": {
+      "osm": "93292702",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.3,
+      "area_m2": 27.8,
+      "walls": 4,
+      "outer_m": 21.2,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93292706_0": {
+      "osm": "93292706",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.3,
+      "area_m2": 23.8,
+      "walls": 4,
+      "outer_m": 19.6,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93293012_0": {
+      "osm": "93293012",
+      "role": "main",
+      "roof": "hip",
+      "height": 4.0,
+      "area_m2": 109.9,
+      "walls": 4,
+      "outer_m": 42.5,
+      "door_wall_street": null
+    },
+    "93293025_0": {
+      "osm": "93293025",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.2,
+      "area_m2": 135.0,
+      "walls": 4,
+      "outer_m": 51.0,
+      "door_wall_street": null
+    },
+    "93293041_0": {
+      "osm": "93293041",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.3,
+      "area_m2": 29.8,
+      "walls": 4,
+      "outer_m": 22.0,
+      "door_wall_street": null
+    },
+    "93306352_0": {
+      "osm": "93306352",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.0,
+      "area_m2": 77.0,
+      "walls": 6,
+      "outer_m": 14.7,
+      "door_wall_street": "Molinsgatan"
+    },
+    "93306352_1": {
+      "osm": "93306352",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 16.9,
+      "walls": 4,
+      "outer_m": 10.9,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93306352_2": {
+      "osm": "93306352",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 13.9,
+      "walls": 3,
+      "outer_m": 11.9,
+      "door_wall_street": "Molinsgatan"
+    },
+    "93306352_3": {
+      "osm": "93306352",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 6.2,
+      "walls": 3,
+      "outer_m": 8.7,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93306356_0": {
+      "osm": "93306356",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.6,
+      "area_m2": 57.3,
+      "walls": 4,
+      "outer_m": 30.0,
+      "door_wall_street": "Molinsgatan"
+    },
+    "93325645_0": {
+      "osm": "93325645",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.0,
+      "area_m2": 189.6,
+      "walls": 3,
+      "outer_m": 60.3,
+      "door_wall_street": "Odengatan"
+    },
+    "93325656_0": {
+      "osm": "93325656",
+      "role": "main",
+      "roof": "saddle",
+      "height": 5.8,
+      "area_m2": 112.6,
+      "walls": 3,
+      "outer_m": 39.0,
+      "door_wall_street": "Frejagatan"
+    },
+    "93326718_0": {
+      "osm": "93326718",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.2,
+      "area_m2": 92.7,
+      "walls": 5,
+      "outer_m": 31.5,
+      "door_wall_street": "Kungsgatan"
+    },
+    "93326718_1": {
+      "osm": "93326718",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 4.2,
+      "area_m2": 26.0,
+      "walls": 6,
+      "outer_m": 24.8,
+      "door_wall_street": "Kungsgatan"
+    },
+    "93329937_0": {
+      "osm": "93329937",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.8,
+      "area_m2": 69.9,
+      "walls": 6,
+      "outer_m": 35.7,
+      "door_wall_street": "Gustaf Vasagatan"
+    },
+    "93329938_0": {
+      "osm": "93329938",
+      "role": "main",
+      "roof": "hip",
+      "height": 3.0,
+      "area_m2": 47.9,
+      "walls": 4,
+      "outer_m": 24.0,
+      "door_wall_street": "Johan III:s gata"
+    },
+    "93329938_1": {
+      "osm": "93329938",
+      "role": "wing",
+      "roof": "hip",
+      "height": 3.0,
+      "area_m2": 23.9,
+      "walls": 3,
+      "outer_m": 14.4,
+      "door_wall_street": "Johan III:s gata"
+    },
+    "93329953_0": {
+      "osm": "93329953",
+      "role": "main",
+      "roof": "hip",
+      "height": 5.8,
+      "area_m2": 142.1,
+      "walls": 4,
+      "outer_m": 49.3,
+      "door_wall_street": "Johan III:s gata"
+    },
+    "93329957_0": {
+      "osm": "93329957",
+      "role": "main",
+      "roof": "hip",
+      "height": 4.2,
+      "area_m2": 141.4,
+      "walls": 12,
+      "outer_m": 44.5,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93329957_1": {
+      "osm": "93329957",
+      "role": "wing",
+      "roof": "hip",
+      "height": 4.2,
+      "area_m2": 30.1,
+      "walls": 3,
+      "outer_m": 16.0,
+      "door_wall_street": "Skansgatan"
+    },
+    "93329965_0": {
+      "osm": "93329965",
+      "role": "main",
+      "roof": "hip",
+      "height": 4.0,
+      "area_m2": 98.4,
+      "walls": 6,
+      "outer_m": 42.3,
+      "door_wall_street": "Johan III:s gata"
+    },
+    "93329980_0": {
+      "osm": "93329980",
+      "role": "main",
+      "roof": "flat",
+      "height": 3.2,
+      "area_m2": 51.0,
+      "walls": 4,
+      "outer_m": 28.6,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93329987_0": {
+      "osm": "93329987",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.5,
+      "area_m2": 38.6,
+      "walls": 4,
+      "outer_m": 25.3,
+      "door_wall_street": "Johan III:s gata"
+    },
+    "93330000_0": {
+      "osm": "93330000",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.0,
+      "area_m2": 130.2,
+      "walls": 4,
+      "outer_m": 46.0,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93330001_0": {
+      "osm": "93330001",
+      "role": "main",
+      "roof": "hip",
+      "height": 3.0,
+      "area_m2": 46.2,
+      "walls": 4,
+      "outer_m": 27.2,
+      "door_wall_street": "Ståthållaregatan"
+    },
+    "93333623_0": {
+      "osm": "93333623",
+      "role": "main",
+      "roof": "flat",
+      "height": 3.4,
+      "area_m2": 74.1,
+      "walls": 15,
+      "outer_m": 33.8,
+      "door_wall_street": "Bremergatan"
+    },
+    "93333623_1": {
+      "osm": "93333623",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 8.0,
+      "walls": 4,
+      "outer_m": 11.9,
+      "door_wall_street": "Bremergatan"
+    },
+    "93333623_2": {
+      "osm": "93333623",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 6.2,
+      "walls": 3,
+      "outer_m": 6.7,
+      "door_wall_street": "Bremergatan"
+    },
+    "93333627_0": {
+      "osm": "93333627",
+      "role": "main",
+      "roof": "saddle",
+      "height": 5.8,
+      "area_m2": 73.3,
+      "walls": 4,
+      "outer_m": 27.7,
+      "door_wall_street": "Järnvägsgatan"
+    },
+    "93333627_1": {
+      "osm": "93333627",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 5.8,
+      "area_m2": 60.8,
+      "walls": 4,
+      "outer_m": 18.9,
+      "door_wall_street": "Odengatan"
+    },
+    "93333627_2": {
+      "osm": "93333627",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 6.7,
+      "walls": 3,
+      "outer_m": 7.5,
+      "door_wall_street": "Bremergatan"
+    },
+    "93333638_0": {
+      "osm": "93333638",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.8,
+      "area_m2": 204.5,
+      "walls": 8,
+      "outer_m": 56.0,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93333638_1": {
+      "osm": "93333638",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 4.8,
+      "area_m2": 137.4,
+      "walls": 5,
+      "outer_m": 29.5,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93333638_2": {
+      "osm": "93333638",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 14.6,
+      "walls": 3,
+      "outer_m": 10.9,
+      "door_wall_street": "Västerlånggatan"
+    },
+    "93333638_3": {
+      "osm": "93333638",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 13.0,
+      "walls": 3,
+      "outer_m": 10.3,
+      "door_wall_street": "Bremergatan"
+    },
+    "93333658_0": {
+      "osm": "93333658",
+      "role": "main",
+      "roof": "saddle",
+      "height": 6.0,
+      "area_m2": 87.6,
+      "walls": 4,
+      "outer_m": 37.5,
+      "door_wall_street": "Järnvägsgatan"
+    },
+    "93333660_0": {
+      "osm": "93333660",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 74.0,
+      "walls": 4,
+      "outer_m": 39.4,
+      "door_wall_street": "Bremergatan"
+    },
+    "93358502_0": {
+      "osm": "93358502",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.5,
+      "area_m2": 37.9,
+      "walls": 4,
+      "outer_m": 22.8,
+      "door_wall_street": "Sankt Eriks gata"
+    },
+    "93358543_0": {
+      "osm": "93358543",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.5,
+      "area_m2": 54.1,
+      "walls": 5,
+      "outer_m": 33.8,
+      "door_wall_street": "Sankt Eriks gata"
+    },
+    "93358547_0": {
+      "osm": "93358547",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.5,
+      "area_m2": 42.5,
+      "walls": 4,
+      "outer_m": 20.0,
+      "door_wall_street": "Sankt Eriks gata"
+    },
+    "93361181_0": {
+      "osm": "93361181",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 61.7,
+      "walls": 3,
+      "outer_m": 12.3,
+      "door_wall_street": "Drottning Margaretas väg"
+    },
+    "93361181_1": {
+      "osm": "93361181",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 16.3,
+      "walls": 4,
+      "outer_m": 10.9,
+      "door_wall_street": "Drottning Margaretas väg"
+    },
+    "93361181_2": {
+      "osm": "93361181",
+      "role": "annex",
+      "roof": "flat",
+      "height": 2.6,
+      "area_m2": 5.5,
+      "walls": 3,
+      "outer_m": 9.6,
+      "door_wall_street": "Folkungagatan"
+    },
+    "93453481_0": {
+      "osm": "93453481",
+      "role": "main",
+      "roof": "hip",
+      "height": 7.5,
+      "area_m2": 260.8,
+      "walls": 4,
+      "outer_m": 66.7,
+      "door_wall_street": "Unionsgatan"
+    },
+    "93453490_0": {
+      "osm": "93453490",
+      "role": "main",
+      "roof": "hip",
+      "height": 7.5,
+      "area_m2": 292.8,
+      "walls": 4,
+      "outer_m": 64.0,
+      "door_wall_street": "Smålandsgatan"
+    },
+    "93453490_1": {
+      "osm": "93453490",
+      "role": "wing",
+      "roof": "hip",
+      "height": 7.5,
+      "area_m2": 78.1,
+      "walls": 3,
+      "outer_m": 28.4,
+      "door_wall_street": "Smålandsgatan"
+    },
+    "93453516_0": {
+      "osm": "93453516",
+      "role": "main",
+      "roof": "hip",
+      "height": 7.5,
+      "area_m2": 148.3,
+      "walls": 6,
+      "outer_m": 30.5,
+      "door_wall_street": "Smålandsgatan"
+    },
+    "93453516_1": {
+      "osm": "93453516",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 2.6,
+      "walls": 2,
+      "outer_m": 14.7,
+      "door_wall_street": null
+    },
+    "93460156_0": {
+      "osm": "93460156",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.2,
+      "area_m2": 137.0,
+      "walls": 4,
+      "outer_m": 47.0,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460172_0": {
+      "osm": "93460172",
+      "role": "main",
+      "roof": "hip",
+      "height": 5.6,
+      "area_m2": 114.3,
+      "walls": 4,
+      "outer_m": 42.9,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460175_0": {
+      "osm": "93460175",
+      "role": "main",
+      "roof": "saddle",
+      "height": 4.0,
+      "area_m2": 106.3,
+      "walls": 4,
+      "outer_m": 42.0,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460187_0": {
+      "osm": "93460187",
+      "role": "main",
+      "roof": "hip",
+      "height": 5.6,
+      "area_m2": 130.6,
+      "walls": 6,
+      "outer_m": 47.9,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460194_0": {
+      "osm": "93460194",
+      "role": "main",
+      "roof": "hip",
+      "height": 4.2,
+      "area_m2": 95.2,
+      "walls": 4,
+      "outer_m": 28.7,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460203_0": {
+      "osm": "93460203",
+      "role": "main",
+      "roof": "mono",
+      "height": 2.5,
+      "area_m2": 31.2,
+      "walls": 4,
+      "outer_m": 22.8,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460204_0": {
+      "osm": "93460204",
+      "role": "main",
+      "roof": "hip",
+      "height": 5.6,
+      "area_m2": 142.1,
+      "walls": 4,
+      "outer_m": 49.5,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460209_0": {
+      "osm": "93460209",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.5,
+      "area_m2": 45.1,
+      "walls": 4,
+      "outer_m": 26.9,
+      "door_wall_street": "Kalmarsundsparken"
+    },
+    "93460214_0": {
+      "osm": "93460214",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.6,
+      "area_m2": 52.4,
+      "walls": 4,
+      "outer_m": 29.3,
+      "door_wall_street": "Gustaf Vasagatan"
+    },
+    "93487550_0": {
+      "osm": "93487550",
+      "role": "main",
+      "roof": "hip",
+      "height": 4.0,
+      "area_m2": 119.9,
+      "walls": 4,
+      "outer_m": 44.7,
+      "door_wall_street": "Baldersvägen"
+    },
+    "93487564_0": {
+      "osm": "93487564",
+      "role": "main",
+      "roof": "saddle",
+      "height": 3.6,
+      "area_m2": 65.1,
+      "walls": 8,
+      "outer_m": 14.3,
+      "door_wall_street": "Torsgatan"
+    },
+    "93487564_1": {
+      "osm": "93487564",
+      "role": "wing",
+      "roof": "saddle",
+      "height": 3.6,
+      "area_m2": 25.4,
+      "walls": 4,
+      "outer_m": 16.8,
+      "door_wall_street": "Stensövägen"
+    },
+    "93487564_2": {
+      "osm": "93487564",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 10.6,
+      "walls": 3,
+      "outer_m": 12.4,
+      "door_wall_street": null
+    },
+    "93487564_3": {
+      "osm": "93487564",
+      "role": "annex",
+      "roof": "flat",
+      "height": 3.1,
+      "area_m2": 9.9,
+      "walls": 6,
+      "outer_m": 10.6,
+      "door_wall_street": "Stensövägen"
+    },
+    "93505688_0": {
+      "osm": "93505688",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.5,
+      "area_m2": 31.8,
+      "walls": 4,
+      "outer_m": 22.9,
+      "door_wall_street": "Ringgatan"
+    },
+    "93505695_0": {
+      "osm": "93505695",
+      "role": "main",
+      "roof": "saddle",
+      "height": 2.5,
+      "area_m2": 72.4,
+      "walls": 7,
+      "outer_m": 36.0,
+      "door_wall_street": "Drottning Margaretas väg"
+    },
+    "93505695_1": {
+      "osm": "93505695",
+      "role": "annex",
+      "roof": "flat",
+      "height": 2.5,
+      "area_m2": 10.0,
+      "walls": 3,
+      "outer_m": 9.9,
+      "door_wall_street": null
+    }
+  },
+  "checks": {
+    "buildings": 59,
+    "by_chunk": {
+      "W": 39,
+      "M": 11,
+      "E": 9
+    },
+    "footprint_m2": 6645.5,
+    "zoned_m2": 6645.5,
+    "outside_osm_m2": 0.05,
+    "osm_not_zoned_m2": 0.09,
+    "overlap_m2": 0.035,
+    "outlines_overlapping_m2": 0.035,
+    "zones_per_building": {
+      "1453534570": 1,
+      "874145313": 1,
+      "874145314": 1,
+      "91970346": 7,
+      "93238186": 1,
+      "93238220": 2,
+      "93238221": 1,
+      "93238239": 2,
+      "93238283": 1,
+      "93238284": 1,
+      "93238290": 1,
+      "93291962": 1,
+      "93291967": 1,
+      "93292008": 1,
+      "93292689": 1,
+      "93292702": 1,
+      "93292706": 1,
+      "93293012": 1,
+      "93293025": 1,
+      "93293041": 1,
+      "93306352": 4,
+      "93306356": 1,
+      "93325645": 1,
+      "93325656": 1,
+      "93326718": 2,
+      "93329937": 1,
+      "93329938": 2,
+      "93329953": 1,
+      "93329957": 2,
+      "93329965": 1,
+      "93329980": 1,
+      "93329987": 1,
+      "93330000": 1,
+      "93330001": 1,
+      "93333623": 3,
+      "93333627": 3,
+      "93333638": 4,
+      "93333658": 1,
+      "93333660": 1,
+      "93358502": 1,
+      "93358543": 1,
+      "93358547": 1,
+      "93361181": 3,
+      "93453481": 1,
+      "93453490": 2,
+      "93453516": 2,
+      "93460156": 1,
+      "93460172": 1,
+      "93460175": 1,
+      "93460187": 1,
+      "93460194": 1,
+      "93460203": 1,
+      "93460204": 1,
+      "93460209": 1,
+      "93460214": 1,
+      "93487550": 1,
+      "93487564": 4,
+      "93505688": 1,
+      "93505695": 2
+    },
+    "cut_walls": 5,
+    "left_in_chunks": {
+      "W": 0,
+      "M": 0,
+      "E": 0
+    },
+    "stubs": {
+      "W": {
+        "on_land": true,
+        "clear_of_buildings_m": 46.4,
+        "in_model_box": true
+      },
+      "M": {
+        "on_land": true,
+        "clear_of_buildings_m": 25.7,
+        "in_model_box": true
+      },
+      "E": {
+        "on_land": true,
+        "clear_of_buildings_m": 33.6,
+        "in_model_box": true
+      }
+    }
+  }
+}

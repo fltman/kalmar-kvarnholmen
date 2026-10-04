@@ -1,0 +1,82 @@
+{
+  "SM_Castle143_Rutsalen": {
+    "Normals": {
+      "vectors": 5343,
+      "min_length": 0.9999998759397125,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 58212,
+      "min_length": 0.999999853885283,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 58212,
+      "min_length": 0.99999977510083,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle143_RutsalenPaneler": {
+    "Normals": {
+      "vectors": 3592,
+      "min_length": 0.999999872923916,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 26496,
+      "min_length": 0.9999998398183706,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 26496,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle143_Drottningsalen": {
+    "Normals": {
+      "vectors": 7269,
+      "min_length": 0.9999998705599472,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 37620,
+      "min_length": 0.9999998585577301,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 37620,
+      "min_length": 0.9999997826242003,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle143_DrottningDekor": {
+    "Normals": {
+      "vectors": 3795,
+      "min_length": 0.9999998667058092,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 17148,
+      "min_length": 0.9999998401089091,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 17148,
+      "min_length": 0.9999997752432758,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

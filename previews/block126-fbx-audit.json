@@ -1,0 +1,182 @@
+{
+  "SM_Castle27_Ground": {
+    "Normals": {
+      "vectors": 628,
+      "min_length": 0.9999998743531681,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 3153,
+      "min_length": 0.9999998571205344,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 3153,
+      "min_length": 0.9999998139668163,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kalmar_Slott": {
+    "Normals": {
+      "vectors": 199263,
+      "min_length": 0.9999998552295354,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 955044,
+      "min_length": 0.9999998413764815,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 955044,
+      "min_length": 0.999999734235862,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kalmar_Slott_Towers": {
+    "Normals": {
+      "vectors": 148699,
+      "min_length": 0.9999998483231208,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 724020,
+      "min_length": 0.9999998287242668,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 724020,
+      "min_length": 0.9999997081089107,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Passage": {
+    "Normals": {
+      "vectors": 16060,
+      "min_length": 0.9999998570217016,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 61128,
+      "min_length": 0.9999998425609782,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 61128,
+      "min_length": 0.9999997562001952,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Portals": {
+    "Normals": {
+      "vectors": 15668,
+      "min_length": 0.9999998730392233,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 58296,
+      "min_length": 0.9999998427173425,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 58296,
+      "min_length": 0.9999997324631436,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Well": {
+    "Normals": {
+      "vectors": 13074,
+      "min_length": 0.9999998712812032,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 51876,
+      "min_length": 0.9999998545935512,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 51876,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Paving": {
+    "Normals": {
+      "vectors": 1600,
+      "min_length": 0.9999998774276135,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 5280,
+      "min_length": 0.9999998745291238,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 5280,
+      "min_length": 0.9999998125930729,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle125_GyllenSalen": {
+    "Normals": {
+      "vectors": 50057,
+      "min_length": 0.9999998591966238,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 338973,
+      "min_length": 0.9999998286882917,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 338973,
+      "min_length": 0.9999997385589214,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle126_Kungstrappan": {
+    "Normals": {
+      "vectors": 2152,
+      "min_length": 0.9999998551874281,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 9384,
+      "min_length": 0.9999998486130864,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 9384,
+      "min_length": 0.9999997807845893,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

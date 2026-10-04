@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Prison85_Ground": {
+      "sha256_geometry_uv_materials": "21de5dcb9efc1d38029c8760eaaf0620df5dba13e1864cf55f4c7506971eba65",
+      "vertices": 273,
+      "polygons": 231
+    },
+    "SM_Prison85_Anstalten": {
+      "sha256_geometry_uv_materials": "49b531addeb35585c83f0d04f631c996b6f54bfa7418315309c8c6b1a5ee56ce",
+      "vertices": 136679,
+      "polygons": 244461
+    },
+    "SM_Prison85_Walls": {
+      "sha256_geometry_uv_materials": "23164ee6f2bd54baf2ad01349172f5e099ba329c7c1a5fb8089861deb3acacf8",
+      "vertices": 4752,
+      "polygons": 8960
+    },
+    "SM_Prison85_Rotunda": {
+      "sha256_geometry_uv_materials": "3af52881da58f2feba6c3c96ac2fba771d54cdc30d730c42a84094a5f9e30976",
+      "vertices": 1608,
+      "polygons": 2975
+    }
+  }
+}

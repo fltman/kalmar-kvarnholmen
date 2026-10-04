@@ -1,0 +1,172 @@
+{
+  "status": "passed",
+  "zones": {
+    "ge": {
+      "osm": "90965018",
+      "area_m2": 73.0,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 28.0,
+      "fill_m": 0
+    },
+    "gs": {
+      "osm": "90965018",
+      "area_m2": 304.3,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 94.6,
+      "fill_m": 0
+    },
+    "ps": {
+      "osm": "90977165",
+      "area_m2": 111.6,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 46.3,
+      "fill_m": 0
+    },
+    "pz": {
+      "osm": "90977169",
+      "area_m2": 66.6,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 36.2,
+      "fill_m": 0
+    },
+    "ts": {
+      "osm": "90965000",
+      "area_m2": 37.0,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 27.5,
+      "fill_m": 0
+    },
+    "kb": {
+      "osm": "92379301",
+      "area_m2": 14.5,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 15.6,
+      "fill_m": 0
+    },
+    "kg": {
+      "osm": "92379273",
+      "area_m2": 286.3,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 40.2,
+      "fill_m": 0
+    },
+    "kr": {
+      "osm": "92379300",
+      "area_m2": 93.5,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 12.8,
+      "fill_m": 0
+    },
+    "kh": {
+      "osm": "92379268",
+      "area_m2": 80.1,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 18.5,
+      "fill_m": 0
+    },
+    "vb": {
+      "osm": "92412871",
+      "area_m2": 52.4,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 25.7,
+      "fill_m": 0
+    },
+    "vm": {
+      "osm": "92412839",
+      "area_m2": 69.9,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 26.4,
+      "fill_m": 0
+    },
+    "vs": {
+      "osm": "92412854",
+      "area_m2": 105.9,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 28.4,
+      "fill_m": 0
+    },
+    "sm": {
+      "osm": "93238216",
+      "area_m2": 69.8,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 27.0,
+      "fill_m": 0
+    },
+    "sl": {
+      "osm": "93238216",
+      "area_m2": 16.2,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 13.0,
+      "fill_m": 0
+    },
+    "ow": {
+      "osm": "91846989",
+      "area_m2": 164.9,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 40.6,
+      "fill_m": 0
+    },
+    "ox": {
+      "osm": "91846989",
+      "area_m2": 33.8,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 13.1,
+      "fill_m": 3.7
+    },
+    "og": {
+      "osm": "91846939",
+      "area_m2": 123.8,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 42.5,
+      "fill_m": 0
+    },
+    "oy": {
+      "osm": "91846948",
+      "area_m2": 118.2,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 35.6,
+      "fill_m": 5.9
+    },
+    "oz": {
+      "osm": "91846948",
+      "area_m2": 17.5,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 6.7,
+      "fill_m": 5.5
+    },
+    "sc": {
+      "osm": "91846923",
+      "area_m2": 251.4,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 67.9,
+      "fill_m": 0
+    }
+  },
+  "checks": {
+    "footprint_m2": 2090.8,
+    "zoned_m2": 2090.7,
+    "outside_osm_m2": 0.04,
+    "osm_not_zoned_m2": 0.15,
+    "overlap_m2": 0.002
+  }
+}

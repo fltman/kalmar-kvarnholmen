@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Slott115_93332243": {
+      "sha256_geometry_uv_materials": "2bb4bf2e0797b23120cef25a89d620cf1ecc835837845eb99909839d5ecc8d38",
+      "vertices": 38784,
+      "polygons": 70998
+    },
+    "SM_Slott115_91931339": {
+      "sha256_geometry_uv_materials": "b219856f47fc09bf1d6203c4ce4499bbd77bb82e956203f9682b036a70d7afc9",
+      "vertices": 50556,
+      "polygons": 92640
+    },
+    "SM_Slott115_91222116": {
+      "sha256_geometry_uv_materials": "eec0ba42718ca505bc703f730f58792aa2932b27fbc678e9d6afd59704f51f48",
+      "vertices": 11856,
+      "polygons": 21732
+    },
+    "SM_Slott115_874870421": {
+      "sha256_geometry_uv_materials": "9176bffac391c5cd3ccfd24413da9efb50fab3b4e309fff494ef958818230692",
+      "vertices": 10928,
+      "polygons": 18340
+    },
+    "SM_Slott115_91222187": {
+      "sha256_geometry_uv_materials": "27605d3f26eeb06ba83c1c1c5f30cba2046e8735e7bff5357b444fadc7ec6ab4",
+      "vertices": 5400,
+      "polygons": 9884
+    }
+  }
+}

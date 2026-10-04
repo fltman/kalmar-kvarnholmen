@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "limes": 54,
+  "glacis_m": 345.1,
+  "glacis_sides": [
+    1,
+    1
+  ],
+  "sodra_runs_kept": 10,
+  "surfaces": [
+    [
+      "35773131",
+      "lawn 35773131",
+      "lawn",
+      10215.4
+    ],
+    [
+      "128278550",
+      "lawn 128278550",
+      "lawn",
+      1007.6
+    ],
+    [
+      "128278551",
+      "lawn 128278551",
+      "lawn",
+      565.2
+    ],
+    [
+      "564958331",
+      "sand 564958331",
+      "sand",
+      892.8
+    ],
+    [
+      "1549543686",
+      "sand 1549543686",
+      "sand",
+      110.7
+    ],
+    [
+      "1549543687",
+      "sand 1549543687",
+      "sand",
+      49.2
+    ],
+    [
+      "east-bastions",
+      "Carolus and Östra lawns",
+      "lawn",
+      7242.5
+    ]
+  ],
+  "trees": 136,
+  "osm_trees": 27,
+  "hedge_runs": 4,
+  "hedge_m": 342.7
+}

@@ -1,0 +1,154 @@
+{
+  "status": "passed",
+  "floor_samples": 46,
+  "floor_failures": [],
+  "capsule_segments": 26,
+  "obstructions": [],
+  "routes": {
+    "yl front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "yl front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "gc front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "gc front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "gg front 2 1.2 m": {
+      "kind": "front",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "gg front 2 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "or front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "or front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "ck front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "ck front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "rd front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "rd front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "wb front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "wb front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "ws front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "ws front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "sr front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "sr front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "br front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "br front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-10-04T12:08:15.446418",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

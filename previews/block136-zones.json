@@ -1,0 +1,744 @@
+{
+  "status": "passed",
+  "zones": {
+    "93329935_0": {
+      "osm": "93329935",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 284.8,
+      "walls": 4,
+      "outer_m": 74.4,
+      "street": "Sankt Eriks gata"
+    },
+    "93329936_0": {
+      "osm": "93329936",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 261.7,
+      "walls": 11,
+      "outer_m": 49.6,
+      "street": "Johan III:s gata"
+    },
+    "93329936_1": {
+      "osm": "93329936",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 26.1,
+      "walls": 2,
+      "outer_m": 13.5,
+      "street": "Johan III:s gata"
+    },
+    "93329936_2": {
+      "osm": "93329936",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 13.9,
+      "walls": 3,
+      "outer_m": 7.8,
+      "street": "Johan III:s gata"
+    },
+    "93329936_3": {
+      "osm": "93329936",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 11.8,
+      "walls": 2,
+      "outer_m": 7.4,
+      "street": null
+    },
+    "93329936_4": {
+      "osm": "93329936",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 9.2,
+      "walls": 4,
+      "outer_m": 25.0,
+      "street": "Sankta Britas gata"
+    },
+    "93329941_0": {
+      "osm": "93329941",
+      "role": "main",
+      "roof": "gambrel",
+      "area_m2": 254.1,
+      "walls": 8,
+      "outer_m": 76.6,
+      "street": "Sankta Britas gata"
+    },
+    "93329941_1": {
+      "osm": "93329941",
+      "role": "wing",
+      "roof": "gambrel",
+      "area_m2": 21.2,
+      "walls": 3,
+      "outer_m": 13.0,
+      "street": null
+    },
+    "93329942_0": {
+      "osm": "93329942",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 85.5,
+      "walls": 5,
+      "outer_m": 20.5,
+      "street": "Sankta Britas gata"
+    },
+    "93329942_1": {
+      "osm": "93329942",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 50.7,
+      "walls": 4,
+      "outer_m": 20.3,
+      "street": "Sankta Britas gata"
+    },
+    "93329942_2": {
+      "osm": "93329942",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 36.0,
+      "walls": 9,
+      "outer_m": 52.0,
+      "street": "Sankta Britas gata"
+    },
+    "93329942_3": {
+      "osm": "93329942",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 28.2,
+      "walls": 3,
+      "outer_m": 15.4,
+      "street": "Sankta Britas gata"
+    },
+    "93329942_4": {
+      "osm": "93329942",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 18.4,
+      "walls": 2,
+      "outer_m": 4.0,
+      "street": "Sankta Britas gata"
+    },
+    "93329949_0": {
+      "osm": "93329949",
+      "role": "main",
+      "roof": "gambrel",
+      "area_m2": 89.0,
+      "walls": 4,
+      "outer_m": 37.8,
+      "street": "Sankt Eriks gata"
+    },
+    "93329954_0": {
+      "osm": "93329954",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 57.1,
+      "walls": 4,
+      "outer_m": 32.1,
+      "street": "Johan III:s gata"
+    },
+    "93329955_0": {
+      "osm": "93329955",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 74.4,
+      "walls": 3,
+      "outer_m": 31.8,
+      "street": "Johan III:s gata"
+    },
+    "93329955_1": {
+      "osm": "93329955",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 15.4,
+      "walls": 5,
+      "outer_m": 5.7,
+      "street": "Johan III:s gata"
+    },
+    "93329955_2": {
+      "osm": "93329955",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 14.4,
+      "walls": 3,
+      "outer_m": 4.9,
+      "street": "Johan III:s gata"
+    },
+    "93329955_3": {
+      "osm": "93329955",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 7.5,
+      "walls": 3,
+      "outer_m": 7.6,
+      "street": null
+    },
+    "93329959_0": {
+      "osm": "93329959",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 115.1,
+      "walls": 4,
+      "outer_m": 43.4,
+      "street": "Sankta Britas gata"
+    },
+    "93329963_0": {
+      "osm": "93329963",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 110.1,
+      "walls": 4,
+      "outer_m": 43.9,
+      "street": "Johan III:s gata"
+    },
+    "93329968_0": {
+      "osm": "93329968",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 37.7,
+      "walls": 4,
+      "outer_m": 24.8,
+      "street": "Sankt Eriks gata"
+    },
+    "93329973_0": {
+      "osm": "93329973",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 312.3,
+      "walls": 4,
+      "outer_m": 85.5,
+      "street": "Sankt Eriks gata"
+    },
+    "93329984_0": {
+      "osm": "93329984",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 183.5,
+      "walls": 4,
+      "outer_m": 56.3,
+      "street": "Johan III:s gata"
+    },
+    "93329985_0": {
+      "osm": "93329985",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 44.9,
+      "walls": 4,
+      "outer_m": 26.9,
+      "street": "Sankt Eriks gata"
+    },
+    "93329986_0": {
+      "osm": "93329986",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 70.0,
+      "walls": 3,
+      "outer_m": 24.6,
+      "street": null
+    },
+    "93329986_1": {
+      "osm": "93329986",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 17.3,
+      "walls": 3,
+      "outer_m": 11.9,
+      "street": "Johan III:s gata"
+    },
+    "93329986_2": {
+      "osm": "93329986",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 4.1,
+      "walls": 2,
+      "outer_m": 7.4,
+      "street": "Johan III:s gata"
+    },
+    "93329994_0": {
+      "osm": "93329994",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 162.8,
+      "walls": 4,
+      "outer_m": 55.6,
+      "street": "Sankta Britas gata"
+    },
+    "93329996_0": {
+      "osm": "93329996",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 53.6,
+      "walls": 4,
+      "outer_m": 29.5,
+      "street": "Sankta Britas gata"
+    },
+    "93329997_0": {
+      "osm": "93329997",
+      "role": "main",
+      "roof": "hip",
+      "area_m2": 198.0,
+      "walls": 4,
+      "outer_m": 59.9,
+      "street": "Johan III:s gata"
+    },
+    "93358507_0": {
+      "osm": "93358507",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 162.7,
+      "walls": 4,
+      "outer_m": 51.1,
+      "street": "Sankt Eriks gata"
+    },
+    "93358510_0": {
+      "osm": "93358510",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 141.5,
+      "walls": 4,
+      "outer_m": 47.7,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358511_0": {
+      "osm": "93358511",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 49.1,
+      "walls": 4,
+      "outer_m": 28.0,
+      "street": "Sankt Eriks gata"
+    },
+    "93358513_0": {
+      "osm": "93358513",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 152.4,
+      "walls": 4,
+      "outer_m": 49.4,
+      "street": "Sankt Eriks gata"
+    },
+    "93358514_0": {
+      "osm": "93358514",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 120.0,
+      "walls": 4,
+      "outer_m": 44.0,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358515_0": {
+      "osm": "93358515",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 119.9,
+      "walls": 3,
+      "outer_m": 32.5,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358515_1": {
+      "osm": "93358515",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 44.1,
+      "walls": 5,
+      "outer_m": 13.7,
+      "street": "Sankt Eriks gata"
+    },
+    "93358515_2": {
+      "osm": "93358515",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 17.3,
+      "walls": 4,
+      "outer_m": 13.2,
+      "street": "Sankt Eriks gata"
+    },
+    "93358515_3": {
+      "osm": "93358515",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 6.8,
+      "walls": 3,
+      "outer_m": 7.5,
+      "street": "Sankt Eriks gata"
+    },
+    "93358516_0": {
+      "osm": "93358516",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 191.3,
+      "walls": 4,
+      "outer_m": 55.3,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358517_0": {
+      "osm": "93358517",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 114.2,
+      "walls": 4,
+      "outer_m": 42.9,
+      "street": "Johan III:s gata"
+    },
+    "93358519_0": {
+      "osm": "93358519",
+      "role": "main",
+      "roof": "hip",
+      "area_m2": 168.1,
+      "walls": 8,
+      "outer_m": 47.9,
+      "street": "Johan III:s gata"
+    },
+    "93358519_1": {
+      "osm": "93358519",
+      "role": "wing",
+      "roof": "hip",
+      "area_m2": 17.1,
+      "walls": 3,
+      "outer_m": 16.4,
+      "street": null
+    },
+    "93358521_0": {
+      "osm": "93358521",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 140.3,
+      "walls": 4,
+      "outer_m": 47.5,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358522_0": {
+      "osm": "93358522",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 126.7,
+      "walls": 9,
+      "outer_m": 46.0,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358523_0": {
+      "osm": "93358523",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 162.9,
+      "walls": 4,
+      "outer_m": 51.2,
+      "street": "Sankt Eriks gata"
+    },
+    "93358524_0": {
+      "osm": "93358524",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 232.3,
+      "walls": 4,
+      "outer_m": 54.1,
+      "street": "Sankt Eriks gata"
+    },
+    "93358524_1": {
+      "osm": "93358524",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 30.4,
+      "walls": 3,
+      "outer_m": 11.0,
+      "street": null
+    },
+    "93358524_2": {
+      "osm": "93358524",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 24.0,
+      "walls": 3,
+      "outer_m": 10.0,
+      "street": "Johan III:s gata"
+    },
+    "93358528_0": {
+      "osm": "93358528",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 176.0,
+      "walls": 4,
+      "outer_m": 53.1,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358531_0": {
+      "osm": "93358531",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 168.8,
+      "walls": 4,
+      "outer_m": 39.5,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358534_0": {
+      "osm": "93358534",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 119.1,
+      "walls": 4,
+      "outer_m": 43.8,
+      "street": "Drottning Margaretas väg"
+    },
+    "93358535_0": {
+      "osm": "93358535",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 277.5,
+      "walls": 4,
+      "outer_m": 70.5,
+      "street": "Sankt Eriks gata"
+    },
+    "93358536_0": {
+      "osm": "93358536",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 176.8,
+      "walls": 4,
+      "outer_m": 53.5,
+      "street": "Sankt Eriks gata"
+    },
+    "93358540_0": {
+      "osm": "93358540",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 44.4,
+      "walls": 4,
+      "outer_m": 26.9,
+      "street": "Sankt Eriks gata"
+    },
+    "93358549_0": {
+      "osm": "93358549",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 129.4,
+      "walls": 4,
+      "outer_m": 45.7,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361162_0": {
+      "osm": "93361162",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 211.3,
+      "walls": 6,
+      "outer_m": 62.5,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361172_0": {
+      "osm": "93361172",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 146.6,
+      "walls": 4,
+      "outer_m": 50.0,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361177_0": {
+      "osm": "93361177",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 167.5,
+      "walls": 4,
+      "outer_m": 53.5,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361185_0": {
+      "osm": "93361185",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 147.9,
+      "walls": 4,
+      "outer_m": 49.6,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361214_0": {
+      "osm": "93361214",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 148.2,
+      "walls": 4,
+      "outer_m": 49.6,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361235_0": {
+      "osm": "93361235",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 140.9,
+      "walls": 4,
+      "outer_m": 34.1,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361235_1": {
+      "osm": "93361235",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 46.0,
+      "walls": 9,
+      "outer_m": 26.1,
+      "street": null
+    },
+    "93361235_2": {
+      "osm": "93361235",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 5.7,
+      "walls": 2,
+      "outer_m": 14.5,
+      "street": null
+    },
+    "93361242_0": {
+      "osm": "93361242",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 169.6,
+      "walls": 4,
+      "outer_m": 54.1,
+      "street": "Drottning Margaretas väg"
+    },
+    "93361247_0": {
+      "osm": "93361247",
+      "role": "main",
+      "roof": "mhip",
+      "area_m2": 164.1,
+      "walls": 4,
+      "outer_m": 52.8,
+      "street": "Drottning Margaretas väg"
+    },
+    "93460178_0": {
+      "osm": "93460178",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 124.8,
+      "walls": 4,
+      "outer_m": 45.3,
+      "street": "Drottning Margaretas väg"
+    },
+    "93460193_0": {
+      "osm": "93460193",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 56.4,
+      "walls": 4,
+      "outer_m": 30.1,
+      "street": "Drottning Margaretas väg"
+    },
+    "93460219_0": {
+      "osm": "93460219",
+      "role": "main",
+      "roof": "mhip",
+      "area_m2": 165.6,
+      "walls": 8,
+      "outer_m": 54.4,
+      "street": "Drottning Margaretas väg"
+    },
+    "93460227_0": {
+      "osm": "93460227",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 122.2,
+      "walls": 4,
+      "outer_m": 45.9,
+      "street": "Drottning Margaretas väg"
+    },
+    "93460240_0": {
+      "osm": "93460240",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 100.7,
+      "walls": 4,
+      "outer_m": 40.6,
+      "street": "Drottning Margaretas väg"
+    },
+    "93505718_0": {
+      "osm": "93505718",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 108.2,
+      "walls": 4,
+      "outer_m": 42.1,
+      "street": "Drottning Margaretas väg"
+    },
+    "93566374_0": {
+      "osm": "93566374",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 130.6,
+      "walls": 4,
+      "outer_m": 45.9,
+      "street": "Drottning Margaretas väg"
+    },
+    "149905963_0": {
+      "osm": "149905963",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 84.0,
+      "walls": 5,
+      "outer_m": 38.2,
+      "street": "Johan III:s gata"
+    }
+  },
+  "checks": {
+    "buildings": 53,
+    "footprint_m2": 8022.1,
+    "zoned_m2": 8022.0,
+    "outside_osm_m2": 0.04,
+    "osm_not_zoned_m2": 0.07,
+    "overlap_m2": 0.017,
+    "outlines_overlapping_m2": 0.016,
+    "zones_per_building": {
+      "93329935": 1,
+      "93329936": 5,
+      "93329941": 2,
+      "93329942": 5,
+      "93329949": 1,
+      "93329954": 1,
+      "93329955": 4,
+      "93329959": 1,
+      "93329963": 1,
+      "93329968": 1,
+      "93329973": 1,
+      "93329984": 1,
+      "93329985": 1,
+      "93329986": 3,
+      "93329994": 1,
+      "93329996": 1,
+      "93329997": 1,
+      "93358507": 1,
+      "93358510": 1,
+      "93358511": 1,
+      "93358513": 1,
+      "93358514": 1,
+      "93358515": 4,
+      "93358516": 1,
+      "93358517": 1,
+      "93358519": 2,
+      "93358521": 1,
+      "93358522": 1,
+      "93358523": 1,
+      "93358524": 3,
+      "93358528": 1,
+      "93358531": 1,
+      "93358534": 1,
+      "93358535": 1,
+      "93358536": 1,
+      "93358540": 1,
+      "93358549": 1,
+      "93361162": 1,
+      "93361172": 1,
+      "93361177": 1,
+      "93361185": 1,
+      "93361214": 1,
+      "93361235": 3,
+      "93361242": 1,
+      "93361247": 1,
+      "93460178": 1,
+      "93460193": 1,
+      "93460219": 1,
+      "93460227": 1,
+      "93460240": 1,
+      "93505718": 1,
+      "93566374": 1,
+      "149905963": 1
+    }
+  }
+}

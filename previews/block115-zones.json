@@ -1,0 +1,169 @@
+{
+  "status": "passed",
+  "zones": {
+    "mu": {
+      "osm": "91931339",
+      "area_m2": 410.4,
+      "polygons": 1,
+      "walls": 12,
+      "outer_m": 88.7
+    },
+    "by": {
+      "osm": "91222116",
+      "area_m2": 465.5,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 87.7
+    },
+    "pa": {
+      "osm": "91222187",
+      "area_m2": 113.2,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 43.8
+    },
+    "pb": {
+      "osm": "874870421",
+      "area_m2": 110.9,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 41.1
+    },
+    "shg": {
+      "osm": "93332243",
+      "area_m2": 83.5,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 28.9
+    },
+    "shm": {
+      "osm": "93332243",
+      "area_m2": 163.8,
+      "polygons": 1,
+      "walls": 7,
+      "outer_m": 35.1
+    },
+    "shn": {
+      "osm": "93332243",
+      "area_m2": 173.3,
+      "polygons": 2,
+      "walls": 18,
+      "outer_m": 59.4
+    },
+    "vl": {
+      "osm": "93332252",
+      "area_m2": 167.2,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 53.2
+    },
+    "rb": {
+      "osm": "93306354",
+      "area_m2": 137.9,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 32.5
+    },
+    "rv": {
+      "osm": "93306354",
+      "area_m2": 71.6,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 29.0
+    },
+    "gs": {
+      "osm": "387312778",
+      "area_m2": 18.7,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 22.8
+    },
+    "gl": {
+      "osm": "387312779",
+      "area_m2": 72.2,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 38.6
+    },
+    "vi": {
+      "osm": "91970278",
+      "area_m2": 190.4,
+      "polygons": 1,
+      "walls": 9,
+      "outer_m": 44.2
+    },
+    "vs": {
+      "osm": "91970278",
+      "area_m2": 8.1,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 7.4
+    },
+    "vr": {
+      "osm": "91970278",
+      "area_m2": 16.7,
+      "polygons": 1,
+      "walls": 5,
+      "outer_m": 16.5
+    },
+    "mp": {
+      "osm": "91970355",
+      "area_m2": 67.5,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 33.0
+    },
+    "rt": {
+      "osm": "91970390",
+      "area_m2": 247.3,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 65.8
+    },
+    "so": {
+      "osm": "91970274",
+      "area_m2": 254.1,
+      "polygons": 1,
+      "walls": 6,
+      "outer_m": 63.6
+    },
+    "sw": {
+      "osm": "91970274",
+      "area_m2": 35.6,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 27.9
+    },
+    "ki": {
+      "osm": "564958332",
+      "area_m2": 20.7,
+      "polygons": 1,
+      "walls": 12,
+      "outer_m": 16.3
+    }
+  },
+  "checks": {
+    "footprint_m2": 2828.5,
+    "zoned_m2": 2828.5,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 0.02,
+    "overlap_m2": 0.088,
+    "outlines_overlapping_m2": 0.088,
+    "zones_per_building": {
+      "91931339": 1,
+      "91222116": 1,
+      "91222187": 1,
+      "874870421": 1,
+      "93332243": 3,
+      "93332252": 1,
+      "93306354": 2,
+      "387312778": 1,
+      "387312779": 1,
+      "91970278": 3,
+      "91970355": 1,
+      "91970390": 1,
+      "91970274": 2,
+      "564958332": 1
+    }
+  }
+}

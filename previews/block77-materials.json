@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "materials": {
+    "M_Block77_Red": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_Weathered": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_Yellow": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_White": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_WhiteFrame": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_YellowFrame": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_GreySurround": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_Plinth": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_Tile": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_Iron": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    },
+    "M_Block77_Dark": {
+      "normal": true,
+      "roughness": true,
+      "linear_normal": true,
+      "flip_green": true
+    }
+  }
+}

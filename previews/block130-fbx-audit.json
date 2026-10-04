@@ -1,0 +1,42 @@
+{
+  "SM_Castle130_Slottskyrkan": {
+    "Normals": {
+      "vectors": 305431,
+      "min_length": 0.9999998449874666,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 1619139,
+      "min_length": 0.9999998286596182,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 1619139,
+      "min_length": 0.9999997324056513,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle130_Inventarier": {
+    "Normals": {
+      "vectors": 9158,
+      "min_length": 0.9999998784203808,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 56937,
+      "min_length": 0.9999998583247744,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 56937,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

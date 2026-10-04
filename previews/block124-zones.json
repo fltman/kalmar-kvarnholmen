@@ -1,0 +1,69 @@
+{
+ "pass": 124,
+ "approach": {
+  "landing": [
+   -934.114,
+   -171.117
+  ],
+  "radius": 54.0,
+  "domain_m2": 4675.7,
+  "layers": {
+   "land": 4675.61,
+   "green:park": 2888.5,
+   "paths": 833.11,
+   "roads": 244.43
+  },
+  "edges": {
+   "ditch": 3,
+   "water": 1,
+   "land": 0
+  }
+ },
+ "stair": {
+  "osm_way": "93293022",
+  "points": [
+   [
+    -947.515,
+    -168.794
+   ],
+   [
+    -934.341,
+    -171.993
+   ]
+  ],
+  "steps": 30
+ },
+ "gate": {
+  "passage_osm_way": "90613986",
+  "passage": [
+   [
+    -876.318,
+    -278.046
+   ],
+   [
+    -864.806,
+    -291.646
+   ]
+  ]
+ },
+ "checks": {
+  "domain_m2": 4675.7,
+  "land_layer_m2": 4675.61,
+  "ditch_overlap_m2": 0.023,
+  "layers": {
+   "land": 4675.61,
+   "green:park": 2888.5,
+   "paths": 833.11,
+   "roads": 244.43
+  },
+  "walled_edges": 4,
+  "walled_by_side": {
+   "ditch": 3,
+   "water": 1,
+   "land": 0
+  },
+  "stair_length_m": 13.56,
+  "landing_on_wall_m": 0.0,
+  "passage_length_m": 17.82
+ }
+}

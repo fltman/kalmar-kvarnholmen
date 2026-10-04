@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Slott98_Cemeteries": {
+      "sha256_geometry_uv_materials": "b7c276886d8ff6132aacf0997b625b77fb58dc59f69aa0df5f06650e0ac4538d",
+      "vertices": 137499,
+      "polygons": 252005
+    },
+    "SM_Slott98_Trees": {
+      "sha256_geometry_uv_materials": "e9f360743f0ce2552e2573378a0681a1606c7ab5793747e4e14fb95689e6c41c",
+      "vertices": 346690,
+      "polygons": 672420
+    },
+    "SM_Slott98_Buildings_M": {
+      "sha256_geometry_uv_materials": "2d6b274d3232cc758075410c77bca1bc3fc95115d582c4e1635e7fd4b366ca5e",
+      "vertices": 2010430,
+      "polygons": 3592054
+    },
+    "SM_GamlaKyrkogarden107": {
+      "sha256_geometry_uv_materials": "18d7da5d28fceb38736fd1ccb285d3e788f750486df0ab0829a09f0f203b02a0",
+      "vertices": 26616,
+      "polygons": 47340
+    },
+    "SM_GamlaKyrkogarden107_Trees": {
+      "sha256_geometry_uv_materials": "ea12edbdf82edd08f1524a27523b12477fbae4b0e5b1dcd2f118bdab3ad70c44",
+      "vertices": 8110,
+      "polygons": 15736
+    },
+    "SM_Stagnellska107": {
+      "sha256_geometry_uv_materials": "919f0a3b1a9a576b133d680379d16e3ae2fcd74024f7a5496cf22874076f8067",
+      "vertices": 1384,
+      "polygons": 2588
+    },
+    "SM_Bykyrkan1610": {
+      "sha256_geometry_uv_materials": "baa442b6726287286bc668b621b2d80d4ca5e412d1692c3f1092e12b402295f4",
+      "vertices": 3695,
+      "polygons": 6767
+    }
+  }
+}

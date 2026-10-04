@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle130_Slottskyrkan": {
+      "sha256_geometry_uv_materials": "4e28291871de6beb07ad8fa010ea6c8903ea36641b0c7c267cad98a67b1a00c2",
+      "vertices": 287417,
+      "polygons": 540593
+    },
+    "SM_Castle130_Inventarier": {
+      "sha256_geometry_uv_materials": "24ea97d777f2d2007c6dcd8a19120afa62d50e1d1cd0f8f088c87fec86eae4ec",
+      "vertices": 12034,
+      "polygons": 18979
+    }
+  }
+}

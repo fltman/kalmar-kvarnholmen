@@ -1,0 +1,81 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "Measured across the street from the two pass 75 panoramas, whose positions were resected there. The north side's base row lies about 0.3 m below theirs, so the cameras stand 1.95 m above these houses. The joint between the two red houses reads 209.3 and 210.1 from the two cameras (209.7 is used); the red and white houses meet at 221.8, 0.6 m east of the district outline's joint, and the zones follow the measurement. The strip with the two gates (x 198.3-202.3) is a yard behind them and is released. Roofs behind the ridges, the chimney heights and the yards are estimates.",
+  "views": {
+    "378_Block76_Cal_Gates": [
+      {
+        "feature": "gate posts",
+        "deviation_px": 8
+      },
+      {
+        "feature": "red house corner",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "eaves",
+        "deviation_px": 12
+      }
+    ],
+    "379_Block76_Cal_Green": [
+      {
+        "feature": "green house windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "cross gable",
+        "deviation_px": 14
+      }
+    ],
+    "380_Block76_Cal_RedWest": [
+      {
+        "feature": "windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "joint",
+        "deviation_px": 12
+      },
+      {
+        "feature": "chimney",
+        "deviation_px": 14
+      }
+    ],
+    "381_Block76_Cal_RedEast": [
+      {
+        "feature": "windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "door",
+        "deviation_px": 8
+      },
+      {
+        "feature": "chimneys",
+        "deviation_px": 14
+      }
+    ],
+    "382_Block76_Cal_White": [
+      {
+        "feature": "gable",
+        "deviation_px": 10
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "passage door",
+        "deviation_px": 10
+      }
+    ]
+  },
+  "features": 15,
+  "median_px": 10.0,
+  "max_px": 14,
+  "within_8_px": 5
+}

@@ -1,0 +1,108 @@
+{
+ "zones": [
+  {
+   "zone": "N",
+   "mesh": "SM_Kalmar_Slott_Towers",
+   "moller": "Norra tornet",
+   "sheet": "PK006-00049_1885_Moller_tak-Norra-tornet.jpg",
+   "z_eaves": 23.27,
+   "z_tip": 41.084,
+   "tip_above_water": 42.41,
+   "cap_height_m": 17.81,
+   "written_total_fot": 60.5,
+   "read_total_fot": 60.0,
+   "bell_base_apothem": 6.854,
+   "wall_radius": 6.349,
+   "k_eaves": 0.3198,
+   "n_bell": 12,
+   "n_up": 10
+  },
+  {
+   "zone": "S",
+   "mesh": "SM_Kalmar_Slott_Towers",
+   "moller": "Södra tornet",
+   "sheet": "PK006-00050_1885_Moller_tak-Sodra-tornet.jpg",
+   "z_eaves": 24.27,
+   "z_tip": 41.52,
+   "tip_above_water": 42.85,
+   "cap_height_m": 17.25,
+   "written_total_fot": 57.9,
+   "read_total_fot": 58.1,
+   "bell_base_apothem": 7.251,
+   "wall_radius": 6.719,
+   "k_eaves": 0.3262,
+   "n_bell": 16,
+   "n_up": 8
+  },
+  {
+   "zone": "W",
+   "mesh": "SM_Kalmar_Slott_Towers",
+   "moller": "Västra tornet",
+   "sheet": "PK006-00051_1885_Moller_tak-Vastra-tornet.jpg",
+   "z_eaves": 23.97,
+   "z_tip": 43.269,
+   "tip_above_water": 44.6,
+   "cap_height_m": 19.3,
+   "written_total_fot": 65.2,
+   "read_total_fot": 65.0,
+   "bell_base_apothem": 6.263,
+   "wall_radius": 5.865,
+   "k_eaves": 0.3111,
+   "n_bell": 10,
+   "n_up": 12
+  },
+  {
+   "zone": "E",
+   "mesh": "SM_Kalmar_Slott_Towers",
+   "moller": "Östra tornet",
+   "sheet": "PK006-00052_1885_Moller_tak-Ostra-tornet.jpg",
+   "z_eaves": 23.97,
+   "z_tip": 44.13,
+   "tip_above_water": 45.46,
+   "cap_height_m": 20.16,
+   "written_total_fot": 67.3,
+   "read_total_fot": 67.9,
+   "bell_base_apothem": 6.077,
+   "wall_radius": 5.678,
+   "k_eaves": 0.2832,
+   "n_bell": 16,
+   "n_up": 8
+  },
+  {
+   "zone": "Kure",
+   "mesh": "SM_Kalmar_Slott_Towers",
+   "moller": "Vattentornet",
+   "sheet": "PK006-00048_1885_Moller_tak-Vattentornet.jpg",
+   "z_eaves": 30.67,
+   "z_tip": 57.658,
+   "tip_above_water": 58.99,
+   "cap_height_m": 26.99,
+   "written_total_fot": 88.0,
+   "read_total_fot": 87.8
+  }
+ ],
+ "checks": {
+  "N": {
+   "total_read_vs_written_fot": -0.5,
+   "bell_base_over_wall_m": 0.505
+  },
+  "S": {
+   "total_read_vs_written_fot": 0.2,
+   "bell_base_over_wall_m": 0.532,
+   "tip_vs_streetview_m": 0.25
+  },
+  "W": {
+   "total_read_vs_written_fot": -0.2,
+   "bell_base_over_wall_m": 0.398,
+   "tip_vs_streetview_m": 0.4
+  },
+  "E": {
+   "total_read_vs_written_fot": 0.6,
+   "bell_base_over_wall_m": 0.399
+  },
+  "Kure": {
+   "crown_top_above_water": 58.99,
+   "pass27_crown": 59.0
+  }
+ }
+}

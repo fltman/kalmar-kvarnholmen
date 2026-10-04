@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "One panorama about 7.7 m from the fronts, resected on both corners of the cottage; its base row lies at 0 with a camera 2.3 m high. A second heading along the block puts its east end within 0.5 m of the district outline. The block's far windows are read at a grazing angle (about ±0.3 m). Roofs and the yards are estimates.",
+  "views": {
+    "384_Block77_Cal_Cottage": [
+      {
+        "feature": "cottage corners",
+        "deviation_px": 6
+      },
+      {
+        "feature": "cottage windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "gable apex",
+        "deviation_px": 8
+      },
+      {
+        "feature": "loggia",
+        "deviation_px": 10
+      },
+      {
+        "feature": "block windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 10
+      }
+    ],
+    "385_Block77_Cal_Block": [
+      {
+        "feature": "windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "entrance",
+        "deviation_px": 12
+      },
+      {
+        "feature": "east loggia",
+        "deviation_px": 16
+      }
+    ]
+  },
+  "features": 9,
+  "median_px": 10.0,
+  "max_px": 16,
+  "within_8_px": 4
+}

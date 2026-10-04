@@ -1,0 +1,78 @@
+{
+ "source": "pass 126: kalmarslott.se step counts, pass 27 measurements, Zettervall 1883, photographs; see references/block126-notes.md",
+ "h_court": 6.8,
+ "zc": 5.47,
+ "zc_pass27": 8.17,
+ "riser_31": 0.1613,
+ "eaves_court": 17.67,
+ "court_row": {
+  "sill": 11.57,
+  "h": 3.2,
+  "w": 1.2
+ },
+ "win_out": [
+  6.45,
+  14.25
+ ],
+ "win_gyll_court": [
+  10.4,
+  15.361
+ ],
+ "tower_window": {
+  "key": "N",
+  "dir": [
+   -0.645539769489745,
+   0.7637266566037398
+  ],
+  "w": 1.4
+ },
+ "stair": {
+  "a_door": 7.8185,
+  "a_top": 6.5885,
+  "a_mid": 2.3885,
+  "a_end": 0.4,
+  "a_hall": 9.2185,
+  "tread": 0.3,
+  "risers": 15,
+  "riser": 0.16667,
+  "lane_c": [
+   0.0,
+   1.7
+  ],
+  "spine": [
+   1.7,
+   1.9
+  ],
+  "lane_k0": 1.9,
+  "b_land": 3.55,
+  "z_ceil": 15.2,
+  "W1": [
+   -878.926,
+   -301.203
+  ],
+  "E": [
+   0.8190962886637408,
+   0.5736560554001724
+  ],
+  "IN": [
+   -0.5736560554001724,
+   0.8190962886637408
+  ],
+  "kure_face": [
+   [
+    1.2040443586255714,
+    3.8871087995802727
+   ],
+   [
+    18.31346927020907,
+    5.834629836629937
+   ]
+  ],
+  "skin": 0.36
+ },
+ "checks": {
+  "vault_top": 9.682,
+  "flight2_width": 1.722,
+  "passage_rise": 1.8
+ }
+}

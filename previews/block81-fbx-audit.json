@@ -1,0 +1,182 @@
+{
+  "SM_Kvarnholmen_House_93192447": {
+    "Normals": {
+      "vectors": 5522,
+      "min_length": 0.9999998320895457,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 36201,
+      "min_length": 0.9999998651336262,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 36201,
+      "min_length": 0.9999997320446498,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192416": {
+    "Normals": {
+      "vectors": 2125,
+      "min_length": 0.9999998651386404,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 10314,
+      "min_length": 0.9999998573848163,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 10314,
+      "min_length": 0.999999772848361,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192390": {
+    "Normals": {
+      "vectors": 8038,
+      "min_length": 0.9999998596113694,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 32940,
+      "min_length": 0.9999998389267923,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 32940,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192433": {
+    "Normals": {
+      "vectors": 4734,
+      "min_length": 0.9999998707568173,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 20835,
+      "min_length": 0.9999998507251835,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 20835,
+      "min_length": 0.9999997511957054,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859897": {
+    "Normals": {
+      "vectors": 2247,
+      "min_length": 0.9999998792030854,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 9918,
+      "min_length": 0.9999998634937637,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 9918,
+      "min_length": 0.9999997754004802,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859890": {
+    "Normals": {
+      "vectors": 8472,
+      "min_length": 0.9999998783019708,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 36975,
+      "min_length": 0.9999998542434643,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 36975,
+      "min_length": 0.9999997505882275,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859875": {
+    "Normals": {
+      "vectors": 2666,
+      "min_length": 0.9999998784758034,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 9546,
+      "min_length": 0.9999998407210605,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 9546,
+      "min_length": 0.9999997413735419,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859864": {
+    "Normals": {
+      "vectors": 3909,
+      "min_length": 0.99999986042191,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 14964,
+      "min_length": 0.9999998520558343,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 14964,
+      "min_length": 0.9999997766609033,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859880": {
+    "Normals": {
+      "vectors": 4284,
+      "min_length": 0.9999998657027254,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 17667,
+      "min_length": 0.9999998631195232,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 17667,
+      "min_length": 0.999999753144017,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

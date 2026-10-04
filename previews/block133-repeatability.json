@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "8fe1f81f7736064efb485509e087f140b04ac2479084dd40729bf13683146c58",
+      "vertices": 195638,
+      "polygons": 312516
+    },
+    "SM_Castle124_Portals": {
+      "sha256_geometry_uv_materials": "b108505456a7a0e4240457a84579474f356436c1c86f5fd6fc49c23c7523688c",
+      "vertices": 8114,
+      "polygons": 15380
+    },
+    "SM_Castle124_Paving": {
+      "sha256_geometry_uv_materials": "590aaed98881068af395f0e7bd5f7e98be096c8b148f3fe9958e51c60ba237cc",
+      "vertices": 960,
+      "polygons": 1760
+    },
+    "SM_Castle130_Slottskyrkan": {
+      "sha256_geometry_uv_materials": "afa17b5a410a5ef215f340f7d793ba84fc4d777e0e14e092ca77ff226e221bb1",
+      "vertices": 286937,
+      "polygons": 539713
+    },
+    "SM_Castle133_Kyrktrappan": {
+      "sha256_geometry_uv_materials": "b94230273d55372b4e382a8c6942e3f5d7ed1540e49c971596949ad4a74c4ca3",
+      "vertices": 1336,
+      "polygons": 2496
+    }
+  }
+}

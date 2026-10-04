@@ -1,0 +1,797 @@
+{
+  "status": "passed",
+  "zones": {
+    "93329947_0": {
+      "osm": "93329947",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 223.5,
+      "walls": 5,
+      "outer_m": 44.2,
+      "street": "Stensövägen"
+    },
+    "93329947_1": {
+      "osm": "93329947",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 74.2,
+      "walls": 3,
+      "outer_m": 24.6,
+      "street": "Stensövägen"
+    },
+    "93329947_2": {
+      "osm": "93329947",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 24.3,
+      "walls": 3,
+      "outer_m": 14.9,
+      "street": "Stensövägen"
+    },
+    "93329960_0": {
+      "osm": "93329960",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 206.7,
+      "walls": 7,
+      "outer_m": 44.8,
+      "street": "Stensövägen"
+    },
+    "93329960_1": {
+      "osm": "93329960",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 61.0,
+      "walls": 4,
+      "outer_m": 22.3,
+      "street": "Stensövägen"
+    },
+    "93329960_2": {
+      "osm": "93329960",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 16.2,
+      "walls": 3,
+      "outer_m": 18.7,
+      "street": "Johan III:s gata"
+    },
+    "93329962_0": {
+      "osm": "93329962",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 195.7,
+      "walls": 4,
+      "outer_m": 56.2,
+      "street": "Stensövägen"
+    },
+    "93329969_0": {
+      "osm": "93329969",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 234.5,
+      "walls": 4,
+      "outer_m": 64.4,
+      "street": "Stensövägen"
+    },
+    "93329999_0": {
+      "osm": "93329999",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 281.7,
+      "walls": 4,
+      "outer_m": 70.9,
+      "street": "Stensövägen"
+    },
+    "93361249_0": {
+      "osm": "93361249",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 280.4,
+      "walls": 4,
+      "outer_m": 76.9,
+      "street": "Stensövägen"
+    },
+    "93460152_0": {
+      "osm": "93460152",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 154.7,
+      "walls": 4,
+      "outer_m": 51.9,
+      "street": "Sturevägen"
+    },
+    "93460155_0": {
+      "osm": "93460155",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 33.0,
+      "walls": 4,
+      "outer_m": 25.5,
+      "street": null
+    },
+    "93460157_0": {
+      "osm": "93460157",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 84.2,
+      "walls": 4,
+      "outer_m": 37.0,
+      "street": "Stensviksvägen"
+    },
+    "93460158_0": {
+      "osm": "93460158",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 237.9,
+      "walls": 4,
+      "outer_m": 64.8,
+      "street": "Stensviksvägen"
+    },
+    "93460160_0": {
+      "osm": "93460160",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 69.9,
+      "walls": 4,
+      "outer_m": 34.0,
+      "street": "Långviksvägen"
+    },
+    "93460161_0": {
+      "osm": "93460161",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 85.7,
+      "walls": 4,
+      "outer_m": 33.5,
+      "street": "Långviksvägen"
+    },
+    "93460161_1": {
+      "osm": "93460161",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 20.0,
+      "walls": 3,
+      "outer_m": 12.7,
+      "street": "Långviksvägen"
+    },
+    "93460162_0": {
+      "osm": "93460162",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 100.9,
+      "walls": 4,
+      "outer_m": 40.3,
+      "street": "Långviksvägen"
+    },
+    "93460163_0": {
+      "osm": "93460163",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 249.5,
+      "walls": 4,
+      "outer_m": 64.8,
+      "street": "Stensviksvägen"
+    },
+    "93460164_0": {
+      "osm": "93460164",
+      "role": "main",
+      "roof": "hip",
+      "area_m2": 162.2,
+      "walls": 4,
+      "outer_m": 51.7,
+      "street": "Stensviksvägen"
+    },
+    "93460165_0": {
+      "osm": "93460165",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 90.0,
+      "walls": 3,
+      "outer_m": 28.4,
+      "street": "Stensviksvägen"
+    },
+    "93460165_1": {
+      "osm": "93460165",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 56.5,
+      "walls": 4,
+      "outer_m": 17.5,
+      "street": "Stensviksvägen"
+    },
+    "93460165_2": {
+      "osm": "93460165",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 55.9,
+      "walls": 3,
+      "outer_m": 11.7,
+      "street": "Stensviksvägen"
+    },
+    "93460165_3": {
+      "osm": "93460165",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 26.4,
+      "walls": 3,
+      "outer_m": 14.5,
+      "street": null
+    },
+    "93460166_0": {
+      "osm": "93460166",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 90.8,
+      "walls": 4,
+      "outer_m": 38.4,
+      "street": "Stensviksvägen"
+    },
+    "93460167_0": {
+      "osm": "93460167",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 21.4,
+      "walls": 4,
+      "outer_m": 19.1,
+      "street": "Långviksvägen"
+    },
+    "93460169_0": {
+      "osm": "93460169",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 106.3,
+      "walls": 4,
+      "outer_m": 42.4,
+      "street": "Långviksvägen"
+    },
+    "93460174_0": {
+      "osm": "93460174",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 37.0,
+      "walls": 4,
+      "outer_m": 24.9,
+      "street": "Sturevägen"
+    },
+    "93460176_0": {
+      "osm": "93460176",
+      "role": "main",
+      "roof": "gambrel",
+      "area_m2": 95.6,
+      "walls": 4,
+      "outer_m": 39.3,
+      "street": "Långviksvägen"
+    },
+    "93460177_0": {
+      "osm": "93460177",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 119.7,
+      "walls": 4,
+      "outer_m": 43.8,
+      "street": "Långviksvägen"
+    },
+    "93460179_0": {
+      "osm": "93460179",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 112.1,
+      "walls": 4,
+      "outer_m": 43.0,
+      "street": "Sturevägen"
+    },
+    "93460180_0": {
+      "osm": "93460180",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 130.8,
+      "walls": 8,
+      "outer_m": 49.8,
+      "street": "Stensviksvägen"
+    },
+    "93460181_0": {
+      "osm": "93460181",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 29.8,
+      "walls": 4,
+      "outer_m": 19.1,
+      "street": "Stensviksvägen"
+    },
+    "93460181_1": {
+      "osm": "93460181",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 12.2,
+      "walls": 3,
+      "outer_m": 10.0,
+      "street": "Stensviksvägen"
+    },
+    "93460183_0": {
+      "osm": "93460183",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 62.2,
+      "walls": 5,
+      "outer_m": 26.5,
+      "street": "Långviksvägen"
+    },
+    "93460183_1": {
+      "osm": "93460183",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 33.4,
+      "walls": 3,
+      "outer_m": 16.3,
+      "street": "Långviksvägen"
+    },
+    "93460184_0": {
+      "osm": "93460184",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 69.9,
+      "walls": 4,
+      "outer_m": 33.4,
+      "street": "Sturevägen"
+    },
+    "93460185_0": {
+      "osm": "93460185",
+      "role": "main",
+      "roof": "hip",
+      "area_m2": 103.7,
+      "walls": 4,
+      "outer_m": 41.5,
+      "street": "Långviksvägen"
+    },
+    "93460189_0": {
+      "osm": "93460189",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 28.5,
+      "walls": 4,
+      "outer_m": 22.6,
+      "street": null
+    },
+    "93460195_0": {
+      "osm": "93460195",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 123.4,
+      "walls": 6,
+      "outer_m": 47.7,
+      "street": "Långviksvägen"
+    },
+    "93460196_0": {
+      "osm": "93460196",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 242.2,
+      "walls": 4,
+      "outer_m": 64.8,
+      "street": "Långviksvägen"
+    },
+    "93460197_0": {
+      "osm": "93460197",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 30.5,
+      "walls": 4,
+      "outer_m": 23.0,
+      "street": "Sturevägen"
+    },
+    "93460199_0": {
+      "osm": "93460199",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 104.0,
+      "walls": 4,
+      "outer_m": 41.7,
+      "street": null
+    },
+    "93460200_0": {
+      "osm": "93460200",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 88.3,
+      "walls": 4,
+      "outer_m": 38.1,
+      "street": "Stensviksvägen"
+    },
+    "93460201_0": {
+      "osm": "93460201",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 32.4,
+      "walls": 4,
+      "outer_m": 23.5,
+      "street": "Långviksvägen"
+    },
+    "93460207_0": {
+      "osm": "93460207",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 41.7,
+      "walls": 4,
+      "outer_m": 27.4,
+      "street": "Långviksvägen"
+    },
+    "93460208_0": {
+      "osm": "93460208",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 25.4,
+      "walls": 4,
+      "outer_m": 22.2,
+      "street": "Stensviksvägen"
+    },
+    "93460211_0": {
+      "osm": "93460211",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 67.4,
+      "walls": 4,
+      "outer_m": 37.1,
+      "street": "Sturevägen"
+    },
+    "93460217_0": {
+      "osm": "93460217",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 68.8,
+      "walls": 12,
+      "outer_m": 29.0,
+      "street": "Långviksvägen"
+    },
+    "93460217_1": {
+      "osm": "93460217",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 43.8,
+      "walls": 5,
+      "outer_m": 26.0,
+      "street": "Långviksvägen"
+    },
+    "93460217_2": {
+      "osm": "93460217",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 12.7,
+      "walls": 12,
+      "outer_m": 11.7,
+      "street": "Långviksvägen"
+    },
+    "93460217_3": {
+      "osm": "93460217",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 3.4,
+      "walls": 4,
+      "outer_m": 6.7,
+      "street": "Långviksvägen"
+    },
+    "93460222_0": {
+      "osm": "93460222",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 203.0,
+      "walls": 4,
+      "outer_m": 58.2,
+      "street": "Stensviksvägen"
+    },
+    "93460224_0": {
+      "osm": "93460224",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 125.2,
+      "walls": 4,
+      "outer_m": 45.0,
+      "street": "Stensviksvägen"
+    },
+    "93460226_0": {
+      "osm": "93460226",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 41.0,
+      "walls": 4,
+      "outer_m": 27.3,
+      "street": "Långviksvägen"
+    },
+    "93460229_0": {
+      "osm": "93460229",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 45.2,
+      "walls": 4,
+      "outer_m": 27.3,
+      "street": "Långviksvägen"
+    },
+    "93460230_0": {
+      "osm": "93460230",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 34.6,
+      "walls": 4,
+      "outer_m": 24.2,
+      "street": "Sturevägen"
+    },
+    "93460232_0": {
+      "osm": "93460232",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 65.6,
+      "walls": 5,
+      "outer_m": 21.3,
+      "street": "Sturevägen"
+    },
+    "93460232_1": {
+      "osm": "93460232",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 36.4,
+      "walls": 3,
+      "outer_m": 17.1,
+      "street": "Sturevägen"
+    },
+    "93460232_2": {
+      "osm": "93460232",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 9.6,
+      "walls": 5,
+      "outer_m": 8.0,
+      "street": "Sturevägen"
+    },
+    "93460233_0": {
+      "osm": "93460233",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 136.7,
+      "walls": 4,
+      "outer_m": 47.7,
+      "street": "Sturevägen"
+    },
+    "93460234_0": {
+      "osm": "93460234",
+      "role": "main",
+      "roof": "hip",
+      "area_m2": 177.2,
+      "walls": 4,
+      "outer_m": 54.8,
+      "street": "Stensviksvägen"
+    },
+    "93460235_0": {
+      "osm": "93460235",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 27.8,
+      "walls": 4,
+      "outer_m": 22.7,
+      "street": null
+    },
+    "93460237_0": {
+      "osm": "93460237",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 105.6,
+      "walls": 4,
+      "outer_m": 41.2,
+      "street": "Stensviksvägen"
+    },
+    "93460238_0": {
+      "osm": "93460238",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 123.7,
+      "walls": 4,
+      "outer_m": 44.8,
+      "street": "Sturevägen"
+    },
+    "93461693_0": {
+      "osm": "93461693",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 39.8,
+      "walls": 6,
+      "outer_m": 20.0,
+      "street": "Sturevägen"
+    },
+    "93461693_1": {
+      "osm": "93461693",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 8.2,
+      "walls": 2,
+      "outer_m": 9.5,
+      "street": null
+    },
+    "93477789_0": {
+      "osm": "93477789",
+      "role": "main",
+      "roof": "flat",
+      "area_m2": 183.4,
+      "walls": 4,
+      "outer_m": 57.6,
+      "street": "Stensviksvägen"
+    },
+    "93477842_0": {
+      "osm": "93477842",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 97.6,
+      "walls": 4,
+      "outer_m": 39.5,
+      "street": "Stensviksvägen"
+    },
+    "93487555_0": {
+      "osm": "93487555",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 34.0,
+      "walls": 5,
+      "outer_m": 23.4,
+      "street": "Stensövägen"
+    },
+    "93487559_0": {
+      "osm": "93487559",
+      "role": "main",
+      "roof": "hip",
+      "area_m2": 121.3,
+      "walls": 4,
+      "outer_m": 44.8,
+      "street": "Stensövägen"
+    },
+    "93487562_0": {
+      "osm": "93487562",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 97.3,
+      "walls": 4,
+      "outer_m": 35.1,
+      "street": "Stensövägen"
+    },
+    "93487562_1": {
+      "osm": "93487562",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 17.5,
+      "walls": 3,
+      "outer_m": 12.4,
+      "street": null
+    },
+    "93505682_0": {
+      "osm": "93505682",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 150.8,
+      "walls": 4,
+      "outer_m": 49.8,
+      "street": "Stensövägen"
+    },
+    "93505722_0": {
+      "osm": "93505722",
+      "role": "main",
+      "roof": "gambrel",
+      "area_m2": 86.1,
+      "walls": 8,
+      "outer_m": 39.6,
+      "street": "Stensövägen"
+    },
+    "93505743_0": {
+      "osm": "93505743",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 138.6,
+      "walls": 4,
+      "outer_m": 47.9,
+      "street": "Stensövägen"
+    },
+    "93505764_0": {
+      "osm": "93505764",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 35.7,
+      "walls": 6,
+      "outer_m": 25.0,
+      "street": "Drottning Margaretas väg"
+    },
+    "93505764_1": {
+      "osm": "93505764",
+      "role": "wing",
+      "roof": "saddle",
+      "area_m2": 32.0,
+      "walls": 3,
+      "outer_m": 16.6,
+      "street": "Drottning Margaretas väg"
+    },
+    "93505764_2": {
+      "osm": "93505764",
+      "role": "annex",
+      "roof": "flat",
+      "area_m2": 8.0,
+      "walls": 2,
+      "outer_m": 8.6,
+      "street": "Stensövägen"
+    },
+    "94560067_0": {
+      "osm": "94560067",
+      "role": "main",
+      "roof": "saddle",
+      "area_m2": 167.2,
+      "walls": 4,
+      "outer_m": 53.1,
+      "street": "Stensövägen"
+    }
+  },
+  "checks": {
+    "buildings": 61,
+    "footprint_m2": 7311.8,
+    "zoned_m2": 7311.7,
+    "outside_osm_m2": 0.02,
+    "osm_not_zoned_m2": 0.11,
+    "overlap_m2": 0.008,
+    "outlines_overlapping_m2": 0.005,
+    "zones_per_building": {
+      "93329947": 3,
+      "93329960": 3,
+      "93329962": 1,
+      "93329969": 1,
+      "93329999": 1,
+      "93361249": 1,
+      "93460152": 1,
+      "93460155": 1,
+      "93460157": 1,
+      "93460158": 1,
+      "93460160": 1,
+      "93460161": 2,
+      "93460162": 1,
+      "93460163": 1,
+      "93460164": 1,
+      "93460165": 4,
+      "93460166": 1,
+      "93460167": 1,
+      "93460169": 1,
+      "93460174": 1,
+      "93460176": 1,
+      "93460177": 1,
+      "93460179": 1,
+      "93460180": 1,
+      "93460181": 2,
+      "93460183": 2,
+      "93460184": 1,
+      "93460185": 1,
+      "93460189": 1,
+      "93460195": 1,
+      "93460196": 1,
+      "93460197": 1,
+      "93460199": 1,
+      "93460200": 1,
+      "93460201": 1,
+      "93460207": 1,
+      "93460208": 1,
+      "93460211": 1,
+      "93460217": 4,
+      "93460222": 1,
+      "93460224": 1,
+      "93460226": 1,
+      "93460229": 1,
+      "93460230": 1,
+      "93460232": 3,
+      "93460233": 1,
+      "93460234": 1,
+      "93460235": 1,
+      "93460237": 1,
+      "93460238": 1,
+      "93461693": 2,
+      "93477789": 1,
+      "93477842": 1,
+      "93487555": 1,
+      "93487559": 1,
+      "93487562": 2,
+      "93505682": 1,
+      "93505722": 1,
+      "93505743": 1,
+      "93505764": 3,
+      "94560067": 1
+    }
+  }
+}

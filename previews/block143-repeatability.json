@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle143_Rutsalen": {
+      "sha256_geometry_uv_materials": "90ab2c2bbbae3238ce66c85bc52509e3fd92f01f2d9407cf94c670ab68ac9199",
+      "vertices": 10584,
+      "polygons": 19404
+    },
+    "SM_Castle143_RutsalenPaneler": {
+      "sha256_geometry_uv_materials": "6572a4b6d7c1cba6b5d69838bab9ee9794d7c5e916f8fff9c157263956651dbf",
+      "vertices": 5176,
+      "polygons": 8832
+    },
+    "SM_Castle143_Drottningsalen": {
+      "sha256_geometry_uv_materials": "cf21ba58de2364f8c19f6e8152944476f2eb0bcdaaa52af7630220bfa6118796",
+      "vertices": 6828,
+      "polygons": 12540
+    },
+    "SM_Castle143_DrottningDekor": {
+      "sha256_geometry_uv_materials": "48f39393fba9a2f09049ef1970e89a02cb6d8fc2b9f8a662e4ff5b8ea92843e0",
+      "vertices": 3392,
+      "polygons": 5716
+    }
+  }
+}

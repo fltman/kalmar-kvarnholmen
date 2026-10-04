@@ -1,0 +1,1415 @@
+{
+  "status": "passed",
+  "floor_samples": 2128,
+  "floor_failures": [],
+  "capsule_segments": 2047,
+  "obstructions": [
+    {
+      "route": "Kaggensgatan (35772548)",
+      "kind": "street",
+      "from": [
+        -187.72822222222223,
+        -202.74844444444446
+      ],
+      "to": [
+        -187.705,
+        -199.043
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18770.91796875,
+        19936.8984375,
+        83.30000305175781
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182819)",
+      "kind": "street",
+      "from": [
+        -187.705,
+        -199.043
+      ],
+      "to": [
+        -187.6395,
+        -195.769
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18770.5,
+        19899.998046875,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182819)",
+      "kind": "street",
+      "from": [
+        -187.6395,
+        -195.769
+      ],
+      "to": [
+        -187.574,
+        -192.495
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.001953125,
+        19329.6484375,
+        136.6814422607422
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182820)",
+      "kind": "street",
+      "from": [
+        -187.574,
+        -192.495
+      ],
+      "to": [
+        -187.6326263173285,
+        -188.52458319885713
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.001953125,
+        19249.5,
+        136.6814422607422
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        60.84433032720568,
+        -162.0394797036176
+      ],
+      "to": [
+        58.88977731765476,
+        -162.53534577488364
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        6004.99755859375,
+        16215.4755859375,
+        106.10416412353516
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        54.980671298552934,
+        -163.52707791741574
+      ],
+      "to": [
+        53.026118289002014,
+        -164.0229439886818
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        5324.99755859375,
+        16387.990234375,
+        132.55892944335938
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        53.026118289002014,
+        -164.0229439886818
+      ],
+      "to": [
+        51.07156527945109,
+        -164.5188100599478
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        5324.99755859375,
+        16402.294921875,
+        132.51123046875
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        51.07156527945109,
+        -164.5188100599478
+      ],
+      "to": [
+        49.11701226990019,
+        -165.01467613121386
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4934.9970703125,
+        16486.931640625,
+        132.51124572753906
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        49.11701226990019,
+        -165.01467613121386
+      ],
+      "to": [
+        47.162459260349266,
+        -165.5105422024799
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4934.99755859375,
+        16501.466796875,
+        132.51123046875
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        43.253353241247424,
+        -166.502274345012
+      ],
+      "to": [
+        41.29880023169651,
+        -166.99814041627806
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4254.99755859375,
+        16659.4453125,
+        132.67657470703125
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        -178.68079163567847,
+        -194.89082696283742
+      ],
+      "to": [
+        -180.76508876642953,
+        -195.1100482342269
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18010.00390625,
+        19500.43359375,
+        136.8519744873047
+      ]
+    },
+    {
+      "route": "path 1051837834",
+      "kind": "path",
+      "from": [
+        -194.9996397929972,
+        -194.63949070492146
+      ],
+      "to": [
+        -198.29372738148192,
+        -194.43949646962085
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -19530.00390625,
+        19463.94921875,
+        136.85198974609375
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -183.18812467957,
+        -195.14974457968114
+      ],
+      "to": [
+        -185.3737967183453,
+        -195.07040415098885
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18395.001953125,
+        19513.443359375,
+        136.81907653808594
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -185.3737967183453,
+        -195.07040415098885
+      ],
+      "to": [
+        -187.5594687571206,
+        -194.9910637222966
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.00390625,
+        19501.46484375,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -187.5594687571206,
+        -194.9910637222966
+      ],
+      "to": [
+        -189.7451407958959,
+        -194.9117232936043
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.00390625,
+        19499.10546875,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -189.7451407958959,
+        -194.9117232936043
+      ],
+      "to": [
+        -191.9308128346712,
+        -194.832382864912
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -19145.001953125,
+        19486.216796875,
+        136.78794860839844
+      ]
+    }
+  ],
+  "routes": {
+    "Östra Sjögatan (4536096)": {
+      "kind": "street",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "Proviantgatan (4536100)": {
+      "kind": "street",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "Tjärhovsgatan (23175714)": {
+      "kind": "street",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "Ölandsgatan (25921356)": {
+      "kind": "street",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 0
+    },
+    "Västra Vallgatan (25921357)": {
+      "kind": "street",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Larmgatan (35771870)": {
+      "kind": "street",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "Västra Vallgatan (35771875)": {
+      "kind": "street",
+      "floor_samples": 13,
+      "floor_failures": 0,
+      "capsule_segments": 12,
+      "obstructions": 0
+    },
+    "Södra Långgatan (35771877)": {
+      "kind": "street",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Skeppsbrogatan (35771885)": {
+      "kind": "street",
+      "floor_samples": 47,
+      "floor_failures": 0,
+      "capsule_segments": 46,
+      "obstructions": 0
+    },
+    "Ölandsgatan (35771889)": {
+      "kind": "street",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "Fiskaregatan (35771894)": {
+      "kind": "street",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "Fiskaregatan (35771896)": {
+      "kind": "street",
+      "floor_samples": 25,
+      "floor_failures": 0,
+      "capsule_segments": 24,
+      "obstructions": 0
+    },
+    "Kaggensgatan (35772548)": {
+      "kind": "street",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 1
+    },
+    "Olof Palmes gata (35773128)": {
+      "kind": "street",
+      "floor_samples": 27,
+      "floor_failures": 0,
+      "capsule_segments": 25,
+      "obstructions": 0
+    },
+    "Stationsgatan (35813669)": {
+      "kind": "street",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "Östra Vallgatan (35813679)": {
+      "kind": "street",
+      "floor_samples": 20,
+      "floor_failures": 0,
+      "capsule_segments": 18,
+      "obstructions": 0
+    },
+    "Fiskaregatan (35813683)": {
+      "kind": "street",
+      "floor_samples": 30,
+      "floor_failures": 0,
+      "capsule_segments": 29,
+      "obstructions": 0
+    },
+    "Larmgatan (38192375)": {
+      "kind": "street",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "Södra Vallgatan (91931336)": {
+      "kind": "street",
+      "floor_samples": 66,
+      "floor_failures": 0,
+      "capsule_segments": 65,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (92412834)": {
+      "kind": "street",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (92412850)": {
+      "kind": "street",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "Kaggensgatan (93182819)": {
+      "kind": "street",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 2
+    },
+    "Kaggensgatan (93182820)": {
+      "kind": "street",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 1
+    },
+    "Järnvägsgatan (93418054)": {
+      "kind": "street",
+      "floor_samples": 70,
+      "floor_failures": 0,
+      "capsule_segments": 69,
+      "obstructions": 0
+    },
+    "Olof Palmes gata (93418061)": {
+      "kind": "street",
+      "floor_samples": 7,
+      "floor_failures": 0,
+      "capsule_segments": 6,
+      "obstructions": 0
+    },
+    "Stationsgatan (138368660)": {
+      "kind": "street",
+      "floor_samples": 36,
+      "floor_failures": 0,
+      "capsule_segments": 33,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (138368667)": {
+      "kind": "street",
+      "floor_samples": 6,
+      "floor_failures": 0,
+      "capsule_segments": 5,
+      "obstructions": 0
+    },
+    "Ölandsgatan (138368668)": {
+      "kind": "street",
+      "floor_samples": 15,
+      "floor_failures": 0,
+      "capsule_segments": 14,
+      "obstructions": 0
+    },
+    "Ölandsgatan (143458560)": {
+      "kind": "street",
+      "floor_samples": 21,
+      "floor_failures": 0,
+      "capsule_segments": 20,
+      "obstructions": 0
+    },
+    "Skeppsbron (149000058)": {
+      "kind": "street",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "Skeppsbron (149000059)": {
+      "kind": "street",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "Larmgatan (175491130)": {
+      "kind": "street",
+      "floor_samples": 28,
+      "floor_failures": 0,
+      "capsule_segments": 26,
+      "obstructions": 0
+    },
+    "Västra Sjögatan (519234678)": {
+      "kind": "street",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "Östra Sjögatan (543050229)": {
+      "kind": "street",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "Ölandskajen (1051928512)": {
+      "kind": "street",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "Södra Kanalgatan (1303560399)": {
+      "kind": "street",
+      "floor_samples": 16,
+      "floor_failures": 0,
+      "capsule_segments": 15,
+      "obstructions": 0
+    },
+    "Stationsgatan (1547963241)": {
+      "kind": "street",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "path 35771867": {
+      "kind": "path",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 0
+    },
+    "path 35772559": {
+      "kind": "path",
+      "floor_samples": 158,
+      "floor_failures": 0,
+      "capsule_segments": 157,
+      "obstructions": 7
+    },
+    "path 35773129": {
+      "kind": "path",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 0
+    },
+    "path 35813671": {
+      "kind": "path",
+      "floor_samples": 67,
+      "floor_failures": 0,
+      "capsule_segments": 66,
+      "obstructions": 0
+    },
+    "path 35813672": {
+      "kind": "path",
+      "floor_samples": 66,
+      "floor_failures": 0,
+      "capsule_segments": 65,
+      "obstructions": 0
+    },
+    "path 35813673": {
+      "kind": "path",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "path 35813674": {
+      "kind": "path",
+      "floor_samples": 32,
+      "floor_failures": 0,
+      "capsule_segments": 31,
+      "obstructions": 0
+    },
+    "path 35813675": {
+      "kind": "path",
+      "floor_samples": 18,
+      "floor_failures": 0,
+      "capsule_segments": 17,
+      "obstructions": 0
+    },
+    "path 35813676": {
+      "kind": "path",
+      "floor_samples": 21,
+      "floor_failures": 0,
+      "capsule_segments": 20,
+      "obstructions": 0
+    },
+    "path 35813978": {
+      "kind": "path",
+      "floor_samples": 113,
+      "floor_failures": 0,
+      "capsule_segments": 112,
+      "obstructions": 0
+    },
+    "path 38523901": {
+      "kind": "path",
+      "floor_samples": 11,
+      "floor_failures": 0,
+      "capsule_segments": 10,
+      "obstructions": 0
+    },
+    "path 38523903": {
+      "kind": "path",
+      "floor_samples": 67,
+      "floor_failures": 0,
+      "capsule_segments": 66,
+      "obstructions": 0
+    },
+    "path 90977153": {
+      "kind": "path",
+      "floor_samples": 27,
+      "floor_failures": 0,
+      "capsule_segments": 26,
+      "obstructions": 0
+    },
+    "path 90977154": {
+      "kind": "path",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 0
+    },
+    "path 91053112": {
+      "kind": "path",
+      "floor_samples": 63,
+      "floor_failures": 0,
+      "capsule_segments": 62,
+      "obstructions": 0
+    },
+    "path 91931335": {
+      "kind": "path",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "path 93199614": {
+      "kind": "path",
+      "floor_samples": 6,
+      "floor_failures": 0,
+      "capsule_segments": 5,
+      "obstructions": 0
+    },
+    "path 93199640": {
+      "kind": "path",
+      "floor_samples": 58,
+      "floor_failures": 0,
+      "capsule_segments": 57,
+      "obstructions": 0
+    },
+    "path 93199652": {
+      "kind": "path",
+      "floor_samples": 49,
+      "floor_failures": 0,
+      "capsule_segments": 48,
+      "obstructions": 0
+    },
+    "path 155005052": {
+      "kind": "path",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "path 155005065": {
+      "kind": "path",
+      "floor_samples": 243,
+      "floor_failures": 0,
+      "capsule_segments": 242,
+      "obstructions": 0
+    },
+    "path 155018094": {
+      "kind": "path",
+      "floor_samples": 12,
+      "floor_failures": 0,
+      "capsule_segments": 11,
+      "obstructions": 0
+    },
+    "path 440762335": {
+      "kind": "path",
+      "floor_samples": 94,
+      "floor_failures": 0,
+      "capsule_segments": 93,
+      "obstructions": 0
+    },
+    "path 564958326": {
+      "kind": "path",
+      "floor_samples": 41,
+      "floor_failures": 0,
+      "capsule_segments": 40,
+      "obstructions": 0
+    },
+    "path 564958327": {
+      "kind": "path",
+      "floor_samples": 53,
+      "floor_failures": 0,
+      "capsule_segments": 52,
+      "obstructions": 0
+    },
+    "path 1051652420": {
+      "kind": "path",
+      "floor_samples": 63,
+      "floor_failures": 0,
+      "capsule_segments": 62,
+      "obstructions": 0
+    },
+    "path 1051652423": {
+      "kind": "path",
+      "floor_samples": 83,
+      "floor_failures": 0,
+      "capsule_segments": 82,
+      "obstructions": 0
+    },
+    "path 1051652425": {
+      "kind": "path",
+      "floor_samples": 13,
+      "floor_failures": 0,
+      "capsule_segments": 12,
+      "obstructions": 0
+    },
+    "path 1051652426": {
+      "kind": "path",
+      "floor_samples": 13,
+      "floor_failures": 0,
+      "capsule_segments": 12,
+      "obstructions": 0
+    },
+    "path 1051652428": {
+      "kind": "path",
+      "floor_samples": 21,
+      "floor_failures": 0,
+      "capsule_segments": 20,
+      "obstructions": 0
+    },
+    "path 1051652429": {
+      "kind": "path",
+      "floor_samples": 9,
+      "floor_failures": 0,
+      "capsule_segments": 8,
+      "obstructions": 0
+    },
+    "path 1051837834": {
+      "kind": "path",
+      "floor_samples": 34,
+      "floor_failures": 0,
+      "capsule_segments": 33,
+      "obstructions": 1
+    },
+    "path 1051837836": {
+      "kind": "path",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 4
+    },
+    "path 1051837838": {
+      "kind": "path",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "path 1051837840": {
+      "kind": "path",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "path 1051837842": {
+      "kind": "path",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "path 1095309767": {
+      "kind": "path",
+      "floor_samples": 64,
+      "floor_failures": 0,
+      "capsule_segments": 63,
+      "obstructions": 0
+    },
+    "path 1095310607": {
+      "kind": "path",
+      "floor_samples": 2,
+      "floor_failures": 0,
+      "capsule_segments": 1,
+      "obstructions": 0
+    },
+    "path 1095310608": {
+      "kind": "path",
+      "floor_samples": 17,
+      "floor_failures": 0,
+      "capsule_segments": 16,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-10-04T12:08:14.364768",
+  "verified_detours": [],
+  "unresolved_obstructions": [
+    {
+      "route": "Kaggensgatan (35772548)",
+      "kind": "street",
+      "from": [
+        -187.72822222222223,
+        -202.74844444444446
+      ],
+      "to": [
+        -187.705,
+        -199.043
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18770.91796875,
+        19936.8984375,
+        83.30000305175781
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182819)",
+      "kind": "street",
+      "from": [
+        -187.705,
+        -199.043
+      ],
+      "to": [
+        -187.6395,
+        -195.769
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18770.5,
+        19899.998046875,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182819)",
+      "kind": "street",
+      "from": [
+        -187.6395,
+        -195.769
+      ],
+      "to": [
+        -187.574,
+        -192.495
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.001953125,
+        19329.6484375,
+        136.6814422607422
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182820)",
+      "kind": "street",
+      "from": [
+        -187.574,
+        -192.495
+      ],
+      "to": [
+        -187.6326263173285,
+        -188.52458319885713
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.001953125,
+        19249.5,
+        136.6814422607422
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        60.84433032720568,
+        -162.0394797036176
+      ],
+      "to": [
+        58.88977731765476,
+        -162.53534577488364
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        6004.99755859375,
+        16215.4755859375,
+        106.10416412353516
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        54.980671298552934,
+        -163.52707791741574
+      ],
+      "to": [
+        53.026118289002014,
+        -164.0229439886818
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        5324.99755859375,
+        16387.990234375,
+        132.55892944335938
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        53.026118289002014,
+        -164.0229439886818
+      ],
+      "to": [
+        51.07156527945109,
+        -164.5188100599478
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        5324.99755859375,
+        16402.294921875,
+        132.51123046875
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        51.07156527945109,
+        -164.5188100599478
+      ],
+      "to": [
+        49.11701226990019,
+        -165.01467613121386
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4934.9970703125,
+        16486.931640625,
+        132.51124572753906
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        49.11701226990019,
+        -165.01467613121386
+      ],
+      "to": [
+        47.162459260349266,
+        -165.5105422024799
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4934.99755859375,
+        16501.466796875,
+        132.51123046875
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        43.253353241247424,
+        -166.502274345012
+      ],
+      "to": [
+        41.29880023169651,
+        -166.99814041627806
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4254.99755859375,
+        16659.4453125,
+        132.67657470703125
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        -178.68079163567847,
+        -194.89082696283742
+      ],
+      "to": [
+        -180.76508876642953,
+        -195.1100482342269
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18010.00390625,
+        19500.43359375,
+        136.8519744873047
+      ]
+    },
+    {
+      "route": "path 1051837834",
+      "kind": "path",
+      "from": [
+        -194.9996397929972,
+        -194.63949070492146
+      ],
+      "to": [
+        -198.29372738148192,
+        -194.43949646962085
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -19530.00390625,
+        19463.94921875,
+        136.85198974609375
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -183.18812467957,
+        -195.14974457968114
+      ],
+      "to": [
+        -185.3737967183453,
+        -195.07040415098885
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18395.001953125,
+        19513.443359375,
+        136.81907653808594
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -185.3737967183453,
+        -195.07040415098885
+      ],
+      "to": [
+        -187.5594687571206,
+        -194.9910637222966
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.00390625,
+        19501.46484375,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -187.5594687571206,
+        -194.9910637222966
+      ],
+      "to": [
+        -189.7451407958959,
+        -194.9117232936043
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.00390625,
+        19499.10546875,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -189.7451407958959,
+        -194.9117232936043
+      ],
+      "to": [
+        -191.9308128346712,
+        -194.832382864912
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -19145.001953125,
+        19486.216796875,
+        136.78794860839844
+      ]
+    }
+  ],
+  "house_obstructions": [],
+  "houses_on_streets": [],
+  "preexisting_obstructions": [
+    {
+      "route": "Kaggensgatan (35772548)",
+      "kind": "street",
+      "from": [
+        -187.72822222222223,
+        -202.74844444444446
+      ],
+      "to": [
+        -187.705,
+        -199.043
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18770.91796875,
+        19936.8984375,
+        83.30000305175781
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182819)",
+      "kind": "street",
+      "from": [
+        -187.705,
+        -199.043
+      ],
+      "to": [
+        -187.6395,
+        -195.769
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18770.5,
+        19899.998046875,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182819)",
+      "kind": "street",
+      "from": [
+        -187.6395,
+        -195.769
+      ],
+      "to": [
+        -187.574,
+        -192.495
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.001953125,
+        19329.6484375,
+        136.6814422607422
+      ]
+    },
+    {
+      "route": "Kaggensgatan (93182820)",
+      "kind": "street",
+      "from": [
+        -187.574,
+        -192.495
+      ],
+      "to": [
+        -187.6326263173285,
+        -188.52458319885713
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.001953125,
+        19249.5,
+        136.6814422607422
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        60.84433032720568,
+        -162.0394797036176
+      ],
+      "to": [
+        58.88977731765476,
+        -162.53534577488364
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        6004.99755859375,
+        16215.4755859375,
+        106.10416412353516
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        54.980671298552934,
+        -163.52707791741574
+      ],
+      "to": [
+        53.026118289002014,
+        -164.0229439886818
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        5324.99755859375,
+        16387.990234375,
+        132.55892944335938
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        53.026118289002014,
+        -164.0229439886818
+      ],
+      "to": [
+        51.07156527945109,
+        -164.5188100599478
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        5324.99755859375,
+        16402.294921875,
+        132.51123046875
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        51.07156527945109,
+        -164.5188100599478
+      ],
+      "to": [
+        49.11701226990019,
+        -165.01467613121386
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4934.9970703125,
+        16486.931640625,
+        132.51124572753906
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        49.11701226990019,
+        -165.01467613121386
+      ],
+      "to": [
+        47.162459260349266,
+        -165.5105422024799
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4934.99755859375,
+        16501.466796875,
+        132.51123046875
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        43.253353241247424,
+        -166.502274345012
+      ],
+      "to": [
+        41.29880023169651,
+        -166.99814041627806
+      ],
+      "actor": "Kvarnholmen_Port_Kavaljersporten",
+      "impact_cm": [
+        4254.99755859375,
+        16659.4453125,
+        132.67657470703125
+      ]
+    },
+    {
+      "route": "path 35772559",
+      "kind": "path",
+      "from": [
+        -178.68079163567847,
+        -194.89082696283742
+      ],
+      "to": [
+        -180.76508876642953,
+        -195.1100482342269
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18010.00390625,
+        19500.43359375,
+        136.8519744873047
+      ]
+    },
+    {
+      "route": "path 1051837834",
+      "kind": "path",
+      "from": [
+        -194.9996397929972,
+        -194.63949070492146
+      ],
+      "to": [
+        -198.29372738148192,
+        -194.43949646962085
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -19530.00390625,
+        19463.94921875,
+        136.85198974609375
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -183.18812467957,
+        -195.14974457968114
+      ],
+      "to": [
+        -185.3737967183453,
+        -195.07040415098885
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18395.001953125,
+        19513.443359375,
+        136.81907653808594
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -185.3737967183453,
+        -195.07040415098885
+      ],
+      "to": [
+        -187.5594687571206,
+        -194.9910637222966
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.00390625,
+        19501.46484375,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -187.5594687571206,
+        -194.9910637222966
+      ],
+      "to": [
+        -189.7451407958959,
+        -194.9117232936043
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -18725.00390625,
+        19499.10546875,
+        136.68145751953125
+      ]
+    },
+    {
+      "route": "path 1051837836",
+      "kind": "path",
+      "from": [
+        -189.7451407958959,
+        -194.9117232936043
+      ],
+      "to": [
+        -191.9308128346712,
+        -194.832382864912
+      ],
+      "actor": "Kvarnholmen_Port_Jordbroporten",
+      "impact_cm": [
+        -19145.001953125,
+        19486.216796875,
+        136.78794860839844
+      ]
+    }
+  ],
+  "pass_obstructions": []
+}

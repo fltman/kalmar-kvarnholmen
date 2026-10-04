@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "Number 20 is read from the pass 70 panorama facing it (camera 2.3 m, base row at 0 on the district outline); its joints lie at y 37.53 and 49.53. Two panoramas on Norra Långgatan were resected: the western one on the corner house's west corner and its base row (its height is ambiguous along the corner ray, and 2.3 m puts it on its reported position), the eastern one on the range's east end and the corner, which then predicts the joint between range and corner house within 3 px and puts its base row at 0. The range's floor heights read from the two cameras differ by about 0.35 m (the street slopes); their mean is used. Roofs are estimates: number 20's mansard, the corner house's hipped roof and a low dark roof behind the range's dormers.",
+  "views": {
+    "374_Block75_Cal_Twenty": [
+      {
+        "feature": "joints",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "door",
+        "deviation_px": 6
+      },
+      {
+        "feature": "band",
+        "deviation_px": 8
+      },
+      {
+        "feature": "plinth",
+        "deviation_px": 8
+      }
+    ],
+    "375_Block75_Cal_Corner": [
+      {
+        "feature": "joint",
+        "deviation_px": 8
+      },
+      {
+        "feature": "range windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "small windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "corner house windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 14
+      }
+    ],
+    "376_Block75_Cal_Range": [
+      {
+        "feature": "east end",
+        "deviation_px": 8
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 12
+      },
+      {
+        "feature": "dormers",
+        "deviation_px": 16
+      }
+    ]
+  },
+  "features": 13,
+  "median_px": 8.0,
+  "max_px": 16,
+  "within_8_px": 10
+}

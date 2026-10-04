@@ -1,0 +1,59 @@
+{
+  "status": "passed",
+  "zones": {
+    "stone": {
+      "area_m2": 357.4,
+      "vertices": 9,
+      "walls": {
+        "outer": 6,
+        "upper": 3
+      }
+    },
+    "stone_top": {
+      "area_m2": 174.7,
+      "vertices": 4,
+      "walls": {
+        "outer": 2,
+        "setback": 2
+      }
+    },
+    "pavilion": {
+      "area_m2": 121.6,
+      "vertices": 4,
+      "walls": {
+        "outer": 2,
+        "party": 2
+      }
+    },
+    "white": {
+      "area_m2": 1298.9,
+      "vertices": 7,
+      "walls": {
+        "outer": 3,
+        "party": 2,
+        "party_old": 1,
+        "upper": 1
+      }
+    }
+  },
+  "checks": {
+    "footprint_m2": 1777.9,
+    "osm_modern_m2": 1584.0,
+    "north_extension_m2": 194.0,
+    "zoned_m2": 1778.0,
+    "overlap_m2": 0.0,
+    "overlap_old_m2": 0.0,
+    "stone_top_outside_stone_m2": 0.0,
+    "white_inner_valid": true,
+    "roof_min_tri_altitude_m": {
+      "stone": 1.042,
+      "stone_top": 6.2,
+      "pavilion": 5.545,
+      "white": 0.897
+    },
+    "north_west_corner": [
+      -270.502,
+      285.57
+    ]
+  }
+}

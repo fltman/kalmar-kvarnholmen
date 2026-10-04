@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "zones": {
+    "ol": {
+      "area_m2": 44.6,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 18.9
+    },
+    "wh": {
+      "area_m2": 126.2,
+      "polygons": 1,
+      "walls": 9,
+      "outer_m": 33.2
+    },
+    "wa": {
+      "area_m2": 14.0,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 2.4
+    },
+    "yb": {
+      "area_m2": 5.3,
+      "polygons": 1,
+      "walls": 2,
+      "outer_m": 5.9
+    },
+    "rd": {
+      "area_m2": 58.9,
+      "polygons": 1,
+      "walls": 3,
+      "outer_m": 22.0
+    },
+    "ck": {
+      "area_m2": 43.1,
+      "polygons": 1,
+      "walls": 4,
+      "outer_m": 29.5
+    }
+  },
+  "checks": {
+    "footprint_m2": 292.1,
+    "zoned_m2": 292.1,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 0.0,
+    "overlap_m2": 0.0,
+    "released_m2": 22.6
+  }
+}

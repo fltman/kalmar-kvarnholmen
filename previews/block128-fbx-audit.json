@@ -1,0 +1,22 @@
+{
+  "SM_Kalmar_Slott": {
+    "Normals": {
+      "vectors": 199263,
+      "min_length": 0.9999998552295354,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 955044,
+      "min_length": 0.9999998413764815,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 955044,
+      "min_length": 0.999999734235862,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

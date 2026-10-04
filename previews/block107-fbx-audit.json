@@ -1,0 +1,142 @@
+{
+  "SM_Slott98_Cemeteries": {
+    "Normals": {
+      "vectors": 18359,
+      "min_length": 0.9999998596229774,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 756015,
+      "min_length": 0.9999998433826003,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 756015,
+      "min_length": 0.9999997461036474,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott98_Trees": {
+    "Normals": {
+      "vectors": 364059,
+      "min_length": 0.9999998604035407,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 2071080,
+      "min_length": 0.9999998306358784,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 2071080,
+      "min_length": 0.999999740539068,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott98_Buildings_M": {
+    "Normals": {
+      "vectors": 2,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_GamlaKyrkogarden107": {
+    "Normals": {
+      "vectors": 29770,
+      "min_length": 0.9999998608222532,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 142020,
+      "min_length": 0.9999998449412006,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 142020,
+      "min_length": 0.9999997385616727,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_GamlaKyrkogarden107_Trees": {
+    "Normals": {
+      "vectors": 8352,
+      "min_length": 0.9999998911025022,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 47208,
+      "min_length": 0.999999849977296,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 47208,
+      "min_length": 0.9999997650610566,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Stagnellska107": {
+    "Normals": {
+      "vectors": 2200,
+      "min_length": 0.9999998850203339,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 7764,
+      "min_length": 0.999999864494683,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 7764,
+      "min_length": 0.9999997961440551,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Bykyrkan1610": {
+    "Normals": {
+      "vectors": 6353,
+      "min_length": 0.9999998680132041,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 20301,
+      "min_length": 0.9999998572392318,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 20301,
+      "min_length": 0.9999997615815277,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

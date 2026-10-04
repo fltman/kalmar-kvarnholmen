@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Prison85_Anstalten": {
+      "sha256_geometry_uv_materials": "1297dc34e187bfac4c925b00a3e392be5bdba78cf942174117ef37a7578cbe84",
+      "vertices": 102835,
+      "polygons": 186183
+    }
+  }
+}

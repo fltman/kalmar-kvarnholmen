@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "One panorama about 7.5 m from the front, resected on the house's east corner (heading 152) and its joint with the pass 77 block (heading 202); the two headings agree on all window axes within 0.2 m and the base row lies at 0 with a camera 2.3 m high. The dormer was brought forward after the first comparison hid it behind the cornice. The roof and the yard side are estimates.",
+  "views": {
+    "387_Block78_Cal_Front": [
+      {
+        "feature": "east corner",
+        "deviation_px": 6
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 6
+      },
+      {
+        "feature": "gate",
+        "deviation_px": 8
+      },
+      {
+        "feature": "band",
+        "deviation_px": 6
+      },
+      {
+        "feature": "cornice",
+        "deviation_px": 8
+      },
+      {
+        "feature": "dormer",
+        "deviation_px": 14
+      }
+    ],
+    "388_Block78_Cal_West": [
+      {
+        "feature": "joint",
+        "deviation_px": 6
+      },
+      {
+        "feature": "windows",
+        "deviation_px": 10
+      },
+      {
+        "feature": "gate",
+        "deviation_px": 8
+      }
+    ]
+  },
+  "features": 9,
+  "median_px": 8.0,
+  "max_px": 14,
+  "within_8_px": 7
+}

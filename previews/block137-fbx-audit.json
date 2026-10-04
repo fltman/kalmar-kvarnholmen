@@ -1,0 +1,122 @@
+{
+  "SM_Kalmar_Slott": {
+    "Normals": {
+      "vectors": 199263,
+      "min_length": 0.9999998552295354,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 955044,
+      "min_length": 0.9999998413764815,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 955044,
+      "min_length": 0.999999734235862,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Portals": {
+    "Normals": {
+      "vectors": 15668,
+      "min_length": 0.9999998730392233,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 58296,
+      "min_length": 0.9999998427173425,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 58296,
+      "min_length": 0.9999997324631436,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle124_Paving": {
+    "Normals": {
+      "vectors": 1600,
+      "min_length": 0.9999998774276135,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 5280,
+      "min_length": 0.9999998745291238,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 5280,
+      "min_length": 0.9999998125930729,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle135_Kungskoket": {
+    "Normals": {
+      "vectors": 7872,
+      "min_length": 0.9999998693210678,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 34440,
+      "min_length": 0.9999998609464639,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 34440,
+      "min_length": 0.999999747374144,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle135_KungskoketInventarier": {
+    "Normals": {
+      "vectors": 2031,
+      "min_length": 0.999999877547054,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 10464,
+      "min_length": 0.9999998642329853,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 10464,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Castle131_GronaSalen": {
+    "Normals": {
+      "vectors": 15490,
+      "min_length": 0.9999998609947262,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 79230,
+      "min_length": 0.9999998379779237,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 79230,
+      "min_length": 0.9999997406039262,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "SM_Prison85_Ground": {
+    "Normals": {
+      "vectors": 188,
+      "min_length": 0.99999986715611,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 693,
+      "min_length": 0.9999998825885881,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 693,
+      "min_length": 0.9999998211860657,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Prison85_Anstalten": {
+    "Normals": {
+      "vectors": 68267,
+      "min_length": 0.999999857854541,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 558549,
+      "min_length": 0.9999998401184316,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 558549,
+      "min_length": 0.999999742750867,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Prison85_Walls": {
+    "Normals": {
+      "vectors": 4294,
+      "min_length": 0.9999998925799234,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 26880,
+      "min_length": 0.9999998432916518,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 26880,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Prison85_Rotunda": {
+    "Normals": {
+      "vectors": 2591,
+      "min_length": 0.9999998718599085,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 8925,
+      "min_length": 0.9999998682531012,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 8925,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

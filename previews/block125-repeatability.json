@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle125_GyllenSalen": {
+      "sha256_geometry_uv_materials": "6201b9b8c484419997dbfae80d6a3c4d6c2f57e410aa176557c58b35c28dc5ac",
+      "vertices": 60610,
+      "polygons": 111263
+    },
+    "SM_Castle125_Forrum": {
+      "sha256_geometry_uv_materials": "127cad4feb3fbea471a0a3d25596a2abde8e592ea5e9ec72a45c51387901768d",
+      "vertices": 624,
+      "polygons": 1144
+    },
+    "SM_Castle125_Kungsmaket": {
+      "sha256_geometry_uv_materials": "375c6807d299abaf0e5b2c06ed90e0023989afad0c58a5bc8aa3bdffe92ef0b3",
+      "vertices": 23790,
+      "polygons": 43801
+    },
+    "SM_Kalmar_Slott_Towers": {
+      "sha256_geometry_uv_materials": "e0048200358deb5a7d00f13433ac9caaec5ddda08c60fcb9b2b02dd92cd1c12b",
+      "vertices": 63415,
+      "polygons": 119664
+    }
+  }
+}

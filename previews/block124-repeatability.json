@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle27_Walls": {
+      "sha256_geometry_uv_materials": "e54bbc1f1fd2ef375fa41df7f9902d7d86b4316f1b33a3abec7714a7e13f1020",
+      "vertices": 20408,
+      "polygons": 37045
+    },
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "23196ae8156d7d1b184c4d31fcbd29c8878dfb5d539c84d0494f2487dfe7b597",
+      "vertices": 181070,
+      "polygons": 289964
+    },
+    "SM_Kalmar_Slott_Towers": {
+      "sha256_geometry_uv_materials": "9c367a398d08e6178b5a2fe821d9d2de5a4a9b1aec3317df2cdd45c0f9e4b19a",
+      "vertices": 63379,
+      "polygons": 119600
+    },
+    "SM_Castle124_Approach": {
+      "sha256_geometry_uv_materials": "d999ca49579ccfc1bfaa29db7875bc3492b9323ffef4ae4499a8af24ab77453a",
+      "vertices": 31995,
+      "polygons": 17725
+    },
+    "SM_Slott98_Trees": {
+      "sha256_geometry_uv_materials": "37b5b39ebde9acf564c577b673da1f17b8611ff559358234b36d26543212fde2",
+      "vertices": 355940,
+      "polygons": 690360
+    },
+    "SM_Castle27_Bridge": {
+      "sha256_geometry_uv_materials": "d915b4b79513e74ef534e09f727487b26915305a8933a0d3fcd5ef47576063a9",
+      "vertices": 11136,
+      "polygons": 20028
+    },
+    "SM_Castle124_Passage": {
+      "sha256_geometry_uv_materials": "c338a16bfdf5fd203560fc35d1a31a984f5692f066b3dc3a7173164491f52b18",
+      "vertices": 11112,
+      "polygons": 20376
+    },
+    "SM_Castle124_Portals": {
+      "sha256_geometry_uv_materials": "f881f9e611a257e404de12d7dae2470944f7708eb947b6dbf46ed5e48f5c2846",
+      "vertices": 5994,
+      "polygons": 11348
+    },
+    "SM_Castle124_Well": {
+      "sha256_geometry_uv_materials": "33ab51afe6905640f202dd9a8d2bb26d28fab4164812822c459b1a244b30208d",
+      "vertices": 9256,
+      "polygons": 17292
+    },
+    "SM_Castle124_Paving": {
+      "sha256_geometry_uv_materials": "2a47b56d6be40a2dc6c6531f757205f583b130a3040db4d3eb73d8e4abc859fd",
+      "vertices": 960,
+      "polygons": 1760
+    }
+  }
+}

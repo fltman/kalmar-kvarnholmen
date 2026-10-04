@@ -1,0 +1,133 @@
+{
+ "pieces": {
+  "SW_in": {
+   "range": "SW",
+   "side": "in",
+   "visible_m2": 156.54,
+   "slope_m2": 239.48
+  },
+  "SW_out": {
+   "range": "SW",
+   "side": "out",
+   "visible_m2": 165.74,
+   "slope_m2": 226.59
+  },
+  "SE_w_in": {
+   "range": "SE_w",
+   "side": "in",
+   "visible_m2": 187.61,
+   "slope_m2": 266.91
+  },
+  "SE_w_out": {
+   "range": "SE_w",
+   "side": "out",
+   "visible_m2": 138.35,
+   "slope_m2": 210.02
+  },
+  "SE_e_in": {
+   "range": "SE_e",
+   "side": "in",
+   "visible_m2": 250.33,
+   "slope_m2": 355.33
+  },
+  "SE_e_out": {
+   "range": "SE_e",
+   "side": "out",
+   "visible_m2": 323.78,
+   "slope_m2": 329.31
+  },
+  "NE_in": {
+   "range": "NE",
+   "side": "in",
+   "visible_m2": 529.82,
+   "slope_m2": 721.63
+  },
+  "NE_out": {
+   "range": "NE",
+   "side": "out",
+   "visible_m2": 479.2,
+   "slope_m2": 561.01
+  },
+  "NW_in": {
+   "range": "NW",
+   "side": "in",
+   "visible_m2": 463.76,
+   "slope_m2": 705.12
+  },
+  "NW_out": {
+   "range": "NW",
+   "side": "out",
+   "visible_m2": 320.23,
+   "slope_m2": 548.89
+  }
+ },
+ "checks": {
+  "overlap_m2": 2e-05,
+  "gap_m2": 0.0,
+  "visible_m2": 3015.36,
+  "plan_m2": 3494.11,
+  "cut_m2": 478.76,
+  "shared_edges": 36,
+  "steps": 14,
+  "step_max": 3.309,
+  "gables": 0,
+  "gable_len": 0,
+  "tower_edges": 331,
+  "eave_segments": 23,
+  "filler_max": 0.424,
+  "seams": 681,
+  "ridges": 7
+ },
+ "ranges": {
+  "SW": {
+   "sli": 1.50699,
+   "slo": 0.93,
+   "zr": 24.7963,
+   "cr": -4.504,
+   "pass27_ridge": 24.796,
+   "pitch_in": 56.4,
+   "pitch_out": 42.9,
+   "ridge_from_outer": 0.5
+  },
+  "SE_w": {
+   "sli": 1.02291,
+   "slo": 0.80879,
+   "zr": 25.47,
+   "cr": -5.5844,
+   "pass27_ridge": 26.27,
+   "pitch_in": 45.6,
+   "pitch_out": 39.0,
+   "ridge_from_outer": 0.433
+  },
+  "SE_e": {
+   "sli": 0.98841,
+   "slo": 0.6514,
+   "zr": 25.47,
+   "cr": -5.9199,
+   "pass27_ridge": 26.27,
+   "pitch_in": 44.7,
+   "pitch_out": 33.1,
+   "ridge_from_outer": 0.433
+  },
+  "NE": {
+   "sli": 0.67057,
+   "slo": 0.55256,
+   "zr": 25.47,
+   "cr": -6.4237,
+   "pass27_ridge": 26.27,
+   "pitch_in": 33.8,
+   "pitch_out": 28.9,
+   "ridge_from_outer": 0.433
+  },
+  "NW": {
+   "sli": 0.83063,
+   "slo": 0.6673,
+   "zr": 25.47,
+   "cr": -7.7926,
+   "pass27_ridge": 26.27,
+   "pitch_in": 39.7,
+   "pitch_out": 33.7,
+   "ridge_from_outer": 0.433
+  }
+ }
+}

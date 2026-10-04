@@ -1,0 +1,502 @@
+{
+  "SM_Slott98_Buildings_E": {
+    "Normals": {
+      "vectors": 2,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott98_Buildings_M": {
+    "Normals": {
+      "vectors": 2,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott98_Buildings_W": {
+    "Normals": {
+      "vectors": 2,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 12,
+      "min_length": 1.0,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93238199": {
+    "Normals": {
+      "vectors": 9849,
+      "min_length": 0.9999998689511894,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 61548,
+      "min_length": 0.999999842314071,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 61548,
+      "min_length": 0.9999997318368244,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93238223": {
+    "Normals": {
+      "vectors": 20056,
+      "min_length": 0.9999998640600222,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 133164,
+      "min_length": 0.999999836643515,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 133164,
+      "min_length": 0.9999997265176406,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93238233": {
+    "Normals": {
+      "vectors": 6034,
+      "min_length": 0.9999998716250673,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 37506,
+      "min_length": 0.9999998603817832,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 37506,
+      "min_length": 0.999999759469063,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93238263": {
+    "Normals": {
+      "vectors": 7990,
+      "min_length": 0.9999998689511894,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 45804,
+      "min_length": 0.9999998363168231,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 45804,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93238280": {
+    "Normals": {
+      "vectors": 10243,
+      "min_length": 0.9999998604357297,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 65736,
+      "min_length": 0.999999852599295,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 65736,
+      "min_length": 0.9999997519166233,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93291981": {
+    "Normals": {
+      "vectors": 12206,
+      "min_length": 0.9999998709639387,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 85026,
+      "min_length": 0.9999998441128678,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 85026,
+      "min_length": 0.999999753940034,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93292001": {
+    "Normals": {
+      "vectors": 20531,
+      "min_length": 0.9999998453717134,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 118152,
+      "min_length": 0.9999998455980349,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 118152,
+      "min_length": 0.9999997372433175,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93292003": {
+    "Normals": {
+      "vectors": 7595,
+      "min_length": 0.9999998626665624,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 39348,
+      "min_length": 0.9999998497359821,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 39348,
+      "min_length": 0.9999997486987088,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93292007": {
+    "Normals": {
+      "vectors": 17696,
+      "min_length": 0.9999998607650628,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 130020,
+      "min_length": 0.9999998424033741,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 130020,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93309086": {
+    "Normals": {
+      "vectors": 15020,
+      "min_length": 0.9999998746140527,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 96285,
+      "min_length": 0.9999998450052713,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 96285,
+      "min_length": 0.9999997587309691,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93309102": {
+    "Normals": {
+      "vectors": 5120,
+      "min_length": 0.9999998697089407,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 33666,
+      "min_length": 0.9999998555599634,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 33666,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93325640": {
+    "Normals": {
+      "vectors": 45513,
+      "min_length": 0.9999998503466503,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 347484,
+      "min_length": 0.9999998367008376,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 347484,
+      "min_length": 0.9999997430849746,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93325641": {
+    "Normals": {
+      "vectors": 84804,
+      "min_length": 0.9999998452859655,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 580896,
+      "min_length": 0.9999998394274906,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 580896,
+      "min_length": 0.9999997256596714,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93325643": {
+    "Normals": {
+      "vectors": 14688,
+      "min_length": 0.9999998503466503,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 109524,
+      "min_length": 0.9999998471219511,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 109524,
+      "min_length": 0.9999997305221051,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93325644": {
+    "Normals": {
+      "vectors": 78238,
+      "min_length": 0.9999998503466503,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 538377,
+      "min_length": 0.9999998413231498,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 538377,
+      "min_length": 0.9999997256596714,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93329943": {
+    "Normals": {
+      "vectors": 9973,
+      "min_length": 0.9999998591843821,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 73536,
+      "min_length": 0.9999998523307139,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 73536,
+      "min_length": 0.999999751160123,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93329979": {
+    "Normals": {
+      "vectors": 8183,
+      "min_length": 0.9999998561457608,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 47916,
+      "min_length": 0.9999998487145821,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 47916,
+      "min_length": 0.9999997482243066,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93333624": {
+    "Normals": {
+      "vectors": 21178,
+      "min_length": 0.9999998503466503,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 154353,
+      "min_length": 0.999999841927549,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 154353,
+      "min_length": 0.9999997292699494,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93333632": {
+    "Normals": {
+      "vectors": 11514,
+      "min_length": 0.9999998539285926,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 85668,
+      "min_length": 0.9999998416277531,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 85668,
+      "min_length": 0.9999997346877997,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93333650": {
+    "Normals": {
+      "vectors": 10973,
+      "min_length": 0.9999998503466503,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 63048,
+      "min_length": 0.9999998444825241,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 63048,
+      "min_length": 0.9999997479850744,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93453479": {
+    "Normals": {
+      "vectors": 34610,
+      "min_length": 0.9999998503466503,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 292776,
+      "min_length": 0.9999998471967856,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 292776,
+      "min_length": 0.9999997073190782,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Slott119_93453484": {
+    "Normals": {
+      "vectors": 8094,
+      "min_length": 0.9999998702865676,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 52938,
+      "min_length": 0.9999998500209667,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 52938,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

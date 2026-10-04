@@ -3,7 +3,7 @@ from pathlib import Path
 import argparse,hashlib,json,zipfile
 R=Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser();p.add_argument('--version',default='v0.1.0');p.add_argument('--output',type=Path,required=True);args=p.parse_args();args.output.mkdir(parents=True,exist_ok=True)
-groups={'blender-source':[R/'source/Stortorget.blend'],'unreal-assets':sorted((R/'Unreal/Content').rglob('*.uasset'))+sorted((R/'Unreal/Content').rglob('*.umap')),'fbx-meshes':sorted((R/'exports/meshes').glob('*.fbx')),'textures':sorted(p for p in (R/'exports/textures').iterdir() if p.is_file()),'texture-sources':sorted(p for d in (R/'references').glob('polyhaven*') if d.is_dir() for p in d.rglob('*') if p.suffix in ['.png','.jpg','.exr'])}
+groups={'blender-source':[R/'source/Stortorget.blend'],'unreal-assets':[p for p in sorted((R/'Unreal/Content').rglob('*.uasset'))+sorted((R/'Unreal/Content').rglob('*.umap')) if not p.is_relative_to(R/'Unreal/Content/Kalmar/Meshes')],'unreal-meshes':sorted((R/'Unreal/Content/Kalmar/Meshes').rglob('*.uasset')),'fbx-meshes':sorted((R/'exports/meshes').glob('*.fbx')),'textures':sorted(p for p in (R/'exports/textures').iterdir() if p.is_file()),'texture-sources':sorted(p for d in (R/'references').glob('polyhaven*') if d.is_dir() for p in d.rglob('*') if p.suffix in ['.png','.jpg','.exr'])}
 licenses=[R/'LICENSE',R/'THIRD_PARTY.md']+sorted((R/'LICENSES').glob('*.txt'))
 def sha(path):
  h=hashlib.sha256()

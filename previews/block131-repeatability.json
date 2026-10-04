@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle131_GronaSalen": {
+      "sha256_geometry_uv_materials": "bf154d9c0ca8e301d2f789b12bff6b38ea33af2afafc206d7fb25c3cae5d5140",
+      "vertices": 14230,
+      "polygons": 26418
+    },
+    "SM_Castle131_GronaInventarier": {
+      "sha256_geometry_uv_materials": "84271703525f65799a0e219dfd7592c82df225390e64212e3b0405bac69ebfaa",
+      "vertices": 1648,
+      "polygons": 2812
+    },
+    "SM_Castle131_ForbrandaSalen": {
+      "sha256_geometry_uv_materials": "00522b794bc75b29bdf41befe8de61b299e01e3e103ae44b6343fcc6adb45d54",
+      "vertices": 18448,
+      "polygons": 33856
+    }
+  }
+}

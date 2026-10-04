@@ -1,0 +1,4555 @@
+{
+ "status": "passed",
+ "meshes": {
+  "SM_Kvarnholmen_House_93192447": {
+   "vertices": 31893,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192416": {
+   "vertices": 9102,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192390": {
+   "vertices": 29992,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192433": {
+   "vertices": 18923,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859897": {
+   "vertices": 8686,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859890": {
+   "vertices": 33396,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859875": {
+   "vertices": 8911,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859864": {
+   "vertices": 13655,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859880": {
+   "vertices": 15913,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915626": {
+   "vertices": 88064,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915628": {
+   "vertices": 48255,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915620": {
+   "vertices": 97083,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915631": {
+   "vertices": 59798,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915622": {
+   "vertices": 136912,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915624": {
+   "vertices": 521558,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915619": {
+   "vertices": 97151,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Prison85_Ground": {
+   "vertices": 562,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Prison85_Anstalten": {
+   "vertices": 487278,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Prison85_Walls": {
+   "vertices": 11127,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Prison85_Rotunda": {
+   "vertices": 8550,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928565": {
+   "vertices": 54991,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928576": {
+   "vertices": 32809,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928540": {
+   "vertices": 47828,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928545": {
+   "vertices": 37114,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928582": {
+   "vertices": 66715,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928581": {
+   "vertices": 70658,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928560": {
+   "vertices": 111656,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928553": {
+   "vertices": 76882,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928566": {
+   "vertices": 71152,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379283": {
+   "vertices": 44187,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379259": {
+   "vertices": 98284,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91856598": {
+   "vertices": 55944,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91856586": {
+   "vertices": 65494,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91856600": {
+   "vertices": 38664,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928538": {
+   "vertices": 42578,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928591": {
+   "vertices": 71564,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928561": {
+   "vertices": 111059,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928583": {
+   "vertices": 26240,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928590": {
+   "vertices": 5411,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192351": {
+   "vertices": 32782,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192354": {
+   "vertices": 86903,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192423": {
+   "vertices": 71694,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192353": {
+   "vertices": 18113,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192374": {
+   "vertices": 92194,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192424": {
+   "vertices": 26641,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192442": {
+   "vertices": 18591,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192397": {
+   "vertices": 17071,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928597": {
+   "vertices": 56236,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928575": {
+   "vertices": 76362,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192387": {
+   "vertices": 64068,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192432": {
+   "vertices": 21092,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192395": {
+   "vertices": 79226,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192444": {
+   "vertices": 44846,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192382": {
+   "vertices": 57903,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199599": {
+   "vertices": 77813,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238178": {
+   "vertices": 67122,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238200": {
+   "vertices": 44029,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238168": {
+   "vertices": 56791,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238182": {
+   "vertices": 81250,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238147": {
+   "vertices": 69694,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91885523": {
+   "vertices": 59532,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926303": {
+   "vertices": 72479,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926337": {
+   "vertices": 26058,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926333": {
+   "vertices": 31291,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926308": {
+   "vertices": 12773,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926299": {
+   "vertices": 1985,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926297": {
+   "vertices": 68854,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926357": {
+   "vertices": 77362,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859877": {
+   "vertices": 28046,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859878": {
+   "vertices": 27543,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859832": {
+   "vertices": 49476,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859848": {
+   "vertices": 167635,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859847": {
+   "vertices": 169605,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91970395": {
+   "vertices": 162913,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91970343": {
+   "vertices": 44586,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91885535": {
+   "vertices": 114338,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91885540": {
+   "vertices": 224585,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91926309": {
+   "vertices": 202337,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926329": {
+   "vertices": 114079,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Ground": {
+   "vertices": 1863,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Streets": {
+   "vertices": 5503,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Greens": {
+   "vertices": 1352,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Cemeteries": {
+   "vertices": 716052,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Trees": {
+   "vertices": 825782,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Buildings_E": {
+   "vertices": 8,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Buildings_M": {
+   "vertices": 8,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott98_Buildings_W": {
+   "vertices": 8,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859885": {
+   "vertices": 58642,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859837": {
+   "vertices": 32956,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859849": {
+   "vertices": 32279,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859898": {
+   "vertices": 58809,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238210": {
+   "vertices": 33138,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238172": {
+   "vertices": 43589,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238187": {
+   "vertices": 72210,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238156": {
+   "vertices": 180852,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238202": {
+   "vertices": 13075,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238179": {
+   "vertices": 50243,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238159": {
+   "vertices": 8524,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238211": {
+   "vertices": 8085,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238209": {
+   "vertices": 10069,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238165": {
+   "vertices": 202762,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238196": {
+   "vertices": 40739,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238164": {
+   "vertices": 47408,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238222": {
+   "vertices": 62986,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199630": {
+   "vertices": 79816,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199675": {
+   "vertices": 70130,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199606": {
+   "vertices": 93674,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204193": {
+   "vertices": 336704,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379265": {
+   "vertices": 156007,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204176": {
+   "vertices": 112719,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_550598948": {
+   "vertices": 611725,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204196": {
+   "vertices": 207413,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204205": {
+   "vertices": 102835,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204158": {
+   "vertices": 99729,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204154": {
+   "vertices": 86899,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204191": {
+   "vertices": 42263,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379281": {
+   "vertices": 199014,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91285791": {
+   "vertices": 608959,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928568": {
+   "vertices": 123098,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928594": {
+   "vertices": 35587,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199647": {
+   "vertices": 13227,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199649": {
+   "vertices": 231574,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928552": {
+   "vertices": 118790,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928587": {
+   "vertices": 37885,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199672": {
+   "vertices": 165457,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199626": {
+   "vertices": 195388,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_GamlaKyrkogarden107": {
+   "vertices": 129750,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_GamlaKyrkogarden107_Trees": {
+   "vertices": 16348,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Stagnellska107": {
+   "vertices": 6824,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Bykyrkan1610": {
+   "vertices": 19387,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204167": {
+   "vertices": 46389,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_92379295": {
+   "vertices": 98530,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379291": {
+   "vertices": 186815,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204171": {
+   "vertices": 135257,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379305": {
+   "vertices": 233877,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204179": {
+   "vertices": 10028,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204177": {
+   "vertices": 153969,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204174": {
+   "vertices": 125875,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_886305409": {
+   "vertices": 209762,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91846958": {
+   "vertices": 102298,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91846925": {
+   "vertices": 68853,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846945": {
+   "vertices": 249843,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91265011": {
+   "vertices": 134868,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91970373": {
+   "vertices": 51710,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91970296": {
+   "vertices": 85388,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_92379278": {
+   "vertices": 30683,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_92379304": {
+   "vertices": 40989,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_92379276": {
+   "vertices": 77606,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92412841": {
+   "vertices": 53675,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204180": {
+   "vertices": 107034,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91264997": {
+   "vertices": 447110,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91970385": {
+   "vertices": 56085,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_91926352": {
+   "vertices": 306165,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926324": {
+   "vertices": 20464,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926325": {
+   "vertices": 24996,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846953": {
+   "vertices": 168914,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846937": {
+   "vertices": 15249,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91931337": {
+   "vertices": 14512,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_149000060": {
+   "vertices": 38190,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91072716": {
+   "vertices": 81456,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90977144": {
+   "vertices": 69851,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91915629": {
+   "vertices": 48843,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846927": {
+   "vertices": 70486,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_1049819215": {
+   "vertices": 10581,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_149000062": {
+   "vertices": 19720,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859836": {
+   "vertices": 35522,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859884": {
+   "vertices": 35403,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859852": {
+   "vertices": 35482,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238185": {
+   "vertices": 34459,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192417": {
+   "vertices": 6916,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92204195": {
+   "vertices": 35535,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_1549543685": {
+   "vertices": 14888,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91931339": {
+   "vertices": 270152,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91222116": {
+   "vertices": 59352,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91222187": {
+   "vertices": 27057,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_874870421": {
+   "vertices": 50005,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_93332243": {
+   "vertices": 192371,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_93332252": {
+   "vertices": 33340,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_93306354": {
+   "vertices": 49538,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_387312778": {
+   "vertices": 16876,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_387312779": {
+   "vertices": 58514,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91970278": {
+   "vertices": 158311,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91970355": {
+   "vertices": 55488,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91970390": {
+   "vertices": 106995,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_91970274": {
+   "vertices": 64479,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott115_564958332": {
+   "vertices": 5879,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306337": {
+   "vertices": 32630,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306339": {
+   "vertices": 73408,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306341": {
+   "vertices": 55968,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306345": {
+   "vertices": 132581,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306347": {
+   "vertices": 100664,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306350": {
+   "vertices": 74918,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306353": {
+   "vertices": 37361,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306358": {
+   "vertices": 90496,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306359": {
+   "vertices": 111543,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93306360": {
+   "vertices": 92224,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93309084": {
+   "vertices": 112055,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93309091": {
+   "vertices": 37657,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93309092": {
+   "vertices": 62508,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332235": {
+   "vertices": 43999,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332236": {
+   "vertices": 31052,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332237": {
+   "vertices": 114167,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332238": {
+   "vertices": 46524,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332239": {
+   "vertices": 42337,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332240": {
+   "vertices": 64470,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332241": {
+   "vertices": 25376,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332244": {
+   "vertices": 78281,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332245": {
+   "vertices": 89534,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332246": {
+   "vertices": 66407,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332247": {
+   "vertices": 58282,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332250": {
+   "vertices": 114000,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332251": {
+   "vertices": 27763,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332253": {
+   "vertices": 139145,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93332254": {
+   "vertices": 72715,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333618": {
+   "vertices": 103754,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333625": {
+   "vertices": 112814,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333634": {
+   "vertices": 76513,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333644": {
+   "vertices": 72180,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333651": {
+   "vertices": 68814,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333661": {
+   "vertices": 128686,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_93333666": {
+   "vertices": 44350,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_387312777": {
+   "vertices": 62413,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott116_1433973300": {
+   "vertices": 26102,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292657": {
+   "vertices": 61504,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292658": {
+   "vertices": 41490,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292659": {
+   "vertices": 37400,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292660": {
+   "vertices": 94446,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292661": {
+   "vertices": 55006,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292662": {
+   "vertices": 15988,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292663": {
+   "vertices": 66776,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292664": {
+   "vertices": 48097,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292665": {
+   "vertices": 81460,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292668": {
+   "vertices": 43549,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292669": {
+   "vertices": 38434,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292670": {
+   "vertices": 24496,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292671": {
+   "vertices": 37665,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292674": {
+   "vertices": 92972,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292675": {
+   "vertices": 20329,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292676": {
+   "vertices": 32835,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292678": {
+   "vertices": 58704,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292681": {
+   "vertices": 17075,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292684": {
+   "vertices": 51419,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292686": {
+   "vertices": 29385,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292687": {
+   "vertices": 42581,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292691": {
+   "vertices": 42735,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292692": {
+   "vertices": 10830,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292693": {
+   "vertices": 127447,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292694": {
+   "vertices": 66698,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292695": {
+   "vertices": 14876,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292697": {
+   "vertices": 29222,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292698": {
+   "vertices": 29857,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292699": {
+   "vertices": 70119,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292700": {
+   "vertices": 64273,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292703": {
+   "vertices": 47706,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292704": {
+   "vertices": 85143,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292705": {
+   "vertices": 60057,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292707": {
+   "vertices": 76521,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93292708": {
+   "vertices": 32130,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93306344": {
+   "vertices": 41505,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93306348": {
+   "vertices": 50715,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93306357": {
+   "vertices": 80094,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_93309098": {
+   "vertices": 27001,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott117_149905962": {
+   "vertices": 25985,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238230": {
+   "vertices": 58960,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238237": {
+   "vertices": 68229,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238238": {
+   "vertices": 41577,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238258": {
+   "vertices": 78528,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238265": {
+   "vertices": 21223,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238271": {
+   "vertices": 57135,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238276": {
+   "vertices": 67453,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93238289": {
+   "vertices": 55246,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291960": {
+   "vertices": 43907,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291974": {
+   "vertices": 215160,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291980": {
+   "vertices": 30315,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291986": {
+   "vertices": 22664,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291987": {
+   "vertices": 40705,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291990": {
+   "vertices": 27134,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291994": {
+   "vertices": 34813,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93291997": {
+   "vertices": 24102,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93292667": {
+   "vertices": 120988,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93292672": {
+   "vertices": 44368,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93292679": {
+   "vertices": 97513,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93292701": {
+   "vertices": 44209,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293011": {
+   "vertices": 27622,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293013": {
+   "vertices": 35677,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293015": {
+   "vertices": 26202,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293018": {
+   "vertices": 138161,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293019": {
+   "vertices": 57504,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293020": {
+   "vertices": 30885,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293021": {
+   "vertices": 60459,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293023": {
+   "vertices": 123807,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293026": {
+   "vertices": 111720,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293027": {
+   "vertices": 39699,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293029": {
+   "vertices": 81673,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293034": {
+   "vertices": 110174,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293035": {
+   "vertices": 61631,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293038": {
+   "vertices": 77380,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293040": {
+   "vertices": 59799,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93293042": {
+   "vertices": 35836,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93326709": {
+   "vertices": 214480,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93326721": {
+   "vertices": 104664,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93326735": {
+   "vertices": 98713,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott118_93326746": {
+   "vertices": 368984,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93238199": {
+   "vertices": 58182,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93238223": {
+   "vertices": 126446,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93238233": {
+   "vertices": 34795,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93238263": {
+   "vertices": 43193,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93238280": {
+   "vertices": 62225,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93291981": {
+   "vertices": 80929,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93292001": {
+   "vertices": 108056,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93292003": {
+   "vertices": 36459,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93292007": {
+   "vertices": 124027,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93309086": {
+   "vertices": 71942,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93309102": {
+   "vertices": 30936,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93325640": {
+   "vertices": 328227,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93325641": {
+   "vertices": 432630,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93325643": {
+   "vertices": 100075,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93325644": {
+   "vertices": 396728,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93329943": {
+   "vertices": 67685,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93329979": {
+   "vertices": 45270,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93333624": {
+   "vertices": 142174,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93333632": {
+   "vertices": 78659,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93333650": {
+   "vertices": 59016,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93453479": {
+   "vertices": 275742,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott119_93453484": {
+   "vertices": 47509,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846968": {
+   "vertices": 402362,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90965018": {
+   "vertices": 133872,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90977165": {
+   "vertices": 27490,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90977169": {
+   "vertices": 23454,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90965000": {
+   "vertices": 29709,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379301": {
+   "vertices": 19394,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379273": {
+   "vertices": 45633,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379300": {
+   "vertices": 14811,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92379268": {
+   "vertices": 40285,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92412871": {
+   "vertices": 27183,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92412839": {
+   "vertices": 27612,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_92412854": {
+   "vertices": 30939,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Building_93238216": {
+   "vertices": 38642,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846989": {
+   "vertices": 78732,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846939": {
+   "vertices": 62215,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846948": {
+   "vertices": 61675,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91846923": {
+   "vertices": 82288,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91926312": {
+   "vertices": 28040,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192396": {
+   "vertices": 38842,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192383": {
+   "vertices": 13733,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192368": {
+   "vertices": 29224,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192379": {
+   "vertices": 25692,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192407": {
+   "vertices": 70537,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192355": {
+   "vertices": 41636,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192451": {
+   "vertices": 41411,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192363": {
+   "vertices": 42107,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192371": {
+   "vertices": 41998,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93192450": {
+   "vertices": 32997,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859854": {
+   "vertices": 42668,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_90859839": {
+   "vertices": 48535,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928592": {
+   "vertices": 29114,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928555": {
+   "vertices": 43021,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928547": {
+   "vertices": 49473,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928595": {
+   "vertices": 26338,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_91928593": {
+   "vertices": 45765,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238177": {
+   "vertices": 35840,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238180": {
+   "vertices": 33001,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238174": {
+   "vertices": 28709,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238167": {
+   "vertices": 12166,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238219": {
+   "vertices": 53402,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93238152": {
+   "vertices": 74212,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199612": {
+   "vertices": 56637,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kvarnholmen_House_93199604": {
+   "vertices": 65596,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle27_Walls": {
+   "vertices": 108159,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kalmar_Slott": {
+   "vertices": 850869,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Kalmar_Slott_Towers": {
+   "vertices": 459123,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle124_Approach": {
+   "vertices": 51142,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle27_Bridge": {
+   "vertices": 45615,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle124_Passage": {
+   "vertices": 59770,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle124_Portals": {
+   "vertices": 55165,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle124_Well": {
+   "vertices": 43668,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle124_Paving": {
+   "vertices": 4870,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle125_GyllenSalen": {
+   "vertices": 308971,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle125_Forrum": {
+   "vertices": 3282,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle125_Kungsmaket": {
+   "vertices": 119812,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle27_Ground": {
+   "vertices": 2033,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle126_Kungstrappan": {
+   "vertices": 8340,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle130_Slottskyrkan": {
+   "vertices": 1298000,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle130_Inventarier": {
+   "vertices": 35859,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle131_GronaSalen": {
+   "vertices": 70938,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle131_GronaInventarier": {
+   "vertices": 7633,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle131_ForbrandaSalen": {
+   "vertices": 99029,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle133_Kyrktrappan": {
+   "vertices": 6476,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93238232": {
+   "vertices": 71857,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93238235": {
+   "vertices": 57972,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93238253": {
+   "vertices": 57249,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291958": {
+   "vertices": 76139,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291964": {
+   "vertices": 29756,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291971": {
+   "vertices": 57766,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291976": {
+   "vertices": 81868,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291992": {
+   "vertices": 76917,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291995": {
+   "vertices": 68436,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93291998": {
+   "vertices": 70036,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93292004": {
+   "vertices": 249218,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93309094": {
+   "vertices": 76409,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93309104": {
+   "vertices": 25070,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93325620": {
+   "vertices": 149408,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93326727": {
+   "vertices": 422488,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93326736": {
+   "vertices": 115746,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93326743": {
+   "vertices": 83024,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93329939": {
+   "vertices": 145793,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93329946": {
+   "vertices": 30909,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93329966": {
+   "vertices": 123099,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361153": {
+   "vertices": 164453,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361164": {
+   "vertices": 155648,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361178": {
+   "vertices": 133739,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361208": {
+   "vertices": 128366,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361212": {
+   "vertices": 193908,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361215": {
+   "vertices": 74041,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93361229": {
+   "vertices": 59056,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460154": {
+   "vertices": 197121,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460168": {
+   "vertices": 58175,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460186": {
+   "vertices": 71594,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460191": {
+   "vertices": 79768,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460202": {
+   "vertices": 15160,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460205": {
+   "vertices": 102051,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460212": {
+   "vertices": 63629,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460228": {
+   "vertices": 33984,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93460239": {
+   "vertices": 77354,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93477810": {
+   "vertices": 61429,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93477827": {
+   "vertices": 76827,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_93477834": {
+   "vertices": 51194,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_94560085": {
+   "vertices": 55909,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_94560092": {
+   "vertices": 194457,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_94560096": {
+   "vertices": 120353,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott134_149134885": {
+   "vertices": 80428,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle135_Kungskoket": {
+   "vertices": 31095,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle135_KungskoketInventarier": {
+   "vertices": 6098,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329935": {
+   "vertices": 105379,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329936": {
+   "vertices": 121194,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329941": {
+   "vertices": 61448,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329942": {
+   "vertices": 112627,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329949": {
+   "vertices": 29922,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329954": {
+   "vertices": 18165,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329955": {
+   "vertices": 35515,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329959": {
+   "vertices": 25248,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329963": {
+   "vertices": 61056,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329968": {
+   "vertices": 34798,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329973": {
+   "vertices": 131918,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329984": {
+   "vertices": 187521,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329985": {
+   "vertices": 14870,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329986": {
+   "vertices": 27258,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329994": {
+   "vertices": 89197,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329996": {
+   "vertices": 43122,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93329997": {
+   "vertices": 102575,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358507": {
+   "vertices": 68325,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358510": {
+   "vertices": 98060,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358511": {
+   "vertices": 34625,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358513": {
+   "vertices": 68565,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358514": {
+   "vertices": 93350,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358515": {
+   "vertices": 125203,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358516": {
+   "vertices": 108669,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358517": {
+   "vertices": 32176,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358519": {
+   "vertices": 79258,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358521": {
+   "vertices": 91909,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358522": {
+   "vertices": 97211,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358523": {
+   "vertices": 73124,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358524": {
+   "vertices": 101642,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358528": {
+   "vertices": 104425,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358531": {
+   "vertices": 81620,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358534": {
+   "vertices": 91574,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358535": {
+   "vertices": 83715,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358536": {
+   "vertices": 133875,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358540": {
+   "vertices": 33215,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93358549": {
+   "vertices": 35200,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361162": {
+   "vertices": 90380,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361172": {
+   "vertices": 71340,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361177": {
+   "vertices": 78541,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361185": {
+   "vertices": 71580,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361214": {
+   "vertices": 73398,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361235": {
+   "vertices": 90822,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361242": {
+   "vertices": 76618,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93361247": {
+   "vertices": 69591,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93460178": {
+   "vertices": 62704,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93460193": {
+   "vertices": 13367,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93460219": {
+   "vertices": 79742,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93460227": {
+   "vertices": 82207,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93460240": {
+   "vertices": 103757,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93505718": {
+   "vertices": 38357,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_93566374": {
+   "vertices": 59949,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott136_149905963": {
+   "vertices": 28687,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93329947": {
+   "vertices": 103775,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93329960": {
+   "vertices": 106877,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93329962": {
+   "vertices": 72250,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93329969": {
+   "vertices": 82565,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93329999": {
+   "vertices": 84004,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93361249": {
+   "vertices": 100775,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460152": {
+   "vertices": 32176,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460155": {
+   "vertices": 34973,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460157": {
+   "vertices": 29994,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460158": {
+   "vertices": 87190,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460160": {
+   "vertices": 19248,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460161": {
+   "vertices": 77943,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460162": {
+   "vertices": 32777,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460163": {
+   "vertices": 146286,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460164": {
+   "vertices": 63179,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460165": {
+   "vertices": 92674,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460166": {
+   "vertices": 32707,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460167": {
+   "vertices": 27029,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460169": {
+   "vertices": 32371,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460174": {
+   "vertices": 31265,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460176": {
+   "vertices": 71056,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460177": {
+   "vertices": 74587,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460179": {
+   "vertices": 66083,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460180": {
+   "vertices": 40044,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460181": {
+   "vertices": 40040,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460183": {
+   "vertices": 65274,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460184": {
+   "vertices": 24278,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460185": {
+   "vertices": 47792,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460189": {
+   "vertices": 29718,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460195": {
+   "vertices": 34175,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460196": {
+   "vertices": 86187,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460197": {
+   "vertices": 29398,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460199": {
+   "vertices": 31459,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460200": {
+   "vertices": 67790,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460201": {
+   "vertices": 30354,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460207": {
+   "vertices": 37129,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460208": {
+   "vertices": 14201,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460211": {
+   "vertices": 48662,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460217": {
+   "vertices": 57674,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460222": {
+   "vertices": 68515,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460224": {
+   "vertices": 72848,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460226": {
+   "vertices": 37180,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460229": {
+   "vertices": 38088,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460230": {
+   "vertices": 30828,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460232": {
+   "vertices": 84962,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460233": {
+   "vertices": 36843,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460234": {
+   "vertices": 98106,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460235": {
+   "vertices": 28713,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460237": {
+   "vertices": 30074,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93460238": {
+   "vertices": 69520,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93461693": {
+   "vertices": 12046,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93477789": {
+   "vertices": 72724,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93477842": {
+   "vertices": 49378,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93487555": {
+   "vertices": 12489,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93487559": {
+   "vertices": 25857,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93487562": {
+   "vertices": 36858,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93505682": {
+   "vertices": 34233,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93505722": {
+   "vertices": 28613,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93505743": {
+   "vertices": 77754,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_93505764": {
+   "vertices": 37328,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott138_94560067": {
+   "vertices": 77623,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_91222178": {
+   "vertices": 353038,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_91222193": {
+   "vertices": 217372,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_91933162": {
+   "vertices": 81332,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_91933165": {
+   "vertices": 80218,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93252919": {
+   "vertices": 180967,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93291993": {
+   "vertices": 216503,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93309088": {
+   "vertices": 68238,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93309089": {
+   "vertices": 11653,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93309101": {
+   "vertices": 36961,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93325628": {
+   "vertices": 453845,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93325650": {
+   "vertices": 439388,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93326740": {
+   "vertices": 457902,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93326744": {
+   "vertices": 185475,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93333631": {
+   "vertices": 88599,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93333637": {
+   "vertices": 76966,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93333642": {
+   "vertices": 93326,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93333646": {
+   "vertices": 239813,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93333649": {
+   "vertices": 30107,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott139_93333654": {
+   "vertices": 82049,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93252863": {
+   "vertices": 96142,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93291989": {
+   "vertices": 136467,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93326725": {
+   "vertices": 163014,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93329952": {
+   "vertices": 145392,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93358537": {
+   "vertices": 89228,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487556": {
+   "vertices": 105449,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487569": {
+   "vertices": 33490,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487572": {
+   "vertices": 65775,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487574": {
+   "vertices": 19291,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487582": {
+   "vertices": 101759,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487584": {
+   "vertices": 66195,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487589": {
+   "vertices": 43848,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93487591": {
+   "vertices": 68287,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93505686": {
+   "vertices": 33285,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93505704": {
+   "vertices": 63571,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93505709": {
+   "vertices": 40004,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93505730": {
+   "vertices": 76455,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93505770": {
+   "vertices": 78831,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93566356": {
+   "vertices": 105376,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93566367": {
+   "vertices": 126424,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott140_93566385": {
+   "vertices": 163772,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_1453534570": {
+   "vertices": 51185,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_874145313": {
+   "vertices": 18014,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_874145314": {
+   "vertices": 29153,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_91970346": {
+   "vertices": 303470,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238186": {
+   "vertices": 16256,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238220": {
+   "vertices": 37603,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238221": {
+   "vertices": 82991,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238239": {
+   "vertices": 29660,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238283": {
+   "vertices": 48333,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238284": {
+   "vertices": 56796,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93238290": {
+   "vertices": 50944,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93291962": {
+   "vertices": 28777,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93291967": {
+   "vertices": 21444,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93292008": {
+   "vertices": 26013,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93292689": {
+   "vertices": 93147,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93292702": {
+   "vertices": 25930,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93292706": {
+   "vertices": 25310,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93293012": {
+   "vertices": 28121,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93293025": {
+   "vertices": 28101,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93293041": {
+   "vertices": 27134,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93306352": {
+   "vertices": 76770,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93306356": {
+   "vertices": 23701,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93325645": {
+   "vertices": 81790,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93325656": {
+   "vertices": 48972,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93326718": {
+   "vertices": 37393,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329937": {
+   "vertices": 29640,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329938": {
+   "vertices": 22022,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329953": {
+   "vertices": 60413,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329957": {
+   "vertices": 36775,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329965": {
+   "vertices": 25732,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329980": {
+   "vertices": 14788,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93329987": {
+   "vertices": 35977,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93330000": {
+   "vertices": 35365,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93330001": {
+   "vertices": 14773,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93333623": {
+   "vertices": 36318,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93333627": {
+   "vertices": 69974,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93333638": {
+   "vertices": 180099,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93333658": {
+   "vertices": 50862,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93333660": {
+   "vertices": 52261,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93358502": {
+   "vertices": 30699,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93358543": {
+   "vertices": 44998,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93358547": {
+   "vertices": 26974,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93361181": {
+   "vertices": 43425,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93453481": {
+   "vertices": 81094,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93453490": {
+   "vertices": 113461,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93453516": {
+   "vertices": 45898,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460156": {
+   "vertices": 33554,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460172": {
+   "vertices": 44331,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460175": {
+   "vertices": 34370,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460187": {
+   "vertices": 52867,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460194": {
+   "vertices": 19723,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460203": {
+   "vertices": 25622,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460204": {
+   "vertices": 57780,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460209": {
+   "vertices": 33042,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93460214": {
+   "vertices": 39482,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93487550": {
+   "vertices": 27913,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93487564": {
+   "vertices": 41019,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93505688": {
+   "vertices": 27590,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Slott142_93505695": {
+   "vertices": 58600,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle143_Rutsalen": {
+   "vertices": 54749,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle143_RutsalenPaneler": {
+   "vertices": 16274,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle143_Drottningsalen": {
+   "vertices": 35480,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  },
+  "SM_Castle143_DrottningDekor": {
+   "vertices": 16383,
+   "zero_tangents": 0,
+   "zero_normals": 0,
+   "nonfinite_vectors": 0,
+   "nonunit_vectors": 0
+  }
+ }
+}

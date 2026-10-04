@@ -1,0 +1,522 @@
+{
+  "SM_Kvarnholmen_House_91926312": {
+    "Normals": {
+      "vectors": 6307,
+      "min_length": 0.999999858697328,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 31020,
+      "min_length": 0.9999998496916199,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 31020,
+      "min_length": 0.9999997267991985,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192396": {
+    "Normals": {
+      "vectors": 8343,
+      "min_length": 0.9999998685663632,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 44880,
+      "min_length": 0.9999998438534287,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 44880,
+      "min_length": 0.9999997421287677,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192383": {
+    "Normals": {
+      "vectors": 3240,
+      "min_length": 0.9999998778567445,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 15984,
+      "min_length": 0.9999998519474795,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 15984,
+      "min_length": 0.9999997561635624,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192368": {
+    "Normals": {
+      "vectors": 6699,
+      "min_length": 0.9999998535086402,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 33792,
+      "min_length": 0.9999998548727687,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 33792,
+      "min_length": 0.9999997401833257,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192379": {
+    "Normals": {
+      "vectors": 6015,
+      "min_length": 0.999999868607644,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 29700,
+      "min_length": 0.999999864273546,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 29700,
+      "min_length": 0.9999997580805479,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192407": {
+    "Normals": {
+      "vectors": 14063,
+      "min_length": 0.9999998671768312,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 82380,
+      "min_length": 0.9999998470578926,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 82380,
+      "min_length": 0.9999997394860002,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192355": {
+    "Normals": {
+      "vectors": 8283,
+      "min_length": 0.9999998320895457,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 47256,
+      "min_length": 0.9999998413376178,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 47256,
+      "min_length": 0.9999997392043486,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192451": {
+    "Normals": {
+      "vectors": 7486,
+      "min_length": 0.9999998320895457,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 46596,
+      "min_length": 0.999999848864273,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 46596,
+      "min_length": 0.9999997519625178,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192363": {
+    "Normals": {
+      "vectors": 8968,
+      "min_length": 0.9999998320895457,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 47388,
+      "min_length": 0.9999998439813279,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 47388,
+      "min_length": 0.9999997266337796,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192371": {
+    "Normals": {
+      "vectors": 7385,
+      "min_length": 0.9999998510691888,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 47652,
+      "min_length": 0.9999998378209302,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 47652,
+      "min_length": 0.9999997510526388,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93192450": {
+    "Normals": {
+      "vectors": 7987,
+      "min_length": 0.9999998600483258,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 37500,
+      "min_length": 0.9999998507246216,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 37500,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859854": {
+    "Normals": {
+      "vectors": 7927,
+      "min_length": 0.9999998650290856,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 47652,
+      "min_length": 0.9999998420324722,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 47652,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_90859839": {
+    "Normals": {
+      "vectors": 9256,
+      "min_length": 0.999999870914555,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 55968,
+      "min_length": 0.9999998551611169,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 55968,
+      "min_length": 0.9999997588429035,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91928592": {
+    "Normals": {
+      "vectors": 6071,
+      "min_length": 0.9999998698126338,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 32736,
+      "min_length": 0.9999998266618235,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 32736,
+      "min_length": 0.9999997601332012,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91928555": {
+    "Normals": {
+      "vectors": 9862,
+      "min_length": 0.9999998542670507,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 49584,
+      "min_length": 0.9999998622093197,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 49584,
+      "min_length": 0.9999997278876508,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91928547": {
+    "Normals": {
+      "vectors": 10018,
+      "min_length": 0.9999998615361992,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 56976,
+      "min_length": 0.9999998514073034,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 56976,
+      "min_length": 0.9999997484711953,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91928595": {
+    "Normals": {
+      "vectors": 6038,
+      "min_length": 0.9999998627463053,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 30768,
+      "min_length": 0.9999998494079795,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 30768,
+      "min_length": 0.9999997589916668,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_91928593": {
+    "Normals": {
+      "vectors": 10630,
+      "min_length": 0.9999998610864448,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 53196,
+      "min_length": 0.9999998438151569,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 53196,
+      "min_length": 0.9999997365817664,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93238177": {
+    "Normals": {
+      "vectors": 9100,
+      "min_length": 0.9999998611531861,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 41202,
+      "min_length": 0.9999998399945993,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 41202,
+      "min_length": 0.9999997599455024,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93238180": {
+    "Normals": {
+      "vectors": 6302,
+      "min_length": 0.9999998716351068,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 36864,
+      "min_length": 0.9999998578330352,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 36864,
+      "min_length": 0.999999718563557,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93238174": {
+    "Normals": {
+      "vectors": 7770,
+      "min_length": 0.9999998590769142,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 33180,
+      "min_length": 0.9999998331336045,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 33180,
+      "min_length": 0.9999997407271431,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93238167": {
+    "Normals": {
+      "vectors": 2902,
+      "min_length": 0.9999998777002613,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 13992,
+      "min_length": 0.9999998465325639,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 13992,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93238219": {
+    "Normals": {
+      "vectors": 13164,
+      "min_length": 0.9999998545997767,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 59928,
+      "min_length": 0.9999998429941677,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 59928,
+      "min_length": 0.9999997560675249,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93238152": {
+    "Normals": {
+      "vectors": 18672,
+      "min_length": 0.9999998574919696,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 84120,
+      "min_length": 0.9999998381626856,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 84120,
+      "min_length": 0.9999997372811681,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93199612": {
+    "Normals": {
+      "vectors": 11178,
+      "min_length": 0.99999986612912,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 64632,
+      "min_length": 0.9999998504556673,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 64632,
+      "min_length": 0.9999997293241686,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  },
+  "SM_Kvarnholmen_House_93199604": {
+    "Normals": {
+      "vectors": 12909,
+      "min_length": 0.999999873174509,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Tangents": {
+      "vectors": 80214,
+      "min_length": 0.9999998586786458,
+      "near_zero": 0,
+      "nonfinite": 0
+    },
+    "Binormals": {
+      "vectors": 80214,
+      "min_length": 0.9999997615814209,
+      "near_zero": 0,
+      "nonfinite": 0
+    }
+  }
+}

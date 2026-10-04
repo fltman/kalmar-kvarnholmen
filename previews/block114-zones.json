@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "zones": {
+    "d886": {
+      "area_m2": 243.5,
+      "polygons": 1,
+      "walls": 66,
+      "outer_m": 55.3
+    }
+  },
+  "checks": {
+    "footprint_m2": 239.6,
+    "zoned_m2": 243.5,
+    "outside_osm_m2": 3.92,
+    "osm_not_zoned_m2": 0.01,
+    "overlap_m2": 0.0,
+    "osm_vertex_radius_residual_m": [
+      -0.005,
+      0.004
+    ]
+  }
+}

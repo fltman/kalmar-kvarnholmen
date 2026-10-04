@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "Compared with five April 2025 panoramas (Skeppsbrogatan x2, Södra Vallgatan x2, Östra Vallgatan) by rendering the model from their positions (GPS positions, camera 2.3 m; the Södra Vallgatan camera moved 5.8 m onto the road where GPS put it inside a house). The outer wall measured 3.9-4.1 m against 4.25 m modelled; the hedge about 1.3 m; the limes about 3.1 m above the rampart top. Calibration here is whole-view and coarse: tree and lawn placement in the parks is an estimate except for the 27 mapped trees and the lime row.",
+  "views": {
+    "390_Block79_Cal_Skeppsbrovallen": [
+      {
+        "feature": "wall top",
+        "deviation_px": 8
+      },
+      {
+        "feature": "hedge top",
+        "deviation_px": 12
+      }
+    ],
+    "391_Block79_Cal_Skeppsbrogatan": [
+      {
+        "feature": "wall top",
+        "deviation_px": 10
+      },
+      {
+        "feature": "hedge",
+        "deviation_px": 14
+      }
+    ],
+    "392_Block79_Cal_SodraVallgatan": [
+      {
+        "feature": "slope foot",
+        "deviation_px": 16
+      },
+      {
+        "feature": "parapet",
+        "deviation_px": 14
+      }
+    ],
+    "393_Block79_Cal_Bastions": [
+      {
+        "feature": "low walls",
+        "deviation_px": 10
+      },
+      {
+        "feature": "path gap",
+        "deviation_px": 12
+      }
+    ]
+  },
+  "features": 8,
+  "median_px": 12.0,
+  "max_px": 16,
+  "within_8_px": 1
+}

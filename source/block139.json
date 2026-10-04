@@ -1,0 +1,7720 @@
+{
+ "demolished": [],
+ "source": "pass 98 outlines (source/block98.json, from references/osm-slott98.json, OpenStreetMap, ODbL)",
+ "ground_z": 0.3,
+ "ids": [
+  "91222178",
+  "91222193",
+  "91933162",
+  "91933165",
+  "93252919",
+  "93291993",
+  "93309088",
+  "93309089",
+  "93309101",
+  "93325628",
+  "93325650",
+  "93326740",
+  "93326744",
+  "93333631",
+  "93333637",
+  "93333642",
+  "93333646",
+  "93333649",
+  "93333654"
+ ],
+ "left_to_other_streets": {},
+ "houses": {
+  "91222178": {
+   "name": "Tullbroskolan: red brick three-storey 1880s school with the stepped gables, arched windows and brick friezes",
+   "wall": "RedBrick",
+   "boards": false,
+   "st": 3,
+   "f0": 0.6,
+   "height": 11.5,
+   "top": 15.5,
+   "roof": "saddle",
+   "rm": "RoofDark",
+   "fr": "Frame",
+   "seen": "ts1_h307, ts5_h48, ts6_h83",
+   "measured": "eaves about 9-11 above the base, inconsistent between columns (grazing view, pano position not resected; the yard lies lower than the street); 11.5 used from the three tall storeys",
+   "extras": [
+    "stepped_gables",
+    "chimney"
+   ]
+  },
+  "91222193": {
+   "name": "white rendered flat-roofed two-storey school building behind Tullbroskolan (the school yard was a building site in 2025)",
+   "wall": "WhiteRender",
+   "boards": false,
+   "st": 2,
+   "height": 7.2,
+   "top": 7.45,
+   "roof": "flat",
+   "rm": "RoofDark",
+   "fr": "FrameDark",
+   "seen": "ts3_h11 (behind the site fence)"
+  },
+  "91933162": {
+   "name": "yellow rendered two-storey house with a red tile roof behind the trees at Tullbron (seen only far)",
+   "wall": "Yellow",
+   "boards": false,
+   "st": 2,
+   "height": 6.4,
+   "top": 9.4,
+   "roof": "hip",
+   "rm": "Tile",
+   "fr": "Frame",
+   "seen": "tb3_h8 (far, behind the buses)"
+  },
+  "91933165": {
+   "name": "yellow rendered two-storey house with the dark mansard roof and dormers at Tullbron",
+   "wall": "Yellow",
+   "boards": false,
+   "st": 2,
+   "f0": 0.4,
+   "height": 7.0,
+   "top": 10.6,
+   "roof": "mhip",
+   "rm": "RoofDark",
+   "fr": "Frame",
+   "seen": "tb3_h8 (across the railway, about 50 m), tb4_h290"
+  },
+  "93252919": {
+   "name": "red boarded gymnasium with the big white windows, the buttresses, the pent roof over the lower hall wall, the clerestory and the tall brick chimney",
+   "wall": "RedBoard",
+   "boards": true,
+   "st": 1,
+   "height": 9.2,
+   "top": 11.4,
+   "roof": "saddle",
+   "rm": "RoofDark",
+   "fr": "Frame",
+   "seen": "un1_h164 (close)",
+   "measured": "base at z -0.25, the pent roof at 6.4-6.5, the clerestory window tops at 8.7-9.1, the chimney top at 12.4-12.9 (pano position, camera 2.5 assumed); so the pent 6.6 and the eaves 9.2 above the base",
+   "extras": [
+    "hall",
+    "tall_chimney"
+   ]
+  },
+  "93291993": {
+   "name": "brown-beige rendered four-storey block with the shop windows on the ground floor and a low dark roof (Frejagatan 5)",
+   "wall": "Ochre",
+   "boards": false,
+   "st": 4,
+   "height": 12.4,
+   "top": 13.8,
+   "roof": "saddle",
+   "rm": "RoofDark",
+   "fr": "Frame",
+   "seen": "fj4_h123 (close), fj7_h26 (right edge)",
+   "extras": [
+    "shopfront"
+   ]
+  },
+  "93309088": {
+   "name": "Frasses: grey boarded one-storey kiosk with a low hipped roof, the raised roof lantern and the blue sign",
+   "wall": "GreyBoard",
+   "boards": true,
+   "st": 1,
+   "height": 3.0,
+   "top": 4.4,
+   "roof": "hip",
+   "rm": "RoofDark",
+   "fr": "Frame",
+   "seen": "sv1_h181 (June 2025)",
+   "extras": [
+    "lantern"
+   ]
+  },
+  "93309089": {
+   "name": "small white garage with a red tile roof in front of the white house",
+   "wall": "WhiteRender",
+   "boards": false,
+   "st": 1,
+   "height": 2.5,
+   "top": 4.0,
+   "roof": "saddle",
+   "rm": "Tile",
+   "fr": "Frame",
+   "seen": "od7_h188 (behind the hedge)",
+   "extras": [
+    "garage_door"
+   ]
+  },
+  "93309101": {
+   "name": "pale pink rendered one-and-a-half-storey house with the red tile hipped mansard roof and the wall gable on the street (Odengatan 7)",
+   "wall": "Pink",
+   "boards": false,
+   "st": 1.5,
+   "f0": 0.6,
+   "height": 4.8,
+   "top": 10.8,
+   "roof": "mhip",
+   "rm": "Tile",
+   "fr": "FrameDark",
+   "seen": "od2_h124 (resected)",
+   "measured": "camera resected on the two front corners to (-947.90, 207.48), 2.3 m from the pano position; with a 2.5 m camera the base reads 0.58 (behind the fence), the eaves 5.46 and the wall gable apex 11.98, so about 4.9 and 11.4 above the base; 4.8 and 10.8 used (the pano-position reading gave 4.4 and 10.2)",
+   "extras": [
+    "gable_mid"
+   ],
+   "gable_w": 6.2,
+   "gable_top": 10.8
+  },
+  "93325628": {
+   "boards": false,
+   "st": 4,
+   "f0": 1.0,
+   "height": 14.2,
+   "top": 17.6,
+   "roof": "saddle",
+   "rm": "Tile",
+   "fr": "Frame",
+   "name": "cream rendered four-storey Jugend apartment block over a grey stone basement with the iron balconies; white with red window frames at the Vegagatan end (in scaffolding in 2025)",
+   "wall": "Cream",
+   "seen": "od6_h219, od3_h346, od4_h263, od5_h21 (close, scaffolding)",
+   "extras": [
+    "balconies",
+    "chimneys2"
+   ]
+  },
+  "93325650": {
+   "boards": false,
+   "st": 4,
+   "f0": 1.0,
+   "height": 14.2,
+   "top": 17.6,
+   "roof": "saddle",
+   "rm": "Tile",
+   "fr": "Frame",
+   "name": "white rendered four-storey Jugend corner block with the red tile roof, the rounded corner bays and the iron balconies (Frejagatan 4)",
+   "wall": "WhiteRender",
+   "seen": "fj7_h26, fj1_h162, fj2_h83",
+   "measured": "base at z 0.38, eaves 14.6 (14.2 above it) near the west corner (fj7_h26, pano position, camera 2.5 assumed)",
+   "extras": [
+    "balconies",
+    "chimneys2"
+   ]
+  },
+  "93326740": {
+   "boards": false,
+   "st": 4,
+   "f0": 1.0,
+   "height": 14.4,
+   "top": 17.2,
+   "roof": "hip",
+   "rm": "RoofGrey",
+   "fr": "Frame",
+   "name": "cream rendered four-storey 1910s apartment block with arched windows, the curved central gable over the stone portal and the grey sheet hipped roof (Frejagatan 3)",
+   "wall": "Cream",
+   "seen": "fj3_h302, fj7_h26",
+   "measured": "base at z 0.42, eaves 14.8 (14.4 above it) and the gable apex 19.3 on the west front plane (fj7_h26, pano position, camera 2.5 assumed)",
+   "extras": [
+    "gable_mid",
+    "chimneys2"
+   ],
+   "gable_w": 9.0,
+   "gable_top": 18.6
+  },
+  "93326744": {
+   "name": "yellow brick three-storey block over a basement with a low roof and the two entrances (Frejagatan 8)",
+   "wall": "YellowBrick",
+   "boards": false,
+   "st": 3,
+   "f0": 0.9,
+   "height": 10.0,
+   "top": 11.8,
+   "roof": "saddle",
+   "rm": "RoofRed",
+   "fr": "Frame",
+   "seen": "fj5_h303"
+  },
+  "93333631": {
+   "name": "dark brown boarded villa with the steep brown tile roof, dormers and two red brick chimneys; the lower east section with its own roof; the gabled entrance porch (Järnvägsgatan 9)",
+   "wall": "BrownBoard",
+   "boards": true,
+   "st": 1.5,
+   "f0": 0.3,
+   "height": 4.7,
+   "top": 10.6,
+   "roof": "saddle",
+   "rm": "TileDark",
+   "fr": "Frame",
+   "seen": "jv1_h197 (resected)",
+   "measured": "camera resected on the two front corners to (-793.19, 231.48), 2.31 m above the ground from the base; eaves 4.6 above the ground, the ridge read at 8.9 on the front plane, carried back 4.25 m to about 10.4; the east section about 0.9 m lower (read from the pano position)",
+   "extras": [
+    "dormers",
+    "chimneys2",
+    "porch"
+   ],
+   "rest": {
+    "height": 3.9,
+    "top": 9.6,
+    "roof": "saddle"
+   }
+  },
+  "93333637": {
+   "name": "dark brown boarded one-and-a-half-storey gambrel villa with the brown tile roof, the cross gable and the glazed veranda (Odengatan 1)",
+   "wall": "BrownBoard",
+   "boards": true,
+   "st": 1.5,
+   "f0": 0.5,
+   "height": 3.6,
+   "top": 8.4,
+   "roof": "gambrel",
+   "rm": "TileDark",
+   "fr": "Frame",
+   "seen": "od1_h124",
+   "measured": "eaves 4.3 (3.4 above the base at 0.9) and the roof read at 7.0 on the front plane (pano position, camera 2.5 assumed)",
+   "extras": [
+    "chimneys2"
+   ]
+  },
+  "93333642": {
+   "name": "white rendered two-storey house with tall storeys, the black tile mansard roof and two dormers, behind the hedge on the stone wall",
+   "wall": "WhiteRender",
+   "boards": false,
+   "st": 2,
+   "f0": 0.9,
+   "height": 8.6,
+   "top": 12.2,
+   "roof": "mhip",
+   "rm": "RoofDark",
+   "fr": "Frame",
+   "seen": "jv2_h197",
+   "measured": "eaves read at 9.1 on the OSM front plane above the street (pano position, camera 2.5 assumed; the base is behind the hedge), 8.6 used; the roof top seen at 12.0 on the front plane",
+   "extras": [
+    "dormers2",
+    "chimney"
+   ]
+  },
+  "93333646": {
+   "name": "long yellow rendered two-storey 1920s block over a basement with the brown tile mansard roof, round-topped dormers, white pilasters and the stone door portals (Järnvägsgatan 3)",
+   "wall": "Yellow",
+   "boards": false,
+   "st": 2,
+   "f0": 1.1,
+   "height": 8.0,
+   "top": 12.0,
+   "roof": "mhip",
+   "rm": "TileDark",
+   "fr": "Frame",
+   "ridge": "street",
+   "seen": "jv4_h159, jv5_h236",
+   "measured": "base at z 0.65, eaves 8.7 on the street front at the north-west corner, so 8.1 above the base (jv4_h159, pano position, camera 2.5 assumed)",
+   "extras": [
+    "dormers",
+    "pilasters",
+    "portals",
+    "chimneys2"
+   ]
+  },
+  "93333649": {
+   "name": "small dark brown boarded annex behind the villa (seen only as an overlap in jv1_h197)",
+   "wall": "BrownBoard",
+   "boards": true,
+   "st": 1,
+   "height": 2.6,
+   "top": 4.0,
+   "roof": "saddle",
+   "rm": "TileBrown",
+   "fr": "Frame",
+   "seen": null,
+   "extras": [
+    "no_door"
+   ]
+  },
+  "93333654": {
+   "name": "yellow rendered two-storey house with a red tile roof and the gable dormer, behind the hedge (Järnvägsgatan 7)",
+   "wall": "Yellow",
+   "boards": false,
+   "st": 2,
+   "height": 7.0,
+   "top": 10.6,
+   "roof": "saddle",
+   "rm": "Tile",
+   "fr": "Frame",
+   "ridge": "street",
+   "seen": "jv3_h197 (behind the hedge)",
+   "measured": "eaves read at 8.8 on the OSM front plane from the pano position (the base is hidden; not trusted, 7.0 used from the storeys)",
+   "extras": [
+    "dormers",
+    "chimney"
+   ]
+  }
+ },
+ "zones": {
+  "91222178_0": {
+   "height": 11.5,
+   "top": 15.5,
+   "roof": "saddle",
+   "role": "main",
+   "ridge_fixed": true,
+   "rect": [
+    [
+     -505.77149317265975,
+     273.7311252153732
+    ],
+    [
+     -530.839,
+     288.284
+    ],
+    [
+     -536.9341568565233,
+     277.7850169209997
+    ],
+    [
+     -511.866650029183,
+     263.2321421363729
+    ]
+   ],
+   "street": "Tullslätten",
+   "street_wall": [
+    [
+     -530.839,
+     288.284
+    ],
+    [
+     -536.931,
+     277.783
+    ]
+   ],
+   "street_m": 13.5,
+   "street_walls": {
+    "Tullslätten": [
+     [
+      -530.839,
+      288.284
+     ],
+     [
+      -536.931,
+      277.783
+     ]
+    ]
+   },
+   "osm": "91222178",
+   "mesh": "SM_Slott139_91222178",
+   "wall": "RedBrick",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -511.811,
+      263.328
+     ],
+     [
+      -505.773,
+      273.732
+     ],
+     [
+      -530.839,
+      288.284
+     ],
+     [
+      -536.9305700454943,
+      277.782934607344
+     ],
+     [
+      -516.9640382041796,
+      266.19141735868794
+     ],
+     [
+      -516.908,
+      266.288
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -511.811,
+      263.328
+     ],
+     "q": [
+      -505.773,
+      273.732
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -505.773,
+      273.732
+     ],
+     "q": [
+      -530.839,
+      288.284
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -530.839,
+      288.284
+     ],
+     "q": [
+      -536.931,
+      277.783
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -536.931,
+      277.783
+     ],
+     "q": [
+      -531.548,
+      274.658
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -516.908,
+      266.288
+     ],
+     "q": [
+      -511.811,
+      263.328
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222178_1": {
+   "height": 11.5,
+   "top": 15.5,
+   "roof": "saddle",
+   "role": "main",
+   "ridge_fixed": true,
+   "rect": [
+    [
+     -516.9551329873475,
+     266.1953677079052
+    ],
+    [
+     -536.926609987838,
+     277.78975585564064
+    ],
+    [
+     -548.3075065500102,
+     258.18602075205297
+    ],
+    [
+     -528.3360295495197,
+     246.5916326043175
+    ]
+   ],
+   "street": "Tullslätten",
+   "street_wall": [
+    [
+     -528.336,
+     246.592
+    ],
+    [
+     -516.964,
+     266.191
+    ]
+   ],
+   "street_m": 10.3,
+   "street_walls": {
+    "Tullslätten": [
+     [
+      -528.336,
+      246.592
+     ],
+     [
+      -516.964,
+      266.191
+     ]
+    ]
+   },
+   "osm": "91222178",
+   "mesh": "SM_Slott139_91222178",
+   "wall": "RedBrick",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -536.9305700454943,
+      277.78293460734403
+     ],
+     [
+      -536.9809999999999,
+      277.696
+     ],
+     [
+      -531.566,
+      274.552
+     ],
+     [
+      -542.697,
+      255.371
+     ],
+     [
+      -548.005,
+      258.457
+     ],
+     [
+      -548.1989735442843,
+      258.12301220265044
+     ],
+     [
+      -528.3360278365572,
+      246.59163160986162
+     ],
+     [
+      -516.9640382041796,
+      266.19141735868794
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -536.981,
+      277.696
+     ],
+     "q": [
+      -531.566,
+      274.552
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -531.566,
+      274.552
+     ],
+     "q": [
+      -542.697,
+      255.371
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -542.697,
+      255.371
+     ],
+     "q": [
+      -548.005,
+      258.457
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -548.005,
+      258.457
+     ],
+     "q": [
+      -548.199,
+      258.123
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -528.336,
+      246.592
+     ],
+     "q": [
+      -516.964,
+      266.191
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222178_2": {
+   "height": 11.5,
+   "top": 15.5,
+   "roof": "saddle",
+   "role": "main",
+   "ridge_fixed": true,
+   "rect": [
+    [
+     -523.1103644575035,
+     243.5669594906693
+    ],
+    [
+     -548.1968471046783,
+     258.1308506373097
+    ],
+    [
+     -554.242,
+     247.71799999999996
+    ],
+    [
+     -529.155517352825,
+     233.15410885335956
+    ]
+   ],
+   "street": "Tullslätten",
+   "street_wall": [
+    [
+     -529.155,
+     233.155
+    ],
+    [
+     -523.297,
+     243.251
+    ]
+   ],
+   "street_m": 5.0,
+   "street_walls": {
+    "Tullslätten": [
+     [
+      -529.155,
+      233.155
+     ],
+     [
+      -523.297,
+      243.251
+     ]
+    ]
+   },
+   "osm": "91222178",
+   "mesh": "SM_Slott139_91222178",
+   "wall": "RedBrick",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -554.2420000003765,
+      247.71800000021852
+     ],
+     [
+      -529.155,
+      233.155
+     ],
+     [
+      -523.297,
+      243.251
+     ],
+     [
+      -528.518,
+      246.278
+     ],
+     [
+      -528.3360278365572,
+      246.5916316098617
+     ],
+     [
+      -548.1989735442836,
+      258.1230122026501
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -554.242,
+      247.718
+     ],
+     "q": [
+      -529.155,
+      233.155
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -529.155,
+      233.155
+     ],
+     "q": [
+      -523.297,
+      243.251
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -523.297,
+      243.251
+     ],
+     "q": [
+      -528.518,
+      246.278
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -528.518,
+      246.278
+     ],
+     "q": [
+      -528.336,
+      246.592
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -548.199,
+      258.123
+     ],
+     "q": [
+      -554.242,
+      247.718
+     ],
+     "z0": 0.0,
+     "z1": 11.5,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_0": {
+   "height": 7.2,
+   "top": 7.45,
+   "roof": "flat",
+   "role": "main",
+   "rect": [
+    [
+     -499.85926135964235,
+     289.2352400112129
+    ],
+    [
+     -507.20741646341224,
+     276.77265414029563
+    ],
+    [
+     -485.96099167746564,
+     264.2453964471676
+    ],
+    [
+     -478.61283657369574,
+     276.7079823180849
+    ]
+   ],
+   "street": "Tullslätten",
+   "street_wall": [
+    [
+     -503.653,
+     282.801
+    ],
+    [
+     -492.3,
+     276.36
+    ]
+   ],
+   "street_m": 34.1,
+   "street_walls": {
+    "Tullslätten": [
+     [
+      -503.653,
+      282.801
+     ],
+     [
+      -492.3,
+      276.36
+     ]
+    ]
+   },
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -486.905,
+      264.802
+     ],
+     [
+      -478.727,
+      276.598
+     ],
+     [
+      -478.6890222103972,
+      276.57877028783855
+     ],
+     [
+      -478.61283657369574,
+      276.7079823180849
+     ],
+     [
+      -499.8063434187256,
+      289.2040386825596
+     ],
+     [
+      -503.653,
+      282.801
+     ],
+     [
+      -492.3,
+      276.36
+     ],
+     [
+      -495.7756660519608,
+      270.0322973635404
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -486.905,
+      264.802
+     ],
+     "q": [
+      -478.727,
+      276.598
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -499.806,
+      289.204
+     ],
+     "q": [
+      -503.653,
+      282.801
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -503.653,
+      282.801
+     ],
+     "q": [
+      -492.3,
+      276.36
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -492.3,
+      276.36
+     ],
+     "q": [
+      -495.776,
+      270.032
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_1": {
+   "height": 7.2,
+   "top": 7.45,
+   "roof": "flat",
+   "role": "wing",
+   "rect": [
+    [
+     -503.7126796983652,
+     267.6380422930155
+    ],
+    [
+     -512.475308277295,
+     252.77648730707895
+    ],
+    [
+     -498.762637891656,
+     244.69126086015928
+    ],
+    [
+     -490.0000093127262,
+     259.5528158460958
+    ]
+   ],
+   "street": "Tullslätten",
+   "street_wall": [
+    [
+     -512.123,
+     252.506
+    ],
+    [
+     -508.806,
+     250.613
+    ]
+   ],
+   "street_m": 4.5,
+   "street_walls": {
+    "Tullslätten": [
+     [
+      -512.123,
+      252.506
+     ],
+     [
+      -508.806,
+      250.613
+     ]
+    ]
+   },
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -498.71072729261164,
+      264.6888050737218
+     ],
+     [
+      -498.72600000000006,
+      264.661
+     ],
+     [
+      -503.716,
+      267.64
+     ],
+     [
+      -512.123,
+      252.506
+     ],
+     [
+      -508.806,
+      250.61300000000003
+     ],
+     [
+      -498.762637891656,
+      244.69126086015928
+     ],
+     [
+      -490.0000093127262,
+      259.5528158460958
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -498.726,
+      264.661
+     ],
+     "q": [
+      -503.716,
+      267.64
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -503.716,
+      267.64
+     ],
+     "q": [
+      -512.123,
+      252.506
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -512.123,
+      252.506
+     ],
+     "q": [
+      -508.806,
+      250.613
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -508.806,
+      250.613
+     ],
+     "q": [
+      -498.763,
+      244.691
+     ],
+     "z0": 3.1,
+     "z1": 7.2,
+     "kind": "upper",
+     "neighbour": "91222193_5"
+    },
+    {
+     "p": [
+      -498.763,
+      244.691
+     ],
+     "q": [
+      -490.0,
+      259.553
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_2": {
+   "height": 7.2,
+   "top": 7.45,
+   "roof": "flat",
+   "role": "wing",
+   "rect": [
+    [
+     -489.4197462061369,
+     297.0045593274012
+    ],
+    [
+     -492.82076688995244,
+     291.23637510670187
+    ],
+    [
+     -473.9189508654184,
+     280.0915390887354
+    ],
+    [
+     -470.51793018160294,
+     285.8597233094347
+    ]
+   ],
+   "street": "Unionsgatan",
+   "street_wall": [
+    [
+     -484.193,
+     295.596
+    ],
+    [
+     -489.925,
+     296.148
+    ]
+   ],
+   "street_m": 31.0,
+   "street_walls": {
+    "Unionsgatan": [
+     [
+      -484.193,
+      295.596
+     ],
+     [
+      -489.925,
+      296.148
+     ]
+    ]
+   },
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -484.193,
+      295.596
+     ],
+     [
+      -489.9246570025749,
+      296.1482227274111
+     ],
+     [
+      -490.01602362930004,
+      295.99326350088177
+     ],
+     [
+      -490.79,
+      290.039
+     ],
+     [
+      -473.9189508654184,
+      280.0915390887354
+     ],
+     [
+      -470.565,
+      285.813
+     ],
+     [
+      -478.393,
+      290.50300000000004
+     ],
+     [
+      -479.457,
+      288.61
+     ],
+     [
+      -485.066,
+      291.858
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -484.193,
+      295.596
+     ],
+     "q": [
+      -489.925,
+      296.148
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -490.016,
+      295.993
+     ],
+     "q": [
+      -490.764,
+      290.237
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -473.919,
+      280.092
+     ],
+     "q": [
+      -470.565,
+      285.813
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -470.565,
+      285.813
+     ],
+     "q": [
+      -478.393,
+      290.503
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -478.393,
+      290.503
+     ],
+     "q": [
+      -479.457,
+      288.61
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -479.457,
+      288.61
+     ],
+     "q": [
+      -485.066,
+      291.858
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -485.066,
+      291.858
+     ],
+     "q": [
+      -484.193,
+      295.596
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_3": {
+   "height": 7.2,
+   "top": 7.45,
+   "roof": "flat",
+   "role": "wing",
+   "rect": [
+    [
+     -497.11405557561943,
+     293.767772000918
+    ],
+    [
+     -499.80528072374216,
+     289.203412099309
+    ],
+    [
+     -476.59833520045134,
+     275.5201976399547
+    ],
+    [
+     -473.9071100523286,
+     280.0845575415637
+    ]
+   ],
+   "street": "Unionsgatan",
+   "street_wall": [
+    [
+     -490.966,
+     290.14
+    ],
+    [
+     -497.127,
+     293.664
+    ]
+   ],
+   "street_m": 36.4,
+   "street_walls": {
+    "Unionsgatan": [
+     [
+      -490.966,
+      290.14
+     ],
+     [
+      -497.127,
+      293.664
+     ]
+    ]
+   },
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -478.727,
+      276.598
+     ],
+     [
+      -476.598,
+      275.52
+     ],
+     [
+      -473.9186156649671,
+      280.0913414487806
+     ],
+     [
+      -490.79,
+      290.039
+     ],
+     [
+      -497.127,
+      293.664
+     ],
+     [
+      -503.653,
+      282.801
+     ],
+     [
+      -499.8063434187256,
+      289.2040386825596
+     ],
+     [
+      -478.61283657369574,
+      276.7079823180849
+     ],
+     [
+      -478.6890222103972,
+      276.57877028783855
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -478.727,
+      276.598
+     ],
+     "q": [
+      -476.598,
+      275.52
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -476.598,
+      275.52
+     ],
+     "q": [
+      -473.919,
+      280.091
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -490.966,
+      290.14
+     ],
+     "q": [
+      -497.127,
+      293.664
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -497.127,
+      293.664
+     ],
+     "q": [
+      -503.653,
+      282.801
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_4": {
+   "height": 7.2,
+   "top": 7.45,
+   "roof": "flat",
+   "role": "wing",
+   "rect": [
+    [
+     -495.77172882771396,
+     270.029975908367
+    ],
+    [
+     -498.8667381404402,
+     264.7807917544628
+    ],
+    [
+     -490.00000931272615,
+     259.5528158460958
+    ],
+    [
+     -486.9049999999999,
+     264.802
+    ]
+   ],
+   "street": null,
+   "street_wall": null,
+   "street_m": null,
+   "street_walls": {},
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -486.905,
+      264.802
+     ],
+     [
+      -495.7756660519608,
+      270.0322973635404
+     ],
+     [
+      -492.3,
+      276.36
+     ],
+     [
+      -498.71072729261164,
+      264.6888050737219
+     ],
+     [
+      -490.0000093127262,
+      259.5528158460958
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -492.3,
+      276.36
+     ],
+     "q": [
+      -498.711,
+      264.689
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -490.0,
+      259.553
+     ],
+     "q": [
+      -486.905,
+      264.802
+     ],
+     "z0": 0.0,
+     "z1": 7.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_5": {
+   "height": 3.1,
+   "top": 3.35,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -508.89322567175697,
+     250.664429757174
+    ],
+    [
+     -509.8355877801009,
+     249.0661688970147
+    ],
+    [
+     -499.705,
+     243.093
+    ],
+    [
+     -498.762637891656,
+     244.69126086015928
+    ]
+   ],
+   "street": "Tullslätten",
+   "street_wall": [
+    [
+     -508.806,
+     250.613
+    ],
+    [
+     -509.693,
+     249.308
+    ]
+   ],
+   "street_m": 5.4,
+   "street_walls": {
+    "Tullslätten": [
+     [
+      -508.806,
+      250.613
+     ],
+     [
+      -509.693,
+      249.308
+     ]
+    ]
+   },
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -509.693,
+      249.308
+     ],
+     [
+      -499.705,
+      243.093
+     ],
+     [
+      -498.762637891656,
+      244.69126086015928
+     ],
+     [
+      -508.806,
+      250.61300000000003
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -509.693,
+      249.308
+     ],
+     "q": [
+      -499.705,
+      243.093
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -499.705,
+      243.093
+     ],
+     "q": [
+      -498.763,
+      244.691
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -508.806,
+      250.613
+     ],
+     "q": [
+      -509.693,
+      249.308
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91222193_6": {
+   "height": 3.1,
+   "top": 3.35,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -486.5762004301831,
+     297.00117598721005
+    ],
+    [
+     -487.3082603480997,
+     295.75959092798723
+    ],
+    [
+     -484.5769178112328,
+     294.1491443633414
+    ],
+    [
+     -483.8448578933162,
+     295.3907294225642
+    ]
+   ],
+   "street": "Unionsgatan",
+   "street_wall": [
+    [
+     -484.193,
+     295.596
+    ],
+    [
+     -487.232,
+     295.889
+    ]
+   ],
+   "street_m": 30.9,
+   "street_walls": {
+    "Unionsgatan": [
+     [
+      -484.193,
+      295.596
+     ],
+     [
+      -487.232,
+      295.889
+     ]
+    ]
+   },
+   "osm": "91222193",
+   "mesh": "SM_Slott139_91222193",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -484.193,
+      295.596
+     ],
+     [
+      -487.2320747113981,
+      295.8888029582336
+     ],
+     [
+      -487.3082603480997,
+      295.7595909279873
+     ],
+     [
+      -484.5769178112328,
+      294.14914436334146
+     ],
+     [
+      -484.5007321745312,
+      294.27835639358796
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -484.193,
+      295.596
+     ],
+     "q": [
+      -487.232,
+      295.889
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -484.501,
+      294.278
+     ],
+     "q": [
+      -484.193,
+      295.596
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91933162_0": {
+   "height": 6.4,
+   "top": 9.4,
+   "roof": "hip",
+   "role": "main",
+   "rect": [
+    [
+     -560.3496236378962,
+     88.95946753166955
+    ],
+    [
+     -570.035997518856,
+     102.6804136620657
+    ],
+    [
+     -574.4193738809597,
+     99.58594613039614
+    ],
+    [
+     -564.733,
+     85.86499999999998
+    ]
+   ],
+   "street": "Tullbron",
+   "street_wall": [
+    [
+     -574.418,
+     99.584
+    ],
+    [
+     -564.733,
+     85.865
+    ]
+   ],
+   "street_m": 19.0,
+   "street_walls": {
+    "Tullbron": [
+     [
+      -574.418,
+      99.584
+     ],
+     [
+      -564.733,
+      85.865
+     ]
+    ],
+    "Olof Palmes gata": [
+     [
+      -557.739,
+      93.369
+     ],
+     [
+      -561.009,
+      97.99
+     ]
+    ]
+   },
+   "osm": "91933162",
+   "mesh": "SM_Slott139_91933162",
+   "wall": "Yellow",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -574.418,
+      99.58400000000002
+     ],
+     [
+      -564.733,
+      85.865
+     ],
+     [
+      -560.321,
+      88.981
+     ],
+     [
+      -561.534,
+      90.69199999999998
+     ],
+     [
+      -561.5598441135253,
+      90.67376951464892
+     ],
+     [
+      -564.823655049212,
+      95.29702426185446
+     ],
+     [
+      -561.009,
+      97.98999999999997
+     ],
+     [
+      -557.739137631995,
+      93.36890291413685
+     ],
+     [
+      -558.4469156326411,
+      92.86963500696177
+     ],
+     [
+      -557.739,
+      93.369
+     ],
+     [
+      -561.009,
+      97.99
+     ],
+     [
+      -564.825,
+      95.299
+     ],
+     [
+      -570.038,
+      102.679
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -574.418,
+      99.584
+     ],
+     "q": [
+      -564.733,
+      85.865
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -564.733,
+      85.865
+     ],
+     "q": [
+      -560.321,
+      88.981
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -560.321,
+      88.981
+     ],
+     "q": [
+      -561.534,
+      90.692
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -558.447,
+      92.87
+     ],
+     "q": [
+      -557.739,
+      93.369
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -557.739,
+      93.369
+     ],
+     "q": [
+      -561.009,
+      97.99
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -561.009,
+      97.99
+     ],
+     "q": [
+      -564.825,
+      95.299
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -564.825,
+      95.299
+     ],
+     "q": [
+      -570.038,
+      102.679
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -570.038,
+      102.679
+     ],
+     "q": [
+      -574.418,
+      99.584
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91933162_1": {
+   "height": 6.4,
+   "top": 9.014224730448689,
+   "roof": "hip",
+   "role": "wing",
+   "rect": [
+    [
+     -557.7391375961098,
+     93.36890286330465
+    ],
+    [
+     -561.0039447529867,
+     97.99356877814148
+    ],
+    [
+     -564.823655049212,
+     95.29702426185446
+    ],
+    [
+     -561.558847892335,
+     90.67235834701764
+    ]
+   ],
+   "street": "Olof Palmes gata",
+   "street_wall": [
+    [
+     -557.739,
+     93.369
+    ],
+    [
+     -561.009,
+     97.99
+    ]
+   ],
+   "street_m": 21.2,
+   "street_walls": {
+    "Olof Palmes gata": [
+     [
+      -557.739,
+      93.369
+     ],
+     [
+      -561.009,
+      97.99
+     ]
+    ]
+   },
+   "osm": "91933162",
+   "mesh": "SM_Slott139_91933162",
+   "wall": "Yellow",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -561.5598441135253,
+      90.67376951464892
+     ],
+     [
+      -557.739137631995,
+      93.36890291413685
+     ],
+     [
+      -561.009,
+      97.98999999999997
+     ],
+     [
+      -564.823655049212,
+      95.29702426185446
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -561.56,
+      90.674
+     ],
+     "q": [
+      -557.739,
+      93.369
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -557.739,
+      93.369
+     ],
+     "q": [
+      -561.009,
+      97.99
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -561.009,
+      97.99
+     ],
+     "q": [
+      -564.824,
+      95.297
+     ],
+     "z0": 0.0,
+     "z1": 6.4,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "91933165_0": {
+   "height": 7.0,
+   "top": 10.6,
+   "roof": "mhip",
+   "role": "main",
+   "rect": [
+    [
+     -595.2848187136784,
+     95.98676655895851
+    ],
+    [
+     -581.3549428362819,
+     76.8335622511189
+    ],
+    [
+     -573.231,
+     82.74199999999999
+    ],
+    [
+     -587.1608758773965,
+     101.89520430783959
+    ]
+   ],
+   "street": "Tullbron",
+   "street_wall": [
+    [
+     -581.241,
+     76.919
+    ],
+    [
+     -573.231,
+     82.742
+    ]
+   ],
+   "street_m": 9.0,
+   "street_walls": {
+    "Tullbron": [
+     [
+      -581.241,
+      76.919
+     ],
+     [
+      -573.231,
+      82.742
+     ]
+    ],
+    "Olof Palmes gata": [
+     [
+      -573.231,
+      82.742
+     ],
+     [
+      -587.16,
+      101.894
+     ]
+    ]
+   },
+   "osm": "91933165",
+   "mesh": "SM_Slott139_91933165",
+   "wall": "Yellow",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -589.9566998238668,
+      88.66074653040847
+     ],
+     [
+      -589.972,
+      88.63599999999997
+     ],
+     [
+      -581.241,
+      76.919
+     ],
+     [
+      -573.231,
+      82.742
+     ],
+     [
+      -587.16,
+      101.89399999999998
+     ],
+     [
+      -595.169,
+      96.071
+     ],
+     [
+      -591.9353025201317,
+      91.38127196933918
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -589.972,
+      88.636
+     ],
+     "q": [
+      -589.852,
+      88.475
+     ],
+     "z0": 3.1,
+     "z1": 7.0,
+     "kind": "upper",
+     "neighbour": "91933165_1"
+    },
+    {
+     "p": [
+      -589.852,
+      88.475
+     ],
+     "q": [
+      -581.241,
+      76.919
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -581.241,
+      76.919
+     ],
+     "q": [
+      -573.231,
+      82.742
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -573.231,
+      82.742
+     ],
+     "q": [
+      -587.16,
+      101.894
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -587.16,
+      101.894
+     ],
+     "q": [
+      -595.169,
+      96.071
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -595.169,
+      96.071
+     ],
+     "q": [
+      -591.935,
+      91.381
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -591.935,
+      91.381
+     ],
+     "q": [
+      -591.812,
+      91.211
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -591.812,
+      91.211
+     ],
+     "q": [
+      -589.957,
+      88.661
+     ],
+     "z0": 3.1,
+     "z1": 7.0,
+     "kind": "upper",
+     "neighbour": "91933165_1"
+    }
+   ]
+  },
+  "91933165_1": {
+   "height": 3.1,
+   "top": 3.35,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -594.8091568504991,
+     89.10567931440043
+    ],
+    [
+     -584.3170240511537,
+     74.67927918710738
+    ],
+    [
+     -581.3549428362819,
+     76.8335622511189
+    ],
+    [
+     -591.8470756356273,
+     91.25996237841196
+    ]
+   ],
+   "street": "Tullbron",
+   "street_wall": [
+    [
+     -592.497,
+     86.504
+    ],
+    [
+     -590.811,
+     87.279
+    ]
+   ],
+   "street_m": 24.8,
+   "street_walls": {
+    "Tullbron": [
+     [
+      -592.497,
+      86.504
+     ],
+     [
+      -590.811,
+      87.279
+     ]
+    ]
+   },
+   "osm": "91933165",
+   "mesh": "SM_Slott139_91933165",
+   "wall": "Yellow",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -593.848,
+      87.582
+     ],
+     [
+      -592.497,
+      86.504
+     ],
+     [
+      -590.8110000000001,
+      87.279
+     ],
+     [
+      -589.9566998238668,
+      88.66074653040852
+     ],
+     [
+      -591.8063996346004,
+      91.20403397208928
+     ],
+     [
+      -593.068,
+      90.37199999999993
+     ],
+     [
+      -593.78,
+      89.225
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -593.848,
+      87.582
+     ],
+     "q": [
+      -592.497,
+      86.504
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -592.497,
+      86.504
+     ],
+     "q": [
+      -590.811,
+      87.279
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -590.811,
+      87.279
+     ],
+     "q": [
+      -590.063,
+      88.488
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -591.806,
+      91.204
+     ],
+     "q": [
+      -593.068,
+      90.372
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -593.068,
+      90.372
+     ],
+     "q": [
+      -593.78,
+      89.225
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -593.78,
+      89.225
+     ],
+     "q": [
+      -593.848,
+      87.582
+     ],
+     "z0": 0.0,
+     "z1": 3.1,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93252919_0": {
+   "height": 9.2,
+   "top": 11.4,
+   "roof": "saddle",
+   "role": "main",
+   "ridge_fixed": true,
+   "rect": [
+    [
+     -467.9486870281365,
+     316.23338570152555
+    ],
+    [
+     -492.9621938521481,
+     320.6672623751251
+    ],
+    [
+     -495.0140424897963,
+     309.0918547402563
+    ],
+    [
+     -470.00053566578464,
+     304.6579780666567
+    ]
+   ],
+   "street": "Unionsgatan",
+   "street_wall": [
+    [
+     -470.0,
+     316.597
+    ],
+    [
+     -483.201,
+     318.937
+    ]
+   ],
+   "street_m": 7.5,
+   "street_walls": {
+    "Unionsgatan": [
+     [
+      -470.0,
+      316.597
+     ],
+     [
+      -483.201,
+      318.937
+     ]
+    ],
+    "Jenny Nyströms gränd": [
+     [
+      -492.176,
+      318.937
+     ],
+     [
+      -492.612,
+      316.468
+     ]
+    ],
+    "Tullslätten": [
+     [
+      -493.675,
+      316.646
+     ],
+     [
+      -494.41,
+      312.467
+     ]
+    ]
+   },
+   "osm": "93252919",
+   "mesh": "SM_Slott139_93252919",
+   "wall": "RedBoard",
+   "boards": true,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -484.99,
+      307.315
+     ],
+     [
+      -470.0,
+      304.661
+     ],
+     [
+      -470.0,
+      316.597
+     ],
+     [
+      -483.201,
+      318.937
+     ],
+     [
+      -483.469,
+      317.401
+     ],
+     [
+      -492.176,
+      318.937
+     ],
+     [
+      -492.612,
+      316.468
+     ],
+     [
+      -493.675,
+      316.646
+     ],
+     [
+      -494.41,
+      312.467
+     ],
+     [
+      -493.147,
+      312.245
+     ],
+     [
+      -493.537,
+      310.029
+     ],
+     [
+      -484.787,
+      308.483
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -484.99,
+      307.315
+     ],
+     "q": [
+      -470.0,
+      304.661
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -470.0,
+      304.661
+     ],
+     "q": [
+      -470.0,
+      316.597
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -470.0,
+      316.597
+     ],
+     "q": [
+      -483.201,
+      318.937
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -483.201,
+      318.937
+     ],
+     "q": [
+      -483.469,
+      317.401
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -483.469,
+      317.401
+     ],
+     "q": [
+      -492.176,
+      318.937
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -492.176,
+      318.937
+     ],
+     "q": [
+      -492.612,
+      316.468
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -492.612,
+      316.468
+     ],
+     "q": [
+      -493.675,
+      316.646
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -493.675,
+      316.646
+     ],
+     "q": [
+      -494.41,
+      312.467
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -494.41,
+      312.467
+     ],
+     "q": [
+      -493.147,
+      312.245
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -493.147,
+      312.245
+     ],
+     "q": [
+      -493.537,
+      310.029
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -493.537,
+      310.029
+     ],
+     "q": [
+      -484.787,
+      308.483
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -484.787,
+      308.483
+     ],
+     "q": [
+      -484.99,
+      307.315
+     ],
+     "z0": 0.0,
+     "z1": 9.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93291993_0": {
+   "height": 12.4,
+   "top": 13.8,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -1048.0565265052676,
+     259.6712586067616
+    ],
+    [
+     -1080.126,
+     242.156
+    ],
+    [
+     -1074.9454734947324,
+     232.67074139323842
+    ],
+    [
+     -1042.876,
+     250.186
+    ]
+   ],
+   "street": "Vegagatan",
+   "street_wall": [
+    [
+     -1042.876,
+     250.186
+    ],
+    [
+     -1048.057,
+     259.671
+    ]
+   ],
+   "street_m": 6.6,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1048.057,
+      259.671
+     ],
+     [
+      -1080.126,
+      242.156
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -1042.876,
+      250.186
+     ],
+     [
+      -1048.057,
+      259.671
+     ]
+    ]
+   },
+   "osm": "93291993",
+   "mesh": "SM_Slott139_93291993",
+   "wall": "Ochre",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1048.057,
+      259.671
+     ],
+     [
+      -1080.126,
+      242.156
+     ],
+     [
+      -1074.945,
+      232.67100000000002
+     ],
+     [
+      -1042.876,
+      250.186
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1048.057,
+      259.671
+     ],
+     "q": [
+      -1080.126,
+      242.156
+     ],
+     "z0": 0.0,
+     "z1": 12.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1080.126,
+      242.156
+     ],
+     "q": [
+      -1074.945,
+      232.671
+     ],
+     "z0": 0.0,
+     "z1": 12.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1074.945,
+      232.671
+     ],
+     "q": [
+      -1042.876,
+      250.186
+     ],
+     "z0": 0.0,
+     "z1": 12.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1042.876,
+      250.186
+     ],
+     "q": [
+      -1048.057,
+      259.671
+     ],
+     "z0": 0.0,
+     "z1": 12.4,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93309088_0": {
+   "height": 3.0,
+   "top": 4.4,
+   "roof": "hip",
+   "role": "main",
+   "rect": [
+    [
+     -784.2118979087593,
+     253.56785084053772
+    ],
+    [
+     -772.1388979087593,
+     246.96785084053772
+    ],
+    [
+     -767.21,
+     255.984
+    ],
+    [
+     -779.283,
+     262.584
+    ]
+   ],
+   "street": "Södra vägen",
+   "street_wall": [
+    [
+     -767.21,
+     255.984
+    ],
+    [
+     -779.283,
+     262.584
+    ]
+   ],
+   "street_m": 13.1,
+   "street_walls": {
+    "Södra vägen": [
+     [
+      -767.21,
+      255.984
+     ],
+     [
+      -779.283,
+      262.584
+     ]
+    ],
+    "Järnvägsgatan": [
+     [
+      -784.208,
+      253.566
+     ],
+     [
+      -772.141,
+      246.969
+     ]
+    ]
+   },
+   "osm": "93309088",
+   "mesh": "SM_Slott139_93309088",
+   "wall": "GreyBoard",
+   "boards": true,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -772.1410000000034,
+      246.9689999999938
+     ],
+     [
+      -767.21,
+      255.984
+     ],
+     [
+      -779.283,
+      262.584
+     ],
+     [
+      -784.2079999999999,
+      253.56600000000003
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -772.141,
+      246.969
+     ],
+     "q": [
+      -767.21,
+      255.984
+     ],
+     "z0": 0.0,
+     "z1": 3.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -767.21,
+      255.984
+     ],
+     "q": [
+      -779.283,
+      262.584
+     ],
+     "z0": 0.0,
+     "z1": 3.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -779.283,
+      262.584
+     ],
+     "q": [
+      -784.208,
+      253.566
+     ],
+     "z0": 0.0,
+     "z1": 3.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -784.208,
+      253.566
+     ],
+     "q": [
+      -772.141,
+      246.969
+     ],
+     "z0": 0.0,
+     "z1": 3.0,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93309089_0": {
+   "height": 2.5,
+   "top": 4.0,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -969.0022763713906,
+     175.8071499701326
+    ],
+    [
+     -965.8866772779644,
+     170.0071555564443
+    ],
+    [
+     -962.4914009065737,
+     171.8310055863117
+    ],
+    [
+     -965.607,
+     177.631
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -965.607,
+     177.631
+    ],
+    [
+     -968.902,
+     175.823
+    ]
+   ],
+   "street_m": 15.4,
+   "street_walls": {
+    "Odengatan": [
+     [
+      -965.607,
+      177.631
+     ],
+     [
+      -968.902,
+      175.823
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -968.902,
+      175.823
+     ],
+     [
+      -966.615,
+      171.363
+     ]
+    ]
+   },
+   "osm": "93309089",
+   "mesh": "SM_Slott139_93309089",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -962.529,
+      171.901
+     ],
+     [
+      -965.607,
+      177.631
+     ],
+     [
+      -968.902,
+      175.823
+     ],
+     [
+      -966.615,
+      171.363
+     ],
+     [
+      -965.271,
+      172.095
+     ],
+     [
+      -964.5279999999995,
+      170.73700000000034
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -962.529,
+      171.901
+     ],
+     "q": [
+      -965.607,
+      177.631
+     ],
+     "z0": 0.0,
+     "z1": 2.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -965.607,
+      177.631
+     ],
+     "q": [
+      -968.902,
+      175.823
+     ],
+     "z0": 0.0,
+     "z1": 2.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -968.902,
+      175.823
+     ],
+     "q": [
+      -966.615,
+      171.363
+     ],
+     "z0": 0.0,
+     "z1": 2.5,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -964.528,
+      170.737
+     ],
+     "q": [
+      -962.529,
+      171.901
+     ],
+     "z0": 0.0,
+     "z1": 2.5,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93309101_0": {
+   "height": 4.8,
+   "top": 10.8,
+   "roof": "mhip",
+   "role": "main",
+   "rect": [
+    [
+     -926.297,
+     195.912
+    ],
+    [
+     -941.4862484615403,
+     187.68169796894614
+    ],
+    [
+     -936.956,
+     179.321
+    ],
+    [
+     -921.7667515384597,
+     187.55130203105386
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -926.297,
+     195.912
+    ],
+    [
+     -941.482,
+     187.684
+    ]
+   ],
+   "street_m": 17.5,
+   "street_walls": {
+    "Bremergatan": [
+     [
+      -921.771,
+      187.549
+     ],
+     [
+      -926.297,
+      195.912
+     ]
+    ],
+    "Odengatan": [
+     [
+      -926.297,
+      195.912
+     ],
+     [
+      -941.482,
+      187.684
+     ]
+    ]
+   },
+   "osm": "93309101",
+   "mesh": "SM_Slott139_93309101",
+   "wall": "Pink",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -936.956,
+      179.321
+     ],
+     [
+      -921.771,
+      187.549
+     ],
+     [
+      -926.297,
+      195.912
+     ],
+     [
+      -941.482,
+      187.684
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -936.956,
+      179.321
+     ],
+     "q": [
+      -921.771,
+      187.549
+     ],
+     "z0": 0.0,
+     "z1": 4.8,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -921.771,
+      187.549
+     ],
+     "q": [
+      -926.297,
+      195.912
+     ],
+     "z0": 0.0,
+     "z1": 4.8,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -926.297,
+      195.912
+     ],
+     "q": [
+      -941.482,
+      187.684
+     ],
+     "z0": 0.0,
+     "z1": 4.8,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -941.482,
+      187.684
+     ],
+     "q": [
+      -936.956,
+      179.321
+     ],
+     "z0": 0.0,
+     "z1": 4.8,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325628_0": {
+   "height": 14.2,
+   "top": 17.6,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -956.2346482801722,
+     232.21587102397544
+    ],
+    [
+     -1001.0449806781085,
+     210.84338687673815
+    ],
+    [
+     -991.2599715488532,
+     190.32777864991215
+    ],
+    [
+     -946.4496391509169,
+     211.70026279714943
+    ]
+   ],
+   "street": "Vegagatan",
+   "street_wall": [
+    [
+     -1000.796,
+     210.962
+    ],
+    [
+     -989.348,
+     191.24
+    ]
+   ],
+   "street_m": 12.1,
+   "street_walls": {
+    "Odengatan": [
+     [
+      -962.05,
+      222.106
+     ],
+     [
+      -960.424,
+      221.423
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -1000.796,
+      210.962
+     ],
+     [
+      -989.348,
+      191.24
+     ]
+    ]
+   },
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -946.4556978319525,
+      211.697373082714
+     ],
+     [
+      -950.989,
+      221.114
+     ],
+     [
+      -956.849,
+      232.517
+     ],
+     [
+      -969.93,
+      225.662
+     ],
+     [
+      -966.314,
+      219.643
+     ],
+     [
+      -962.05,
+      222.106
+     ],
+     [
+      -960.424,
+      221.423
+     ],
+     [
+      -959.39,
+      219.442
+     ],
+     [
+      -960.572,
+      217.6
+     ],
+     [
+      -982.746,
+      207.069
+     ],
+     [
+      -988.1484650614553,
+      216.99443644101703
+     ],
+     [
+      -1000.7960004936799,
+      210.9621390653499
+     ],
+     [
+      -989.3480280565474,
+      191.23968846608662
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -946.456,
+      211.697
+     ],
+     "q": [
+      -950.989,
+      221.114
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325640"
+    },
+    {
+     "p": [
+      -950.989,
+      221.114
+     ],
+     "q": [
+      -956.849,
+      232.517
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -956.849,
+      232.517
+     ],
+     "q": [
+      -969.93,
+      225.662
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -969.93,
+      225.662
+     ],
+     "q": [
+      -966.314,
+      219.643
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -966.314,
+      219.643
+     ],
+     "q": [
+      -962.05,
+      222.106
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -962.05,
+      222.106
+     ],
+     "q": [
+      -960.424,
+      221.423
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -960.424,
+      221.423
+     ],
+     "q": [
+      -959.39,
+      219.442
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -959.39,
+      219.442
+     ],
+     "q": [
+      -960.572,
+      217.6
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -960.572,
+      217.6
+     ],
+     "q": [
+      -982.746,
+      207.069
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -982.746,
+      207.069
+     ],
+     "q": [
+      -988.148,
+      216.994
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1000.796,
+      210.962
+     ],
+     "q": [
+      -989.348,
+      191.24
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325628_1": {
+   "height": 14.2,
+   "top": 14.855433790889057,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -989.4901698759986,
+     221.20907336768627
+    ],
+    [
+     -1000.883949935311,
+     215.7747601041235
+    ],
+    [
+     -998.9976482801723,
+     211.81987102397542
+    ],
+    [
+     -987.6038682208599,
+     217.2541842875382
+    ]
+   ],
+   "street": null,
+   "street_wall": null,
+   "street_m": null,
+   "street_walls": {},
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -988.299,
+      217.271
+     ],
+     [
+      -987.7477627074172,
+      217.55587873393222
+     ],
+     [
+      -989.4944565240594,
+      221.21806091088217
+     ],
+     [
+      -1002.51,
+      213.915
+     ],
+     [
+      -1000.5232030560247,
+      215.01840499533148
+     ],
+     [
+      -998.9976482801723,
+      211.81987102397542
+     ],
+     [
+      -988.1484650614553,
+      216.99443644101703
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -988.299,
+      217.271
+     ],
+     "q": [
+      -987.748,
+      217.556
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -989.494,
+      221.218
+     ],
+     "q": [
+      -1002.51,
+      213.915
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325620"
+    },
+    {
+     "p": [
+      -988.148,
+      216.994
+     ],
+     "q": [
+      -988.299,
+      217.271
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325628_2": {
+   "height": 14.2,
+   "top": 14.45,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -946.4496391509169,
+     211.70026279714943
+    ],
+    [
+     -971.9709391745317,
+     199.52776705827125
+    ],
+    [
+     -971.1743000236148,
+     197.85750426112182
+    ],
+    [
+     -945.653,
+     210.03
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -971.174,
+     197.858
+    ],
+    [
+     -945.653,
+     210.03
+    ]
+   ],
+   "street_m": 4.6,
+   "street_walls": {
+    "Odengatan": [
+     [
+      -971.174,
+      197.858
+     ],
+     [
+      -945.653,
+      210.03
+     ]
+    ]
+   },
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -971.9709391745317,
+      199.52776705827125
+     ],
+     [
+      -971.1743000236148,
+      197.85750426112182
+     ],
+     [
+      -945.653,
+      210.03
+     ],
+     [
+      -946.4556978319525,
+      211.697373082714
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -971.174,
+      197.858
+     ],
+     "q": [
+      -945.653,
+      210.03
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -945.653,
+      210.03
+     ],
+     "q": [
+      -946.456,
+      211.697
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325640"
+    }
+   ]
+  },
+  "93325628_3": {
+   "height": 14.2,
+   "top": 14.91976976034476,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -983.8274052672974,
+     224.38646776061182
+    ],
+    [
+     -989.6753251843703,
+     221.59727676305278
+    ],
+    [
+     -987.6038682208599,
+     217.2541842875382
+    ],
+    [
+     -981.755948303787,
+     220.04337528509726
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -987.748,
+     217.556
+    ],
+    [
+     -981.989,
+     220.532
+    ]
+   ],
+   "street_m": 30.2,
+   "street_walls": {
+    "Odengatan": [
+     [
+      -987.748,
+      217.556
+     ],
+     [
+      -981.989,
+      220.532
+     ]
+    ]
+   },
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -989.4944565240594,
+      221.21806091088217
+     ],
+     [
+      -987.7477627074172,
+      217.55587873393222
+     ],
+     [
+      -981.989,
+      220.532
+     ],
+     [
+      -983.9423123373189,
+      224.3316623306803
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -987.748,
+      217.556
+     ],
+     "q": [
+      -981.989,
+      220.532
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -981.989,
+      220.532
+     ],
+     "q": [
+      -983.942,
+      224.332
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -983.942,
+      224.332
+     ],
+     "q": [
+      -988.241,
+      221.921
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -988.241,
+      221.921
+     ],
+     "q": [
+      -989.494,
+      221.218
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325620"
+    }
+   ]
+  },
+  "93325628_4": {
+   "height": 14.2,
+   "top": 14.45,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -977.8188590916046,
+     196.7385760607122
+    ],
+    [
+     -989.212639150917,
+     191.30426279714942
+    ],
+    [
+     -988.416,
+     189.634
+    ],
+    [
+     -977.0222199406877,
+     195.06831326356277
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -988.416,
+     189.634
+    ],
+    [
+     -977.022,
+     195.068
+    ]
+   ],
+   "street_m": 5.6,
+   "street_walls": {
+    "Vegagatan": [
+     [
+      -989.348,
+      191.24
+     ],
+     [
+      -988.416,
+      189.634
+     ]
+    ],
+    "Odengatan": [
+     [
+      -988.416,
+      189.634
+     ],
+     [
+      -977.022,
+      195.068
+     ]
+    ]
+   },
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -977.9078536146986,
+      196.6961297334427
+     ],
+     [
+      -989.3480280565474,
+      191.23968846608662
+     ],
+     [
+      -988.416,
+      189.634
+     ],
+     [
+      -977.0222199406877,
+      195.06831326356277
+     ],
+     [
+      -977.8188590916046,
+      196.73857606071218
+     ],
+     [
+      -989.212639150917,
+      191.3042627971494
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -989.348,
+      191.24
+     ],
+     "q": [
+      -988.416,
+      189.634
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -988.416,
+      189.634
+     ],
+     "q": [
+      -977.022,
+      195.068
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325628_5": {
+   "height": 14.2,
+   "top": 14.45,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -971.9709391745317,
+     199.52776705827125
+    ],
+    [
+     -977.8188590916046,
+     196.7385760607122
+    ],
+    [
+     -977.0222199406877,
+     195.06831326356277
+    ],
+    [
+     -971.1743000236148,
+     197.85750426112182
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -977.022,
+     195.068
+    ],
+    [
+     -971.174,
+     197.858
+    ]
+   ],
+   "street_m": 5.2,
+   "street_walls": {
+    "Odengatan": [
+     [
+      -977.022,
+      195.068
+     ],
+     [
+      -971.174,
+      197.858
+     ]
+    ]
+   },
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -977.0222199406877,
+      195.06831326356277
+     ],
+     [
+      -971.1743000236148,
+      197.85750426112182
+     ],
+     [
+      -971.9709391745317,
+      199.52776705827125
+     ],
+     [
+      -977.8188590916046,
+      196.73857606071218
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -977.022,
+      195.068
+     ],
+     "q": [
+      -971.174,
+      197.858
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325628_6": {
+   "height": 14.2,
+   "top": 14.45,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -1000.5232030560247,
+     215.01840499533148
+    ],
+    [
+     -1002.5705354539609,
+     214.0419208480942
+    ],
+    [
+     -1001.0449806781085,
+     210.84338687673815
+    ],
+    [
+     -998.9976482801723,
+     211.81987102397542
+    ]
+   ],
+   "street": "Vegagatan",
+   "street_wall": [
+    [
+     -1002.51,
+     213.915
+    ],
+    [
+     -1000.796,
+     210.962
+    ]
+   ],
+   "street_m": 11.7,
+   "street_walls": {
+    "Vegagatan": [
+     [
+      -1002.51,
+      213.915
+     ],
+     [
+      -1000.796,
+      210.962
+     ]
+    ]
+   },
+   "osm": "93325628",
+   "mesh": "SM_Slott139_93325628",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1002.51,
+      213.915
+     ],
+     [
+      -1000.7960004936799,
+      210.9621390653499
+     ],
+     [
+      -998.9976482801723,
+      211.81987102397542
+     ],
+     [
+      -1000.5232030560247,
+      215.01840499533148
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1002.51,
+      213.915
+     ],
+     "q": [
+      -1000.796,
+      210.962
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1000.523,
+      215.018
+     ],
+     "q": [
+      -1002.51,
+      213.915
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325620"
+    }
+   ]
+  },
+  "93325650_0": {
+   "height": 14.2,
+   "top": 17.6,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -1018.8622796784877,
+     243.27095812132438
+    ],
+    [
+     -1007.4696134208035,
+     249.08118818874982
+    ],
+    [
+     -1021.3553337423159,
+     276.3082300674254
+    ],
+    [
+     -1032.748,
+     270.498
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1021.355,
+     276.308
+    ],
+    [
+     -1032.748,
+     270.498
+    ]
+   ],
+   "street_m": 5.0,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1021.355,
+      276.308
+     ],
+     [
+      -1032.748,
+      270.498
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -1032.748,
+      270.498
+     ],
+     [
+      -1018.572,
+      243.419
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1014.789,
+      263.433
+     ],
+     [
+      -1016.863,
+      264.355
+     ],
+     [
+      -1016.1479991969953,
+      266.09771793993684
+     ],
+     [
+      -1021.3553337423159,
+      276.3082300674254
+     ],
+     [
+      -1032.748,
+      270.498
+     ],
+     [
+      -1018.572,
+      243.419
+     ],
+     [
+      -1007.7559422447455,
+      249.64262012746323
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1014.789,
+      263.433
+     ],
+     "q": [
+      -1016.863,
+      264.355
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1016.863,
+      264.355
+     ],
+     "q": [
+      -1016.148,
+      266.098
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1016.148,
+      266.098
+     ],
+     "q": [
+      -1016.239,
+      266.277
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1021.355,
+      276.308
+     ],
+     "q": [
+      -1032.748,
+      270.498
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1032.748,
+      270.498
+     ],
+     "q": [
+      -1018.572,
+      243.419
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1018.572,
+      243.419
+     ],
+     "q": [
+      -1007.756,
+      249.643
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325620"
+    },
+    {
+     "p": [
+      -1012.962,
+      259.851
+     ],
+     "q": [
+      -1014.789,
+      263.433
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_1": {
+   "height": 14.2,
+   "top": 16.64900784379686,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -984.1974308126504,
+     261.41625185992723
+    ],
+    [
+     -975.9913340400539,
+     265.60133980386524
+    ],
+    [
+     -989.6883248735687,
+     292.45832196979495
+    ],
+    [
+     -997.8944216461653,
+     288.27323402585694
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -990.587,
+     292.0
+    ],
+    [
+     -997.894,
+     288.273
+    ]
+   ],
+   "street_m": 6.7,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -990.587,
+      292.0
+     ],
+     [
+      -997.894,
+      288.273
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -988.569,
+      269.9880000000001
+     ],
+     [
+      -983.594,
+      261.724
+     ],
+     [
+      -976.1360000000004,
+      265.88500000000073
+     ],
+     [
+      -990.587,
+      292.0
+     ],
+     [
+      -997.8944216461653,
+      288.27323402585694
+     ],
+     [
+      -990.6363637700946,
+      274.0416751888643
+     ],
+     [
+      -989.962,
+      274.095
+     ],
+     [
+      -987.958,
+      271.555
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -988.569,
+      269.988
+     ],
+     "q": [
+      -983.594,
+      261.724
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -983.594,
+      261.724
+     ],
+     "q": [
+      -977.379,
+      265.192
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325645"
+    },
+    {
+     "p": [
+      -977.379,
+      265.192
+     ],
+     "q": [
+      -976.136,
+      265.885
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -976.136,
+      265.885
+     ],
+     "q": [
+      -979.725,
+      272.37
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325643"
+    },
+    {
+     "p": [
+      -979.725,
+      272.37
+     ],
+     "q": [
+      -984.38,
+      280.783
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -984.38,
+      280.783
+     ],
+     "q": [
+      -990.587,
+      292.0
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325644"
+    },
+    {
+     "p": [
+      -990.587,
+      292.0
+     ],
+     "q": [
+      -997.894,
+      288.273
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -990.728,
+      274.222
+     ],
+     "q": [
+      -990.636,
+      274.042
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -990.636,
+      274.042
+     ],
+     "q": [
+      -989.962,
+      274.095
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -989.962,
+      274.095
+     ],
+     "q": [
+      -987.958,
+      271.555
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -987.958,
+      271.555
+     ],
+     "q": [
+      -988.569,
+      269.988
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_2": {
+   "height": 14.2,
+   "top": 15.718985888143118,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -1007.7593884245749,
+     249.64937737738367
+    ],
+    [
+     -1002.6695945205319,
+     252.24515898893785
+    ],
+    [
+     -1016.2655398382728,
+     278.9040116789796
+    ],
+    [
+     -1021.3553337423159,
+     276.3082300674254
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1016.266,
+     278.904
+    ],
+    [
+     -1021.355,
+     276.308
+    ]
+   ],
+   "street_m": 5.4,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1016.266,
+      278.904
+     ],
+     [
+      -1021.355,
+      276.308
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -1015.937,
+      266.612
+     ],
+     [
+      -1014.157,
+      266.036
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1002.7974133342668,
+      252.49578539600768
+     ],
+     [
+      -1007.7593884245749,
+      249.64937737738367
+     ],
+     [
+      -1002.7974133342473,
+      252.4957853960189
+     ],
+     [
+      -1003.5131208877942,
+      253.89914071948135
+     ],
+     [
+      -1002.7974133342473,
+      252.49578539601893
+     ],
+     [
+      -1002.731,
+      252.534
+     ],
+     [
+      -1004.538,
+      255.688
+     ],
+     [
+      -1005.296,
+      257.395
+     ],
+     [
+      -1009.744,
+      255.119
+     ],
+     [
+      -1014.789,
+      263.433
+     ],
+     [
+      -1007.7559422447455,
+      249.64262012746323
+     ],
+     [
+      -1018.572,
+      243.419
+     ]
+    ],
+    [
+     [
+      -1010.6760765893936,
+      267.9442237506009
+     ],
+     [
+      -1016.2655398382728,
+      278.9040116789796
+     ],
+     [
+      -1021.3553337423159,
+      276.3082300674254
+     ],
+     [
+      -1016.1479991969953,
+      266.09771793993684
+     ],
+     [
+      -1015.937,
+      266.612
+     ],
+     [
+      -1014.157,
+      266.036
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1007.759,
+      249.649
+     ],
+     "q": [
+      -1004.747,
+      251.378
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325620"
+    },
+    {
+     "p": [
+      -1004.747,
+      251.378
+     ],
+     "q": [
+      -1002.797,
+      252.496
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325656"
+    },
+    {
+     "p": [
+      -1002.797,
+      252.496
+     ],
+     "q": [
+      -1003.513,
+      253.899
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325656"
+    },
+    {
+     "p": [
+      -1002.731,
+      252.534
+     ],
+     "q": [
+      -1004.538,
+      255.688
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325656"
+    },
+    {
+     "p": [
+      -1004.538,
+      255.688
+     ],
+     "q": [
+      -1005.296,
+      257.395
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1005.296,
+      257.395
+     ],
+     "q": [
+      -1009.744,
+      255.119
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1009.744,
+      255.119
+     ],
+     "q": [
+      -1014.789,
+      263.433
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1018.572,
+      243.419
+     ],
+     "q": [
+      -1004.725,
+      251.386
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325620"
+    },
+    {
+     "p": [
+      -1004.725,
+      251.386
+     ],
+     "q": [
+      -1002.797,
+      252.496
+     ],
+     "z0": 6.2,
+     "z1": 14.2,
+     "kind": "upper",
+     "neighbour": "93325656"
+    },
+    {
+     "p": [
+      -1016.266,
+      278.904
+     ],
+     "q": [
+      -1021.355,
+      276.308
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1016.148,
+      266.098
+     ],
+     "q": [
+      -1015.937,
+      266.612
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1015.937,
+      266.612
+     ],
+     "q": [
+      -1014.157,
+      266.036
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1014.157,
+      266.036
+     ],
+     "q": [
+      -1010.676,
+      267.944
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_3": {
+   "height": 14.2,
+   "top": 15.990450352071402,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -1010.6781109276661,
+     267.9482126695808
+    ],
+    [
+     -1004.6786981888124,
+     271.0078975136507
+    ],
+    [
+     -1010.2661270994191,
+     281.96369652304946
+    ],
+    [
+     -1016.2655398382728,
+     278.9040116789796
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1010.266,
+     281.964
+    ],
+    [
+     -1016.266,
+     278.904
+    ]
+   ],
+   "street_m": 5.7,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1010.266,
+      281.964
+     ],
+     [
+      -1016.266,
+      278.904
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1010.6760765893936,
+      267.9442237506009
+     ],
+     [
+      -1014.157,
+      266.036
+     ],
+     [
+      -1004.768,
+      271.183
+     ],
+     [
+      -1010.2661270994191,
+      281.96369652304946
+     ],
+     [
+      -1016.2655398382728,
+      278.9040116789796
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1014.157,
+      266.036
+     ],
+     "q": [
+      -1004.768,
+      271.183
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1010.266,
+      281.964
+     ],
+     "q": [
+      -1016.266,
+      278.904
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_4": {
+   "height": 14.2,
+   "top": 15.640102002226415,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -1003.6319651747524,
+     268.9554693392584
+    ],
+    [
+     -998.8064941487559,
+     271.41644697263945
+    ],
+    [
+     -1005.4406560734226,
+     284.4246741564305
+    ],
+    [
+     -1010.2661270994191,
+     281.96369652304946
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1005.441,
+     284.425
+    ],
+    [
+     -1010.266,
+     281.964
+    ]
+   ],
+   "street_m": 6.0,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1005.441,
+      284.425
+     ],
+     [
+      -1010.266,
+      281.964
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -1004.768,
+      271.183
+     ],
+     [
+      -1003.027,
+      269.264
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1003.027,
+      269.264
+     ],
+     [
+      -1000.022,
+      271.14
+     ],
+     [
+      -1000.017,
+      273.79
+     ],
+     [
+      -1005.4406560734226,
+      284.4246741564305
+     ],
+     [
+      -1010.2661270994191,
+      281.96369652304946
+     ],
+     [
+      -1004.768,
+      271.183
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1003.027,
+      269.264
+     ],
+     "q": [
+      -1000.022,
+      271.14
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1000.022,
+      271.14
+     ],
+     "q": [
+      -1000.017,
+      273.79
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1005.441,
+      284.425
+     ],
+     "q": [
+      -1010.266,
+      281.964
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1004.768,
+      271.183
+     ],
+     "q": [
+      -1003.027,
+      269.264
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_5": {
+   "height": 14.2,
+   "top": 15.626178376241558,
+   "roof": "saddle",
+   "role": "wing",
+   "rect": [
+    [
+     -1000.0190081209985,
+     273.79393751229725
+    ],
+    [
+     -995.2401921608673,
+     276.23112118381215
+    ],
+    [
+     -1000.6618401132914,
+     286.8618578279454
+    ],
+    [
+     -1005.4406560734226,
+     284.4246741564305
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1000.662,
+     286.862
+    ],
+    [
+     -1005.441,
+     284.425
+    ]
+   ],
+   "street_m": 6.2,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1000.662,
+      286.862
+     ],
+     [
+      -1005.441,
+      284.425
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1000.017,
+      273.79
+     ],
+     [
+      -995.31,
+      276.368
+     ],
+     [
+      -1000.6618401132914,
+      286.8618578279454
+     ],
+     [
+      -1005.4406560734226,
+      284.4246741564305
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1000.017,
+      273.79
+     ],
+     "q": [
+      -995.31,
+      276.368
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1000.662,
+      286.862
+     ],
+     "q": [
+      -1005.441,
+      284.425
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_6": {
+   "height": 14.2,
+   "top": 14.45,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -992.2710428253829,
+     273.2777397247215
+    ],
+    [
+     -990.664592207196,
+     274.0970253486928
+    ],
+    [
+     -997.8944216461653,
+     288.27323402585694
+    ],
+    [
+     -999.5008722643521,
+     287.45394840188567
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -997.894,
+     288.273
+    ],
+    [
+     -999.501,
+     287.454
+    ]
+   ],
+   "street_m": 6.4,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -997.894,
+      288.273
+     ],
+     [
+      -999.501,
+      287.454
+     ]
+    ]
+   },
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -997.8944216461653,
+      288.27323402585694
+     ],
+     [
+      -999.5008722643521,
+      287.45394840188567
+     ],
+     [
+      -993.4499313805363,
+      275.5892977367122
+     ],
+     [
+      -993.5835568401083,
+      275.52114910096543
+     ],
+     [
+      -993.359,
+      275.411
+     ],
+     [
+      -992.036,
+      273.931
+     ],
+     [
+      -990.7982176667682,
+      274.028876712946
+     ],
+     [
+      -990.664592207196,
+      274.09702534869285
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -997.894,
+      288.273
+     ],
+     "q": [
+      -999.501,
+      287.454
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -993.542,
+      275.769
+     ],
+     "q": [
+      -993.45,
+      275.589
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -993.584,
+      275.521
+     ],
+     "q": [
+      -993.359,
+      275.411
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -993.359,
+      275.411
+     ],
+     "q": [
+      -992.036,
+      273.931
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -992.036,
+      273.931
+     ],
+     "q": [
+      -990.798,
+      274.029
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93325650_7": {
+   "height": 14.2,
+   "top": 14.45,
+   "roof": "flat",
+   "role": "annex",
+   "rect": [
+    [
+     -994.6108992294755,
+     274.99720716277193
+    ],
+    [
+     -993.4499313805362,
+     275.5892977367122
+    ],
+    [
+     -999.5008722643521,
+     287.45394840188567
+    ],
+    [
+     -1000.6618401132914,
+     286.8618578279454
+    ]
+   ],
+   "street": null,
+   "street_wall": null,
+   "street_m": null,
+   "street_walls": {},
+   "osm": "93325650",
+   "mesh": "SM_Slott139_93325650",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1000.6618401132914,
+      286.8618578279454
+     ],
+     [
+      -995.31,
+      276.368
+     ],
+     [
+      -993.5835568401083,
+      275.52114910096543
+     ],
+     [
+      -993.4499313805363,
+      275.5892977367122
+     ],
+     [
+      -999.5008722643521,
+      287.45394840188567
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -995.31,
+      276.368
+     ],
+     "q": [
+      -993.584,
+      275.521
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -999.501,
+      287.454
+     ],
+     "q": [
+      -1000.662,
+      286.862
+     ],
+     "z0": 0.0,
+     "z1": 14.2,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93326740_0": {
+   "height": 14.4,
+   "top": 17.2,
+   "roof": "hip",
+   "role": "main",
+   "rect": [
+    [
+     -1042.330123830986,
+     320.8893617224884
+    ],
+    [
+     -1057.0786980580726,
+     312.5693200611868
+    ],
+    [
+     -1040.9154809890858,
+     283.91749157344685
+    ],
+    [
+     -1026.1669067619991,
+     292.23753323474847
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1039.5,
+     284.716
+    ],
+    [
+     -1026.167,
+     292.238
+    ]
+   ],
+   "street_m": 11.0,
+   "street_walls": {
+    "Vegagatan": [
+     [
+      -1043.513,
+      288.522
+     ],
+     [
+      -1041.988,
+      286.278
+     ]
+    ],
+    "Frejagatan": [
+     [
+      -1039.5,
+      284.716
+     ],
+     [
+      -1026.167,
+      292.238
+     ]
+    ]
+   },
+   "osm": "93326740",
+   "mesh": "SM_Slott139_93326740",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1042.85,
+      316.789
+     ],
+     [
+      -1041.214,
+      318.287
+     ],
+     [
+      -1041.7720000000002,
+      319.9000000000003
+     ],
+     [
+      -1041.878,
+      320.0
+     ],
+     [
+      -1043.9066564870493,
+      320.0
+     ],
+     [
+      -1056.108,
+      313.099
+     ],
+     [
+      -1043.513,
+      288.522
+     ],
+     [
+      -1041.988,
+      286.278
+     ],
+     [
+      -1039.5,
+      284.71600000000007
+     ],
+     [
+      -1026.1669067619991,
+      292.23753323474847
+     ],
+     [
+      -1032.8908528268275,
+      304.1567785550339
+     ],
+     [
+      -1036.862,
+      301.819
+     ],
+     [
+      -1044.322,
+      316.038
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1042.85,
+      316.789
+     ],
+     "q": [
+      -1041.214,
+      318.287
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1041.214,
+      318.287
+     ],
+     "q": [
+      -1041.772,
+      319.9
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1041.878,
+      320.0
+     ],
+     "q": [
+      -1043.907,
+      320.0
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1043.907,
+      320.0
+     ],
+     "q": [
+      -1056.108,
+      313.099
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1056.108,
+      313.099
+     ],
+     "q": [
+      -1043.513,
+      288.522
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1043.513,
+      288.522
+     ],
+     "q": [
+      -1041.988,
+      286.278
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1041.988,
+      286.278
+     ],
+     "q": [
+      -1039.5,
+      284.716
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1039.5,
+      284.716
+     ],
+     "q": [
+      -1026.167,
+      292.238
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1032.891,
+      304.157
+     ],
+     "q": [
+      -1036.862,
+      301.819
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1036.862,
+      301.819
+     ],
+     "q": [
+      -1044.322,
+      316.038
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1044.322,
+      316.038
+     ],
+     "q": [
+      -1042.85,
+      316.789
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93326740_1": {
+   "height": 14.4,
+   "top": 16.179832177549464,
+   "roof": "hip",
+   "role": "wing",
+   "rect": [
+    [
+     -1014.0311571609373,
+     318.9185059360296
+    ],
+    [
+     -1023.406152511775,
+     313.6298352691236
+    ],
+    [
+     -1014.9180283186851,
+     298.5833084839521
+    ],
+    [
+     -1005.5430329678474,
+     303.8719791508581
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1014.918,
+     298.583
+    ],
+    [
+     -1008.849,
+     302.007
+    ]
+   ],
+   "street_m": 10.9,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1014.918,
+      298.583
+     ],
+     [
+      -1008.849,
+      302.007
+     ]
+    ]
+   },
+   "osm": "93326740",
+   "mesh": "SM_Slott139_93326740",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1022.697,
+      312.287
+     ],
+     [
+      -1021.759,
+      310.71
+     ],
+     [
+      -1036.862,
+      301.819
+     ],
+     [
+      -1021.757640853742,
+      310.70759070082977
+     ],
+     [
+      -1014.9180283186851,
+      298.5833084839521
+     ],
+     [
+      -1008.849,
+      302.007
+     ],
+     [
+      -1006.827,
+      304.005
+     ],
+     [
+      -1006.863,
+      305.931
+     ],
+     [
+      -1014.0311710568463,
+      318.9184980969978
+     ],
+     [
+      -1022.128,
+      314.23
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1022.697,
+      312.287
+     ],
+     "q": [
+      -1021.759,
+      310.71
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1021.759,
+      310.71
+     ],
+     "q": [
+      -1036.862,
+      301.819
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1014.918,
+      298.583
+     ],
+     "q": [
+      -1008.849,
+      302.007
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1008.849,
+      302.007
+     ],
+     "q": [
+      -1006.827,
+      304.005
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1006.827,
+      304.005
+     ],
+     "q": [
+      -1006.863,
+      305.931
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1006.863,
+      305.931
+     ],
+     "q": [
+      -1014.031,
+      318.918
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1014.031,
+      318.918
+     ],
+     "q": [
+      -1022.128,
+      314.23
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1022.128,
+      314.23
+     ],
+     "q": [
+      -1022.697,
+      312.287
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93326740_2": {
+   "height": 14.4,
+   "top": 16.53558674596717,
+   "roof": "hip",
+   "role": "wing",
+   "rect": [
+    [
+     -1021.757640853742,
+     310.70759070082977
+    ],
+    [
+     -1033.0065192970562,
+     304.3618154516261
+    ],
+    [
+     -1026.1669067619991,
+     292.23753323474847
+    ],
+    [
+     -1014.9180283186851,
+     298.5833084839521
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1026.167,
+     292.238
+    ],
+    [
+     -1014.918,
+     298.583
+    ]
+   ],
+   "street_m": 10.9,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1026.167,
+      292.238
+     ],
+     [
+      -1014.918,
+      298.583
+     ]
+    ]
+   },
+   "osm": "93326740",
+   "mesh": "SM_Slott139_93326740",
+   "wall": "Cream",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1021.757640853742,
+      310.70759070082977
+     ],
+     [
+      -1032.8908528268275,
+      304.15677855503384
+     ],
+     [
+      -1026.1669067619991,
+      292.23753323474847
+     ],
+     [
+      -1014.9180283186851,
+      298.5833084839521
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1021.758,
+      310.708
+     ],
+     "q": [
+      -1032.891,
+      304.157
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1026.167,
+      292.238
+     ],
+     "q": [
+      -1014.918,
+      298.583
+     ],
+     "z0": 0.0,
+     "z1": 14.4,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93326744_0": {
+   "height": 10.0,
+   "top": 11.8,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -1120.563813069032,
+     240.19266770761854
+    ],
+    [
+     -1085.326947392837,
+     260.01515469347214
+    ],
+    [
+     -1091.156,
+     270.377
+    ],
+    [
+     -1126.392865676195,
+     250.55451301414638
+    ]
+   ],
+   "street": "Frejagatan",
+   "street_wall": [
+    [
+     -1120.564,
+     240.193
+    ],
+    [
+     -1085.329,
+     260.014
+    ]
+   ],
+   "street_m": 11.4,
+   "street_walls": {
+    "Frejagatan": [
+     [
+      -1120.564,
+      240.193
+     ],
+     [
+      -1085.329,
+      260.014
+     ]
+    ],
+    "Vegagatan": [
+     [
+      -1085.329,
+      260.014
+     ],
+     [
+      -1091.156,
+      270.377
+     ]
+    ]
+   },
+   "osm": "93326744",
+   "mesh": "SM_Slott139_93326744",
+   "wall": "YellowBrick",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -1120.5640000000813,
+      240.19299999995425
+     ],
+     [
+      -1085.329,
+      260.014
+     ],
+     [
+      -1091.156,
+      270.377
+     ],
+     [
+      -1126.3919999999998,
+      250.5550000000001
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -1120.564,
+      240.193
+     ],
+     "q": [
+      -1085.329,
+      260.014
+     ],
+     "z0": 0.0,
+     "z1": 10.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1085.329,
+      260.014
+     ],
+     "q": [
+      -1091.156,
+      270.377
+     ],
+     "z0": 0.0,
+     "z1": 10.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1091.156,
+      270.377
+     ],
+     "q": [
+      -1126.392,
+      250.555
+     ],
+     "z0": 0.0,
+     "z1": 10.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -1126.392,
+      250.555
+     ],
+     "q": [
+      -1120.564,
+      240.193
+     ],
+     "z0": 0.0,
+     "z1": 10.0,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333631_0": {
+   "height": 4.7,
+   "top": 10.6,
+   "roof": "saddle",
+   "role": "main",
+   "ridge_fixed": true,
+   "rect": [
+    [
+     -795.701,
+     216.896
+    ],
+    [
+     -802.8700073631288,
+     224.15171040129115
+    ],
+    [
+     -808.9033968802477,
+     218.1904176428106
+    ],
+    [
+     -801.7343895171189,
+     210.93470724151942
+    ]
+   ],
+   "street": "Järnvägsgatan",
+   "street_wall": [
+    [
+     -795.701,
+     216.896
+    ],
+    [
+     -802.87,
+     224.152
+    ]
+   ],
+   "street_m": 10.5,
+   "street_walls": {
+    "Järnvägsgatan": [
+     [
+      -795.701,
+      216.896
+     ],
+     [
+      -802.87,
+      224.152
+     ]
+    ]
+   },
+   "osm": "93333631",
+   "mesh": "SM_Slott139_93333631",
+   "wall": "BrownBoard",
+   "boards": true,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -808.9033968802477,
+      218.19041764281062
+     ],
+     [
+      -801.735,
+      210.936
+     ],
+     [
+      -795.701,
+      216.896
+     ],
+     [
+      -802.8700073631288,
+      224.15171040129115
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -808.903,
+      218.19
+     ],
+     "q": [
+      -801.735,
+      210.936
+     ],
+     "z0": 0.0,
+     "z1": 4.7,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -801.735,
+      210.936
+     ],
+     "q": [
+      -795.701,
+      216.896
+     ],
+     "z0": 0.0,
+     "z1": 4.7,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -795.701,
+      216.896
+     ],
+     "q": [
+      -802.87,
+      224.152
+     ],
+     "z0": 0.0,
+     "z1": 4.7,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -802.87,
+      224.152
+     ],
+     "q": [
+      -808.903,
+      218.19
+     ],
+     "z0": 3.9,
+     "z1": 4.7,
+     "kind": "upper",
+     "neighbour": "93333631_1"
+    }
+   ]
+  },
+  "93333631_1": {
+   "height": 3.9,
+   "top": 9.6,
+   "roof": "saddle",
+   "role": "wing",
+   "ridge_fixed": true,
+   "rect": [
+    [
+     -802.8700073631288,
+     224.15171040129113
+    ],
+    [
+     -806.4514418941537,
+     227.77645933263545
+    ],
+    [
+     -812.485,
+     221.815
+    ],
+    [
+     -808.9035654689751,
+     218.19025106865567
+    ]
+   ],
+   "street": "Järnvägsgatan",
+   "street_wall": [
+    [
+     -802.87,
+     224.152
+    ],
+    [
+     -806.45,
+     227.775
+    ]
+   ],
+   "street_m": 10.5,
+   "street_walls": {
+    "Järnvägsgatan": [
+     [
+      -802.87,
+      224.152
+     ],
+     [
+      -806.45,
+      227.775
+     ]
+    ]
+   },
+   "osm": "93333631",
+   "mesh": "SM_Slott139_93333631",
+   "wall": "BrownBoard",
+   "boards": true,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -806.45,
+      227.775
+     ],
+     [
+      -812.485,
+      221.815
+     ],
+     [
+      -808.9033968802477,
+      218.19041764281062
+     ],
+     [
+      -802.8700073631288,
+      224.15171040129115
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -806.45,
+      227.775
+     ],
+     "q": [
+      -812.485,
+      221.815
+     ],
+     "z0": 0.0,
+     "z1": 3.9,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -812.485,
+      221.815
+     ],
+     "q": [
+      -808.903,
+      218.19
+     ],
+     "z0": 0.0,
+     "z1": 3.9,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -802.87,
+      224.152
+     ],
+     "q": [
+      -806.45,
+      227.775
+     ],
+     "z0": 0.0,
+     "z1": 3.9,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333637_0": {
+   "height": 3.6,
+   "top": 8.4,
+   "roof": "gambrel",
+   "role": "main",
+   "rect": [
+    [
+     -849.3063727313524,
+     214.19540800140925
+    ],
+    [
+     -842.641,
+     226.781
+    ],
+    [
+     -851.6696272686476,
+     231.56259199859073
+    ],
+    [
+     -858.335,
+     218.977
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -851.671,
+     231.56
+    ],
+    [
+     -858.335,
+     218.977
+    ]
+   ],
+   "street_m": 24.6,
+   "street_walls": {
+    "Bremergatan": [
+     [
+      -858.335,
+      218.977
+     ],
+     [
+      -849.305,
+      214.199
+     ]
+    ],
+    "Järnvägsgatan": [
+     [
+      -842.641,
+      226.781
+     ],
+     [
+      -851.671,
+      231.56
+     ]
+    ],
+    "Odengatan": [
+     [
+      -851.671,
+      231.56
+     ],
+     [
+      -858.335,
+      218.977
+     ]
+    ]
+   },
+   "osm": "93333637",
+   "mesh": "SM_Slott139_93333637",
+   "wall": "BrownBoard",
+   "boards": true,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -858.335,
+      218.977
+     ],
+     [
+      -849.305,
+      214.199
+     ],
+     [
+      -842.641,
+      226.781
+     ],
+     [
+      -851.671,
+      231.56
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -858.335,
+      218.977
+     ],
+     "q": [
+      -849.305,
+      214.199
+     ],
+     "z0": 0.0,
+     "z1": 3.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -849.305,
+      214.199
+     ],
+     "q": [
+      -842.641,
+      226.781
+     ],
+     "z0": 0.0,
+     "z1": 3.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -842.641,
+      226.781
+     ],
+     "q": [
+      -851.671,
+      231.56
+     ],
+     "z0": 0.0,
+     "z1": 3.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -851.671,
+      231.56
+     ],
+     "q": [
+      -858.335,
+      218.977
+     ],
+     "z0": 0.0,
+     "z1": 3.6,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333642_0": {
+   "height": 8.6,
+   "top": 12.2,
+   "roof": "mhip",
+   "role": "main",
+   "rect": [
+    [
+     -838.1016345073864,
+     235.93500631897325
+    ],
+    [
+     -823.0486345073863,
+     227.90200631897326
+    ],
+    [
+     -818.685,
+     236.079
+    ],
+    [
+     -833.738,
+     244.112
+    ]
+   ],
+   "street": "Järnvägsgatan",
+   "street_wall": [
+    [
+     -818.685,
+     236.079
+    ],
+    [
+     -833.738,
+     244.112
+    ]
+   ],
+   "street_m": 16.1,
+   "street_walls": {
+    "Järnvägsgatan": [
+     [
+      -818.685,
+      236.079
+     ],
+     [
+      -833.738,
+      244.112
+     ]
+    ],
+    "Odengatan": [
+     [
+      -833.738,
+      244.112
+     ],
+     [
+      -838.098,
+      235.941
+     ]
+    ]
+   },
+   "osm": "93333642",
+   "mesh": "SM_Slott139_93333642",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -823.046,
+      227.908
+     ],
+     [
+      -818.685,
+      236.079
+     ],
+     [
+      -833.738,
+      244.112
+     ],
+     [
+      -838.098,
+      235.941
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -823.046,
+      227.908
+     ],
+     "q": [
+      -818.685,
+      236.079
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -818.685,
+      236.079
+     ],
+     "q": [
+      -833.738,
+      244.112
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -833.738,
+      244.112
+     ],
+     "q": [
+      -838.098,
+      235.941
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -838.098,
+      235.941
+     ],
+     "q": [
+      -834.911,
+      234.24
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -829.421,
+      231.31
+     ],
+     "q": [
+      -823.046,
+      227.908
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333642_1": {
+   "height": 8.6,
+   "top": 10.59337750134299,
+   "roof": "hip",
+   "role": "wing",
+   "rect": [
+    [
+     -836.6665480669346,
+     228.6433028692185
+    ],
+    [
+     -832.1388160579395,
+     226.22708874391077
+    ],
+    [
+     -829.428221535807,
+     231.30645876030079
+    ],
+    [
+     -833.9559535448021,
+     233.72267288560852
+    ]
+   ],
+   "street": "Odengatan",
+   "street_wall": [
+    [
+     -834.971,
+     234.264
+    ],
+    [
+     -836.249,
+     231.867
+    ]
+   ],
+   "street_m": 27.7,
+   "street_walls": {
+    "Odengatan": [
+     [
+      -834.971,
+      234.264
+     ],
+     [
+      -836.249,
+      231.867
+     ]
+    ]
+   },
+   "osm": "93333642",
+   "mesh": "SM_Slott139_93333642",
+   "wall": "WhiteRender",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -832.1386720561112,
+      226.22735858824305
+     ],
+     [
+      -829.42899999999,
+      231.30499999999464
+     ],
+     [
+      -823.046,
+      227.908
+     ],
+     [
+      -838.098,
+      235.941
+     ],
+     [
+      -834.971,
+      234.264
+     ],
+     [
+      -836.249,
+      231.867
+     ],
+     [
+      -835.236,
+      231.324
+     ],
+     [
+      -836.666,
+      228.643
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -832.139,
+      226.227
+     ],
+     "q": [
+      -829.429,
+      231.305
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -829.429,
+      231.305
+     ],
+     "q": [
+      -823.046,
+      227.908
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -838.098,
+      235.941
+     ],
+     "q": [
+      -834.971,
+      234.264
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -834.971,
+      234.264
+     ],
+     "q": [
+      -836.249,
+      231.867
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -836.249,
+      231.867
+     ],
+     "q": [
+      -835.236,
+      231.324
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -835.236,
+      231.324
+     ],
+     "q": [
+      -836.666,
+      228.643
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -836.666,
+      228.643
+     ],
+     "q": [
+      -832.139,
+      226.227
+     ],
+     "z0": 0.0,
+     "z1": 8.6,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333646_0": {
+   "height": 8.0,
+   "top": 12.0,
+   "roof": "mhip",
+   "role": "main",
+   "rect": [
+    [
+     -722.16,
+     138.824
+    ],
+    [
+     -756.6235188424048,
+     173.9395475779759
+    ],
+    [
+     -765.937,
+     164.799
+    ],
+    [
+     -731.4734811575952,
+     129.68345242202412
+    ]
+   ],
+   "street": "Järnvägsgatan",
+   "street_wall": [
+    [
+     -722.16,
+     138.824
+    ],
+    [
+     -732.396,
+     149.252
+    ]
+   ],
+   "street_m": 12.0,
+   "street_walls": {
+    "Järnvägsgatan": [
+     [
+      -722.16,
+      138.824
+     ],
+     [
+      -732.396,
+      149.252
+     ]
+    ]
+   },
+   "osm": "93333646",
+   "mesh": "SM_Slott139_93333646",
+   "wall": "Yellow",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -733.24,
+      148.428
+     ],
+     [
+      -747.111,
+      162.573
+     ],
+     [
+      -746.278,
+      163.39
+     ],
+     [
+      -756.622,
+      173.938
+     ],
+     [
+      -765.937,
+      164.799
+     ],
+     [
+      -731.475,
+      129.685
+     ],
+     [
+      -722.16,
+      138.824
+     ],
+     [
+      -732.396,
+      149.252
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -733.24,
+      148.428
+     ],
+     "q": [
+      -747.111,
+      162.573
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -747.111,
+      162.573
+     ],
+     "q": [
+      -746.278,
+      163.39
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -746.278,
+      163.39
+     ],
+     "q": [
+      -756.622,
+      173.938
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -756.622,
+      173.938
+     ],
+     "q": [
+      -765.937,
+      164.799
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -765.937,
+      164.799
+     ],
+     "q": [
+      -731.475,
+      129.685
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -731.475,
+      129.685
+     ],
+     "q": [
+      -722.16,
+      138.824
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -722.16,
+      138.824
+     ],
+     "q": [
+      -732.396,
+      149.252
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -732.396,
+      149.252
+     ],
+     "q": [
+      -733.24,
+      148.428
+     ],
+     "z0": 0.0,
+     "z1": 8.0,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333649_0": {
+   "height": 2.6,
+   "top": 4.0,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -798.9659764187548,
+     211.40417040286056
+    ],
+    [
+     -803.5159764187549,
+     207.02217040286058
+    ],
+    [
+     -800.407,
+     203.794
+    ],
+    [
+     -795.857,
+     208.176
+    ]
+   ],
+   "street": "Järnvägsgatan",
+   "street_wall": [
+    [
+     -795.857,
+     208.176
+    ],
+    [
+     -798.963,
+     211.394
+    ]
+   ],
+   "street_m": 16.6,
+   "street_walls": {
+    "Järnvägsgatan": [
+     [
+      -795.857,
+      208.176
+     ],
+     [
+      -798.963,
+      211.394
+     ]
+    ]
+   },
+   "osm": "93333649",
+   "mesh": "SM_Slott139_93333649",
+   "wall": "BrownBoard",
+   "boards": true,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -803.512,
+      207.026
+     ],
+     [
+      -800.407,
+      203.794
+     ],
+     [
+      -795.857,
+      208.176
+     ],
+     [
+      -798.963,
+      211.394
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -803.512,
+      207.026
+     ],
+     "q": [
+      -800.407,
+      203.794
+     ],
+     "z0": 0.0,
+     "z1": 2.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -800.407,
+      203.794
+     ],
+     "q": [
+      -795.857,
+      208.176
+     ],
+     "z0": 0.0,
+     "z1": 2.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -795.857,
+      208.176
+     ],
+     "q": [
+      -798.963,
+      211.394
+     ],
+     "z0": 0.0,
+     "z1": 2.6,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -798.963,
+      211.394
+     ],
+     "q": [
+      -803.512,
+      207.026
+     ],
+     "z0": 0.0,
+     "z1": 2.6,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  },
+  "93333654_0": {
+   "height": 7.0,
+   "top": 10.6,
+   "roof": "saddle",
+   "role": "main",
+   "rect": [
+    [
+     -796.7374640130532,
+     181.17888691779152
+    ],
+    [
+     -782.7874640130532,
+     195.33688691779153
+    ],
+    [
+     -791.665,
+     204.084
+    ],
+    [
+     -805.615,
+     189.926
+    ]
+   ],
+   "street": "Järnvägsgatan",
+   "street_wall": [
+    [
+     -783.968,
+     196.496
+    ],
+    [
+     -791.665,
+     204.084
+    ]
+   ],
+   "street_m": 16.4,
+   "street_walls": {
+    "Järnvägsgatan": [
+     [
+      -783.968,
+      196.496
+     ],
+     [
+      -791.665,
+      204.084
+     ]
+    ]
+   },
+   "osm": "93333654",
+   "mesh": "SM_Slott139_93333654",
+   "wall": "Yellow",
+   "boards": false,
+   "brick": false,
+   "polygons": [
+    [
+     [
+      -789.786,
+      188.234
+     ],
+     [
+      -790.961,
+      189.395
+     ],
+     [
+      -783.968,
+      196.496
+     ],
+     [
+      -791.665,
+      204.084
+     ],
+     [
+      -805.615,
+      189.926
+     ],
+     [
+      -801.217,
+      185.597
+     ],
+     [
+      -799.206,
+      187.639
+     ],
+     [
+      -794.721,
+      183.226
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "p": [
+      -789.786,
+      188.234
+     ],
+     "q": [
+      -790.961,
+      189.395
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -790.961,
+      189.395
+     ],
+     "q": [
+      -783.968,
+      196.496
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -783.968,
+      196.496
+     ],
+     "q": [
+      -791.665,
+      204.084
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -791.665,
+      204.084
+     ],
+     "q": [
+      -805.615,
+      189.926
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -805.615,
+      189.926
+     ],
+     "q": [
+      -801.217,
+      185.597
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -801.217,
+      185.597
+     ],
+     "q": [
+      -799.206,
+      187.639
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -799.206,
+      187.639
+     ],
+     "q": [
+      -794.721,
+      183.226
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    },
+    {
+     "p": [
+      -794.721,
+      183.226
+     ],
+     "q": [
+      -789.786,
+      188.234
+     ],
+     "z0": 0.0,
+     "z1": 7.0,
+     "kind": "outer",
+     "neighbour": null
+    }
+   ]
+  }
+ },
+ "checks": {
+  "buildings": 19,
+  "footprint_m2": 7956.6,
+  "zoned_m2": 7956.6,
+  "outside_osm_m2": 0.0,
+  "osm_not_zoned_m2": 0.03,
+  "overlap_m2": 0.006,
+  "outlines_overlapping_m2": 0.0,
+  "zones_per_building": {
+   "91222178": 3,
+   "91222193": 7,
+   "91933162": 2,
+   "91933165": 2,
+   "93252919": 1,
+   "93291993": 1,
+   "93309088": 1,
+   "93309089": 1,
+   "93309101": 1,
+   "93325628": 7,
+   "93325650": 8,
+   "93326740": 3,
+   "93326744": 1,
+   "93333631": 2,
+   "93333637": 1,
+   "93333642": 2,
+   "93333646": 1,
+   "93333649": 1,
+   "93333654": 1
+  }
+ }
+}

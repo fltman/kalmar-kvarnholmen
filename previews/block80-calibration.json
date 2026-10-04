@@ -1,0 +1,67 @@
+{
+  "status": "passed",
+  "method": "Whole-view comparison of each panorama (1148x1063, pitched up) with its dry render at the same size from the same camera at 90 degree vertical field of view; positions read on each feature's own row.",
+  "note": "Measured from the pass 77 and pass 78 panoramas looking north (about 3.4 m from these fronts). Their base rows put the fronts about 0.8 m behind the district outline; the fronts are kept on the outline, as in pass 76, and each camera was moved by that amount (cameras 1.95 m above these houses). Positions from two headings per camera agree within about 0.2 m, except the red house's west edge, which reads 1.4 m east of the outline in both views; the joint to the white annex is set at the measured 256.3. The white house's footprint is OSM way 90859904, an untagged member of a multipolygon that the district import dropped. Roofs, depths and yard sides are estimates.",
+  "views": {
+    "396_Block80_Cal_Gate": [
+      {
+        "feature": "gate",
+        "deviation_px": 8
+      },
+      {
+        "feature": "glass window",
+        "deviation_px": 10
+      },
+      {
+        "feature": "olive windows",
+        "deviation_px": 10
+      }
+    ],
+    "397_Block80_Cal_Olive": [
+      {
+        "feature": "olive gable",
+        "deviation_px": 10
+      },
+      {
+        "feature": "gate wall",
+        "deviation_px": 8
+      }
+    ],
+    "398_Block80_Cal_Red": [
+      {
+        "feature": "red windows",
+        "deviation_px": 8
+      },
+      {
+        "feature": "gable",
+        "deviation_px": 12
+      },
+      {
+        "feature": "cottage",
+        "deviation_px": 10
+      },
+      {
+        "feature": "fence",
+        "deviation_px": 10
+      }
+    ],
+    "399_Block80_Cal_White": [
+      {
+        "feature": "red house",
+        "deviation_px": 10
+      },
+      {
+        "feature": "annex",
+        "deviation_px": 14
+      },
+      {
+        "feature": "white house",
+        "deviation_px": 16
+      }
+    ]
+  },
+  "features": 12,
+  "median_px": 10.0,
+  "max_px": 16,
+  "within_8_px": 3
+}

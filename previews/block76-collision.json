@@ -1,0 +1,70 @@
+{
+  "status": "passed",
+  "floor_samples": 44,
+  "floor_failures": [],
+  "capsule_segments": 36,
+  "obstructions": [],
+  "routes": {
+    "gr front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 6,
+      "floor_failures": 0,
+      "capsule_segments": 5,
+      "obstructions": 0
+    },
+    "gr front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 4,
+      "floor_failures": 0,
+      "capsule_segments": 3,
+      "obstructions": 0
+    },
+    "rw front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "rw front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    },
+    "re front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    },
+    "re front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "ww front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 5,
+      "floor_failures": 0,
+      "capsule_segments": 4,
+      "obstructions": 0
+    },
+    "ww front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 3,
+      "floor_failures": 0,
+      "capsule_segments": 2,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-10-04T12:08:12.686272",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

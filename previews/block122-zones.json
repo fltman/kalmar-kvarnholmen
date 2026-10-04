@@ -1,0 +1,352 @@
+{
+  "status": "passed",
+  "zones": {
+    "pa": {
+      "osm": "91926312",
+      "area_m2": 35.3,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 2.9,
+      "top": 4.16,
+      "outer_m": 24.9,
+      "fill_m": 0
+    },
+    "pb": {
+      "osm": "93192396",
+      "area_m2": 73.9,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 6.65,
+      "top": 8.8,
+      "outer_m": 33.2,
+      "fill_m": 0
+    },
+    "pc": {
+      "osm": "93192383",
+      "area_m2": 55.6,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 3.55,
+      "top": 3.75,
+      "outer_m": 23.9,
+      "fill_m": 0
+    },
+    "pd": {
+      "osm": "93192368",
+      "area_m2": 81.8,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 6.65,
+      "top": 9.05,
+      "outer_m": 25.6,
+      "fill_m": 0
+    },
+    "pe": {
+      "osm": "93192379",
+      "area_m2": 108.1,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 6.65,
+      "top": 8.29,
+      "outer_m": 23.3,
+      "fill_m": 0
+    },
+    "qw": {
+      "osm": "93192407",
+      "area_m2": 73.4,
+      "polygons": 1,
+      "walls": 2,
+      "eaves": 6.65,
+      "top": 9.62,
+      "outer_m": 19.3,
+      "fill_m": 0
+    },
+    "qm": {
+      "osm": "93192407",
+      "area_m2": 124.3,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 6.65,
+      "top": 9.21,
+      "outer_m": 43.4,
+      "fill_m": 0
+    },
+    "qa": {
+      "osm": "93192355",
+      "area_m2": 51.1,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 3.55,
+      "top": 5.6,
+      "outer_m": 30.0,
+      "fill_m": 0
+    },
+    "qb": {
+      "osm": "93192451",
+      "area_m2": 63.4,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 3.55,
+      "top": 5.56,
+      "outer_m": 29.8,
+      "fill_m": 0
+    },
+    "qc": {
+      "osm": "93192363",
+      "area_m2": 53.8,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 3.55,
+      "top": 5.31,
+      "outer_m": 30.4,
+      "fill_m": 0
+    },
+    "qd": {
+      "osm": "93192371",
+      "area_m2": 52.4,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 3.55,
+      "top": 5.2,
+      "outer_m": 30.4,
+      "fill_m": 0
+    },
+    "qe": {
+      "osm": "93192450",
+      "area_m2": 67.6,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 6.65,
+      "top": 8.38,
+      "outer_m": 26.8,
+      "fill_m": 0
+    },
+    "fa": {
+      "osm": "90859854",
+      "area_m2": 46.6,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 3.55,
+      "top": 5.16,
+      "outer_m": 30.9,
+      "fill_m": 0
+    },
+    "fb": {
+      "osm": "90859839",
+      "area_m2": 111.6,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 6.65,
+      "top": 7.82,
+      "outer_m": 44.3,
+      "fill_m": 0
+    },
+    "sa": {
+      "osm": "91928592",
+      "area_m2": 46.3,
+      "polygons": 1,
+      "walls": 5,
+      "eaves": 3.0,
+      "top": 3.75,
+      "outer_m": 27.1,
+      "fill_m": 5.2
+    },
+    "sb": {
+      "osm": "91928555",
+      "area_m2": 65.5,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 6.65,
+      "top": 8.9,
+      "outer_m": 34.3,
+      "fill_m": 0
+    },
+    "sc": {
+      "osm": "91928547",
+      "area_m2": 120.3,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 6.65,
+      "top": 9.74,
+      "outer_m": 43.9,
+      "fill_m": 0
+    },
+    "sd": {
+      "osm": "91928595",
+      "area_m2": 67.3,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 6.65,
+      "top": 6.85,
+      "outer_m": 21.2,
+      "fill_m": 0
+    },
+    "se": {
+      "osm": "91928593",
+      "area_m2": 88.1,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 6.65,
+      "top": 8.91,
+      "outer_m": 36.2,
+      "fill_m": 0
+    },
+    "ka": {
+      "osm": "93238177",
+      "area_m2": 5.8,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 3.2,
+      "top": 3.4,
+      "outer_m": 6.5,
+      "fill_m": 0
+    },
+    "kc": {
+      "osm": "93238177",
+      "area_m2": 64.3,
+      "polygons": 1,
+      "walls": 6,
+      "eaves": 6.65,
+      "top": 9.05,
+      "outer_m": 29.5,
+      "fill_m": 0
+    },
+    "kd": {
+      "osm": "93238180",
+      "area_m2": 17.3,
+      "polygons": 1,
+      "walls": 7,
+      "eaves": 3.0,
+      "top": 3.2,
+      "outer_m": 20.2,
+      "fill_m": 0
+    },
+    "ke": {
+      "osm": "93238180",
+      "area_m2": 10.1,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 2.7,
+      "top": 2.9,
+      "outer_m": 12.1,
+      "fill_m": 0
+    },
+    "kf": {
+      "osm": "93238174",
+      "area_m2": 10.4,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 3.2,
+      "top": 3.4,
+      "outer_m": 10.9,
+      "fill_m": 0
+    },
+    "kg": {
+      "osm": "93238174",
+      "area_m2": 12.5,
+      "polygons": 1,
+      "walls": 1,
+      "eaves": 6.65,
+      "top": 6.85,
+      "outer_m": 3.9,
+      "fill_m": 0
+    },
+    "kh": {
+      "osm": "93238174",
+      "area_m2": 11.4,
+      "polygons": 1,
+      "walls": 3,
+      "eaves": 6.65,
+      "top": 6.85,
+      "outer_m": 7.1,
+      "fill_m": 0
+    },
+    "ki": {
+      "osm": "93238174",
+      "area_m2": 73.2,
+      "polygons": 1,
+      "walls": 6,
+      "eaves": 6.65,
+      "top": 8.71,
+      "outer_m": 9.0,
+      "fill_m": 0
+    },
+    "kj": {
+      "osm": "93238167",
+      "area_m2": 26.8,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 3.0,
+      "top": 3.63,
+      "outer_m": 11.8,
+      "fill_m": 11.9
+    },
+    "kk": {
+      "osm": "93238219",
+      "area_m2": 96.8,
+      "polygons": 1,
+      "walls": 7,
+      "eaves": 6.65,
+      "top": 8.65,
+      "outer_m": 46.6,
+      "fill_m": 0
+    },
+    "kl": {
+      "osm": "93238152",
+      "area_m2": 42.0,
+      "polygons": 1,
+      "walls": 7,
+      "eaves": 6.65,
+      "top": 7.43,
+      "outer_m": 31.7,
+      "fill_m": 0
+    },
+    "km": {
+      "osm": "93238152",
+      "area_m2": 50.2,
+      "polygons": 1,
+      "walls": 7,
+      "eaves": 6.65,
+      "top": 9.12,
+      "outer_m": 25.7,
+      "fill_m": 0
+    },
+    "kn": {
+      "osm": "93238152",
+      "area_m2": 35.6,
+      "polygons": 1,
+      "walls": 5,
+      "eaves": 3.4,
+      "top": 3.6,
+      "outer_m": 19.7,
+      "fill_m": 2.1
+    },
+    "ta": {
+      "osm": "93199612",
+      "area_m2": 167.7,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 6.65,
+      "top": 10.09,
+      "outer_m": 45.9,
+      "fill_m": 0
+    },
+    "wa": {
+      "osm": "93199604",
+      "area_m2": 147.1,
+      "polygons": 1,
+      "walls": 4,
+      "eaves": 2.95,
+      "top": 4.2,
+      "outer_m": 51.7,
+      "fill_m": 0
+    }
+  },
+  "checks": {
+    "footprint_m2": 2157.8,
+    "zoned_m2": 2157.7,
+    "outside_osm_m2": 0.08,
+    "osm_not_zoned_m2": 0.19,
+    "overlap_m2": 0.0
+  }
+}

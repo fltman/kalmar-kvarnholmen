@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "4f58a5808463bd49c6b2d1f6b4d16d2d0fa7627bc81ae74adb2a09fa36b874c5",
+      "vertices": 198525,
+      "polygons": 314651
+    }
+  }
+}

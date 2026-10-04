@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "bb6988862d4a1f2c25ddfb13b0c692f3ce4ba61128937630ac7346f3564d01bb",
+      "vertices": 194800,
+      "polygons": 311152
+    },
+    "SM_Castle124_Portals": {
+      "sha256_geometry_uv_materials": "fadec6628993c4dcde561b153e1e8dac460537fbef48a94d7019ebeee4e02764",
+      "vertices": 5646,
+      "polygons": 10716
+    },
+    "SM_Castle124_Paving": {
+      "sha256_geometry_uv_materials": "1d1377ded08d61a47b9908a740525a4dc35ed1e24fa651346294c8699c909d4d",
+      "vertices": 960,
+      "polygons": 1760
+    }
+  }
+}

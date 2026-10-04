@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "floor_samples": 102,
+  "floor_failures": [],
+  "capsule_segments": 96,
+  "obstructions": [],
+  "routes": {
+    "n20 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 10,
+      "floor_failures": 0,
+      "capsule_segments": 9,
+      "obstructions": 0
+    },
+    "n20 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 8,
+      "floor_failures": 0,
+      "capsule_segments": 7,
+      "obstructions": 0
+    },
+    "n22 front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 20,
+      "floor_failures": 0,
+      "capsule_segments": 19,
+      "obstructions": 0
+    },
+    "n22 front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 20,
+      "floor_failures": 0,
+      "capsule_segments": 19,
+      "obstructions": 0
+    },
+    "rg front 1 1.2 m": {
+      "kind": "front",
+      "floor_samples": 23,
+      "floor_failures": 0,
+      "capsule_segments": 22,
+      "obstructions": 0
+    },
+    "rg front 1 2.0 m": {
+      "kind": "front",
+      "floor_samples": 21,
+      "floor_failures": 0,
+      "capsule_segments": 20,
+      "obstructions": 0
+    }
+  },
+  "time": "2026-10-04T13:26:26.634019",
+  "verified_detours": [],
+  "unresolved_obstructions": [],
+  "house_obstructions": [],
+  "houses_on_streets": []
+}

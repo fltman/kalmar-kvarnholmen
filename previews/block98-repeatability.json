@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Slott98_Ground": {
+      "sha256_geometry_uv_materials": "4a69bc2d6640c18ce2a298b255b54e9d1e4302df438e34e4a0d2d9473888485c",
+      "vertices": 1728,
+      "polygons": 877
+    },
+    "SM_Slott98_Streets": {
+      "sha256_geometry_uv_materials": "e7c843fda13ae71f50bc78c2c366c955762ce0c85252ef426b52c1c301bc2b26",
+      "vertices": 11085,
+      "polygons": 3691
+    },
+    "SM_Slott98_Greens": {
+      "sha256_geometry_uv_materials": "e659be351035c1a1b32370b13b8868dc258db015ff8fe59ca003c6648e5e4ce2",
+      "vertices": 2949,
+      "polygons": 983
+    },
+    "SM_Slott98_Cemeteries": {
+      "sha256_geometry_uv_materials": "0083877a94ac10b3c2f8facacb84168436495425278c433bfa26a7c9d65dd224",
+      "vertices": 174267,
+      "polygons": 319413
+    },
+    "SM_Slott98_Trees": {
+      "sha256_geometry_uv_materials": "430fd1877691b53ea1177fbccb3d99fd152046260865e9258a4cdb5247ba28a6",
+      "vertices": 355940,
+      "polygons": 690360
+    },
+    "SM_Slott98_Buildings_E": {
+      "sha256_geometry_uv_materials": "7f2107ed245014b10a6d3c22d1479af0f440c0ff9bb8830c1d26152314f825ac",
+      "vertices": 1194827,
+      "polygons": 2135313
+    },
+    "SM_Slott98_Buildings_M": {
+      "sha256_geometry_uv_materials": "295e2fe059b99c58695bdc4cf0fbe08e8ee220ef7b6c5b4521f13b4e25f2af2a",
+      "vertices": 2015462,
+      "polygons": 3601066
+    },
+    "SM_Slott98_Buildings_W": {
+      "sha256_geometry_uv_materials": "dbe11f65bb1a398bb7b09b03f239a5dbc61dd21ab3854c7d0f647a0ec749960c",
+      "vertices": 3611904,
+      "polygons": 6453892
+    }
+  }
+}

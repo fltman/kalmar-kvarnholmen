@@ -1,0 +1,430 @@
+{
+ "pass": 137,
+ "zones": {
+  "hearth_plinth": [
+   [
+    -872.2339,
+    -333.4244
+   ],
+   [
+    -871.9738,
+    -333.403
+   ],
+   [
+    -871.7169,
+    -333.4496
+   ],
+   [
+    -871.4809,
+    -333.5612
+   ],
+   [
+    -871.2818,
+    -333.73
+   ],
+   [
+    -871.1331,
+    -333.9446
+   ],
+   [
+    -871.0451,
+    -334.1904
+   ],
+   [
+    -870.58,
+    -336.3406
+   ],
+   [
+    -870.5586,
+    -336.6008
+   ],
+   [
+    -870.6053,
+    -336.8577
+   ],
+   [
+    -870.7168,
+    -337.0937
+   ],
+   [
+    -870.8856,
+    -337.2928
+   ],
+   [
+    -871.1003,
+    -337.4414
+   ],
+   [
+    -871.346,
+    -337.5294
+   ],
+   [
+    -872.9099,
+    -337.8677
+   ],
+   [
+    -873.17,
+    -337.8891
+   ],
+   [
+    -873.4269,
+    -337.8425
+   ],
+   [
+    -873.6629,
+    -337.7309
+   ],
+   [
+    -873.862,
+    -337.5621
+   ],
+   [
+    -874.0106,
+    -337.3475
+   ],
+   [
+    -874.0987,
+    -337.1017
+   ],
+   [
+    -874.5638,
+    -334.9514
+   ],
+   [
+    -874.5852,
+    -334.6913
+   ],
+   [
+    -874.5385,
+    -334.4344
+   ],
+   [
+    -874.427,
+    -334.1984
+   ],
+   [
+    -874.2581,
+    -333.9993
+   ],
+   [
+    -874.0435,
+    -333.8507
+   ],
+   [
+    -873.7978,
+    -333.7626
+   ]
+  ],
+  "hood_top": [
+   [
+    -872.4598,
+    -335.1076
+   ],
+   [
+    -872.4137,
+    -335.1193
+   ],
+   [
+    -872.3679,
+    -335.1353
+   ],
+   [
+    -872.3233,
+    -335.1554
+   ],
+   [
+    -872.2811,
+    -335.1792
+   ],
+   [
+    -872.2421,
+    -335.2059
+   ],
+   [
+    -872.2072,
+    -335.2344
+   ],
+   [
+    -872.0696,
+    -335.8702
+   ],
+   [
+    -872.0897,
+    -335.9106
+   ],
+   [
+    -872.1142,
+    -335.951
+   ],
+   [
+    -872.1428,
+    -335.9901
+   ],
+   [
+    -872.175,
+    -336.0268
+   ],
+   [
+    -872.2102,
+    -336.0604
+   ],
+   [
+    -872.2473,
+    -336.0901
+   ],
+   [
+    -872.684,
+    -336.1845
+   ],
+   [
+    -872.7301,
+    -336.1728
+   ],
+   [
+    -872.7759,
+    -336.1568
+   ],
+   [
+    -872.8205,
+    -336.1367
+   ],
+   [
+    -872.8627,
+    -336.1129
+   ],
+   [
+    -872.9017,
+    -336.0862
+   ],
+   [
+    -872.9366,
+    -336.0577
+   ],
+   [
+    -873.0742,
+    -335.4219
+   ],
+   [
+    -873.0541,
+    -335.3815
+   ],
+   [
+    -873.0296,
+    -335.3411
+   ],
+   [
+    -873.001,
+    -335.302
+   ],
+   [
+    -872.9688,
+    -335.2653
+   ],
+   [
+    -872.9336,
+    -335.2317
+   ],
+   [
+    -872.8965,
+    -335.202
+   ]
+  ],
+  "facade_window_sw": [
+   [
+    -905.1047,
+    -311.5973
+   ],
+   [
+    -904.6043,
+    -312.6327
+   ],
+   [
+    -905.0544,
+    -312.8503
+   ],
+   [
+    -905.5549,
+    -311.8149
+   ]
+  ],
+  "grona_end_niche": [
+   [
+    -903.2341,
+    -312.0205
+   ],
+   [
+    -903.7737,
+    -310.9041
+   ],
+   [
+    -905.1715,
+    -311.5741
+   ],
+   [
+    -904.6275,
+    -312.6995
+   ]
+  ]
+ },
+ "checks": {
+  "hearth": {
+   "arches_in_flat_sn": true,
+   "arches_in_flat_ew": true,
+   "arch_widths": [
+    0.8,
+    0.8,
+    1.1
+   ],
+   "middle_pier": 0.5,
+   "hood_min_clearance_under_arch_m": 0.128,
+   "hood_all_points_clearance_m": 0.128,
+   "flue_in_wall": true,
+   "flue_top": 9.8,
+   "plinth_inside_pass135_footprint": true,
+   "in_arch_opening": true,
+   "route_clear_of_hearth": true,
+   "route_min_dist_to_plinth_m": 0.83
+  },
+  "gron_rerun_identical": true,
+  "gron": {
+   "changed_keys": [
+    "niches",
+    "wallbands"
+   ],
+   "forb_unchanged": true,
+   "niches_end": [
+    [
+     3.69,
+     false,
+     1.5
+    ],
+    [
+     1.55,
+     false,
+     1.5
+    ]
+   ],
+   "edge": [
+    7,
+    8
+   ],
+   "edge_len": 7.374,
+   "u": -2.136,
+   "window_sill_head": [
+    11.57,
+    14.77
+   ],
+   "s_of_window": 1.551,
+   "in_edge": true,
+   "pier_to_pass27_window_m": 0.986,
+   "photo": {
+    "file": "references/castle27/kalmar-slott-9-kalmar.jpg",
+    "size": [
+     1280,
+     857
+    ],
+    "resection": {
+     "points": {
+      "postej W": [
+       312
+      ],
+      "postej S": [
+       1138
+      ],
+      "tower W": [
+       448
+      ],
+      "tower S": [
+       772
+      ],
+      "Kuretornet": [
+       362
+      ],
+      "tower N": [
+       262
+      ]
+     },
+     "camera": [
+      -1107.3,
+      -354.2
+     ],
+     "bearing": 82.8,
+     "f_px": 1649,
+     "vfov": 29.14,
+     "residual_px": 1.5
+    },
+    "windows_px": [
+     [
+      493.7,
+      502.5
+     ],
+     [
+      512.0,
+      521.0
+     ]
+    ],
+    "windows_s": [
+     [
+      -0.47,
+      0.66
+     ],
+     [
+      1.88,
+      3.04
+     ]
+    ],
+    "window_axes_s": [
+     0.08,
+     2.46
+    ],
+    "tower_W_edge_s": -0.86,
+    "tower_S_edge_s": 30.3,
+    "spacing_m": 2.38,
+    "second_window_from_pass27_spacing_s": 1.31
+   },
+   "offset_from_photo_spacing_m": 0.24
+  },
+  "north_tower": {
+   "moller1882": {
+    "sheet": "PK006-00041, Profil genom Kungsmaket",
+    "px_per_m": 57.97,
+    "state_floor_row": 4270.7,
+    "eaves_row": 3565.7,
+    "room_cornice_row": 4017,
+    "eaves_over_floor_m": 12.16,
+    "eaves_z": 22.63,
+    "kungsmaket_height_m": 4.38,
+    "pass125_kungsmaket_height_m": 4.3
+   },
+   "moller1885": {
+    "sheet": "PK006-00049, Norra tornet",
+    "written": "13.5 fot from the eaves down to an adjoining bracketed cornice",
+    "fot_m": 0.2969,
+    "drop_m": 4.01,
+    "if_range_outer_eaves": 24.28,
+    "if_1882_eaves_the_cornice_is_at": 18.62
+   },
+   "pass27_wall_top": 23.27,
+   "disagreement_m": 1.65,
+   "decision": "not raised: the 1882 section (validated by Kungsmaket's height) and the 1885 sheet's cornice (if it is the range's eaves) disagree by 1.65 m"
+  },
+  "ne_rust": {
+   "photo": "references/castle27/swe-kalmar-slott-006.jpg (-wuppertaler 2022, CC BY-SA 4.0), camera 690 (pass 129)",
+   "seen": "NE left of the well: painted block rustication, lime margins round the windows, the chain band under the state-floor windows, as on NW and SW; SE_e right of the well: plain cream lime (faint traces only)",
+   "street_view_2014": "NE smooth white (pass 127/129)",
+   "rust": [
+    "NW",
+    "SW",
+    "NE"
+   ],
+   "extra_edge": {
+    "ci": [
+     5,
+     6
+    ],
+    "length_m": 5.95,
+    "why": "collinear with NE (pass 129); pass 127 classes it SE_e by the nearest range line, so it is added by name"
+   }
+  }
+ }
+}

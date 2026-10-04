@@ -1,0 +1,424 @@
+{
+  "status": "passed",
+  "zones": {
+    "93292657_0": {
+      "osm": "93292657",
+      "role": "main",
+      "area_m2": 150.5,
+      "walls": 3,
+      "outer_m": 41.1,
+      "street": null
+    },
+    "93292658_0": {
+      "osm": "93292658",
+      "role": "main",
+      "area_m2": 200.6,
+      "walls": 4,
+      "outer_m": 57.2,
+      "street": "Västerlånggatan"
+    },
+    "93292659_0": {
+      "osm": "93292659",
+      "role": "main",
+      "area_m2": 56.8,
+      "walls": 4,
+      "outer_m": 24.3,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292660_0": {
+      "osm": "93292660",
+      "role": "main",
+      "area_m2": 54.6,
+      "walls": 5,
+      "outer_m": 26.6,
+      "street": "Västerlånggatan"
+    },
+    "93292660_1": {
+      "osm": "93292660",
+      "role": "wing",
+      "area_m2": 22.7,
+      "walls": 3,
+      "outer_m": 13.9,
+      "street": "Västerlånggatan"
+    },
+    "93292661_0": {
+      "osm": "93292661",
+      "role": "main",
+      "area_m2": 128.4,
+      "walls": 3,
+      "outer_m": 33.9,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292662_0": {
+      "osm": "93292662",
+      "role": "main",
+      "area_m2": 28.1,
+      "walls": 4,
+      "outer_m": 22.2,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292663_0": {
+      "osm": "93292663",
+      "role": "main",
+      "area_m2": 124.0,
+      "walls": 5,
+      "outer_m": 39.5,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292664_0": {
+      "osm": "93292664",
+      "role": "main",
+      "area_m2": 68.3,
+      "walls": 4,
+      "outer_m": 35.4,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292665_0": {
+      "osm": "93292665",
+      "role": "main",
+      "area_m2": 173.5,
+      "walls": 6,
+      "outer_m": 56.3,
+      "street": "Västerlånggatan"
+    },
+    "93292668_0": {
+      "osm": "93292668",
+      "role": "main",
+      "area_m2": 48.6,
+      "walls": 4,
+      "outer_m": 28.3,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292669_0": {
+      "osm": "93292669",
+      "role": "main",
+      "area_m2": 44.4,
+      "walls": 4,
+      "outer_m": 26.8,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292670_0": {
+      "osm": "93292670",
+      "role": "main",
+      "area_m2": 115.5,
+      "walls": 4,
+      "outer_m": 31.7,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292671_0": {
+      "osm": "93292671",
+      "role": "main",
+      "area_m2": 51.5,
+      "walls": 3,
+      "outer_m": 27.2,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292674_0": {
+      "osm": "93292674",
+      "role": "main",
+      "area_m2": 135.0,
+      "walls": 6,
+      "outer_m": 36.7,
+      "street": "Västerlånggatan"
+    },
+    "93292675_0": {
+      "osm": "93292675",
+      "role": "main",
+      "area_m2": 52.3,
+      "walls": 4,
+      "outer_m": 28.9,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292676_0": {
+      "osm": "93292676",
+      "role": "main",
+      "area_m2": 125.7,
+      "walls": 3,
+      "outer_m": 33.0,
+      "street": "Paters gränd"
+    },
+    "93292678_0": {
+      "osm": "93292678",
+      "role": "main",
+      "area_m2": 143.9,
+      "walls": 3,
+      "outer_m": 36.7,
+      "street": "Västerlånggatan"
+    },
+    "93292678_1": {
+      "osm": "93292678",
+      "role": "wing",
+      "area_m2": 42.6,
+      "walls": 4,
+      "outer_m": 18.5,
+      "street": "Västerlånggatan"
+    },
+    "93292678_2": {
+      "osm": "93292678",
+      "role": "wing",
+      "area_m2": 41.5,
+      "walls": 3,
+      "outer_m": 18.4,
+      "street": "Paters gränd"
+    },
+    "93292681_0": {
+      "osm": "93292681",
+      "role": "main",
+      "area_m2": 35.1,
+      "walls": 4,
+      "outer_m": 24.3,
+      "street": "Västerlånggatan"
+    },
+    "93292684_0": {
+      "osm": "93292684",
+      "role": "main",
+      "area_m2": 32.8,
+      "walls": 4,
+      "outer_m": 23.4,
+      "street": "Västerlånggatan"
+    },
+    "93292686_0": {
+      "osm": "93292686",
+      "role": "main",
+      "area_m2": 32.0,
+      "walls": 4,
+      "outer_m": 23.1,
+      "street": "Västerlånggatan"
+    },
+    "93292687_0": {
+      "osm": "93292687",
+      "role": "main",
+      "area_m2": 54.7,
+      "walls": 4,
+      "outer_m": 29.9,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292691_0": {
+      "osm": "93292691",
+      "role": "main",
+      "area_m2": 37.0,
+      "walls": 6,
+      "outer_m": 20.0,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292691_1": {
+      "osm": "93292691",
+      "role": "wing",
+      "area_m2": 13.1,
+      "walls": 3,
+      "outer_m": 9.6,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292692_0": {
+      "osm": "93292692",
+      "role": "main",
+      "area_m2": 12.6,
+      "walls": 4,
+      "outer_m": 14.3,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292693_0": {
+      "osm": "93292693",
+      "role": "main",
+      "area_m2": 143.8,
+      "walls": 4,
+      "outer_m": 53.1,
+      "street": "Västerlånggatan"
+    },
+    "93292694_0": {
+      "osm": "93292694",
+      "role": "main",
+      "area_m2": 146.8,
+      "walls": 3,
+      "outer_m": 40.3,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292695_0": {
+      "osm": "93292695",
+      "role": "main",
+      "area_m2": 27.4,
+      "walls": 4,
+      "outer_m": 20.9,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292697_0": {
+      "osm": "93292697",
+      "role": "main",
+      "area_m2": 35.8,
+      "walls": 5,
+      "outer_m": 20.6,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292698_0": {
+      "osm": "93292698",
+      "role": "main",
+      "area_m2": 106.1,
+      "walls": 3,
+      "outer_m": 29.7,
+      "street": "Paters gränd"
+    },
+    "93292699_0": {
+      "osm": "93292699",
+      "role": "main",
+      "area_m2": 167.7,
+      "walls": 6,
+      "outer_m": 55.2,
+      "street": "Västerlånggatan"
+    },
+    "93292700_0": {
+      "osm": "93292700",
+      "role": "main",
+      "area_m2": 183.0,
+      "walls": 5,
+      "outer_m": 44.9,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292703_0": {
+      "osm": "93292703",
+      "role": "main",
+      "area_m2": 129.4,
+      "walls": 4,
+      "outer_m": 37.4,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292704_0": {
+      "osm": "93292704",
+      "role": "main",
+      "area_m2": 174.1,
+      "walls": 8,
+      "outer_m": 55.5,
+      "street": "Västerlånggatan"
+    },
+    "93292705_0": {
+      "osm": "93292705",
+      "role": "main",
+      "area_m2": 172.1,
+      "walls": 5,
+      "outer_m": 45.6,
+      "street": "Gamla Kungsgatan"
+    },
+    "93292707_0": {
+      "osm": "93292707",
+      "role": "main",
+      "area_m2": 80.5,
+      "walls": 4,
+      "outer_m": 37.4,
+      "street": "Västerlånggatan"
+    },
+    "93292708_0": {
+      "osm": "93292708",
+      "role": "main",
+      "area_m2": 33.1,
+      "walls": 4,
+      "outer_m": 23.5,
+      "street": "Västerlånggatan"
+    },
+    "93306344_0": {
+      "osm": "93306344",
+      "role": "main",
+      "area_m2": 49.0,
+      "walls": 4,
+      "outer_m": 28.4,
+      "street": "Västerlånggatan"
+    },
+    "93306348_0": {
+      "osm": "93306348",
+      "role": "main",
+      "area_m2": 24.9,
+      "walls": 6,
+      "outer_m": 11.1,
+      "street": "Västerlånggatan"
+    },
+    "93306348_1": {
+      "osm": "93306348",
+      "role": "wing",
+      "area_m2": 18.6,
+      "walls": 3,
+      "outer_m": 13.5,
+      "street": "Västerlånggatan"
+    },
+    "93306348_2": {
+      "osm": "93306348",
+      "role": "annex",
+      "area_m2": 9.8,
+      "walls": 2,
+      "outer_m": 9.0,
+      "street": "Gamla Kungsgatan"
+    },
+    "93306357_0": {
+      "osm": "93306357",
+      "role": "main",
+      "area_m2": 59.3,
+      "walls": 7,
+      "outer_m": 32.1,
+      "street": "Västerlånggatan"
+    },
+    "93309098_0": {
+      "osm": "93309098",
+      "role": "main",
+      "area_m2": 139.6,
+      "walls": 4,
+      "outer_m": 47.3,
+      "street": "Västerlånggatan"
+    },
+    "149905962_0": {
+      "osm": "149905962",
+      "role": "main",
+      "area_m2": 68.2,
+      "walls": 4,
+      "outer_m": 39.3,
+      "street": "Västerlånggatan"
+    }
+  },
+  "checks": {
+    "buildings": 40,
+    "footprint_m2": 3795.0,
+    "zoned_m2": 3794.9,
+    "outside_osm_m2": 0.0,
+    "osm_not_zoned_m2": 0.08,
+    "overlap_m2": 0.001,
+    "outlines_overlapping_m2": 0.001,
+    "zones_per_building": {
+      "93292657": 1,
+      "93292658": 1,
+      "93292659": 1,
+      "93292660": 2,
+      "93292661": 1,
+      "93292662": 1,
+      "93292663": 1,
+      "93292664": 1,
+      "93292665": 1,
+      "93292668": 1,
+      "93292669": 1,
+      "93292670": 1,
+      "93292671": 1,
+      "93292674": 1,
+      "93292675": 1,
+      "93292676": 1,
+      "93292678": 3,
+      "93292681": 1,
+      "93292684": 1,
+      "93292686": 1,
+      "93292687": 1,
+      "93292691": 2,
+      "93292692": 1,
+      "93292693": 1,
+      "93292694": 1,
+      "93292695": 1,
+      "93292697": 1,
+      "93292698": 1,
+      "93292699": 1,
+      "93292700": 1,
+      "93292703": 1,
+      "93292704": 1,
+      "93292705": 1,
+      "93292707": 1,
+      "93292708": 1,
+      "93306344": 1,
+      "93306348": 3,
+      "93306357": 1,
+      "93309098": 1,
+      "149905962": 1
+    }
+  }
+}

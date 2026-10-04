@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Kalmar_Slott_Towers": {
+      "sha256_geometry_uv_materials": "625d844364ec265b63972cf36be40d62a61498f635e27c5a4b509a96ee070f7a",
+      "vertices": 127011,
+      "polygons": 241340
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+ "pass": 125,
+ "rooms": {
+  "gyllene": [
+   [
+    -854.353,
+    -280.44
+   ],
+   [
+    -863.823,
+    -288.445
+   ],
+   [
+    -872.151,
+    -278.593
+   ],
+   [
+    -862.681,
+    -270.588
+   ]
+  ],
+  "forrum": [
+   [
+    -853.328,
+    -274.992
+   ],
+   [
+    -855.543,
+    -276.864
+   ],
+   [
+    -862.644,
+    -268.463
+   ],
+   [
+    -860.429,
+    -266.591
+   ]
+  ],
+  "kungsmak": [
+   [
+    -851.656,
+    -262.075
+   ],
+   [
+    -856.239,
+    -265.949
+   ],
+   [
+    -859.854,
+    -261.672
+   ],
+   [
+    -855.271,
+    -257.798
+   ]
+  ]
+ },
+ "checks": {
+  "gyllene_inside_castle": 0.0,
+  "gyllene_in_kure": 0.0,
+  "gyllene_in_court": 0.0,
+  "gyllene_m2": 159.96,
+  "forrum_inside_castle": 0.0,
+  "forrum_in_kure": 0.0,
+  "forrum_in_court": 0.0,
+  "forrum_m2": 31.9,
+  "kungsmak_inside_castle": 0.0,
+  "kungsmak_in_kure": 0.0,
+  "kungsmak_in_court": 0.0,
+  "kungsmak_m2": 33.6,
+  "gyllene_walls_outside_castle": 0.0,
+  "gyllene_walls_in_court": 0.0,
+  "gyllene_walls_in_kure": 0.0,
+  "gyllene_in_tower": 0.0,
+  "forrum_in_tower": 0.0,
+  "kungsmak_outside_tower": 0.0,
+  "passage_min_s_edge": 18.917,
+  "gyllene_south_wall_s": 17.7,
+  "ceiling_cover_m2": 0.0,
+  "ceiling_flat_triangles": 482,
+  "tower_window_angle_from_west_niche_deg": 54.2,
+  "outer_windows_s": [
+   3.621,
+   8.021,
+   12.421
+  ],
+  "court_windows_s": [
+   19.145,
+   15.361
+  ],
+  "floor_z": 10.47,
+  "court_sill_above_floor": 3.3,
+  "outer_sill_above_floor": 1.1
+ }
+}

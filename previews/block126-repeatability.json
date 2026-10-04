@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "compared_to_previous": true,
+  "meshes": {
+    "SM_Castle27_Ground": {
+      "sha256_geometry_uv_materials": "d91377f4aabd0550f017090b26efc2f754ce688f0d3587bdedc3e26249d8e61b",
+      "vertices": 2789,
+      "polygons": 1051
+    },
+    "SM_Kalmar_Slott": {
+      "sha256_geometry_uv_materials": "26c5fe7c3ae2aea75e57e7acd21b61b2e63f36d579cea930d6df2ee234efbdbd",
+      "vertices": 178488,
+      "polygons": 286003
+    },
+    "SM_Kalmar_Slott_Towers": {
+      "sha256_geometry_uv_materials": "28a129f375bdcd0e44360054fc4b2518cbfd3a16a4fc7a11c1c1e99634b43c5c",
+      "vertices": 63415,
+      "polygons": 119663
+    },
+    "SM_Castle124_Passage": {
+      "sha256_geometry_uv_materials": "128908033569973c00297277f6f8e5052e316a4b2ffa6de1153c23604aa53e23",
+      "vertices": 11112,
+      "polygons": 20376
+    },
+    "SM_Castle124_Portals": {
+      "sha256_geometry_uv_materials": "333fa6bb2df86280702d6948469a99c49ee189d8ef3643dbc0bb7e5218c24cba",
+      "vertices": 5994,
+      "polygons": 11348
+    },
+    "SM_Castle124_Well": {
+      "sha256_geometry_uv_materials": "974b3c1d905a8374f43c0fe33fff62e3d75cf241ccfb3e22f46d9515060d9f1d",
+      "vertices": 9256,
+      "polygons": 17292
+    },
+    "SM_Castle124_Paving": {
+      "sha256_geometry_uv_materials": "7333fc15b02e8d36e52a984c45b4ee15065c51f017e433d76e69d35f07d98fb2",
+      "vertices": 960,
+      "polygons": 1760
+    },
+    "SM_Castle125_GyllenSalen": {
+      "sha256_geometry_uv_materials": "61befd5269f4be0464024f19776cb3d8fefeb056202dab2b32043217af076fe5",
+      "vertices": 61522,
+      "polygons": 112991
+    },
+    "SM_Castle126_Kungstrappan": {
+      "sha256_geometry_uv_materials": "b3df176b3f434fbfeac8db2b5056fc2219dade6f94adbd014d2f5ea9356cfc1e",
+      "vertices": 1704,
+      "polygons": 3128
+    }
+  }
+}
